@@ -1,0 +1,195 @@
+html {
+    font-family: var(--main-font);
+    font-size: var(--main-size);
+    background-color: var(--html-bg);
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5px auto;
+    max-width: 920px;
+    background-color: var(--color-bg);
+    color: var(--color-fg);
+    line-height: 1.5em;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+#langsel {
+    font-family: var(--header-font);
+    font-size: var(--header-size);
+}
+
+#en, #hu {
+    display: inline-block;
+    cursor: pointer;
+}
+
+#hu {
+    margin-left: 1rem;
+}
+
+#en:hover, #en.sel, #hu:hover, #hu.sel {
+    text-transform: uppercase;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2, h3, h4, h5 {
+    color: var(--heading-fg);
+    text-transform: capitalize;
+}
+
+::selection {
+    background-color: var(--selection-bg);
+    color: var(--color-bg);
+}
+
+a, a:visited, a:focus, a:hover {
+    color: var(--link-fg);
+    background-color: var(--link-bg);
+}
+
+a:hover {
+    color: var(--link-bg);
+    background-color: var(--link-fg);
+}
+
+a:focus {
+    background-color: var(--link-click-fg);
+    color: var(--link-bg);
+}
+
+main>div {
+    display: block;
+}
+
+p:first-of-type {
+    margin-bottom: 0;
+}
+
+p.special {
+    margin-top: 0;
+    text-align: right;
+}
+
+.hidden.veryhidden {
+    display: none;
+}
+
+footer {
+    width: min(80vw, 400px);
+    margin: 0 auto;
+}
+
+/* --- markdown --- */
+
+blockquote::before {
+    content: "exemplī grātiā:";
+    font-style: italic;
+    font-family: var(--mono-font);
+    margin-left: -2em;
+    margin-bottom: 1rem;
+}
+
+blockquote {
+    max-width: 88%;
+    width: max-content;
+    min-width: 300px;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    margin: auto 0 auto 2em;
+    line-height: 200%;
+}
+
+.block-left, .block-right {
+    display: inline-block;
+}
+
+.block-left {
+    text-align: left;
+}
+
+.block-right {
+    text-align: left;
+    font-style: italic;
+    padding-left: 1rem;
+}
+
+code {
+    font-family: var(--mono-font);
+    font-size: var(--mono-size);
+    background-color: var(--mono-bg);
+    font-weight: normal;
+    font-style: normal;
+}
+
+table {
+    width: fit-content;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th {
+    text-align: left;
+    border-bottom: 1px solid var(--color-fg);
+}
+
+th:not(:first-child):not(:last-child),
+td:not(:first-child):not(:last-child) {
+    text-align: center;
+    padding: 0.2rem 1rem;
+}
+
+/* th:first-child,
+td:first-child {
+    border-right: 1px dotted var(--selection-bg-trans);
+} */
+
+tr:not(:last-child) td {
+    border-bottom: 1px dashed var(--selection-bg);
+}
+
+/* --- dictionary --- */
+
+.dict :not(.keep) code::before, .dict :not(.keep) code::after {
+    content: "";
+}
+
+.dict :not(.keep) code {
+    display: inline-block;
+    background-color: transparent;
+}
+
+.dict :not(.keep) code + code {
+    font-size: 70%;
+    width: 5ch;
+    vertical-align: sub;
+    line-height: 90%;
+}
+
+.dict img {
+    display: inline-block;
+    height: 1.5em;
+}
+
+h6 {
+    font-size: var(--main-size);
+    font-style: normal;
+    font-weight: bold;
+    color: var(--color-fg);
+    margin: 0;
+    padding: 0;
+}
+
+h6 ~ p {
+    margin-top: 0;
+}

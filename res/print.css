@@ -1,0 +1,120 @@
+@media print {
+    :root {
+        --color-bg: white;
+        --color-fg: black;
+        --mono-bg: var(--color-bg);
+        --html-bg: var(--color-bg);
+        --selection-bg: var(--color-bg);
+        --link-fg: var(--color-fg);
+        --link-bg: var(--color-bg);
+        --link-click-fg: var(--color-fg);
+        --heading-fg: var(--color-fg);
+    }
+    body {
+        line-height: 110%;
+        column-count: 2;
+        font-size: 11pt;
+    }
+    a {
+        text-decoration: none;
+    }
+    h1, h2 {
+        page-break-after: avoid;
+        margin: 0 0 1rem;
+    }
+    h2 {
+        line-height: 110%;
+        margin-bottom: 0.8rem;
+    }
+    h1 {
+        background-color: var(--color-bg);
+        display: block;
+        width: 100%;
+        position: relative;
+        z-index: 2;
+    }
+    h1::before {
+        border-bottom: 3px solid var(--color-fg);
+        z-index: -1;
+        position: absolute;
+        bottom: -4pt;
+        left: 7.3ch;
+        min-width: calc(100% - 7.3ch);
+        /* min-height: 4pt; */
+        content: " ";
+    }
+    h1::after {
+        content: "abridged";
+        font-size: 35%;
+        position: absolute;
+        top: -5pt;
+    }
+    #langsel {
+        display: none;
+    }
+    p, ul, ol, dl, blockquote, table {
+        margin: 0 0 0.6rem;
+    }
+    blockquote {
+        line-height: 110%;
+        width: 60%;
+        page-break-inside: avoid;
+    }
+    blockquote:not(.keep), .hidden {
+        display: none;
+    }
+    code {
+        background-color: transparent;
+    }
+    code::before {
+        content: "'";
+        font-family: var(--main-font);
+    }
+    code::after {
+        content: "'";
+        font-family: var(--main-font);
+    }
+    /*ol,*/ ul {
+        page-break-inside: avoid;
+    }
+    tr:nth-child(4), tr:nth-child(5) {
+        display: none;
+    }
+    tr:not(:last-child) {
+        border-bottom: 1px solid var(--color-fg);
+    }
+    td {
+        border: none;
+    }
+    th:last-child, td:last-child {
+        display: none;
+    }
+    td, th {
+        padding: 0;
+    }
+    dl {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    dt::after {
+        content: ":";
+    }
+    dl + p {
+        page-break-before: avoid;
+    }
+    .dict + h2 {
+        page-break-before: always;
+    }
+    .dict p {
+        page-break-inside: avoid;
+    }
+    .dict h3 {
+        page-break-after: avoid;
+    }
+    .dict p:not(.hidden) {
+        line-height: 110%;
+    }
+    footer {
+        display: none;
+    }
+}

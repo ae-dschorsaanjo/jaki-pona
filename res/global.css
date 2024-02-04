@@ -1,0 +1,20 @@
+:root {
+    --header-font: 'Major Mono Display', serif;
+    --header-size: 1rem;
+    --heading-fg: #2a346f;
+    --main-font: 'IBM Plex Sans', sans-serif;
+    --main-size: 1rem;
+    --mono-font: 'IBM Plex Mono', monospace;
+    --mono-size: 1rem;
+    --print-size: 10pt;
+    --heading-fg: #2a346f;
+    --color-fg: #282a36;
+    --color-bg: #f6f6f4;
+    --html-bg: hsl(60, 20%, 93%);
+    --mono-bg: hsl(60, 17%, 90%);
+    --selection-bg: #6272a4;
+    --selection-bg-trans: #6273a44c;
+    --link-fg: #8739f3;
+    --link-bg: var(--color-bg);
+    --link-click-fg: #f339a3;
+}
