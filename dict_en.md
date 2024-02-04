@@ -226,11 +226,6 @@ __kijetesantakalu__ ![kijetesantakalu](docs/pics/kijetesantakalu.png)
 `pu`&shy;` ` soweli  
 Added as an April Fool's joke in 2009, now it is a "fan favorite".
 
-__kipisi__ ![kipisi](docs/pics/kipisi.png)  
-`v`&shy;` ` cut  
-`pu`&shy;` ` tu  
-Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
-
 __kili__ ![kili](docs/pics/kili.png)  
 `n`&shy;` ` fruit, vegetable, mushroom
 
@@ -239,6 +234,11 @@ __kin__ ![kin](docs/pics/kin.png)
 `p`&shy;`2` confirmation, emphasis (not as strong as _a_)  
 `l`&shy;`a` also, and  
 `see`&shy;` ` a
+
+__kipisi__ ![kipisi](docs/pics/kipisi.png)  
+`v`&shy;` ` cut  
+`pu`&shy;` ` tu  
+Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
 
 __kiwen__ ![kiwen](docs/pics/kiwen.png)  
 `n`&shy;` ` metal, rock, stone, hard object  
@@ -268,7 +268,7 @@ __kulupu__ ![kulupu](docs/pics/kulupu.png)
 
 __kute__ ![kute](docs/pics/kute.png)  
 `n`&shy;` ` ear  
-`v`&shy;` ` hear, listen to (talking, music)
+`v`&shy;` ` hear, listen to
 
 ### L
 
@@ -361,9 +361,9 @@ __ma__ ![ma](docs/pics/ma.png)
 `n`&shy;` ` earth, land, country, place, outdoor area  
 `m`&shy;` ` outside
 
-__\*majuna__ ![\*majuna](docs/pics/majuna.png)  
+__\*majuna__ ![majuna](docs/pics/majuna.png)  
 `m`&shy;` ` old  
-`pu`&shy;` ` lili ala, suli  
+`pu`&shy;` ` sin ala, lili ala, suli  
 Removed before first public draft.
 { .hidden }
 
