@@ -192,7 +192,7 @@ __kama__ ![kama](docs/pics/kama.png)
 `m`&shy;` ` _something_-to-be in the future, coming, arriving
 
 __\*kan__  
-`p`&shy;` ` among, with, near by  
+`f`&shy;` ` among, with, near by  
 `pu`&shy;` ` poka, kepeken  
 Removed in 2003 in favor of _poka_ and _kepeken_.
 { .hidden }
@@ -230,8 +230,8 @@ __kili__ ![kili](docs/pics/kili.png)
 `n`&shy;` ` fruit, vegetable, mushroom
 
 __kin__ ![kin](docs/pics/kin.png)  
-`p`&shy;`1` also, too  
-`p`&shy;`2` confirmation, emphasis (not as strong as _a_)  
+`m`&shy;`1` also, too  
+`m`&shy;`2` confirmation, emphasis (not as strong as _a_)  
 `l`&shy;`a` also, and  
 `see`&shy;` ` a
 
@@ -251,6 +251,7 @@ __ko__ ![ko](docs/pics/ko.png)
 __kon__ ![kon](docs/pics/kon.png)  
 `n`&shy;`1` air, breath  
 `n`&shy;`2` spirit, essence, meaning, sense, concept  
+`n`&shy;`3` mind, consciousness, soul  
 `m`&shy;` ` air-like, gaseous
 
 __ku__ ![pu](docs/pics/ku.png)  
@@ -264,7 +265,8 @@ __kule__ ![kule](docs/pics/kule.png)
 `m`&shy;` ` colorful, pigmented
 
 __kulupu__ ![kulupu](docs/pics/kulupu.png)  
-`n`&shy;` ` community, group, nation, society
+`n`&shy;`1` group, collection, set  
+`n`&shy;`2` community, nation, society
 
 __kute__ ![kute](docs/pics/kute.png)  
 `n`&shy;` ` ear  
@@ -273,45 +275,43 @@ __kute__ ![kute](docs/pics/kute.png)
 ### L
 
 __la__ ![la](docs/pics/la.png)  
-`p`&shy;` `&shy;`sep ` separates the context and the main sentence
+`p`&shy;` ` separates the context and the main sentence
 
 __lanpan__ ![lanpan](docs/pics/lanpan.png)  
 `v`&shy;` ` take, seize, steal, catch, receive  
 `pu`&shy;` ` kama jo, alasa  
-It was created shortly after *pu* was released, making it one of the most common words not featured in it.
+It was coined by the community shortly after *pu* was released, making it one of the most used _nimi sin_.
 
 __lape__ ![lape](docs/pics/lape.png)  
-`n`&shy;` ` sleeping, resting  
-`v`&shy;` ` sleep, rest  
-`m`&shy;` ` sleeping, resting
+`v`&shy;` ` sleep, rest
 
 __laso__ ![laso](docs/pics/laso.png)  
-`m`&shy;` ` blue  
-`m`&shy;` ` green
+`m`&shy;`1` blue  
+`m`&shy;`2` green (_kule kasi_ is often preferred)
 
 __lawa__ ![lawa](docs/pics/lawa.png)  
-`n`&shy;` ` leader, lead, head, mind  
+`n`&shy;`1` head  
+`n`&shy;`2` leader  
 `v`&shy;` ` lead, rule, manage, control, direct  
-`m`&shy;` ` leading, ruling, in charge
 
 __leko__ ![leko](docs/pics/leko.png)  
 `n`&shy;` ` stairs, square, block, edge  
-`m`&shy;` ` edged, square  
 `pu`&shy;` ` sike ala  
-Removed in 2004.
+Removed from then-official dictionary in 2004.
 
 __len__ ![len](docs/pics/len.png)  
-`n`&shy;` ` cloth, fabric, textile, cover, layer, network, layer of privacy  
-`v`&shy;` ` wear, dress, cover, hide  
-`m`&shy;` ` dressed, clothed, covered  
+`n`&shy;`1` cloth, fabric, textile  
+`n`&shy;`2` cover, layer  
+`v`&shy;` ` wear, cover, hide  
+`m`&shy;` ` clothed, covered, covering  
 
 __lete__ ![lete](docs/pics/lete.png)  
-`n`&shy;` ` cold  
-`m`&shy;` ` cool, cold, raw, uncooked, emotionally cold (person)
+`m`&shy;`1` cold  
+`m`&shy;`2` raw, uncooked
 
 __li__ ![li](docs/pics/li.png)  
-`p`&shy;` ` and (if there are multiple predicates)  
-`p`&shy;` `&shy;`sep ` separates the predicate and the object
+`f`&shy;`1` separates the predicate and the object
+`f`&shy;`2` and (between predicates)  
 
 __lili__ ![lili](docs/pics/lili.png)  
 `m`&shy;` ` small, little, short, young, a bit
