@@ -314,25 +314,28 @@ __li__ ![li](docs/pics/li.png)
 `f`&shy;`2` and (between predicates)  
 
 __lili__ ![lili](docs/pics/lili.png)  
-`m`&shy;` ` small, little, short, young, a bit
+`m`&shy;`1` small, little, short  
+`m`&shy;`2` young  
+`m`&shy;`3` a bit, slightly
 
 __linja__ ![linja](docs/pics/linja.png)  
-`n`&shy;` ` hair, rope, thread; long and flexible thing  
-`m`&shy;` ` long and flexible
+`n`&shy;` ` hair, rope, thread
+`m`&shy;` ` long and flexible, rope-like
 
 __lipu__ ![lipu](docs/pics/lipu.png)  
-`n`&shy;` ` book, page, document, website, record  
-`m`&shy;` ` flat
+`n`&shy;` ` document, book, website, written record  
+`m`&shy;`1` flat, page-like  
+`m`&shy;`2` documented
 
 __loje__ ![loje](docs/pics/loje.png)  
-`m`&shy;` ` red, reddish
+`m`&shy;` ` red
 
 __lon__ ![lon](docs/pics/lon.png)  
 `m`&shy;` ` existing, real, true  
 `v`&shy;`e ` place (position if after _lon_), put (position if after _tawa_)  
-`p`&shy;` ` located at, at the time of  
-`p`&shy;` ` indeed, that's right  
-`p`&shy;` ` general yes  
+`f`&shy;` ` located at, at the time of  
+`f`&shy;` ` indeed, that's right  
+`f`&shy;` ` general yes  
 `l`&shy;`a ` really, trully  
 `i`&shy;`nt ` indeed (as an _approval_, not as an answer to a question)
 
