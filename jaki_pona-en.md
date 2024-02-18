@@ -73,7 +73,7 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
     - Between subjects, use `en`.
     - Between verbs, use `li`
     - Betwen object, use `e`.
-    - To apply to the whole sentence (linking it to the previous one), begin the sentence with `kin la`.
+    - To apply to the whole sentence (linking it to the previous one), begin the sentence with `kin la` (alternatively `en la`).
     - Between modifiers, use `pi M1 en M2` (where *M1* and *M2* are modifiers).
 2. Or
     - Same as "and", but always use `anu`.
@@ -82,11 +82,25 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
     - `taso` is used at the beginning of sentences and nowhere else.
     - To express things like "anything but..." and "except", structures like *'ale en ona ala'* (everything and not it) could be used.
 
+> mi en sina li tawa. | You and I are walking.
+> soweli suwi pi suli en laso li musi. | The large and the blue cats are playing.
+> jan Sotan li pali li wile moku. | Zotn is working and \[is] hungry.
+> ona li moku e pan e telo walo kiwen. | He is eating bread and cheese.
+> mi wile e musi anu lape. | I want to enjoy life or sleep.
+> ona li wile pali. ante la ona li kama nasa. | She must work, otherwise she'd become crazy.
+> mi wile pali e musi. taso mi jo e wawa ala. | I want to make music, but I am exhausted.
+
 ## Time and Space
 
 Expressing time and location are very similar: they both use `lon` and they both can be used as the *context* in `la` phrases (see Advanced Grammar).
 
 *Time* is expressed as a noun phrase using `tenpo` and modifiers. The most common ones are `kama` (for future), `pini` (for past), `ni` (for present), `suno` (for day/daytime), `pimeja` (for night); *"kama"*, *"pini"* and *"ni"* are often used in conjunction with the latter two.
+
+> ona li lape lon tenpo pimeja. | She sleeps at night.
+> ona li kama apeja lon tenpo suno ni. | Today she'll be miserable.
+> tenpo kama la ona li tawa tomo pali. | She will go to work.
+> tenpo pini la ona li pali ala. | She didn't work before.
+> tenpo ni la ona li moku. | She is eating now.
 
 *Space* works similar to time, but with more variance: instead of having a single noun, we can use `ma` (for place in general; also "outside"), `tomo` (for house/building) and `ma tomo` (for city/settlement). Spatial nouns after `lon` mean current location, while if they are preceded by `tawa`, they specify directions:
 
@@ -97,7 +111,7 @@ poka
 : on the side, next to, besides
 
 sewi
-: above, over
+: above
 
 anpa
 : below, under
@@ -107,6 +121,13 @@ sinpin
 
 monsi
 : behind, at the back, after
+
+> soweli li lon insa tomo. | The cat is in the house.
+> soweli li lon poka pi jan lawa ona. | The dog is next to its owner.
+> soweli li lape lon soweli ante. | The cat is sleeping on the dog.
+> musi kiwen soweli li lon supa lon sewi pi ilo pi sitelen tawa. | The cat statue is on a shelf above the telly.
+> soweli li lape lon anpa supa. | The cat is sleeping under the bed.
+> soweli li tawa monsi tomo. | The cat goes behind the house \[presumably to sleep].
 
 ## Numbers
 
@@ -125,6 +146,10 @@ ale/ali | all         | all       | 100,&nbsp;all       | Used for "all", "every
 
 Numbers are used as *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see Advanced Grammar). Numbers without specific words for them are formed by adding them up, starting with the largest -- does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
+
+> soweli suwi tu wan | Three cats
+> soweli suwi tuli | Three cats
+> soweli suwi nanpa tu wan | The third cat
 
 ## Advanced Grammar
 
