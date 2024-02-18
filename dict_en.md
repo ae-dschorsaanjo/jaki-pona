@@ -332,34 +332,35 @@ __loje__ ![loje](docs/pics/loje.png)
 
 __lon__ ![lon](docs/pics/lon.png)  
 `p`&shy;` ` located at, at the time of  
-`v`&shy;` ` place (position if after _lon_), put (position if after _tawa_)  
+`v`&shy;` ` place, put  
 `m`&shy;` ` existing, real, true  
 `i`&shy;` ` indeed, that's right  
-`l`&shy;`a ` really, trully, in reality
+`l`&shy;`a ` actually, truly, in reality
 
 __luka__ ![luka](docs/pics/luka.png)  
-`n`&shy;` ` hand, arm  
-`m`&shy;` ` tangible, palpable  
-`m`&shy;`od ` with hands, by hands  
+`n`&shy;` ` upper or front limb (hand, arm)  
+`m`&shy;` ` with hands, by hands  
 `n`&shy;`um ` five
 
 __lukin__ ![lukin](docs/pics/lukin.png)  
-`n`&shy;` ` eye  
-`v`&shy;` ` look, see, examine, read, watch; (with _tawa_) search, look for, seek    
+`v`&shy;`1` look, see, examine, read, watch  
+`v`&shy;`2` (with _tawa_) search, look for, seek   
 `a`&shy;` ` try to  
-`m`&shy;` ` visible, readable  
-`m`&shy;`od ` seemingly, looking (like "good looking")  
-`see`&shy;` ` oko
+`m`&shy;`1` visible, readable  
+`m`&shy;`2` seemingly, -looking (as in "good looking")  
+`see`&shy;` ` oko  
+In *pu*, 'lukin' and 'oko' were merged and could be used interchangibly.
 
 __lupa__ ![lupa](docs/pics/lupa.png)  
 `n`&shy;` ` hole, orifice, window, door  
 `v`&shy;` ` pierce, stab, dig  
-`m`&shy;` ` full of holes, holey
+`m`&shy;` ` full of holes, hollow
 
 ### M
 
 __ma__ ![ma](docs/pics/ma.png)  
-`n`&shy;` ` earth, land, country, place, outdoor area  
+`n`&shy;`1` land, country, place  
+`n`&shy;`2` earth, dry land, outdoor area  
 `m`&shy;` ` outside
 
 __\*majuna__ ![majuna](docs/pics/majuna.png)  
