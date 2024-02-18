@@ -127,9 +127,17 @@ h2, h3, h4, h5 {
     color: var(--color-bg);
 }
 
+a, a:visited {
+    text-decoration: none;
+}
+
 a, a:visited, a:focus, a:hover {
     color: var(--link-fg);
     background-color: var(--link-bg);
+}
+
+a:focus, a:hover {
+    text-decoration: underline;
 }
 
 a:hover {
@@ -592,7 +600,7 @@ Prepositional phrases may be places in front of <em>'la'</em> to indicate that i
 <p>Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example <em><em>kipisi</em></em> at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this <em>does not</em> mean that words without a definition as a noun cannot be use as one in the right context. <em>Function</em> (or <em>grammatical</em>) words are the only exceptions to this rule.</p>
 <p class="hidden">There are multiple different dictionaries that can be found with word counts most ranging between 118&ndash;150. <em>pu</em>, the "official Toki Pona book" written by jan Sonja, had a 120/123 word dictionary &ndash; where 6 words were merged in pairs. <em>ku</em>, the "Toki Pona Dictionary" also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.<br />
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.</p>
-<p class="hidden keep">This dictionary contains 139 words (133 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
+<p class="hidden keep">This dictionary contains 141 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
 <h3>Abbreviations</h3>
 <dl>
 <dt><code>n</code></dt>
@@ -731,7 +739,7 @@ Proposed replacement for <em>noka</em> by jan Sonja. The community voted against
 <code>a</code>&shy;<code></code> become, will, pursue actions to arrive to (a certain state)<br />
 <code>m</code>&shy;<code></code> <em>something</em>-to-be in the future, coming, arriving</p>
 <p class="hidden"><strong>*kan</strong><br />
-<code>p</code>&shy;<code></code> among, with, near by<br />
+<code>f</code>&shy;<code></code> among, with, near by<br />
 <code>pu</code>&shy;<code></code> poka, kepeken<br />
 Removed in 2003 in favor of <em>poka</em> and <em>kepeken</em>.</p>
 <p class="hidden"><strong>*kapa</strong><br />
@@ -755,17 +763,17 @@ Removed in 2002 without a replacement.</p>
 <code>n</code>&shy;<code></code>  animal from the Procyonidae family (such as raccoons and kinkajous)<br />
 <code>pu</code>&shy;<code></code> soweli<br />
 Added as an April Fool's joke in 2009, now it is a "fan favorite".</p>
+<p><strong>kili</strong> <img alt="kili" src="docs/pics/kili.png" /><br />
+<code>n</code>&shy;<code></code> fruit, vegetable, mushroom</p>
+<p><strong>kin</strong> <img alt="kin" src="docs/pics/kin.png" /><br />
+<code>m</code>&shy;<code>1</code> also, too<br />
+<code>m</code>&shy;<code>2</code> confirmation, emphasis (not as strong as <em>a</em>)<br />
+<code>l</code>&shy;<code>a</code> also, and<br />
+<code>see</code>&shy;<code></code> a</p>
 <p><strong>kipisi</strong> <img alt="kipisi" src="docs/pics/kipisi.png" /><br />
 <code>v</code>&shy;<code></code> cut<br />
 <code>pu</code>&shy;<code></code> tu<br />
 Presented along with <em>namako</em> and <em>monsuta</em> around 2010, not included in <em>pu</em>.</p>
-<p><strong>kili</strong> <img alt="kili" src="docs/pics/kili.png" /><br />
-<code>n</code>&shy;<code></code> fruit, vegetable, mushroom</p>
-<p><strong>kin</strong> <img alt="kin" src="docs/pics/kin.png" /><br />
-<code>p</code>&shy;<code>1</code> also, too<br />
-<code>p</code>&shy;<code>2</code> confirmation, emphasis (not as strong as <em>a</em>)<br />
-<code>l</code>&shy;<code>a</code> also, and<br />
-<code>see</code>&shy;<code></code> a</p>
 <p><strong>kiwen</strong> <img alt="kiwen" src="docs/pics/kiwen.png" /><br />
 <code>n</code>&shy;<code></code> metal, rock, stone, hard object<br />
 <code>m</code>&shy;<code></code> hard, heavy<br />
@@ -775,65 +783,72 @@ Originally <em>wawa ma</em> was used before this word was created.</p>
 <p><strong>kon</strong> <img alt="kon" src="docs/pics/kon.png" /><br />
 <code>n</code>&shy;<code>1</code> air, breath<br />
 <code>n</code>&shy;<code>2</code> spirit, essence, meaning, sense, concept<br />
+<code>n</code>&shy;<code>3</code> mind, consciousness, soul<br />
 <code>m</code>&shy;<code></code> air-like, gaseous</p>
+<p><strong>ku</strong> <img alt="pu" src="docs/pics/ku.png" /><br />
+<code>n</code>&shy;<code></code> the <em>Toki Pona Dictionary</em><br />
+<code>v</code>&shy;<code></code> interacting with the <em>Toki Pona Dictionary</em><br />
+<code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona Dictionary</em>  </p>
 <p><strong>kule</strong> <img alt="kule" src="docs/pics/kule.png" /><br />
 <code>n</code>&shy;<code></code> color<br />
 <code>v</code>&shy;<code></code> color<br />
 <code>m</code>&shy;<code></code> colorful, pigmented</p>
 <p><strong>kulupu</strong> <img alt="kulupu" src="docs/pics/kulupu.png" /><br />
-<code>n</code>&shy;<code></code> community, group, nation, society</p>
+<code>n</code>&shy;<code>1</code> group, collection, set<br />
+<code>n</code>&shy;<code>2</code> community, nation, society</p>
 <p><strong>kute</strong> <img alt="kute" src="docs/pics/kute.png" /><br />
 <code>n</code>&shy;<code></code> ear<br />
-<code>v</code>&shy;<code></code> hear, listen to (talking, music)</p>
+<code>v</code>&shy;<code></code> hear, listen to</p>
 <h3>L</h3>
 <p><strong>la</strong> <img alt="la" src="docs/pics/la.png" /><br />
-<code>p</code>&shy;<code></code>&shy;<code>sep</code> separates the context and the main sentence</p>
+<code>p</code>&shy;<code></code> separates the context and the main sentence</p>
 <p><strong>lanpan</strong> <img alt="lanpan" src="docs/pics/lanpan.png" /><br />
 <code>v</code>&shy;<code></code> take, seize, steal, catch, receive<br />
 <code>pu</code>&shy;<code></code> kama jo, alasa<br />
-It was created shortly after <em>pu</em> was released, making it one of the most common words not featured in it.</p>
+It was coined by the community shortly after <em>pu</em> was released, making it one of the most used <em>nimi sin</em>.</p>
 <p><strong>lape</strong> <img alt="lape" src="docs/pics/lape.png" /><br />
-<code>n</code>&shy;<code></code> sleeping, resting<br />
-<code>v</code>&shy;<code></code> sleep, rest<br />
-<code>m</code>&shy;<code></code> sleeping, resting</p>
+<code>v</code>&shy;<code></code> sleep, rest</p>
 <p><strong>laso</strong> <img alt="laso" src="docs/pics/laso.png" /><br />
-<code>m</code>&shy;<code></code> blue<br />
-<code>m</code>&shy;<code></code> green</p>
+<code>m</code>&shy;<code>1</code> blue<br />
+<code>m</code>&shy;<code>2</code> green (<em>kule kasi</em> is often preferred)</p>
 <p><strong>lawa</strong> <img alt="lawa" src="docs/pics/lawa.png" /><br />
-<code>n</code>&shy;<code></code> leader, lead, head, mind<br />
-<code>v</code>&shy;<code></code> lead, rule, manage, control, direct<br />
-<code>m</code>&shy;<code></code> leading, ruling, in charge</p>
+<code>n</code>&shy;<code>1</code> head<br />
+<code>n</code>&shy;<code>2</code> leader<br />
+<code>v</code>&shy;<code></code> lead, rule, manage, control, direct  </p>
 <p><strong>leko</strong> <img alt="leko" src="docs/pics/leko.png" /><br />
 <code>n</code>&shy;<code></code> stairs, square, block, edge<br />
-<code>m</code>&shy;<code></code> edged, square<br />
 <code>pu</code>&shy;<code></code> sike ala<br />
-Removed in 2004.</p>
+Removed from then-official dictionary in 2004.</p>
 <p><strong>len</strong> <img alt="len" src="docs/pics/len.png" /><br />
-<code>n</code>&shy;<code></code> cloth, fabric, textile, cover, layer, network, layer of privacy<br />
-<code>v</code>&shy;<code></code> wear, dress, cover, hide<br />
-<code>m</code>&shy;<code></code> dressed, clothed, covered  </p>
+<code>n</code>&shy;<code>1</code> cloth, fabric, textile<br />
+<code>n</code>&shy;<code>2</code> cover, layer<br />
+<code>v</code>&shy;<code></code> wear, cover, hide<br />
+<code>m</code>&shy;<code></code> clothed, covered, covering  </p>
 <p><strong>lete</strong> <img alt="lete" src="docs/pics/lete.png" /><br />
-<code>n</code>&shy;<code></code> cold<br />
-<code>m</code>&shy;<code></code> cool, cold, raw, uncooked, emotionally cold (person)</p>
+<code>m</code>&shy;<code>1</code> cold<br />
+<code>m</code>&shy;<code>2</code> raw, uncooked</p>
 <p><strong>li</strong> <img alt="li" src="docs/pics/li.png" /><br />
-<code>p</code>&shy;<code></code> and (if there are multiple predicates)<br />
-<code>p</code>&shy;<code></code>&shy;<code>sep</code> separates the predicate and the object</p>
+<code>f</code>&shy;<code>1</code> separates the predicate and the object
+<code>f</code>&shy;<code>2</code> and (between predicates)  </p>
 <p><strong>lili</strong> <img alt="lili" src="docs/pics/lili.png" /><br />
-<code>m</code>&shy;<code></code> small, little, short, young, a bit</p>
+<code>m</code>&shy;<code>1</code> small, little, short<br />
+<code>m</code>&shy;<code>2</code> young<br />
+<code>m</code>&shy;<code>3</code> a bit, slightly</p>
 <p><strong>linja</strong> <img alt="linja" src="docs/pics/linja.png" /><br />
-<code>n</code>&shy;<code></code> hair, rope, thread; long and flexible thing<br />
-<code>m</code>&shy;<code></code> long and flexible</p>
+<code>n</code>&shy;<code></code> hair, rope, thread
+<code>m</code>&shy;<code></code> long and flexible, rope-like</p>
 <p><strong>lipu</strong> <img alt="lipu" src="docs/pics/lipu.png" /><br />
-<code>n</code>&shy;<code></code> book, page, document, website, record<br />
-<code>m</code>&shy;<code></code> flat</p>
+<code>n</code>&shy;<code></code> document, book, website, written record<br />
+<code>m</code>&shy;<code>1</code> flat, page-like<br />
+<code>m</code>&shy;<code>2</code> documented</p>
 <p><strong>loje</strong> <img alt="loje" src="docs/pics/loje.png" /><br />
-<code>m</code>&shy;<code></code> red, reddish</p>
+<code>m</code>&shy;<code></code> red</p>
 <p><strong>lon</strong> <img alt="lon" src="docs/pics/lon.png" /><br />
 <code>m</code>&shy;<code></code> existing, real, true<br />
 <code>v</code>&shy;<code>e</code> place (position if after <em>lon</em>), put (position if after <em>tawa</em>)<br />
-<code>p</code>&shy;<code></code> located at, at the time of<br />
-<code>p</code>&shy;<code></code> indeed, that's right<br />
-<code>p</code>&shy;<code></code> general yes<br />
+<code>f</code>&shy;<code></code> located at, at the time of<br />
+<code>f</code>&shy;<code></code> indeed, that's right<br />
+<code>f</code>&shy;<code></code> general yes<br />
 <code>l</code>&shy;<code>a</code> really, trully<br />
 <code>i</code>&shy;<code>nt</code> indeed (as an <em>approval</em>, not as an answer to a question)</p>
 <p><strong>luka</strong> <img alt="luka" src="docs/pics/luka.png" /><br />
@@ -856,9 +871,9 @@ Removed in 2004.</p>
 <p><strong>ma</strong> <img alt="ma" src="docs/pics/ma.png" /><br />
 <code>n</code>&shy;<code></code> earth, land, country, place, outdoor area<br />
 <code>m</code>&shy;<code></code> outside</p>
-<p class="hidden"><strong>*majuna</strong> <img alt="*majuna" src="docs/pics/majuna.png" /><br />
+<p class="hidden"><strong>*majuna</strong> <img alt="majuna" src="docs/pics/majuna.png" /><br />
 <code>m</code>&shy;<code></code> old<br />
-<code>pu</code>&shy;<code></code> lili ala, suli<br />
+<code>pu</code>&shy;<code></code> sin ala, lili ala, suli<br />
 Removed before first public draft.</p>
 <p><strong>mama</strong> <img alt="mama" src="docs/pics/mama.png" /><br />
 <code>n</code>&shy;<code></code> parent, ancestor, origin, creator, caretaker<br />
@@ -1038,10 +1053,9 @@ Removed before toki pona became well-known.</p>
 <code>pu</code>&shy;<code></code> lon ala, toki ike, ike<br />
 Never was added to any official dictionary.</p>
 <p><strong>pu</strong> <img alt="pu" src="docs/pics/pu.png" /><br />
-<code>n</code>&shy;<code></code> the <em>Toki Pona book</em><br />
-<code>v</code>&shy;<code></code> interacting with the <em>Toki Pona book</em><br />
-<code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona book</em><br />
-<code>m</code>&shy;<code></code> official </p>
+<code>n</code>&shy;<code></code> the <em>Toki Pona Book</em><br />
+<code>v</code>&shy;<code></code> interacting with the <em>Toki Pona Book</em><br />
+<code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona Book</em>  </p>
 <h3>S</h3>
 <p><strong>sama</strong> <img alt="sama" src="docs/pics/sama.png" /><br />
 <code>n</code>&shy;<code></code> equality, each other (usually after <em>e</em>)<br />
@@ -1107,6 +1121,10 @@ Never was added to any official dictionary.</p>
 <code>n</code>&shy;<code></code> animal, mammal, land animal<br />
 <code>n</code>&shy;<code></code> lovable animal<br />
 <code>m</code>&shy;<code></code> wild, animalistic</p>
+<p><strong>su</strong> <img alt="pu" src="docs/pics/su.png" /><br />
+<code>n</code>&shy;<code></code> <em>The Wonderful Wizard of Oz (Toki Pona edition)</em><br />
+<code>v</code>&shy;<code></code> interacting with the <em>The Wonderful Wizard of Oz (Toki Pona edition)</em><br />
+<code>m</code>&shy;<code></code> according to/as in/by the <em>The Wonderful Wizard of Oz (Toki Pona edition)</em>  </p>
 <p><strong>suli</strong> <img alt="suli" src="docs/pics/suli.png" /><br />
 <code>m</code>&shy;<code></code> big, large, adult, heavy, important</p>
 <p><strong>suno</strong> <img alt="suno" src="docs/pics/suno.png" /><br />
