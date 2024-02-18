@@ -331,13 +331,11 @@ __loje__ ![loje](docs/pics/loje.png)
 `m`&shy;` ` red
 
 __lon__ ![lon](docs/pics/lon.png)  
+`p`&shy;` ` located at, at the time of  
+`v`&shy;` ` place (position if after _lon_), put (position if after _tawa_)  
 `m`&shy;` ` existing, real, true  
-`v`&shy;`e ` place (position if after _lon_), put (position if after _tawa_)  
-`f`&shy;` ` located at, at the time of  
-`f`&shy;` ` indeed, that's right  
-`f`&shy;` ` general yes  
-`l`&shy;`a ` really, trully  
-`i`&shy;`nt ` indeed (as an _approval_, not as an answer to a question)
+`i`&shy;` ` indeed, that's right  
+`l`&shy;`a ` really, trully, in reality
 
 __luka__ ![luka](docs/pics/luka.png)  
 `n`&shy;` ` hand, arm  
