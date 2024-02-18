@@ -125,7 +125,7 @@ monsi
 > soweli li lon insa tomo. | The cat is in the house.
 > soweli li lon poka pi jan lawa ona. | The dog is next to its owner.
 > soweli li lape lon soweli ante. | The cat is sleeping on the dog.
-> musi kiwen soweli li lon supa lon sewi pi ilo pi sitelen tawa. | The cat statue is on a shelf above the telly.
+> musi kiwen li lon supa lon sewi pi ilo pi sitelen tawa. | The \[cat] statue is on a shelf above the telly.
 > soweli li lape lon anpa supa. | The cat is sleeping under the bed.
 > soweli li tawa monsi tomo. | The cat goes behind the house \[presumably to sleep].
 
