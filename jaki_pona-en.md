@@ -135,14 +135,14 @@ Numbers are relatively rare as neither pronouns nor nouns are inherently *singul
 
 Number  | Short range | Mid range | Extended range | Note
 ------- | ----------- | --------- | -------------- | ----
-ala     | 0,&nbsp;none     | 0,&nbsp;none   | 0              |
-wan     | 1           | 1         | 1              |  
-tu      | 2           | 2         | 2              |
+ala     | 0,&nbsp;none| 0,&nbsp;none   | 0         | 
+wan     | 1           | 1         | 1              | 
+tu      | 2           | 2         | 2              | 
 tuli    |             |           | 3              | Archaic, it was removed from the dictionary early on.
 po      |             |           | 4              | Archaic, it was removed from the dictionary early on.
-luka    |             | 5         | 5              |  
-mute    | 3+          | 11+       | 20             |  
-ale/ali | all         | all       | 100,&nbsp;all       | Used for "all", "every" and "countless".
+luka    |             | 5         | 5              | 
+mute    | 3+          | 11+       | 20             | 
+ale/ali | all         | all       | 100,&nbsp;all  | Used for "all", "every" and "countless".
 
 Numbers are used as *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see Advanced Grammar). Numbers without specific words for them are formed by adding them up, starting with the largest -- does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
