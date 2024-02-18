@@ -1,4 +1,4 @@
-magyar verzió
+Fordítás alatt.
 
 plex normal
 
