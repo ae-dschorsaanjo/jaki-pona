@@ -371,70 +371,73 @@ Removed before first public draft.
 
 __mama__ ![mama](docs/pics/mama.png)  
 `n`&shy;` ` parent, ancestor, origin, creator, caretaker  
-`m`&shy;` ` parent, ancestor, parental
+`m`&shy;`1` parent, ancestor, parental
+`m`&shy;`2` original (marginal use only when )
 
 __mani__ ![mani](docs/pics/mani.png)  
-`n`&shy;` ` money, wealth, livestock, value, currency  
+`n`&shy;`1` money, wealth  
+`n`&shy;`2` livestock  
 `m`&shy;` ` valuable
 
 __meli__ ![meli](docs/pics/meli.png)  
-`n`&shy;` ` female, woman, girl, wife, girlfriend  
-`m`&shy;` ` female, feminine
+`n`&shy;` ` woman, girl  
+`m`&shy;`1` female (of their species)  
+`m`&shy;`2` feminine
 
 __mi__ ![mi](docs/pics/mi.png)  
-`n`&shy;` ` I, me; we, us  
-`m`&shy;` ` my, mine; our, ours
+`n`&shy;` ` 1st person (I, me; we, us)  
+`m`&shy;`1` my, mine; our, ours  
 
 __mije__ ![mije](docs/pics/mije.png)  
-`n`&shy;` ` male, man, husband, boyfriend  
-`m`&shy;` ` male, masculine
+`n`&shy;` ` man, boy, male  
+`m`&shy;`1` male (of their species)  
+`m`&shy;`2` masculine
 
 __moku__ ![moku](docs/pics/moku.png)  
-`n`&shy;` ` food, meal  
-`v`&shy;` ` consume, eat, drink, inhale, swallow  
-`m`&shy;` ` edible
+`n`&shy;` ` food, meal, sustenance  
+`v`&shy;`1` eat, drinkm, consume, inhale, swallow  
+`m`&shy;` ` edible, nourishing
 
 __moli__ ![moli](docs/pics/moli.png)  
 `n`&shy;` ` death  
-`v`&shy;` ` die, dying  
-`v`&shy;`e ` murder, kill  
-`m`&shy;` ` dying, sentenced to death, dead, lethal, mortal, fatal
+`v`&shy;` ` murder, kill  
+`m`&shy;` ` dying, dead, lethal, mortal, fatal
 
 __monsi__ ![monsi](docs/pics/monsi.png)  
-`n`&shy;` ` back, behind, rear end  
+`n`&shy;` ` back, rear end  
 `v`&shy;` ` retreat  
-`m`&shy;`od ` back  
-`d`&shy;`ir ` behind
+`m`&shy;` ` behind
 
 __monsuta__ ![monsuta](docs/pics/monsuta.png)  
-`n`&shy;` ` monster, fear  
+`n`&shy;` ` monster  
 `v`&shy;` ` fear, be afraid of  
-`m`&shy;` ` frighten, frightening  
-`m`&shy;` ` fearful, afraid  
-`pu`&shy;` ` ike, akesi  
+`m`&shy;` ` frightening  
+`m`&shy;` ` (after _pilin_) afraid  
+`pu`&shy;` ` ike, akesi, apeja  
 Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
 
 __mu__ ![mu](docs/pics/mu.png)  
-`n`&shy;` ` animal noise, meaningless or incomprehensible talking   
-`v`&shy;` ` make animal noise, speak incomprehensibly  
-`m`&shy;` ` meaningless, incomprehensible, unintelligible
+`n`&shy;`1` animal noise  
+`n`&shy;`2` meaningless or incomprehensible talking  
+`v`&shy;` ` make animal noises, speak incomprehensibly  
+`m`&shy;` ` meaningless, incomprehensible, unintelligible  
+`i`&shy;` ` animal vocalization (such as 'meow', 'moo', 'quack')
 
 __mun__ ![mun](docs/pics/mun.png)  
 `n`&shy;` ` moon, star  
 `m`&shy;` ` lunar
 
 __musi__ ![musi](docs/pics/musi.png)  
-`n`&shy;` ` play, fun, game, art, artifact  
-`v`&shy;` ` play, have fun  
-`v`&shy;`e ` entertain  
-`m`&shy;`od ` artistic, entertaining
+`n`&shy;`1` fun  
+`n`&shy;`2` art  
+`v`&shy;`1` play, have fun  
+`m`&shy;` ` entertaining, artistic
 
 __mute__ ![mute](docs/pics/mute.png)  
-`n`&shy;` ` amount, quantity  
-`v`&shy;` ` multiply, spread, extend  
-`a`&shy;`dv ` (comparative adjective)  
-`m`&shy;`od ` many (3+), a lot, more, much, very  
-`n`&shy;`um ` twenty
+`v`&shy;` ` multiply, extend  
+`m`&shy;`` many, a lot, more, much, very    
+`#`&shy;`1` many
+`#`&shy;`2` twenty
 
 ### N
 
@@ -497,8 +500,8 @@ __olin__ ![olin](docs/pics/olin.png)
 `m`&shy;` ` lovable, loving
 
 __ona__ ![ona](docs/pics/ona.png)  
-`n`&shy;` ` they (singular and plural)  
-`m`&shy;`od ` their, theirs (singular and plural)
+`n`&shy;` ` 3rd person (he, she, it, they)  
+`m`&shy;`od ` their, theirs (and all the others)
 
 __open__ ![open](docs/pics/open.png)  
 `n`&shy;` ` start, beginning  
@@ -651,8 +654,8 @@ __sin__ ![sin](docs/pics/sin.png)
 `see`&shy;` ` namako
 
 __sina__ ![sina](docs/pics/sina.png)  
-`n`&shy;` ` thou, you  
-`m`&shy;` ` thy, thine, your, yours
+`n`&shy;` ` 2nd person (thou, you)  
+`m`&shy;` ` thy, thine; your, yours
 
 __sinpin__ ![sinpin](docs/pics/sinpin.png)  
 `n`&shy;` ` face, front  
