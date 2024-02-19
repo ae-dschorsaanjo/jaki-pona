@@ -42,7 +42,7 @@ Question end with a question mark, and can be formed in *three ways:*
 3. Putting *"seme"* in place of the thing you want to question.
 
 The exclamation point is used for *three different ways:*
-1. To form imperative (command) sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` may *replace* `li`.
+1. To form imperative (command) sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` *replaces* `li`.
 2. To form interjections, like *"moku pona!"* (good appetite!).
 3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.
 
