@@ -349,7 +349,7 @@ __lukin__ ![lukin](docs/pics/lukin.png)
 `m`&shy;`1` visible, readable  
 `m`&shy;`2` seemingly, -looking (as in "good looking")  
 `see`&shy;` ` oko  
-In *pu*, 'lukin' and 'oko' were merged and could be used interchangibly.
+In *pu*, _lukin_ and _oko_ were merged and could be used interchangibly.
 
 __lupa__ ![lupa](docs/pics/lupa.png)  
 `n`&shy;` ` hole, orifice, window, door  
@@ -372,7 +372,7 @@ Removed before first public draft.
 __mama__ ![mama](docs/pics/mama.png)  
 `n`&shy;` ` parent, ancestor, origin, creator, caretaker  
 `m`&shy;`1` parent, ancestor, parental
-`m`&shy;`2` original (marginal use only when )
+`m`&shy;`2` original (only when it is used in contrast with something)
 
 __mani__ ![mani](docs/pics/mani.png)  
 `n`&shy;`1` money, wealth  
@@ -442,72 +442,69 @@ __mute__ ![mute](docs/pics/mute.png)
 ### N
 
 __namako__ ![namako](docs/pics/namako.png)  
-`n`&shy;` ` additional, spice (for food)  
-`v`&shy;` ` flavor, update  
-`m`&shy;`od ` extra, additional  
+`n`&shy;` ` addition, bonus, spice (for food)  
+`m`&shy;` ` extra, additional  
 `see`&shy;` ` sin  
-Added along with _kipisi_ and _monsuta_ in 2010. In _pu_ it was merged with _sin_.
+Added along with _kipisi_ and _monsuta_ in 2010. In _pu_, it was merged with _sin_.
 
 __nanpa__ ![nanpa](docs/pics/nanpa.png)  
 `n`&shy;` ` number  
-`v`&shy;` ` count, number, quantify  
-`m`&shy;` ` countable, finite  
-`p`&shy;` ` -th (ordinal number)
+`f`&shy;` ` -th (ordinal number)
 
 __nasa__ ![nasa](docs/pics/nasa.png)  
 `v`&shy;` ` fool around  
 `m`&shy;` ` unusual, strange, weird, crazy, intoxicated
 
 __nasin__ ![nasin](docs/pics/nasin.png)  
-`n`&shy;` ` way, method, custom, path, road  
+`n`&shy;`1` path, road  
+`n`&shy;`2` way, method  
 `v`&shy;` ` follow, adopt  
-`v`&shy;` ` indoctrinate; plan, plot; clear a path  
-`m`&shy;`od ` methodical, systematic, doctrinal
 
 __nena__ ![nena](docs/pics/nena.png)  
-`n`&shy;` ` bump, button, mountain, hill, nose  
+`n`&shy;` ` mountain, hill  
+`n`&shy;` ` protuberance, bump  
 `m`&shy;` ` bumpy, hilly, undulating
 
 __ni__ ![ni](docs/pics/ni.png)  
 `n`&shy;` ` this, that  
 `m`&shy;` ` this, that  
-`p`&shy;` ` that (as a conjunction, after _e_ or a _preposition_)
+`f`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
 
 __nimi__ ![nimi](docs/pics/nimi.png)  
 `n`&shy;` ` name, word  
-`v`&shy;` ` name (the name is after _sama_)
+`v`&shy;` ` name (with _sama_)
 
 __noka__ ![noka](docs/pics/noka.png)  
-`n`&shy;` ` foot, leg, organ of locomotion, lower part  
+`n`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
 `v`&shy;` ` kick  
-`m`&shy;` ` lower (on something)  
-`a`&shy;`dv ` on foot, with foot
+`m`&shy;`1` on foot, by foot  
+`m`&shy;`2` lower (part)
 
 ### O
 
 __o__ ![o](docs/pics/o.png)  
-`p`&shy;` ` (marks imperative and vocative)  
-`p`&shy;` `&shy;`sep ` separates the noun of direct address and the sentence
+`f`&shy;`1` marks imperative and vocative
 
 __oko__ ![oko](docs/pics/oko.png)  
 `n`&shy;` ` eye  
-`v`&shy;` ` look (but not _see_)
-`see`&shy;` ` lukin
+`v`&shy;` ` look (but not _see_)  
+`see`&shy;` ` lukin  
+It was merged with _lukin_ in _pu_.
 
 __olin__ ![olin](docs/pics/olin.png)  
-`n`&shy;` ` love  
+`n`&shy;` ` love, emotional affection  
 `v`&shy;` ` love, adore  
-`m`&shy;` ` lovable, loving
 
 __ona__ ![ona](docs/pics/ona.png)  
 `n`&shy;` ` 3rd person (he, she, it, they)  
-`m`&shy;`od ` their, theirs (and all the others)
+`m`&shy;` ` their, theirs (and all the others)
 
 __open__ ![open](docs/pics/open.png)  
 `n`&shy;` ` start, beginning  
-`v`&shy;` ` begin, start, open, turn on (_not_ sexually)  
-`a`&shy;` ` begin to, start to  
-`m`&shy;` ` available, open, turned on (_not_ sexually), ready
+`v`&shy;` ` open, activate, turn on  
+`a`&shy;` ` begin, start  
+`m`&shy;`1` open, activated  
+`m`&shy;`2` available, ready
 
 ### P
 
