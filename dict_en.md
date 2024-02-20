@@ -509,10 +509,11 @@ __open__ ![open](docs/pics/open.png)
 ### P
 
 __pakala__ ![pakala](docs/pics/pakala.png)  
-`n`&shy;` ` error, bug, accident, mistake, damage  
-`v`&shy;` ` brake, damage, mess up  
-`m`&shy;` ` broken, damaged, harmed, messed up  
-`i`&shy;`nt ` dammit! shoot!
+`n`&shy;`1` damage, injury  
+`n`&shy;`2` error, bug, accident, mistake  
+`v`&shy;` ` brake, damage  
+`m`&shy;` ` broken, damaged, non-funcional  
+`i`&shy;` ` dammit! shoot!
 
 __pake__ ![pake](docs/pics/pake.png)  
 `n`&shy;` ` blocking, prevention, obstruction  
@@ -804,4 +805,4 @@ __wile__ ![wile](docs/pics/wile.png)
 __yupekosi__ ![yupekosi](docs/pics/yupekosi.png)  
 `v`&shy;` ` to behave like George Lucas and revise your old creative works and actually make them worse  
 `pu`&shy;` ` wile ike
-*"nobody knows how to pronounce the y"*\[sic\] -- jan Sonja  
+*"Nobody knows how to pronounce the y."*\[sic\] -- jan Sonja
