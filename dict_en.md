@@ -51,29 +51,29 @@ Numbers following any of these letters mark *alternative* definitions.
 
 ### A
 
-__a__ ![a](docs/pics/a.png)  
+__a__ ![a](pics/a.png)  
 `m`&shy;`1` (emotional) emphasis  
 `m`&shy;`2` exaggeration, superlative (after _adjectives_)  
 `i`&shy;` ` ah! I got it! Hahaha! (as "a a a")  
 `see`&shy;` ` kin
 
-__akesi__ ![akesi](docs/pics/akesi.png)  
+__akesi__ ![akesi](pics/akesi.png)  
 `n`&shy;`1` reptile, amphibian  
 `n`&shy;`2` non-cute animal, monster (dialectal)  
 _non-cute animal_ definition has been removed in the Toki Pona Dictionary.
 
-__ala__ ![ala](docs/pics/ala.png)  
+__ala__ ![ala](pics/ala.png)  
 `n`&shy;` ` nothing, no one, null, the lack of (something)  
 `v`&shy;` ` deny  
 `m`&shy;` ` no, not  
 `i`&shy;` ` no!
 
-__alasa__ ![alasa](docs/pics/alasa.png)  
+__alasa__ ![alasa](pics/alasa.png)  
 `n`&shy;` ` hunting, searching  
 `v`&shy;`1` hunt, forage, gather  
 `v`&shy;`2` look for, search determinedly  
 
-__ale/ali__ ![ale/ali](docs/pics/ale.png)  
+__ale/ali__ ![ale/ali](pics/ale.png)  
 `n`&shy;` ` everything, life, universe  
 `m`&shy;` ` all, each, every, countless  
 `#`&shy;` ` all, countless amount  
@@ -81,32 +81,32 @@ __ale/ali__ ![ale/ali](docs/pics/ale.png)
 `l`&shy;`a` all told, nevertheless, despite everything, either way  
 _ale_ was the original, while _ali_ was added to avoid ambiguity with _ala_ in speech.
 
-__anpa__ ![anpa](docs/pics/anpa.png)  
+__anpa__ ![anpa](pics/anpa.png)  
 `n`&shy;` ` bottom, below  
 `v`&shy;`1` kneel, bow, accept (the terms)  
 `v`&shy;`2` defeat, beat, conquer, enslave  
 `m`&shy;`1` low, below, down, beneath  
 `m`&shy;`2` dependent
 
-__ante__ ![ante](docs/pics/ante.png)  
+__ante__ ![ante](pics/ante.png)  
 `n`&shy;` ` change, difference, diversity  
 `v`&shy;` ` alter, change, convert, transform  
 `m`&shy;`1` different, altered, changed  
 `m`&shy;`2` other  
 `l`&shy;`a` or, otherwise
 
-__anu__ ![anu](docs/pics/anu.png)  
+__anu__ ![anu](pics/anu.png)  
 `f`&shy;` ` or  
 `l`&shy;`a`  or
 
-__apeja__ ![apeja](docs/pics/apeja.png)  
+__apeja__ ![apeja](pics/apeja.png)  
 `n`&shy;` ` depression, abuse, shame, dishonor  
 `v`&shy;` ` verbal attack, disgrace, depress  
 `m`&shy;` ` shameful, dishonored, depressive  
 `p`&shy;` ` ike, utala toki  
 Added in early 2010, but was not included in _pu_.
 
-__awen__ ![awen](docs/pics/awen.png)  
+__awen__ ![awen](pics/awen.png)  
 `n`&shy;` ` waiting, staying  
 `v`&shy;`1` wait, wait for (with "tawa"), stay, remain  
 `v`&shy;`2` keep something unchanged
@@ -116,25 +116,25 @@ __awen__ ![awen](docs/pics/awen.png)
 
 ### E
 
-__e__ ![e](docs/pics/e.png)   
+__e__ ![e](pics/e.png)   
 `f`&shy;`1` separates the predicate and the object  
 `f`&shy;`2` and (if there are multiple objects)
 
-__en__ ![en](docs/pics/en.png)  
+__en__ ![en](pics/en.png)  
 `f`&shy;` ` and (between subject)  
 `l`&shy;`a` and, additionally
 
-__esun__ ![esun](docs/pics/esun.png)  
+__esun__ ![esun](pics/esun.png)  
 `n`&shy;` ` business  
 `v`&shy;` ` buy, do business  
 `m`&shy;` ` financial, for sale
 
 ### I
 
-__ijo__ ![ijo](docs/pics/ijo.png)  
+__ijo__ ![ijo](pics/ijo.png)  
 `n`&shy;` ` something, thing, object  
 
-__ike__ ![ike](docs/pics/ike.png)  
+__ike__ ![ike](pics/ike.png)  
 `n`&shy;` ` bad(ness), evil  
 `v`&shy;` ` ruin, spoil  
 `m`&shy;` ` bad, negative, wrong, corrupted, evil, complex  
@@ -145,10 +145,10 @@ __\*iki/ipi__
 _ipi_ was replaced for its similarity to _ike_, while _ipi_ was replaced before first draft.
 { .hidden }
 
-__ilo__ ![ilo](docs/pics/ilo.png)  
+__ilo__ ![ilo](pics/ilo.png)  
 `n`&shy;` ` tool, machine, device
 
-__insa__ ![insa](docs/pics/insa.png)  
+__insa__ ![insa](pics/insa.png)  
 `n`&shy;` ` inside  
 `n`&shy;` ` stomach, organ  
 `m`&shy;`1` internal  
@@ -156,38 +156,38 @@ __insa__ ![insa](docs/pics/insa.png)
 
 ### J
 
-__jaki__ ![jaki](docs/pics/jaki.png)  
+__jaki__ ![jaki](pics/jaki.png)  
 `n`&shy;` ` dirt, garbage, filth, sh\*t  
 `v`&shy;` ` stain, defile  
 `m`&shy;` ` disgusting, toxic, unclean
 
 __\*jalan__  
-`pu`&shy;`` noka
+`pu`&shy;` ` noka
 Proposed replacement for _noka_ by jan Sonja. The community voted against it.
 { .hidden }
 
-__jan__ ![jan](docs/pics/jan.png)  
+__jan__ ![jan](pics/jan.png)  
 `n`&shy;` ` human, person  
 `m`&shy;` ` humanoid, human-like
 
-__jelo__ ![jelo](docs/pics/jelo.png)  
+__jelo__ ![jelo](pics/jelo.png)  
 `m`&shy;` ` yellow
 
-__jo__ ![jo](docs/pics/jo.png)  
+__jo__ ![jo](pics/jo.png)  
 `v`&shy;` ` have, own, carry, contain
 
 ### K
 
-__kala__ ![kala](docs/pics/kala.png)  
+__kala__ ![kala](pics/kala.png)  
 `n`&shy;` ` fish  
 `m`&shy;` ` fish-like, aquatic
 
-__kalama__ ![kalama](docs/pics/kalama.png)  
+__kalama__ ![kalama](pics/kalama.png)  
 `n`&shy;` ` sound, noise, roar  
 `v`&shy;` ` produce a sound, yell, bawl  
 `m`&shy;` ` loud, audible
 
-__kama__ ![kama](docs/pics/kama.png)  
+__kama__ ![kama](pics/kama.png)  
 `a`&shy;` ` become, will, pursue actions to arrive to (a certain state)  
 `m`&shy;` ` _something_-to-be in the future, coming, arriving
 
@@ -208,141 +208,142 @@ __\*kapesi__
 Removed in 2002 without a replacement.
 { .hidden }
 
-__kasi__ ![kasi](docs/pics/kasi.png)  
+__kasi__ ![kasi](pics/kasi.png)  
 `n`&shy;` ` plant, vegetation  
 `m`&shy;` ` plant-like, green (after _kule_)
 
-__ken__ ![ken](docs/pics/ken.png)  
+__ken__ ![ken](pics/ken.png)  
 `n`&shy;` ` ability, chance, possibility  
 `a`&shy;` ` can, able to, allowed to  
 `m`&shy;` ` able, possible, allowed
 
-__kepeken__ ![kepeken](docs/pics/kepeken.png)  
+__kepeken__ ![kepeken](pics/kepeken.png)  
 `p`&shy;` ` use, with  
 `v`&shy;` ` use
 
-__kijetesantakalu__ ![kijetesantakalu](docs/pics/kijetesantakalu.png)  
+__kijetesantakalu__ ![kijetesantakalu](pics/kijetesantakalu.png)  
 `n`&shy;` `  animal from the Procyonidae family (such as raccoons and kinkajous)  
 `pu`&shy;` ` soweli  
 Added as an April Fool's joke in 2009, now it is a "fan favorite".
+{ .kijetesantakalu }
 
-__kili__ ![kili](docs/pics/kili.png)  
+__kili__ ![kili](pics/kili.png)  
 `n`&shy;` ` fruit, vegetable, mushroom
 
-__kin__ ![kin](docs/pics/kin.png)  
+__kin__ ![kin](pics/kin.png)  
 `m`&shy;`1` also, too  
 `m`&shy;`2` confirmation, emphasis (not as strong as _a_)  
 `l`&shy;`a` also, and  
 `see`&shy;` ` a
 
-__kipisi__ ![kipisi](docs/pics/kipisi.png)  
+__kipisi__ ![kipisi](pics/kipisi.png)  
 `v`&shy;` ` cut  
 `pu`&shy;` ` tu  
 Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
 
-__kiwen__ ![kiwen](docs/pics/kiwen.png)  
+__kiwen__ ![kiwen](pics/kiwen.png)  
 `n`&shy;` ` metal, rock, stone, hard object  
 `m`&shy;` ` hard, heavy  
 Originally _wawa ma_ was used before this word was created.
 
-__ko__ ![ko](docs/pics/ko.png)  
+__ko__ ![ko](pics/ko.png)  
 `n`&shy;` ` semi-solid material, paste, powder, clay, dough
 
-__kon__ ![kon](docs/pics/kon.png)  
+__kon__ ![kon](pics/kon.png)  
 `n`&shy;`1` air, breath  
 `n`&shy;`2` spirit, essence, meaning, sense, concept  
 `n`&shy;`3` mind, consciousness, soul  
 `m`&shy;` ` air-like, gaseous
 
-__ku__ ![pu](docs/pics/ku.png)  
+__ku__ ![pu](pics/ku.png)  
 `n`&shy;` ` the _Toki Pona Dictionary_  
 `v`&shy;` ` interacting with the _Toki Pona Dictionary_  
 `m`&shy;` ` according to/as in/by the _Toki Pona Dictionary_  
 
-__kule__ ![kule](docs/pics/kule.png)  
+__kule__ ![kule](pics/kule.png)  
 `n`&shy;` ` color  
 `v`&shy;` ` color  
 `m`&shy;` ` colorful, pigmented
 
-__kulupu__ ![kulupu](docs/pics/kulupu.png)  
+__kulupu__ ![kulupu](pics/kulupu.png)  
 `n`&shy;`1` group, collection, set  
 `n`&shy;`2` community, nation, society
 
-__kute__ ![kute](docs/pics/kute.png)  
+__kute__ ![kute](pics/kute.png)  
 `n`&shy;` ` ear  
 `v`&shy;` ` hear, listen to
 
 ### L
 
-__la__ ![la](docs/pics/la.png)  
+__la__ ![la](pics/la.png)  
 `p`&shy;` ` separates the context and the main sentence
 
-__lanpan__ ![lanpan](docs/pics/lanpan.png)  
+__lanpan__ ![lanpan](pics/lanpan.png)  
 `v`&shy;` ` take, seize, steal, catch, receive  
 `pu`&shy;` ` kama jo, alasa  
 It was coined by the community shortly after *pu* was released, making it one of the most used _nimi sin_.
 
-__lape__ ![lape](docs/pics/lape.png)  
+__lape__ ![lape](pics/lape.png)  
 `v`&shy;` ` sleep, rest
 
-__laso__ ![laso](docs/pics/laso.png)  
+__laso__ ![laso](pics/laso.png)  
 `m`&shy;`1` blue  
 `m`&shy;`2` green (_kule kasi_ is often preferred)
 
-__lawa__ ![lawa](docs/pics/lawa.png)  
+__lawa__ ![lawa](pics/lawa.png)  
 `n`&shy;`1` head  
 `n`&shy;`2` leader  
 `v`&shy;` ` lead, rule, manage, control, direct  
 
-__leko__ ![leko](docs/pics/leko.png)  
+__leko__ ![leko](pics/leko.png)  
 `n`&shy;` ` stairs, square, block, edge  
 `pu`&shy;` ` sike ala  
 Removed from then-official dictionary in 2004.
 
-__len__ ![len](docs/pics/len.png)  
+__len__ ![len](pics/len.png)  
 `n`&shy;`1` cloth, fabric, textile  
 `n`&shy;`2` cover, layer  
 `v`&shy;` ` wear, cover, hide  
 `m`&shy;` ` clothed, covered, covering  
 
-__lete__ ![lete](docs/pics/lete.png)  
+__lete__ ![lete](pics/lete.png)  
 `m`&shy;`1` cold  
 `m`&shy;`2` raw, uncooked
 
-__li__ ![li](docs/pics/li.png)  
+__li__ ![li](pics/li.png)  
 `f`&shy;`1` separates the predicate and the object
 `f`&shy;`2` and (between predicates)  
 
-__lili__ ![lili](docs/pics/lili.png)  
+__lili__ ![lili](pics/lili.png)  
 `m`&shy;`1` small, little, short  
 `m`&shy;`2` young  
 `m`&shy;`3` a bit, slightly
 
-__linja__ ![linja](docs/pics/linja.png)  
+__linja__ ![linja](pics/linja.png)  
 `n`&shy;` ` hair, rope, thread
 `m`&shy;` ` long and flexible, rope-like
 
-__lipu__ ![lipu](docs/pics/lipu.png)  
+__lipu__ ![lipu](pics/lipu.png)  
 `n`&shy;` ` document, book, website, written record  
 `m`&shy;`1` flat, page-like  
 `m`&shy;`2` documented
 
-__loje__ ![loje](docs/pics/loje.png)  
+__loje__ ![loje](pics/loje.png)  
 `m`&shy;` ` red
 
-__lon__ ![lon](docs/pics/lon.png)  
+__lon__ ![lon](pics/lon.png)  
 `p`&shy;` ` located at, at the time of  
 `v`&shy;` ` place, put  
 `m`&shy;` ` existing, real, true  
 `i`&shy;` ` indeed, that's right  
 `l`&shy;`a ` actually, truly, in reality
 
-__luka__ ![luka](docs/pics/luka.png)  
+__luka__ ![luka](pics/luka.png)  
 `n`&shy;` ` upper or front limb (hand, arm)  
 `m`&shy;` ` with hands, by hands  
 `n`&shy;`um ` five
 
-__lukin__ ![lukin](docs/pics/lukin.png)  
+__lukin__ ![lukin](pics/lukin.png)  
 `v`&shy;`1` look, see, examine, read, watch  
 `v`&shy;`2` (with _tawa_) search, look for, seek   
 `a`&shy;` ` try to  
@@ -351,64 +352,64 @@ __lukin__ ![lukin](docs/pics/lukin.png)
 `see`&shy;` ` oko  
 In *pu*, _lukin_ and _oko_ were merged and could be used interchangibly.
 
-__lupa__ ![lupa](docs/pics/lupa.png)  
+__lupa__ ![lupa](pics/lupa.png)  
 `n`&shy;` ` hole, orifice, window, door  
 `v`&shy;` ` pierce, stab, dig  
 `m`&shy;` ` full of holes, hollow
 
 ### M
 
-__ma__ ![ma](docs/pics/ma.png)  
+__ma__ ![ma](pics/ma.png)  
 `n`&shy;`1` land, country, place  
 `n`&shy;`2` earth, dry land, outdoor area  
 `m`&shy;` ` outside
 
-__\*majuna__ ![majuna](docs/pics/majuna.png)  
+__\*majuna__ ![majuna](pics/majuna.png)  
 `m`&shy;` ` old  
 `pu`&shy;` ` sin ala, lili ala, suli  
 Removed before first public draft.
 { .hidden }
 
-__mama__ ![mama](docs/pics/mama.png)  
+__mama__ ![mama](pics/mama.png)  
 `n`&shy;` ` parent, ancestor, origin, creator, caretaker  
 `m`&shy;`1` parent, ancestor, parental
 `m`&shy;`2` original (only when it is used in contrast with something)
 
-__mani__ ![mani](docs/pics/mani.png)  
+__mani__ ![mani](pics/mani.png)  
 `n`&shy;`1` money, wealth  
 `n`&shy;`2` livestock  
 `m`&shy;` ` valuable
 
-__meli__ ![meli](docs/pics/meli.png)  
+__meli__ ![meli](pics/meli.png)  
 `n`&shy;` ` woman, girl  
 `m`&shy;`1` female (of their species)  
 `m`&shy;`2` feminine
 
-__mi__ ![mi](docs/pics/mi.png)  
+__mi__ ![mi](pics/mi.png)  
 `n`&shy;` ` 1st person (I, me; we, us)  
 `m`&shy;`1` my, mine; our, ours  
 
-__mije__ ![mije](docs/pics/mije.png)  
+__mije__ ![mije](pics/mije.png)  
 `n`&shy;` ` man, boy, male  
 `m`&shy;`1` male (of their species)  
 `m`&shy;`2` masculine
 
-__moku__ ![moku](docs/pics/moku.png)  
+__moku__ ![moku](pics/moku.png)  
 `n`&shy;` ` food, meal, sustenance  
 `v`&shy;`1` eat, drinkm, consume, inhale, swallow  
 `m`&shy;` ` edible, nourishing
 
-__moli__ ![moli](docs/pics/moli.png)  
+__moli__ ![moli](pics/moli.png)  
 `n`&shy;` ` death  
 `v`&shy;` ` murder, kill  
 `m`&shy;` ` dying, dead, lethal, mortal, fatal
 
-__monsi__ ![monsi](docs/pics/monsi.png)  
+__monsi__ ![monsi](pics/monsi.png)  
 `n`&shy;` ` back, rear end  
 `v`&shy;` ` retreat  
 `m`&shy;` ` behind
 
-__monsuta__ ![monsuta](docs/pics/monsuta.png)  
+__monsuta__ ![monsuta](pics/monsuta.png)  
 `n`&shy;` ` monster  
 `v`&shy;` ` fear, be afraid of  
 `m`&shy;` ` frightening  
@@ -416,65 +417,65 @@ __monsuta__ ![monsuta](docs/pics/monsuta.png)
 `pu`&shy;` ` ike, akesi, apeja  
 Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
 
-__mu__ ![mu](docs/pics/mu.png)  
+__mu__ ![mu](pics/mu.png)  
 `n`&shy;`1` animal noise  
 `n`&shy;`2` meaningless or incomprehensible talking  
 `v`&shy;` ` make animal noises, speak incomprehensibly  
 `m`&shy;` ` meaningless, incomprehensible, unintelligible  
 `i`&shy;` ` animal vocalization (such as 'meow', 'moo', 'quack')
 
-__mun__ ![mun](docs/pics/mun.png)  
+__mun__ ![mun](pics/mun.png)  
 `n`&shy;` ` moon, star  
 `m`&shy;` ` lunar
 
-__musi__ ![musi](docs/pics/musi.png)  
+__musi__ ![musi](pics/musi.png)  
 `n`&shy;`1` fun  
 `n`&shy;`2` art  
 `v`&shy;`1` play, have fun  
 `m`&shy;` ` entertaining, artistic
 
-__mute__ ![mute](docs/pics/mute.png)  
+__mute__ ![mute](pics/mute.png)  
 `v`&shy;` ` multiply, extend  
-`m`&shy;`` many, a lot, more, much, very    
-`#`&shy;`1` many
+`m`&shy;` ` many, a lot, more, much, very    
+`#`&shy;`1` many  
 `#`&shy;`2` twenty
 
 ### N
 
-__namako__ ![namako](docs/pics/namako.png)  
+__namako__ ![namako](pics/namako.png)  
 `n`&shy;` ` addition, bonus, spice (for food)  
 `m`&shy;` ` extra, additional  
 `see`&shy;` ` sin  
 Added along with _kipisi_ and _monsuta_ in 2010. In _pu_, it was merged with _sin_.
 
-__nanpa__ ![nanpa](docs/pics/nanpa.png)  
+__nanpa__ ![nanpa](pics/nanpa.png)  
 `n`&shy;` ` number  
 `f`&shy;` ` -th (ordinal number)
 
-__nasa__ ![nasa](docs/pics/nasa.png)  
+__nasa__ ![nasa](pics/nasa.png)  
 `v`&shy;` ` fool around  
 `m`&shy;` ` unusual, strange, weird, crazy, intoxicated
 
-__nasin__ ![nasin](docs/pics/nasin.png)  
+__nasin__ ![nasin](pics/nasin.png)  
 `n`&shy;`1` path, road  
 `n`&shy;`2` way, method  
 `v`&shy;` ` follow, adopt  
 
-__nena__ ![nena](docs/pics/nena.png)  
+__nena__ ![nena](pics/nena.png)  
 `n`&shy;` ` mountain, hill  
 `n`&shy;` ` protuberance, bump  
 `m`&shy;` ` bumpy, hilly, undulating
 
-__ni__ ![ni](docs/pics/ni.png)  
+__ni__ ![ni](pics/ni.png)  
 `n`&shy;` ` this, that  
 `m`&shy;` ` this, that  
 `f`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
 
-__nimi__ ![nimi](docs/pics/nimi.png)  
+__nimi__ ![nimi](pics/nimi.png)  
 `n`&shy;` ` name, word  
 `v`&shy;` ` name (with _sama_)
 
-__noka__ ![noka](docs/pics/noka.png)  
+__noka__ ![noka](pics/noka.png)  
 `n`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
 `v`&shy;` ` kick  
 `m`&shy;`1` on foot, by foot  
@@ -482,24 +483,24 @@ __noka__ ![noka](docs/pics/noka.png)
 
 ### O
 
-__o__ ![o](docs/pics/o.png)  
+__o__ ![o](pics/o.png)  
 `f`&shy;`1` marks imperative and vocative
 
-__oko__ ![oko](docs/pics/oko.png)  
+__oko__ ![oko](pics/oko.png)  
 `n`&shy;` ` eye  
 `v`&shy;` ` look (but not _see_)  
 `see`&shy;` ` lukin  
 It was merged with _lukin_ in _pu_.
 
-__olin__ ![olin](docs/pics/olin.png)  
+__olin__ ![olin](pics/olin.png)  
 `n`&shy;` ` love, emotional affection  
 `v`&shy;` ` love, adore  
 
-__ona__ ![ona](docs/pics/ona.png)  
+__ona__ ![ona](pics/ona.png)  
 `n`&shy;` ` 3rd person (he, she, it, they)  
 `m`&shy;` ` their, theirs (and all the others)
 
-__open__ ![open](docs/pics/open.png)  
+__open__ ![open](pics/open.png)  
 `n`&shy;` ` start, beginning  
 `v`&shy;` ` open, activate, turn on  
 `a`&shy;` ` begin, start  
@@ -508,74 +509,74 @@ __open__ ![open](docs/pics/open.png)
 
 ### P
 
-__pakala__ ![pakala](docs/pics/pakala.png)  
+__pakala__ ![pakala](pics/pakala.png)  
 `n`&shy;`1` damage, injury  
 `n`&shy;`2` error, bug, accident, mistake  
 `v`&shy;` ` brake, damage  
 `m`&shy;` ` broken, damaged, non-funcional  
 `i`&shy;` ` dammit! shoot!
 
-__pake__ ![pake](docs/pics/pake.png)  
+__pake__ ![pake](pics/pake.png)  
 `n`&shy;` ` blocking, prevention, obstruction  
 `v`&shy;` ` block, obstruct, prevent  
 `m`&shy;` ` blocked, prevented  
 Suggested by jan Sonja, never officially added.
 
-__pali__ ![pali](docs/pics/pali.png)  
+__pali__ ![pali](pics/pali.png)  
 `n`&shy;` ` working, job, process  
 `v`&shy;` ` do, make, build, prepare, work (on)  
 
-__palisa__ ![palisa](docs/pics/palisa.png)  
+__palisa__ ![palisa](pics/palisa.png)  
 `n`&shy;` ` rot, stick; long and solid (hard) thing  
 `m`&shy;` ` long and solid (hard)
 
-__pan__ ![pan](docs/pics/pan.png)  
+__pan__ ![pan](pics/pan.png)  
 `n`&shy;` ` bread, cereal, corn, rice, grain
 
-__pana__ ![pana](docs/pics/pana.png)  
+__pana__ ![pana](pics/pana.png)  
 `n`&shy;` ` giving, sharing  
 `v`&shy;` ` give, send, share, publish, release  
 `m`&shy;` ` given, shared, public
 
-__\*pasila/pasi__ ![\*pasila/pasi](docs/pics/\*pasila/pasi.png)  
-`see`&shy;` ` pona
+__\*pasila/pasi__  
+`see`&shy;` ` pona  
 _pasila_ was replaced before the first public draft; _pasi_ was a typo.
 { .hidden }
 
-__pi__ ![pi](docs/pics/pi.png)  
+__pi__ ![pi](pics/pi.png)  
 `p`&shy;` ` of (marks the possessor)  
 `p`&shy;` `&shy;`sep ` separates modifier groups after the noun
 
-__pilin__ ![pilin](docs/pics/pilin.png)  
+__pilin__ ![pilin](pics/pilin.png)  
 `n`&shy;` ` feeling, instinct, emotion, heart (sometimes after _insa_)  
 `v`&shy;` ` feel, smell, sense, guess, think about (an opinion)  
 `m`&shy;`od ` feeling, emotionally
 
-__pimeja__ ![pimeja](docs/pics/pimeja.png)  
+__pimeja__ ![pimeja](pics/pimeja.png)  
 `n`&shy;` ` darkness  
 `v`&shy;` ` darken  
 `m`&shy;` ` dark, unlit, black, hidden (metaphorically)
 
-__pini__ ![pini](docs/pics/pini.png)  
+__pini__ ![pini](pics/pini.png)  
 `n`&shy;` ` end, finish, past  
 `v`&shy;` ` finish, end, stop, complete, turn off  
 `a`&shy;` ` end, finish, stop  
 `m`&shy;`od ` finished, past, former, ex-
 
-__pipi__ ![pipi](docs/pics/pipi.png)  
+__pipi__ ![pipi](pics/pipi.png)  
 `n`&shy;` ` insect, bug, spider
 
-__poka__ ![poka](docs/pics/poka.png)  
+__poka__ ![poka](pics/poka.png)  
 `n`&shy;` ` side, hip  
 `p`&shy;` ` along with, together with, next to  
 `p`&shy;` ` with  
 `d`&shy;`ir ` near, next to, side of
 
-__poki__ ![poki](docs/pics/poki.png)  
+__poki__ ![poki](pics/poki.png)  
 `n`&shy;` ` box, container, bag, bowl  
 `v`&shy;` ` contain  
 
-__pona__ ![pona](docs/pics/pona.png)  
+__pona__ ![pona](pics/pona.png)  
 `n`&shy;` ` good, help, peace  
 `v`&shy;` ` help (someone), repair, fix, improve  
 `m`&shy;` ` good, positive, friendly, useful, simple, nice, right (_not_ the direction)  
@@ -588,44 +589,44 @@ __\*po__
 Removed before toki pona became well-known.
 { .hidden }
 
-__powe__ ![powe](docs/pics/powe.png)  
+__powe__ ![powe](pics/powe.png)  
 `n`&shy;` ` being false, cheating, trick  
 `v`&shy;` ` be false, deceive, pretend, cheat, trick  
 `m`&shy;` ` false, untrue  
 `pu`&shy;` ` lon ala, toki ike, ike  
 Never was added to any official dictionary.
 
-__pu__ ![pu](docs/pics/pu.png)  
+__pu__ ![pu](pics/pu.png)  
 `n`&shy;` ` the _Toki Pona Book_  
 `v`&shy;` ` interacting with the _Toki Pona Book_  
 `m`&shy;` ` according to/as in/by the _Toki Pona Book_  
 
 ### S
 
-__sama__ ![sama](docs/pics/sama.png)  
+__sama__ ![sama](pics/sama.png)  
 `n`&shy;` ` equality, each other (usually after _e_)  
 `v`&shy;` ` to make similar  
 `m`&shy;` ` same, similar, sibling, fellow  
 `p`&shy;` ` like, as, same as, equal to  
 `l`&shy;`a ` similarly, like
 
-__seli__ ![seli](docs/pics/seli.png)  
+__seli__ ![seli](pics/seli.png)  
 `n`&shy;` ` heat, fire, chemical reaction  
 `v`&shy;` ` cook, bake, heat  
 `m`&shy;` ` hot, warm, cooked
 
-__selo__ ![selo](docs/pics/selo.png)  
+__selo__ ![selo](pics/selo.png)  
 `n`&shy;` ` outer layer, outer side, shell, skin, wall, separator  
 `v`&shy;` ` separate  
 `m`&shy;` ` outer (side)
 
-__seme__ ![seme](docs/pics/seme.png)  
+__seme__ ![seme](pics/seme.png)  
 `n`&shy;` ` what? who?  
 `m`&shy;` ` which? what kind?  
 `a`&shy;`dv ` how?  
 `p`&shy;` ` what? which? wh-? (creates a question)
 
-__sewi__ ![sewi](docs/pics/sewi.png)  
+__sewi__ ![sewi](pics/sewi.png)  
 `n`&shy;` ` area above, highest part, top    
 `n`&shy;` ` god, sky  
 `v`&shy;` ` get up, arise, lift, raise up, win  
@@ -634,10 +635,10 @@ __sewi__ ![sewi](docs/pics/sewi.png)
 `m`&shy;` ` formal, religious, elevated, superior  
 `d`&shy;`ir ` above, up
 
-__sijelo__ ![sijelo](docs/pics/sijelo.png)  
+__sijelo__ ![sijelo](pics/sijelo.png)  
 `n`&shy;` ` body, torso  
 
-__sike__ ![sike](docs/pics/sike.png)  
+__sike__ ![sike](pics/sike.png)  
 `n`&shy;` ` round or circular thing  
 `v`&shy;` ` repeat, rotate  
 `v`&shy;` ` form into a circle, encircle, surround  
@@ -646,57 +647,57 @@ __sike__ ![sike](docs/pics/sike.png)
 `a`&shy;`dv ` repeatedly, again and again  
 `m`&shy;` ` of one year
 
-__sin__ ![sin](docs/pics/sin.png)  
+__sin__ ![sin](pics/sin.png)  
 `v`&shy;` ` renew, freshen, upgrade  
 `m`&shy;` ` new, fresh, another  
 `see`&shy;` ` namako
 
-__sina__ ![sina](docs/pics/sina.png)  
+__sina__ ![sina](pics/sina.png)  
 `n`&shy;` ` 2nd person (thou, you)  
 `m`&shy;` ` thy, thine; your, yours
 
-__sinpin__ ![sinpin](docs/pics/sinpin.png)  
+__sinpin__ ![sinpin](pics/sinpin.png)  
 `n`&shy;` ` face, front  
 `n`&shy;` ` wall  
 `m`&shy;` ` front, facial  
 `d`&shy;`ir ` front of
 
-__sitelen__ ![sitelen](docs/pics/sitelen.png)  
+__sitelen__ ![sitelen](pics/sitelen.png)  
 `n`&shy;` ` drawing, writing, picture, image, symbol, visual representation  
 `n`&shy;` ` letter  
 `v`&shy;` ` draw, write, paint  
 `m`&shy;` ` written, drawn  
 `m`&shy;` ` representational, metaphorical, figurative
 
-__sona__ ![sona](docs/pics/sona.png)  
+__sona__ ![sona](pics/sona.png)  
 `n`&shy;` ` knowledge, science (of something), intelligence, wisdom  
 `v`&shy;` ` know, skilled in  
 `a`&shy;` ` know how to  
 `m`&shy;` ` known, smart (figuratively, like in "smart phone")  
 
-__soweli__ ![soweli](docs/pics/soweli.png)  
+__soweli__ ![soweli](pics/soweli.png)  
 `n`&shy;` ` animal, mammal, land animal  
 `n`&shy;` ` lovable animal  
 `m`&shy;` ` wild, animalistic
 
-__su__ ![pu](docs/pics/su.png)  
+__su__ ![pu](pics/su.png)  
 `n`&shy;` ` _The Wonderful Wizard of Oz (Toki Pona edition)_  
 `v`&shy;` ` interacting with the _The Wonderful Wizard of Oz (Toki Pona edition)_  
 `m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_  
 
-__suli__ ![suli](docs/pics/suli.png)  
+__suli__ ![suli](pics/suli.png)  
 `m`&shy;` ` big, large, adult, heavy, important
 
-__suno__ ![suno](docs/pics/suno.png)  
+__suno__ ![suno](pics/suno.png)  
 `n`&shy;` ` sun, light, shine  
 `n`&shy;` ` light source  
 `m`&shy;` ` bright, lit, shining, gold (color)
 
-__supa__ ![supa](docs/pics/supa.png)  
+__supa__ ![supa](pics/supa.png)  
 `n`&shy;` ` horizontal surface  
 `m`&shy;` ` thing you can rest on
 
-__suwi__ ![suwi](docs/pics/suwi.png)  
+__suwi__ ![suwi](pics/suwi.png)  
 `n`&shy;` ` candy, sweets  
 `v`&shy;` ` sweeten  
 `m`&shy;` ` cute, sweet, adorable  
@@ -704,46 +705,46 @@ __suwi__ ![suwi](docs/pics/suwi.png)
 
 ### T
 
-__tan__ ![tan](docs/pics/tan.png)  
+__tan__ ![tan](pics/tan.png)  
 `n`&shy;` ` reason, ground  
 `v`&shy;` ` reason, cause  
 `m`&shy;` ` grounded  
 `p`&shy;` ` because (of), since, by, from
 
-__taso__ ![taso](docs/pics/taso.png)  
+__taso__ ![taso](pics/taso.png)  
 `m`&shy;` ` only  
 `c`&shy;`onj ` but
 
-__tawa__ ![tawa](docs/pics/tawa.png)  
+__tawa__ ![tawa](pics/tawa.png)  
 `v`&shy;` ` move (something)  
 `m`&shy;` ` moving  
 `p`&shy;` ` going to, for, to
 
-__telo__ ![telo](docs/pics/telo.png)  
+__telo__ ![telo](pics/telo.png)  
 `n`&shy;` ` liquid, fluid, beverage, water  
 `v`&shy;` ` water, wash  
 `v`&shy;` ` swim  
 `m`&shy;` ` liquid, wet  
 
-__tenpo__ ![tenpo](docs/pics/tenpo.png)  
+__tenpo__ ![tenpo](pics/tenpo.png)  
 `n`&shy;` ` time, moment, period  
 `l`&shy;`a ` sometimes
 
-__toki__ ![toki](docs/pics/toki.png)  
+__toki__ ![toki](pics/toki.png)  
 `n`&shy;` ` speak, language  
 `v`&shy;` ` say, talk, tell, communicate, think (of something grounded)  
 `m`&shy;` ` spoken
 
-__tomo__ ![tomo](docs/pics/tomo.png)  
+__tomo__ ![tomo](pics/tomo.png)  
 `n`&shy;` ` house, room, indoor space, home  
 `m`&shy;` ` urban
 
-__tonsi__ ![tonsi](docs/pics/tonsi.png)  
+__tonsi__ ![tonsi](pics/tonsi.png)  
 `n`&shy;` ` non-binary, genderqueer, gender-nonconforming, transgender.  
 `pu`&shy;` ` jan kule  
 This word was coined by the community shortly after *pu* was released. "jan kule" is a possible alternative, though it is most often used as an umbrella term for the whole LGBTQ+ community.
 
-__tu__ ![tu](docs/pics/tu.png)  
+__tu__ ![tu](pics/tu.png)  
 `v`&shy;` ` cut  
 `n`&shy;`um ` two
 
@@ -755,46 +756,46 @@ Removed before toki pona became well-known.
 
 ### U
 
-__unpa__ ![unpa](docs/pics/unpa.png)  
+__unpa__ ![unpa](pics/unpa.png)  
 `n`&shy;` ` sex, making love, intercourse  
 `v`&shy;` ` have sex with, copulate with  
 `v`&shy;` ` have marital relation with  
 `m`&shy;` ` sexual  
 `a`&shy;`dv ` sexually
 
-__uta__ ![uta](docs/pics/uta.png)  
+__uta__ ![uta](pics/uta.png)  
 `n`&shy;` ` mouth, lips  
 `v`&shy;` ` kiss  
 `m`&shy;`od ` oral
 
-__utala__ ![utala](docs/pics/utala.png)  
+__utala__ ![utala](pics/utala.png)  
 `n`&shy;` ` fight, battle, war  
 `v`&shy;` ` battle, challenge  
 `m`&shy;` ` fighting
 
 ### W
 
-__walo__ ![walo](docs/pics/walo.png)  
+__walo__ ![walo](pics/walo.png)  
 `m`&shy;` ` white, light, pale, innocent, virgin
 
-__wan__ ![wan](docs/pics/wan.png)  
+__wan__ ![wan](pics/wan.png)  
 `m`&shy;` ` unique  
 `n`&shy;`um ` one
 
-__waso__ ![waso](docs/pics/waso.png)  
+__waso__ ![waso](pics/waso.png)  
 `n`&shy;` ` bird  
 `m`&shy;` ` winged (animal), flying (creature)
 
-__wawa__ ![wawa](docs/pics/wawa.png)  
+__wawa__ ![wawa](pics/wawa.png)  
 `n`&shy;` ` energy, power  
 `v`&shy;` ` energize, empower  
 `m`&shy;` ` strong, powerful, energetic, intense
 
-__weka__ ![weka](docs/pics/weka.png)  
+__weka__ ![weka](pics/weka.png)  
 `v`&shy;` ` get away from, ignore, throw away, remove  
 `m`&shy;` ` away, ignored
 
-__wile__ ![wile](docs/pics/wile.png)  
+__wile__ ![wile](pics/wile.png)  
 `n`&shy;` ` will, urge, need, hope  
 `v`&shy;` ` want  
 `a`&shy;` ` want, should, have to, must, need  
@@ -802,7 +803,7 @@ __wile__ ![wile](docs/pics/wile.png)
 
 ### Y
 
-__yupekosi__ ![yupekosi](docs/pics/yupekosi.png)  
+__yupekosi__ ![yupekosi](pics/yupekosi.png)  
 `v`&shy;` ` to behave like George Lucas and revise your old creative works and actually make them worse  
 `pu`&shy;` ` wile ike
 *"Nobody knows how to pronounce the y."*\[sic\] -- jan Sonja
