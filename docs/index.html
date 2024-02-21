@@ -185,6 +185,8 @@ blockquote::before {
     font-family: var(--mono-font);
     margin-left: -2em;
     margin-bottom: 1rem;
+    grid-column-start: 1;
+    grid-column-end: span 2
 }
 
 blockquote {
@@ -196,6 +198,10 @@ blockquote {
     padding: 10px;
     margin: auto 0 auto 2em;
     line-height: 200%;
+}
+
+blockquote>p {
+    display: none;
 }
 
 .block-left, .block-right {
@@ -264,9 +270,19 @@ tr:not(:last-child) td {
     line-height: 90%;
 }
 
+.dict p {
+    position: relative;
+}
+
 .dict img {
+    position: absolute;
     display: inline-block;
     height: 1.5em;
+    left: 5em;
+}
+
+.dict .kijetesantakalu img {
+    left: 9em;
 }
 
 h6 {
@@ -282,6 +298,24 @@ h6 ~ p {
     margin-top: 0;
 }
 
+@media screen and (max-width: 470px) {
+    body {
+        width: 85vw;
+    }
+    table {
+        display: block;
+        overflow-x: scroll;
+        width: initial;
+    }
+    blockquote {
+        margin-left: 0;
+    }
+
+    blockquote::before {
+        margin-left: 0;
+        
+    }
+}
 @media print {
     :root {
         --color-bg: white;
@@ -447,7 +481,7 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 2. Putting <em>"anu seme?"</em> at the end of the sentence.
 3. Putting <em>"seme"</em> in place of the thing you want to question.</p>
 <p>The exclamation point is used for <em>three different ways:</em>
-1. To form imperative (command) sentences, in which case, <code>o</code> is used in front of the verb and the subject may be ommitted; if it is not, then <code>o</code> may <em>replace</em> <code>li</code>.
+1. To form imperative (command) sentences, in which case, <code>o</code> is used in front of the verb and the subject may be ommitted; if it is not, then <code>o</code> <em>replaces</em> <code>li</code>.
 2. To form interjections, like <em>"moku pona!"</em> (good appetite!).
 3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.</p>
 <blockquote>
@@ -528,7 +562,7 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 <p><div class="block-left">soweli li lon insa tomo.</div><div class="block-right">(The cat is in the house.)</div>
 <div class="block-left">soweli li lon poka pi jan lawa ona.</div><div class="block-right">(The dog is next to its owner.)</div>
 <div class="block-left">soweli li lape lon soweli ante.</div><div class="block-right">(The cat is sleeping on the dog.)</div>
-<div class="block-left">musi kiwen soweli li lon supa lon sewi pi ilo pi sitelen tawa.</div><div class="block-right">(The cat statue is on a shelf above the telly.)</div>
+<div class="block-left">musi kiwen li lon supa lon sewi pi ilo pi sitelen tawa.</div><div class="block-right">(The [cat] statue is on a shelf above the telly.)</div>
 <div class="block-left">soweli li lape lon anpa supa.</div><div class="block-right">(The cat is sleeping under the bed.)</div>
 <div class="block-left">soweli li tawa monsi tomo.</div><div class="block-right">(The cat goes behind the house [presumably to sleep].)</div></p>
 </blockquote>
@@ -634,7 +668,7 @@ Prepositional phrases may be places in front of <em>'la'</em> to indicate that i
 <p>Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example <em><em>kipisi</em></em> at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this <em>does not</em> mean that words without a definition as a noun cannot be use as one in the right context. <em>Function</em> (or <em>grammatical</em>) words are the only exceptions to this rule.</p>
 <p class="hidden">There are multiple different dictionaries that can be found with word counts most ranging between 118&ndash;150. <em>pu</em>, the "official Toki Pona book" written by jan Sonja, had a 120/123 word dictionary &ndash; where 6 words were merged in pairs. <em>ku</em>, the "Toki Pona Dictionary" also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.<br />
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.</p>
-<p class="hidden keep">This dictionary contains 141 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
+<p class="hidden keep">This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
 <h3>Abbreviations</h3>
 <dl>
 <dt><code>n</code></dt>
@@ -664,53 +698,53 @@ Due to the small number of words, definitions may be vague and toki pona relies 
 </dl>
 <p>Numbers following any of these letters mark <em>alternative</em> definitions.</p>
 <h3>A</h3>
-<p><strong>a</strong> <img alt="a" src="docs/pics/a.png" /><br />
+<p><strong>a</strong> <img alt="a" src="pics/a.png" /><br />
 <code>m</code>&shy;<code>1</code> (emotional) emphasis<br />
 <code>m</code>&shy;<code>2</code> exaggeration, superlative (after <em>adjectives</em>)<br />
 <code>i</code>&shy;<code></code> ah! I got it! Hahaha! (as "a a a")<br />
 <code>see</code>&shy;<code></code> kin</p>
-<p><strong>akesi</strong> <img alt="akesi" src="docs/pics/akesi.png" /><br />
+<p><strong>akesi</strong> <img alt="akesi" src="pics/akesi.png" /><br />
 <code>n</code>&shy;<code>1</code> reptile, amphibian<br />
 <code>n</code>&shy;<code>2</code> non-cute animal, monster (dialectal)<br />
 <em>non-cute animal</em> definition has been removed in the Toki Pona Dictionary.</p>
-<p><strong>ala</strong> <img alt="ala" src="docs/pics/ala.png" /><br />
+<p><strong>ala</strong> <img alt="ala" src="pics/ala.png" /><br />
 <code>n</code>&shy;<code></code> nothing, no one, null, the lack of (something)<br />
 <code>v</code>&shy;<code></code> deny<br />
 <code>m</code>&shy;<code></code> no, not<br />
 <code>i</code>&shy;<code></code> no!</p>
-<p><strong>alasa</strong> <img alt="alasa" src="docs/pics/alasa.png" /><br />
+<p><strong>alasa</strong> <img alt="alasa" src="pics/alasa.png" /><br />
 <code>n</code>&shy;<code></code> hunting, searching<br />
 <code>v</code>&shy;<code>1</code> hunt, forage, gather<br />
 <code>v</code>&shy;<code>2</code> look for, search determinedly  </p>
-<p><strong>ale/ali</strong> <img alt="ale/ali" src="docs/pics/ale.png" /><br />
+<p><strong>ale/ali</strong> <img alt="ale/ali" src="pics/ale.png" /><br />
 <code>n</code>&shy;<code></code> everything, life, universe<br />
 <code>m</code>&shy;<code></code> all, each, every, countless<br />
 <code>#</code>&shy;<code></code> all, countless amount<br />
 <code>#</code>&shy;<code>1</code> 100<br />
 <code>l</code>&shy;<code>a</code> all told, nevertheless, despite everything, either way<br />
 <em>ale</em> was the original, while <em>ali</em> was added to avoid ambiguity with <em>ala</em> in speech.</p>
-<p><strong>anpa</strong> <img alt="anpa" src="docs/pics/anpa.png" /><br />
+<p><strong>anpa</strong> <img alt="anpa" src="pics/anpa.png" /><br />
 <code>n</code>&shy;<code></code> bottom, below<br />
 <code>v</code>&shy;<code>1</code> kneel, bow, accept (the terms)<br />
 <code>v</code>&shy;<code>2</code> defeat, beat, conquer, enslave<br />
 <code>m</code>&shy;<code>1</code> low, below, down, beneath<br />
 <code>m</code>&shy;<code>2</code> dependent</p>
-<p><strong>ante</strong> <img alt="ante" src="docs/pics/ante.png" /><br />
+<p><strong>ante</strong> <img alt="ante" src="pics/ante.png" /><br />
 <code>n</code>&shy;<code></code> change, difference, diversity<br />
 <code>v</code>&shy;<code></code> alter, change, convert, transform<br />
 <code>m</code>&shy;<code>1</code> different, altered, changed<br />
 <code>m</code>&shy;<code>2</code> other<br />
 <code>l</code>&shy;<code>a</code> or, otherwise</p>
-<p><strong>anu</strong> <img alt="anu" src="docs/pics/anu.png" /><br />
+<p><strong>anu</strong> <img alt="anu" src="pics/anu.png" /><br />
 <code>f</code>&shy;<code></code> or<br />
 <code>l</code>&shy;<code>a</code>  or</p>
-<p><strong>apeja</strong> <img alt="apeja" src="docs/pics/apeja.png" /><br />
+<p><strong>apeja</strong> <img alt="apeja" src="pics/apeja.png" /><br />
 <code>n</code>&shy;<code></code> depression, abuse, shame, dishonor<br />
 <code>v</code>&shy;<code></code> verbal attack, disgrace, depress<br />
 <code>m</code>&shy;<code></code> shameful, dishonored, depressive<br />
 <code>p</code>&shy;<code></code> ike, utala toki<br />
 Added in early 2010, but was not included in <em>pu</em>.</p>
-<p><strong>awen</strong> <img alt="awen" src="docs/pics/awen.png" /><br />
+<p><strong>awen</strong> <img alt="awen" src="pics/awen.png" /><br />
 <code>n</code>&shy;<code></code> waiting, staying<br />
 <code>v</code>&shy;<code>1</code> wait, wait for (with "tawa"), stay, remain<br />
 <code>v</code>&shy;<code>2</code> keep something unchanged
@@ -718,20 +752,20 @@ Added in early 2010, but was not included in <em>pu</em>.</p>
 <code>m</code>&shy;<code></code> kept, protected (from change), remaining<br />
 <code>l</code>&shy;<code>a</code> still</p>
 <h3>E</h3>
-<p><strong>e</strong> <img alt="e" src="docs/pics/e.png" /> <br />
+<p><strong>e</strong> <img alt="e" src="pics/e.png" /> <br />
 <code>f</code>&shy;<code>1</code> separates the predicate and the object<br />
 <code>f</code>&shy;<code>2</code> and (if there are multiple objects)</p>
-<p><strong>en</strong> <img alt="en" src="docs/pics/en.png" /><br />
+<p><strong>en</strong> <img alt="en" src="pics/en.png" /><br />
 <code>f</code>&shy;<code></code> and (between subject)<br />
 <code>l</code>&shy;<code>a</code> and, additionally</p>
-<p><strong>esun</strong> <img alt="esun" src="docs/pics/esun.png" /><br />
+<p><strong>esun</strong> <img alt="esun" src="pics/esun.png" /><br />
 <code>n</code>&shy;<code></code> business<br />
 <code>v</code>&shy;<code></code> buy, do business<br />
 <code>m</code>&shy;<code></code> financial, for sale</p>
 <h3>I</h3>
-<p><strong>ijo</strong> <img alt="ijo" src="docs/pics/ijo.png" /><br />
+<p><strong>ijo</strong> <img alt="ijo" src="pics/ijo.png" /><br />
 <code>n</code>&shy;<code></code> something, thing, object  </p>
-<p><strong>ike</strong> <img alt="ike" src="docs/pics/ike.png" /><br />
+<p><strong>ike</strong> <img alt="ike" src="pics/ike.png" /><br />
 <code>n</code>&shy;<code></code> bad(ness), evil<br />
 <code>v</code>&shy;<code></code> ruin, spoil<br />
 <code>m</code>&shy;<code></code> bad, negative, wrong, corrupted, evil, complex<br />
@@ -739,37 +773,37 @@ Added in early 2010, but was not included in <em>pu</em>.</p>
 <p class="hidden"><strong>*iki/ipi</strong><br />
 <code>pu</code>&shy;<code></code> ona<br />
 <em>ipi</em> was replaced for its similarity to <em>ike</em>, while <em>ipi</em> was replaced before first draft.</p>
-<p><strong>ilo</strong> <img alt="ilo" src="docs/pics/ilo.png" /><br />
+<p><strong>ilo</strong> <img alt="ilo" src="pics/ilo.png" /><br />
 <code>n</code>&shy;<code></code> tool, machine, device</p>
-<p><strong>insa</strong> <img alt="insa" src="docs/pics/insa.png" /><br />
+<p><strong>insa</strong> <img alt="insa" src="pics/insa.png" /><br />
 <code>n</code>&shy;<code></code> inside<br />
 <code>n</code>&shy;<code></code> stomach, organ<br />
 <code>m</code>&shy;<code>1</code> internal<br />
 <code>m</code>&shy;<code>2</code> inner, inside, center, among</p>
 <h3>J</h3>
-<p><strong>jaki</strong> <img alt="jaki" src="docs/pics/jaki.png" /><br />
+<p><strong>jaki</strong> <img alt="jaki" src="pics/jaki.png" /><br />
 <code>n</code>&shy;<code></code> dirt, garbage, filth, sh*t<br />
 <code>v</code>&shy;<code></code> stain, defile<br />
 <code>m</code>&shy;<code></code> disgusting, toxic, unclean</p>
 <p class="hidden"><strong>*jalan</strong><br />
-<code>pu</code>&shy;`` noka
+<code>pu</code>&shy;<code></code> noka
 Proposed replacement for <em>noka</em> by jan Sonja. The community voted against it.</p>
-<p><strong>jan</strong> <img alt="jan" src="docs/pics/jan.png" /><br />
+<p><strong>jan</strong> <img alt="jan" src="pics/jan.png" /><br />
 <code>n</code>&shy;<code></code> human, person<br />
 <code>m</code>&shy;<code></code> humanoid, human-like</p>
-<p><strong>jelo</strong> <img alt="jelo" src="docs/pics/jelo.png" /><br />
+<p><strong>jelo</strong> <img alt="jelo" src="pics/jelo.png" /><br />
 <code>m</code>&shy;<code></code> yellow</p>
-<p><strong>jo</strong> <img alt="jo" src="docs/pics/jo.png" /><br />
+<p><strong>jo</strong> <img alt="jo" src="pics/jo.png" /><br />
 <code>v</code>&shy;<code></code> have, own, carry, contain</p>
 <h3>K</h3>
-<p><strong>kala</strong> <img alt="kala" src="docs/pics/kala.png" /><br />
+<p><strong>kala</strong> <img alt="kala" src="pics/kala.png" /><br />
 <code>n</code>&shy;<code></code> fish<br />
 <code>m</code>&shy;<code></code> fish-like, aquatic</p>
-<p><strong>kalama</strong> <img alt="kalama" src="docs/pics/kalama.png" /><br />
+<p><strong>kalama</strong> <img alt="kalama" src="pics/kalama.png" /><br />
 <code>n</code>&shy;<code></code> sound, noise, roar<br />
 <code>v</code>&shy;<code></code> produce a sound, yell, bawl<br />
 <code>m</code>&shy;<code></code> loud, audible</p>
-<p><strong>kama</strong> <img alt="kama" src="docs/pics/kama.png" /><br />
+<p><strong>kama</strong> <img alt="kama" src="pics/kama.png" /><br />
 <code>a</code>&shy;<code></code> become, will, pursue actions to arrive to (a certain state)<br />
 <code>m</code>&shy;<code></code> <em>something</em>-to-be in the future, coming, arriving</p>
 <p class="hidden"><strong>*kan</strong><br />
@@ -783,294 +817,294 @@ It was the first word to be replaced, for unknown reasons.</p>
 <code>m</code>&shy;<code></code> brown, gray<br />
 <code>pu</code>&shy;<code></code> pimeja<br />
 Removed in 2002 without a replacement.</p>
-<p><strong>kasi</strong> <img alt="kasi" src="docs/pics/kasi.png" /><br />
+<p><strong>kasi</strong> <img alt="kasi" src="pics/kasi.png" /><br />
 <code>n</code>&shy;<code></code> plant, vegetation<br />
 <code>m</code>&shy;<code></code> plant-like, green (after <em>kule</em>)</p>
-<p><strong>ken</strong> <img alt="ken" src="docs/pics/ken.png" /><br />
+<p><strong>ken</strong> <img alt="ken" src="pics/ken.png" /><br />
 <code>n</code>&shy;<code></code> ability, chance, possibility<br />
 <code>a</code>&shy;<code></code> can, able to, allowed to<br />
 <code>m</code>&shy;<code></code> able, possible, allowed</p>
-<p><strong>kepeken</strong> <img alt="kepeken" src="docs/pics/kepeken.png" /><br />
+<p><strong>kepeken</strong> <img alt="kepeken" src="pics/kepeken.png" /><br />
 <code>p</code>&shy;<code></code> use, with<br />
 <code>v</code>&shy;<code></code> use</p>
-<p><strong>kijetesantakalu</strong> <img alt="kijetesantakalu" src="docs/pics/kijetesantakalu.png" /><br />
+<p class="kijetesantakalu"><strong>kijetesantakalu</strong> <img alt="kijetesantakalu" src="pics/kijetesantakalu.png" /><br />
 <code>n</code>&shy;<code></code>  animal from the Procyonidae family (such as raccoons and kinkajous)<br />
 <code>pu</code>&shy;<code></code> soweli<br />
 Added as an April Fool's joke in 2009, now it is a "fan favorite".</p>
-<p><strong>kili</strong> <img alt="kili" src="docs/pics/kili.png" /><br />
+<p><strong>kili</strong> <img alt="kili" src="pics/kili.png" /><br />
 <code>n</code>&shy;<code></code> fruit, vegetable, mushroom</p>
-<p><strong>kin</strong> <img alt="kin" src="docs/pics/kin.png" /><br />
+<p><strong>kin</strong> <img alt="kin" src="pics/kin.png" /><br />
 <code>m</code>&shy;<code>1</code> also, too<br />
 <code>m</code>&shy;<code>2</code> confirmation, emphasis (not as strong as <em>a</em>)<br />
 <code>l</code>&shy;<code>a</code> also, and<br />
 <code>see</code>&shy;<code></code> a</p>
-<p><strong>kipisi</strong> <img alt="kipisi" src="docs/pics/kipisi.png" /><br />
+<p><strong>kipisi</strong> <img alt="kipisi" src="pics/kipisi.png" /><br />
 <code>v</code>&shy;<code></code> cut<br />
 <code>pu</code>&shy;<code></code> tu<br />
 Presented along with <em>namako</em> and <em>monsuta</em> around 2010, not included in <em>pu</em>.</p>
-<p><strong>kiwen</strong> <img alt="kiwen" src="docs/pics/kiwen.png" /><br />
+<p><strong>kiwen</strong> <img alt="kiwen" src="pics/kiwen.png" /><br />
 <code>n</code>&shy;<code></code> metal, rock, stone, hard object<br />
 <code>m</code>&shy;<code></code> hard, heavy<br />
 Originally <em>wawa ma</em> was used before this word was created.</p>
-<p><strong>ko</strong> <img alt="ko" src="docs/pics/ko.png" /><br />
+<p><strong>ko</strong> <img alt="ko" src="pics/ko.png" /><br />
 <code>n</code>&shy;<code></code> semi-solid material, paste, powder, clay, dough</p>
-<p><strong>kon</strong> <img alt="kon" src="docs/pics/kon.png" /><br />
+<p><strong>kon</strong> <img alt="kon" src="pics/kon.png" /><br />
 <code>n</code>&shy;<code>1</code> air, breath<br />
 <code>n</code>&shy;<code>2</code> spirit, essence, meaning, sense, concept<br />
 <code>n</code>&shy;<code>3</code> mind, consciousness, soul<br />
 <code>m</code>&shy;<code></code> air-like, gaseous</p>
-<p><strong>ku</strong> <img alt="pu" src="docs/pics/ku.png" /><br />
+<p><strong>ku</strong> <img alt="pu" src="pics/ku.png" /><br />
 <code>n</code>&shy;<code></code> the <em>Toki Pona Dictionary</em><br />
 <code>v</code>&shy;<code></code> interacting with the <em>Toki Pona Dictionary</em><br />
 <code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona Dictionary</em>  </p>
-<p><strong>kule</strong> <img alt="kule" src="docs/pics/kule.png" /><br />
+<p><strong>kule</strong> <img alt="kule" src="pics/kule.png" /><br />
 <code>n</code>&shy;<code></code> color<br />
 <code>v</code>&shy;<code></code> color<br />
 <code>m</code>&shy;<code></code> colorful, pigmented</p>
-<p><strong>kulupu</strong> <img alt="kulupu" src="docs/pics/kulupu.png" /><br />
+<p><strong>kulupu</strong> <img alt="kulupu" src="pics/kulupu.png" /><br />
 <code>n</code>&shy;<code>1</code> group, collection, set<br />
 <code>n</code>&shy;<code>2</code> community, nation, society</p>
-<p><strong>kute</strong> <img alt="kute" src="docs/pics/kute.png" /><br />
+<p><strong>kute</strong> <img alt="kute" src="pics/kute.png" /><br />
 <code>n</code>&shy;<code></code> ear<br />
 <code>v</code>&shy;<code></code> hear, listen to</p>
 <h3>L</h3>
-<p><strong>la</strong> <img alt="la" src="docs/pics/la.png" /><br />
+<p><strong>la</strong> <img alt="la" src="pics/la.png" /><br />
 <code>p</code>&shy;<code></code> separates the context and the main sentence</p>
-<p><strong>lanpan</strong> <img alt="lanpan" src="docs/pics/lanpan.png" /><br />
+<p><strong>lanpan</strong> <img alt="lanpan" src="pics/lanpan.png" /><br />
 <code>v</code>&shy;<code></code> take, seize, steal, catch, receive<br />
 <code>pu</code>&shy;<code></code> kama jo, alasa<br />
 It was coined by the community shortly after <em>pu</em> was released, making it one of the most used <em>nimi sin</em>.</p>
-<p><strong>lape</strong> <img alt="lape" src="docs/pics/lape.png" /><br />
+<p><strong>lape</strong> <img alt="lape" src="pics/lape.png" /><br />
 <code>v</code>&shy;<code></code> sleep, rest</p>
-<p><strong>laso</strong> <img alt="laso" src="docs/pics/laso.png" /><br />
+<p><strong>laso</strong> <img alt="laso" src="pics/laso.png" /><br />
 <code>m</code>&shy;<code>1</code> blue<br />
 <code>m</code>&shy;<code>2</code> green (<em>kule kasi</em> is often preferred)</p>
-<p><strong>lawa</strong> <img alt="lawa" src="docs/pics/lawa.png" /><br />
+<p><strong>lawa</strong> <img alt="lawa" src="pics/lawa.png" /><br />
 <code>n</code>&shy;<code>1</code> head<br />
 <code>n</code>&shy;<code>2</code> leader<br />
 <code>v</code>&shy;<code></code> lead, rule, manage, control, direct  </p>
-<p><strong>leko</strong> <img alt="leko" src="docs/pics/leko.png" /><br />
+<p><strong>leko</strong> <img alt="leko" src="pics/leko.png" /><br />
 <code>n</code>&shy;<code></code> stairs, square, block, edge<br />
 <code>pu</code>&shy;<code></code> sike ala<br />
 Removed from then-official dictionary in 2004.</p>
-<p><strong>len</strong> <img alt="len" src="docs/pics/len.png" /><br />
+<p><strong>len</strong> <img alt="len" src="pics/len.png" /><br />
 <code>n</code>&shy;<code>1</code> cloth, fabric, textile<br />
 <code>n</code>&shy;<code>2</code> cover, layer<br />
 <code>v</code>&shy;<code></code> wear, cover, hide<br />
 <code>m</code>&shy;<code></code> clothed, covered, covering  </p>
-<p><strong>lete</strong> <img alt="lete" src="docs/pics/lete.png" /><br />
+<p><strong>lete</strong> <img alt="lete" src="pics/lete.png" /><br />
 <code>m</code>&shy;<code>1</code> cold<br />
 <code>m</code>&shy;<code>2</code> raw, uncooked</p>
-<p><strong>li</strong> <img alt="li" src="docs/pics/li.png" /><br />
+<p><strong>li</strong> <img alt="li" src="pics/li.png" /><br />
 <code>f</code>&shy;<code>1</code> separates the predicate and the object
 <code>f</code>&shy;<code>2</code> and (between predicates)  </p>
-<p><strong>lili</strong> <img alt="lili" src="docs/pics/lili.png" /><br />
+<p><strong>lili</strong> <img alt="lili" src="pics/lili.png" /><br />
 <code>m</code>&shy;<code>1</code> small, little, short<br />
 <code>m</code>&shy;<code>2</code> young<br />
 <code>m</code>&shy;<code>3</code> a bit, slightly</p>
-<p><strong>linja</strong> <img alt="linja" src="docs/pics/linja.png" /><br />
+<p><strong>linja</strong> <img alt="linja" src="pics/linja.png" /><br />
 <code>n</code>&shy;<code></code> hair, rope, thread
 <code>m</code>&shy;<code></code> long and flexible, rope-like</p>
-<p><strong>lipu</strong> <img alt="lipu" src="docs/pics/lipu.png" /><br />
+<p><strong>lipu</strong> <img alt="lipu" src="pics/lipu.png" /><br />
 <code>n</code>&shy;<code></code> document, book, website, written record<br />
 <code>m</code>&shy;<code>1</code> flat, page-like<br />
 <code>m</code>&shy;<code>2</code> documented</p>
-<p><strong>loje</strong> <img alt="loje" src="docs/pics/loje.png" /><br />
+<p><strong>loje</strong> <img alt="loje" src="pics/loje.png" /><br />
 <code>m</code>&shy;<code></code> red</p>
-<p><strong>lon</strong> <img alt="lon" src="docs/pics/lon.png" /><br />
+<p><strong>lon</strong> <img alt="lon" src="pics/lon.png" /><br />
+<code>p</code>&shy;<code></code> located at, at the time of<br />
+<code>v</code>&shy;<code></code> place, put<br />
 <code>m</code>&shy;<code></code> existing, real, true<br />
-<code>v</code>&shy;<code>e</code> place (position if after <em>lon</em>), put (position if after <em>tawa</em>)<br />
-<code>f</code>&shy;<code></code> located at, at the time of<br />
-<code>f</code>&shy;<code></code> indeed, that's right<br />
-<code>f</code>&shy;<code></code> general yes<br />
-<code>l</code>&shy;<code>a</code> really, trully<br />
-<code>i</code>&shy;<code>nt</code> indeed (as an <em>approval</em>, not as an answer to a question)</p>
-<p><strong>luka</strong> <img alt="luka" src="docs/pics/luka.png" /><br />
-<code>n</code>&shy;<code></code> hand, arm<br />
-<code>m</code>&shy;<code></code> tangible, palpable<br />
-<code>m</code>&shy;<code>od</code> with hands, by hands<br />
+<code>i</code>&shy;<code></code> indeed, that's right<br />
+<code>l</code>&shy;<code>a</code> actually, truly, in reality</p>
+<p><strong>luka</strong> <img alt="luka" src="pics/luka.png" /><br />
+<code>n</code>&shy;<code></code> upper or front limb (hand, arm)<br />
+<code>m</code>&shy;<code></code> with hands, by hands<br />
 <code>n</code>&shy;<code>um</code> five</p>
-<p><strong>lukin</strong> <img alt="lukin" src="docs/pics/lukin.png" /><br />
-<code>n</code>&shy;<code></code> eye<br />
-<code>v</code>&shy;<code></code> look, see, examine, read, watch; (with <em>tawa</em>) search, look for, seek  <br />
+<p><strong>lukin</strong> <img alt="lukin" src="pics/lukin.png" /><br />
+<code>v</code>&shy;<code>1</code> look, see, examine, read, watch<br />
+<code>v</code>&shy;<code>2</code> (with <em>tawa</em>) search, look for, seek <br />
 <code>a</code>&shy;<code></code> try to<br />
-<code>m</code>&shy;<code></code> visible, readable<br />
-<code>m</code>&shy;<code>od</code> seemingly, looking (like "good looking")<br />
-<code>see</code>&shy;<code></code> oko</p>
-<p><strong>lupa</strong> <img alt="lupa" src="docs/pics/lupa.png" /><br />
+<code>m</code>&shy;<code>1</code> visible, readable<br />
+<code>m</code>&shy;<code>2</code> seemingly, -looking (as in "good looking")<br />
+<code>see</code>&shy;<code></code> oko<br />
+In <em>pu</em>, <em>lukin</em> and <em>oko</em> were merged and could be used interchangibly.</p>
+<p><strong>lupa</strong> <img alt="lupa" src="pics/lupa.png" /><br />
 <code>n</code>&shy;<code></code> hole, orifice, window, door<br />
 <code>v</code>&shy;<code></code> pierce, stab, dig<br />
-<code>m</code>&shy;<code></code> full of holes, holey</p>
+<code>m</code>&shy;<code></code> full of holes, hollow</p>
 <h3>M</h3>
-<p><strong>ma</strong> <img alt="ma" src="docs/pics/ma.png" /><br />
-<code>n</code>&shy;<code></code> earth, land, country, place, outdoor area<br />
+<p><strong>ma</strong> <img alt="ma" src="pics/ma.png" /><br />
+<code>n</code>&shy;<code>1</code> land, country, place<br />
+<code>n</code>&shy;<code>2</code> earth, dry land, outdoor area<br />
 <code>m</code>&shy;<code></code> outside</p>
-<p class="hidden"><strong>*majuna</strong> <img alt="majuna" src="docs/pics/majuna.png" /><br />
+<p class="hidden"><strong>*majuna</strong> <img alt="majuna" src="pics/majuna.png" /><br />
 <code>m</code>&shy;<code></code> old<br />
 <code>pu</code>&shy;<code></code> sin ala, lili ala, suli<br />
 Removed before first public draft.</p>
-<p><strong>mama</strong> <img alt="mama" src="docs/pics/mama.png" /><br />
+<p><strong>mama</strong> <img alt="mama" src="pics/mama.png" /><br />
 <code>n</code>&shy;<code></code> parent, ancestor, origin, creator, caretaker<br />
-<code>m</code>&shy;<code></code> parent, ancestor, parental</p>
-<p><strong>mani</strong> <img alt="mani" src="docs/pics/mani.png" /><br />
-<code>n</code>&shy;<code></code> money, wealth, livestock, value, currency<br />
+<code>m</code>&shy;<code>1</code> parent, ancestor, parental
+<code>m</code>&shy;<code>2</code> original (only when it is used in contrast with something)</p>
+<p><strong>mani</strong> <img alt="mani" src="pics/mani.png" /><br />
+<code>n</code>&shy;<code>1</code> money, wealth<br />
+<code>n</code>&shy;<code>2</code> livestock<br />
 <code>m</code>&shy;<code></code> valuable</p>
-<p><strong>meli</strong> <img alt="meli" src="docs/pics/meli.png" /><br />
-<code>n</code>&shy;<code></code> female, woman, girl, wife, girlfriend<br />
-<code>m</code>&shy;<code></code> female, feminine</p>
-<p><strong>mi</strong> <img alt="mi" src="docs/pics/mi.png" /><br />
-<code>n</code>&shy;<code></code> I, me; we, us<br />
-<code>m</code>&shy;<code></code> my, mine; our, ours</p>
-<p><strong>mije</strong> <img alt="mije" src="docs/pics/mije.png" /><br />
-<code>n</code>&shy;<code></code> male, man, husband, boyfriend<br />
-<code>m</code>&shy;<code></code> male, masculine</p>
-<p><strong>moku</strong> <img alt="moku" src="docs/pics/moku.png" /><br />
-<code>n</code>&shy;<code></code> food, meal<br />
-<code>v</code>&shy;<code></code> consume, eat, drink, inhale, swallow<br />
-<code>m</code>&shy;<code></code> edible</p>
-<p><strong>moli</strong> <img alt="moli" src="docs/pics/moli.png" /><br />
+<p><strong>meli</strong> <img alt="meli" src="pics/meli.png" /><br />
+<code>n</code>&shy;<code></code> woman, girl<br />
+<code>m</code>&shy;<code>1</code> female (of their species)<br />
+<code>m</code>&shy;<code>2</code> feminine</p>
+<p><strong>mi</strong> <img alt="mi" src="pics/mi.png" /><br />
+<code>n</code>&shy;<code></code> 1st person (I, me; we, us)<br />
+<code>m</code>&shy;<code>1</code> my, mine; our, ours  </p>
+<p><strong>mije</strong> <img alt="mije" src="pics/mije.png" /><br />
+<code>n</code>&shy;<code></code> man, boy, male<br />
+<code>m</code>&shy;<code>1</code> male (of their species)<br />
+<code>m</code>&shy;<code>2</code> masculine</p>
+<p><strong>moku</strong> <img alt="moku" src="pics/moku.png" /><br />
+<code>n</code>&shy;<code></code> food, meal, sustenance<br />
+<code>v</code>&shy;<code>1</code> eat, drinkm, consume, inhale, swallow<br />
+<code>m</code>&shy;<code></code> edible, nourishing</p>
+<p><strong>moli</strong> <img alt="moli" src="pics/moli.png" /><br />
 <code>n</code>&shy;<code></code> death<br />
-<code>v</code>&shy;<code></code> die, dying<br />
-<code>v</code>&shy;<code>e</code> murder, kill<br />
-<code>m</code>&shy;<code></code> dying, sentenced to death, dead, lethal, mortal, fatal</p>
-<p><strong>monsi</strong> <img alt="monsi" src="docs/pics/monsi.png" /><br />
-<code>n</code>&shy;<code></code> back, behind, rear end<br />
+<code>v</code>&shy;<code></code> murder, kill<br />
+<code>m</code>&shy;<code></code> dying, dead, lethal, mortal, fatal</p>
+<p><strong>monsi</strong> <img alt="monsi" src="pics/monsi.png" /><br />
+<code>n</code>&shy;<code></code> back, rear end<br />
 <code>v</code>&shy;<code></code> retreat<br />
-<code>m</code>&shy;<code>od</code> back<br />
-<code>d</code>&shy;<code>ir</code> behind</p>
-<p><strong>monsuta</strong> <img alt="monsuta" src="docs/pics/monsuta.png" /><br />
-<code>n</code>&shy;<code></code> monster, fear<br />
+<code>m</code>&shy;<code></code> behind</p>
+<p><strong>monsuta</strong> <img alt="monsuta" src="pics/monsuta.png" /><br />
+<code>n</code>&shy;<code></code> monster<br />
 <code>v</code>&shy;<code></code> fear, be afraid of<br />
-<code>m</code>&shy;<code></code> frighten, frightening<br />
-<code>m</code>&shy;<code></code> fearful, afraid<br />
-<code>pu</code>&shy;<code></code> ike, akesi<br />
+<code>m</code>&shy;<code></code> frightening<br />
+<code>m</code>&shy;<code></code> (after <em>pilin</em>) afraid<br />
+<code>pu</code>&shy;<code></code> ike, akesi, apeja<br />
 Added in 2010 along with <em>kipisi</em> and <em>namako</em>, not included in <em>pu</em>.</p>
-<p><strong>mu</strong> <img alt="mu" src="docs/pics/mu.png" /><br />
-<code>n</code>&shy;<code></code> animal noise, meaningless or incomprehensible talking <br />
-<code>v</code>&shy;<code></code> make animal noise, speak incomprehensibly<br />
-<code>m</code>&shy;<code></code> meaningless, incomprehensible, unintelligible</p>
-<p><strong>mun</strong> <img alt="mun" src="docs/pics/mun.png" /><br />
+<p><strong>mu</strong> <img alt="mu" src="pics/mu.png" /><br />
+<code>n</code>&shy;<code>1</code> animal noise<br />
+<code>n</code>&shy;<code>2</code> meaningless or incomprehensible talking<br />
+<code>v</code>&shy;<code></code> make animal noises, speak incomprehensibly<br />
+<code>m</code>&shy;<code></code> meaningless, incomprehensible, unintelligible<br />
+<code>i</code>&shy;<code></code> animal vocalization (such as 'meow', 'moo', 'quack')</p>
+<p><strong>mun</strong> <img alt="mun" src="pics/mun.png" /><br />
 <code>n</code>&shy;<code></code> moon, star<br />
 <code>m</code>&shy;<code></code> lunar</p>
-<p><strong>musi</strong> <img alt="musi" src="docs/pics/musi.png" /><br />
-<code>n</code>&shy;<code></code> play, fun, game, art, artifact<br />
-<code>v</code>&shy;<code></code> play, have fun<br />
-<code>v</code>&shy;<code>e</code> entertain<br />
-<code>m</code>&shy;<code>od</code> artistic, entertaining</p>
-<p><strong>mute</strong> <img alt="mute" src="docs/pics/mute.png" /><br />
-<code>n</code>&shy;<code></code> amount, quantity<br />
-<code>v</code>&shy;<code></code> multiply, spread, extend<br />
-<code>a</code>&shy;<code>dv</code> (comparative adjective)<br />
-<code>m</code>&shy;<code>od</code> many (3+), a lot, more, much, very<br />
-<code>n</code>&shy;<code>um</code> twenty</p>
+<p><strong>musi</strong> <img alt="musi" src="pics/musi.png" /><br />
+<code>n</code>&shy;<code>1</code> fun<br />
+<code>n</code>&shy;<code>2</code> art<br />
+<code>v</code>&shy;<code>1</code> play, have fun<br />
+<code>m</code>&shy;<code></code> entertaining, artistic</p>
+<p><strong>mute</strong> <img alt="mute" src="pics/mute.png" /><br />
+<code>v</code>&shy;<code></code> multiply, extend<br />
+<code>m</code>&shy;<code></code> many, a lot, more, much, very  <br />
+<code>#</code>&shy;<code>1</code> many<br />
+<code>#</code>&shy;<code>2</code> twenty</p>
 <h3>N</h3>
-<p><strong>namako</strong> <img alt="namako" src="docs/pics/namako.png" /><br />
-<code>n</code>&shy;<code></code> additional, spice (for food)<br />
-<code>v</code>&shy;<code></code> flavor, update<br />
-<code>m</code>&shy;<code>od</code> extra, additional<br />
+<p><strong>namako</strong> <img alt="namako" src="pics/namako.png" /><br />
+<code>n</code>&shy;<code></code> addition, bonus, spice (for food)<br />
+<code>m</code>&shy;<code></code> extra, additional<br />
 <code>see</code>&shy;<code></code> sin<br />
-Added along with <em>kipisi</em> and <em>monsuta</em> in 2010. In <em>pu</em> it was merged with <em>sin</em>.</p>
-<p><strong>nanpa</strong> <img alt="nanpa" src="docs/pics/nanpa.png" /><br />
+Added along with <em>kipisi</em> and <em>monsuta</em> in 2010. In <em>pu</em>, it was merged with <em>sin</em>.</p>
+<p><strong>nanpa</strong> <img alt="nanpa" src="pics/nanpa.png" /><br />
 <code>n</code>&shy;<code></code> number<br />
-<code>v</code>&shy;<code></code> count, number, quantify<br />
-<code>m</code>&shy;<code></code> countable, finite<br />
-<code>p</code>&shy;<code></code> -th (ordinal number)</p>
-<p><strong>nasa</strong> <img alt="nasa" src="docs/pics/nasa.png" /><br />
+<code>f</code>&shy;<code></code> -th (ordinal number)</p>
+<p><strong>nasa</strong> <img alt="nasa" src="pics/nasa.png" /><br />
 <code>v</code>&shy;<code></code> fool around<br />
 <code>m</code>&shy;<code></code> unusual, strange, weird, crazy, intoxicated</p>
-<p><strong>nasin</strong> <img alt="nasin" src="docs/pics/nasin.png" /><br />
-<code>n</code>&shy;<code></code> way, method, custom, path, road<br />
-<code>v</code>&shy;<code></code> follow, adopt<br />
-<code>v</code>&shy;<code></code> indoctrinate; plan, plot; clear a path<br />
-<code>m</code>&shy;<code>od</code> methodical, systematic, doctrinal</p>
-<p><strong>nena</strong> <img alt="nena" src="docs/pics/nena.png" /><br />
-<code>n</code>&shy;<code></code> bump, button, mountain, hill, nose<br />
+<p><strong>nasin</strong> <img alt="nasin" src="pics/nasin.png" /><br />
+<code>n</code>&shy;<code>1</code> path, road<br />
+<code>n</code>&shy;<code>2</code> way, method<br />
+<code>v</code>&shy;<code></code> follow, adopt  </p>
+<p><strong>nena</strong> <img alt="nena" src="pics/nena.png" /><br />
+<code>n</code>&shy;<code></code> mountain, hill<br />
+<code>n</code>&shy;<code></code> protuberance, bump<br />
 <code>m</code>&shy;<code></code> bumpy, hilly, undulating</p>
-<p><strong>ni</strong> <img alt="ni" src="docs/pics/ni.png" /><br />
+<p><strong>ni</strong> <img alt="ni" src="pics/ni.png" /><br />
 <code>n</code>&shy;<code></code> this, that<br />
 <code>m</code>&shy;<code></code> this, that<br />
-<code>p</code>&shy;<code></code> that (as a conjunction, after <em>e</em> or a <em>preposition</em>)</p>
-<p><strong>nimi</strong> <img alt="nimi" src="docs/pics/nimi.png" /><br />
+<code>f</code>&shy;<code></code> that (like a conjunction, after <em>e</em> or a <em>preposition</em>)</p>
+<p><strong>nimi</strong> <img alt="nimi" src="pics/nimi.png" /><br />
 <code>n</code>&shy;<code></code> name, word<br />
-<code>v</code>&shy;<code></code> name (the name is after <em>sama</em>)</p>
-<p><strong>noka</strong> <img alt="noka" src="docs/pics/noka.png" /><br />
-<code>n</code>&shy;<code></code> foot, leg, organ of locomotion, lower part<br />
+<code>v</code>&shy;<code></code> name (with <em>sama</em>)</p>
+<p><strong>noka</strong> <img alt="noka" src="pics/noka.png" /><br />
+<code>n</code>&shy;<code>1</code> bottom or rear limb (foot, leg), organ of locomotion<br />
 <code>v</code>&shy;<code></code> kick<br />
-<code>m</code>&shy;<code></code> lower (on something)<br />
-<code>a</code>&shy;<code>dv</code> on foot, with foot</p>
+<code>m</code>&shy;<code>1</code> on foot, by foot<br />
+<code>m</code>&shy;<code>2</code> lower (part)</p>
 <h3>O</h3>
-<p><strong>o</strong> <img alt="o" src="docs/pics/o.png" /><br />
-<code>p</code>&shy;<code></code> (marks imperative and vocative)<br />
-<code>p</code>&shy;<code></code>&shy;<code>sep</code> separates the noun of direct address and the sentence</p>
-<p><strong>oko</strong> <img alt="oko" src="docs/pics/oko.png" /><br />
+<p><strong>o</strong> <img alt="o" src="pics/o.png" /><br />
+<code>f</code>&shy;<code>1</code> marks imperative and vocative</p>
+<p><strong>oko</strong> <img alt="oko" src="pics/oko.png" /><br />
 <code>n</code>&shy;<code></code> eye<br />
-<code>v</code>&shy;<code></code> look (but not <em>see</em>)
-<code>see</code>&shy;<code></code> lukin</p>
-<p><strong>olin</strong> <img alt="olin" src="docs/pics/olin.png" /><br />
-<code>n</code>&shy;<code></code> love<br />
-<code>v</code>&shy;<code></code> love, adore<br />
-<code>m</code>&shy;<code></code> lovable, loving</p>
-<p><strong>ona</strong> <img alt="ona" src="docs/pics/ona.png" /><br />
-<code>n</code>&shy;<code></code> they (singular and plural)<br />
-<code>m</code>&shy;<code>od</code> their, theirs (singular and plural)</p>
-<p><strong>open</strong> <img alt="open" src="docs/pics/open.png" /><br />
+<code>v</code>&shy;<code></code> look (but not <em>see</em>)<br />
+<code>see</code>&shy;<code></code> lukin<br />
+It was merged with <em>lukin</em> in <em>pu</em>.</p>
+<p><strong>olin</strong> <img alt="olin" src="pics/olin.png" /><br />
+<code>n</code>&shy;<code></code> love, emotional affection<br />
+<code>v</code>&shy;<code></code> love, adore  </p>
+<p><strong>ona</strong> <img alt="ona" src="pics/ona.png" /><br />
+<code>n</code>&shy;<code></code> 3rd person (he, she, it, they)<br />
+<code>m</code>&shy;<code></code> their, theirs (and all the others)</p>
+<p><strong>open</strong> <img alt="open" src="pics/open.png" /><br />
 <code>n</code>&shy;<code></code> start, beginning<br />
-<code>v</code>&shy;<code></code> begin, start, open, turn on (<em>not</em> sexually)<br />
-<code>a</code>&shy;<code></code> begin to, start to<br />
-<code>m</code>&shy;<code></code> available, open, turned on (<em>not</em> sexually), ready</p>
+<code>v</code>&shy;<code></code> open, activate, turn on<br />
+<code>a</code>&shy;<code></code> begin, start<br />
+<code>m</code>&shy;<code>1</code> open, activated<br />
+<code>m</code>&shy;<code>2</code> available, ready</p>
 <h3>P</h3>
-<p><strong>pakala</strong> <img alt="pakala" src="docs/pics/pakala.png" /><br />
-<code>n</code>&shy;<code></code> error, bug, accident, mistake, damage<br />
-<code>v</code>&shy;<code></code> brake, damage, mess up<br />
-<code>m</code>&shy;<code></code> broken, damaged, harmed, messed up<br />
-<code>i</code>&shy;<code>nt</code> dammit! shoot!</p>
-<p><strong>pake</strong> <img alt="pake" src="docs/pics/pake.png" /><br />
+<p><strong>pakala</strong> <img alt="pakala" src="pics/pakala.png" /><br />
+<code>n</code>&shy;<code>1</code> damage, injury<br />
+<code>n</code>&shy;<code>2</code> error, bug, accident, mistake<br />
+<code>v</code>&shy;<code></code> brake, damage<br />
+<code>m</code>&shy;<code></code> broken, damaged, non-funcional<br />
+<code>i</code>&shy;<code></code> dammit! shoot!</p>
+<p><strong>pake</strong> <img alt="pake" src="pics/pake.png" /><br />
 <code>n</code>&shy;<code></code> blocking, prevention, obstruction<br />
 <code>v</code>&shy;<code></code> block, obstruct, prevent<br />
 <code>m</code>&shy;<code></code> blocked, prevented<br />
 Suggested by jan Sonja, never officially added.</p>
-<p><strong>pali</strong> <img alt="pali" src="docs/pics/pali.png" /><br />
+<p><strong>pali</strong> <img alt="pali" src="pics/pali.png" /><br />
 <code>n</code>&shy;<code></code> working, job, process<br />
 <code>v</code>&shy;<code></code> do, make, build, prepare, work (on)  </p>
-<p><strong>palisa</strong> <img alt="palisa" src="docs/pics/palisa.png" /><br />
+<p><strong>palisa</strong> <img alt="palisa" src="pics/palisa.png" /><br />
 <code>n</code>&shy;<code></code> rot, stick; long and solid (hard) thing<br />
 <code>m</code>&shy;<code></code> long and solid (hard)</p>
-<p><strong>pan</strong> <img alt="pan" src="docs/pics/pan.png" /><br />
+<p><strong>pan</strong> <img alt="pan" src="pics/pan.png" /><br />
 <code>n</code>&shy;<code></code> bread, cereal, corn, rice, grain</p>
-<p><strong>pana</strong> <img alt="pana" src="docs/pics/pana.png" /><br />
+<p><strong>pana</strong> <img alt="pana" src="pics/pana.png" /><br />
 <code>n</code>&shy;<code></code> giving, sharing<br />
 <code>v</code>&shy;<code></code> give, send, share, publish, release<br />
 <code>m</code>&shy;<code></code> given, shared, public</p>
-<p class="hidden"><strong>*pasila/pasi</strong> <img alt="*pasila/pasi" src="docs/pics/*pasila/pasi.png" /><br />
-<code>see</code>&shy;<code></code> pona
+<p class="hidden"><strong>*pasila/pasi</strong><br />
+<code>see</code>&shy;<code></code> pona<br />
 <em>pasila</em> was replaced before the first public draft; <em>pasi</em> was a typo.</p>
-<p><strong>pi</strong> <img alt="pi" src="docs/pics/pi.png" /><br />
+<p><strong>pi</strong> <img alt="pi" src="pics/pi.png" /><br />
 <code>p</code>&shy;<code></code> of (marks the possessor)<br />
 <code>p</code>&shy;<code></code>&shy;<code>sep</code> separates modifier groups after the noun</p>
-<p><strong>pilin</strong> <img alt="pilin" src="docs/pics/pilin.png" /><br />
+<p><strong>pilin</strong> <img alt="pilin" src="pics/pilin.png" /><br />
 <code>n</code>&shy;<code></code> feeling, instinct, emotion, heart (sometimes after <em>insa</em>)<br />
 <code>v</code>&shy;<code></code> feel, smell, sense, guess, think about (an opinion)<br />
 <code>m</code>&shy;<code>od</code> feeling, emotionally</p>
-<p><strong>pimeja</strong> <img alt="pimeja" src="docs/pics/pimeja.png" /><br />
+<p><strong>pimeja</strong> <img alt="pimeja" src="pics/pimeja.png" /><br />
 <code>n</code>&shy;<code></code> darkness<br />
 <code>v</code>&shy;<code></code> darken<br />
 <code>m</code>&shy;<code></code> dark, unlit, black, hidden (metaphorically)</p>
-<p><strong>pini</strong> <img alt="pini" src="docs/pics/pini.png" /><br />
+<p><strong>pini</strong> <img alt="pini" src="pics/pini.png" /><br />
 <code>n</code>&shy;<code></code> end, finish, past<br />
 <code>v</code>&shy;<code></code> finish, end, stop, complete, turn off<br />
 <code>a</code>&shy;<code></code> end, finish, stop<br />
 <code>m</code>&shy;<code>od</code> finished, past, former, ex-</p>
-<p><strong>pipi</strong> <img alt="pipi" src="docs/pics/pipi.png" /><br />
+<p><strong>pipi</strong> <img alt="pipi" src="pics/pipi.png" /><br />
 <code>n</code>&shy;<code></code> insect, bug, spider</p>
-<p><strong>poka</strong> <img alt="poka" src="docs/pics/poka.png" /><br />
+<p><strong>poka</strong> <img alt="poka" src="pics/poka.png" /><br />
 <code>n</code>&shy;<code></code> side, hip<br />
 <code>p</code>&shy;<code></code> along with, together with, next to<br />
 <code>p</code>&shy;<code></code> with<br />
 <code>d</code>&shy;<code>ir</code> near, next to, side of</p>
-<p><strong>poki</strong> <img alt="poki" src="docs/pics/poki.png" /><br />
+<p><strong>poki</strong> <img alt="poki" src="pics/poki.png" /><br />
 <code>n</code>&shy;<code></code> box, container, bag, bowl<br />
 <code>v</code>&shy;<code></code> contain  </p>
-<p><strong>pona</strong> <img alt="pona" src="docs/pics/pona.png" /><br />
+<p><strong>pona</strong> <img alt="pona" src="pics/pona.png" /><br />
 <code>n</code>&shy;<code></code> good, help, peace<br />
 <code>v</code>&shy;<code></code> help (someone), repair, fix, improve<br />
 <code>m</code>&shy;<code></code> good, positive, friendly, useful, simple, nice, right (<em>not</em> the direction)<br />
@@ -1080,37 +1114,37 @@ Suggested by jan Sonja, never officially added.</p>
 <code>n</code>&shy;<code>um</code> four<br />
 <code>pu</code>&shy;<code></code> tu tu<br />
 Removed before toki pona became well-known.</p>
-<p><strong>powe</strong> <img alt="powe" src="docs/pics/powe.png" /><br />
+<p><strong>powe</strong> <img alt="powe" src="pics/powe.png" /><br />
 <code>n</code>&shy;<code></code> being false, cheating, trick<br />
 <code>v</code>&shy;<code></code> be false, deceive, pretend, cheat, trick<br />
 <code>m</code>&shy;<code></code> false, untrue<br />
 <code>pu</code>&shy;<code></code> lon ala, toki ike, ike<br />
 Never was added to any official dictionary.</p>
-<p><strong>pu</strong> <img alt="pu" src="docs/pics/pu.png" /><br />
+<p><strong>pu</strong> <img alt="pu" src="pics/pu.png" /><br />
 <code>n</code>&shy;<code></code> the <em>Toki Pona Book</em><br />
 <code>v</code>&shy;<code></code> interacting with the <em>Toki Pona Book</em><br />
 <code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona Book</em>  </p>
 <h3>S</h3>
-<p><strong>sama</strong> <img alt="sama" src="docs/pics/sama.png" /><br />
+<p><strong>sama</strong> <img alt="sama" src="pics/sama.png" /><br />
 <code>n</code>&shy;<code></code> equality, each other (usually after <em>e</em>)<br />
 <code>v</code>&shy;<code></code> to make similar<br />
 <code>m</code>&shy;<code></code> same, similar, sibling, fellow<br />
 <code>p</code>&shy;<code></code> like, as, same as, equal to<br />
 <code>l</code>&shy;<code>a</code> similarly, like</p>
-<p><strong>seli</strong> <img alt="seli" src="docs/pics/seli.png" /><br />
+<p><strong>seli</strong> <img alt="seli" src="pics/seli.png" /><br />
 <code>n</code>&shy;<code></code> heat, fire, chemical reaction<br />
 <code>v</code>&shy;<code></code> cook, bake, heat<br />
 <code>m</code>&shy;<code></code> hot, warm, cooked</p>
-<p><strong>selo</strong> <img alt="selo" src="docs/pics/selo.png" /><br />
+<p><strong>selo</strong> <img alt="selo" src="pics/selo.png" /><br />
 <code>n</code>&shy;<code></code> outer layer, outer side, shell, skin, wall, separator<br />
 <code>v</code>&shy;<code></code> separate<br />
 <code>m</code>&shy;<code></code> outer (side)</p>
-<p><strong>seme</strong> <img alt="seme" src="docs/pics/seme.png" /><br />
+<p><strong>seme</strong> <img alt="seme" src="pics/seme.png" /><br />
 <code>n</code>&shy;<code></code> what? who?<br />
 <code>m</code>&shy;<code></code> which? what kind?<br />
 <code>a</code>&shy;<code>dv</code> how?<br />
 <code>p</code>&shy;<code></code> what? which? wh-? (creates a question)</p>
-<p><strong>sewi</strong> <img alt="sewi" src="docs/pics/sewi.png" /><br />
+<p><strong>sewi</strong> <img alt="sewi" src="pics/sewi.png" /><br />
 <code>n</code>&shy;<code></code> area above, highest part, top  <br />
 <code>n</code>&shy;<code></code> god, sky<br />
 <code>v</code>&shy;<code></code> get up, arise, lift, raise up, win<br />
@@ -1118,9 +1152,9 @@ Never was added to any official dictionary.</p>
 <code>m</code>&shy;<code></code> divine, sacred, holy, supernatural<br />
 <code>m</code>&shy;<code></code> formal, religious, elevated, superior<br />
 <code>d</code>&shy;<code>ir</code> above, up</p>
-<p><strong>sijelo</strong> <img alt="sijelo" src="docs/pics/sijelo.png" /><br />
+<p><strong>sijelo</strong> <img alt="sijelo" src="pics/sijelo.png" /><br />
 <code>n</code>&shy;<code></code> body, torso  </p>
-<p><strong>sike</strong> <img alt="sike" src="docs/pics/sike.png" /><br />
+<p><strong>sike</strong> <img alt="sike" src="pics/sike.png" /><br />
 <code>n</code>&shy;<code></code> round or circular thing<br />
 <code>v</code>&shy;<code></code> repeat, rotate<br />
 <code>v</code>&shy;<code></code> form into a circle, encircle, surround<br />
@@ -1128,84 +1162,84 @@ Never was added to any official dictionary.</p>
 <code>m</code>&shy;<code></code> round, circular, spherical<br />
 <code>a</code>&shy;<code>dv</code> repeatedly, again and again<br />
 <code>m</code>&shy;<code></code> of one year</p>
-<p><strong>sin</strong> <img alt="sin" src="docs/pics/sin.png" /><br />
+<p><strong>sin</strong> <img alt="sin" src="pics/sin.png" /><br />
 <code>v</code>&shy;<code></code> renew, freshen, upgrade<br />
 <code>m</code>&shy;<code></code> new, fresh, another<br />
 <code>see</code>&shy;<code></code> namako</p>
-<p><strong>sina</strong> <img alt="sina" src="docs/pics/sina.png" /><br />
-<code>n</code>&shy;<code></code> thou, you<br />
-<code>m</code>&shy;<code></code> thy, thine, your, yours</p>
-<p><strong>sinpin</strong> <img alt="sinpin" src="docs/pics/sinpin.png" /><br />
+<p><strong>sina</strong> <img alt="sina" src="pics/sina.png" /><br />
+<code>n</code>&shy;<code></code> 2nd person (thou, you)<br />
+<code>m</code>&shy;<code></code> thy, thine; your, yours</p>
+<p><strong>sinpin</strong> <img alt="sinpin" src="pics/sinpin.png" /><br />
 <code>n</code>&shy;<code></code> face, front<br />
 <code>n</code>&shy;<code></code> wall<br />
 <code>m</code>&shy;<code></code> front, facial<br />
 <code>d</code>&shy;<code>ir</code> front of</p>
-<p><strong>sitelen</strong> <img alt="sitelen" src="docs/pics/sitelen.png" /><br />
+<p><strong>sitelen</strong> <img alt="sitelen" src="pics/sitelen.png" /><br />
 <code>n</code>&shy;<code></code> drawing, writing, picture, image, symbol, visual representation<br />
 <code>n</code>&shy;<code></code> letter<br />
 <code>v</code>&shy;<code></code> draw, write, paint<br />
 <code>m</code>&shy;<code></code> written, drawn<br />
 <code>m</code>&shy;<code></code> representational, metaphorical, figurative</p>
-<p><strong>sona</strong> <img alt="sona" src="docs/pics/sona.png" /><br />
+<p><strong>sona</strong> <img alt="sona" src="pics/sona.png" /><br />
 <code>n</code>&shy;<code></code> knowledge, science (of something), intelligence, wisdom<br />
 <code>v</code>&shy;<code></code> know, skilled in<br />
 <code>a</code>&shy;<code></code> know how to<br />
 <code>m</code>&shy;<code></code> known, smart (figuratively, like in "smart phone")  </p>
-<p><strong>soweli</strong> <img alt="soweli" src="docs/pics/soweli.png" /><br />
+<p><strong>soweli</strong> <img alt="soweli" src="pics/soweli.png" /><br />
 <code>n</code>&shy;<code></code> animal, mammal, land animal<br />
 <code>n</code>&shy;<code></code> lovable animal<br />
 <code>m</code>&shy;<code></code> wild, animalistic</p>
-<p><strong>su</strong> <img alt="pu" src="docs/pics/su.png" /><br />
+<p><strong>su</strong> <img alt="pu" src="pics/su.png" /><br />
 <code>n</code>&shy;<code></code> <em>The Wonderful Wizard of Oz (Toki Pona edition)</em><br />
 <code>v</code>&shy;<code></code> interacting with the <em>The Wonderful Wizard of Oz (Toki Pona edition)</em><br />
 <code>m</code>&shy;<code></code> according to/as in/by the <em>The Wonderful Wizard of Oz (Toki Pona edition)</em>  </p>
-<p><strong>suli</strong> <img alt="suli" src="docs/pics/suli.png" /><br />
+<p><strong>suli</strong> <img alt="suli" src="pics/suli.png" /><br />
 <code>m</code>&shy;<code></code> big, large, adult, heavy, important</p>
-<p><strong>suno</strong> <img alt="suno" src="docs/pics/suno.png" /><br />
+<p><strong>suno</strong> <img alt="suno" src="pics/suno.png" /><br />
 <code>n</code>&shy;<code></code> sun, light, shine<br />
 <code>n</code>&shy;<code></code> light source<br />
 <code>m</code>&shy;<code></code> bright, lit, shining, gold (color)</p>
-<p><strong>supa</strong> <img alt="supa" src="docs/pics/supa.png" /><br />
+<p><strong>supa</strong> <img alt="supa" src="pics/supa.png" /><br />
 <code>n</code>&shy;<code></code> horizontal surface<br />
 <code>m</code>&shy;<code></code> thing you can rest on</p>
-<p><strong>suwi</strong> <img alt="suwi" src="docs/pics/suwi.png" /><br />
+<p><strong>suwi</strong> <img alt="suwi" src="pics/suwi.png" /><br />
 <code>n</code>&shy;<code></code> candy, sweets<br />
 <code>v</code>&shy;<code></code> sweeten<br />
 <code>m</code>&shy;<code></code> cute, sweet, adorable<br />
 <code>m</code>&shy;<code></code> innocent</p>
 <h3>T</h3>
-<p><strong>tan</strong> <img alt="tan" src="docs/pics/tan.png" /><br />
+<p><strong>tan</strong> <img alt="tan" src="pics/tan.png" /><br />
 <code>n</code>&shy;<code></code> reason, ground<br />
 <code>v</code>&shy;<code></code> reason, cause<br />
 <code>m</code>&shy;<code></code> grounded<br />
 <code>p</code>&shy;<code></code> because (of), since, by, from</p>
-<p><strong>taso</strong> <img alt="taso" src="docs/pics/taso.png" /><br />
+<p><strong>taso</strong> <img alt="taso" src="pics/taso.png" /><br />
 <code>m</code>&shy;<code></code> only<br />
 <code>c</code>&shy;<code>onj</code> but</p>
-<p><strong>tawa</strong> <img alt="tawa" src="docs/pics/tawa.png" /><br />
+<p><strong>tawa</strong> <img alt="tawa" src="pics/tawa.png" /><br />
 <code>v</code>&shy;<code></code> move (something)<br />
 <code>m</code>&shy;<code></code> moving<br />
 <code>p</code>&shy;<code></code> going to, for, to</p>
-<p><strong>telo</strong> <img alt="telo" src="docs/pics/telo.png" /><br />
+<p><strong>telo</strong> <img alt="telo" src="pics/telo.png" /><br />
 <code>n</code>&shy;<code></code> liquid, fluid, beverage, water<br />
 <code>v</code>&shy;<code></code> water, wash<br />
 <code>v</code>&shy;<code></code> swim<br />
 <code>m</code>&shy;<code></code> liquid, wet  </p>
-<p><strong>tenpo</strong> <img alt="tenpo" src="docs/pics/tenpo.png" /><br />
+<p><strong>tenpo</strong> <img alt="tenpo" src="pics/tenpo.png" /><br />
 <code>n</code>&shy;<code></code> time, moment, period<br />
 <code>l</code>&shy;<code>a</code> sometimes</p>
-<p><strong>toki</strong> <img alt="toki" src="docs/pics/toki.png" /><br />
+<p><strong>toki</strong> <img alt="toki" src="pics/toki.png" /><br />
 <code>n</code>&shy;<code></code> speak, language<br />
 <code>v</code>&shy;<code></code> say, talk, tell, communicate, think (of something grounded)<br />
 <code>m</code>&shy;<code></code> spoken</p>
-<p><strong>tomo</strong> <img alt="tomo" src="docs/pics/tomo.png" /><br />
+<p><strong>tomo</strong> <img alt="tomo" src="pics/tomo.png" /><br />
 <code>n</code>&shy;<code></code> house, room, indoor space, home<br />
 <code>m</code>&shy;<code></code> urban</p>
-<p><strong>tonsi</strong> <img alt="tonsi" src="docs/pics/tonsi.png" /><br />
+<p><strong>tonsi</strong> <img alt="tonsi" src="pics/tonsi.png" /><br />
 <code>n</code>&shy;<code></code> non-binary, genderqueer, gender-nonconforming, transgender.<br />
 <code>pu</code>&shy;<code></code> jan kule<br />
 This word was coined by the community shortly after <em>pu</em> was released. "jan kule" is a possible alternative, though it is most often used as an umbrella term for the whole LGBTQ+ community.</p>
-<p><strong>tu</strong> <img alt="tu" src="docs/pics/tu.png" /><br />
+<p><strong>tu</strong> <img alt="tu" src="pics/tu.png" /><br />
 <code>v</code>&shy;<code></code> cut<br />
 <code>n</code>&shy;<code>um</code> two</p>
 <p class="hidden"><strong>*tuli</strong><br />
@@ -1213,46 +1247,46 @@ This word was coined by the community shortly after <em>pu</em> was released. "j
 <code>pu</code>&shy;<code></code> tu wan<br />
 Removed before toki pona became well-known.</p>
 <h3>U</h3>
-<p><strong>unpa</strong> <img alt="unpa" src="docs/pics/unpa.png" /><br />
+<p><strong>unpa</strong> <img alt="unpa" src="pics/unpa.png" /><br />
 <code>n</code>&shy;<code></code> sex, making love, intercourse<br />
 <code>v</code>&shy;<code></code> have sex with, copulate with<br />
 <code>v</code>&shy;<code></code> have marital relation with<br />
 <code>m</code>&shy;<code></code> sexual<br />
 <code>a</code>&shy;<code>dv</code> sexually</p>
-<p><strong>uta</strong> <img alt="uta" src="docs/pics/uta.png" /><br />
+<p><strong>uta</strong> <img alt="uta" src="pics/uta.png" /><br />
 <code>n</code>&shy;<code></code> mouth, lips<br />
 <code>v</code>&shy;<code></code> kiss<br />
 <code>m</code>&shy;<code>od</code> oral</p>
-<p><strong>utala</strong> <img alt="utala" src="docs/pics/utala.png" /><br />
+<p><strong>utala</strong> <img alt="utala" src="pics/utala.png" /><br />
 <code>n</code>&shy;<code></code> fight, battle, war<br />
 <code>v</code>&shy;<code></code> battle, challenge<br />
 <code>m</code>&shy;<code></code> fighting</p>
 <h3>W</h3>
-<p><strong>walo</strong> <img alt="walo" src="docs/pics/walo.png" /><br />
+<p><strong>walo</strong> <img alt="walo" src="pics/walo.png" /><br />
 <code>m</code>&shy;<code></code> white, light, pale, innocent, virgin</p>
-<p><strong>wan</strong> <img alt="wan" src="docs/pics/wan.png" /><br />
+<p><strong>wan</strong> <img alt="wan" src="pics/wan.png" /><br />
 <code>m</code>&shy;<code></code> unique<br />
 <code>n</code>&shy;<code>um</code> one</p>
-<p><strong>waso</strong> <img alt="waso" src="docs/pics/waso.png" /><br />
+<p><strong>waso</strong> <img alt="waso" src="pics/waso.png" /><br />
 <code>n</code>&shy;<code></code> bird<br />
 <code>m</code>&shy;<code></code> winged (animal), flying (creature)</p>
-<p><strong>wawa</strong> <img alt="wawa" src="docs/pics/wawa.png" /><br />
+<p><strong>wawa</strong> <img alt="wawa" src="pics/wawa.png" /><br />
 <code>n</code>&shy;<code></code> energy, power<br />
 <code>v</code>&shy;<code></code> energize, empower<br />
 <code>m</code>&shy;<code></code> strong, powerful, energetic, intense</p>
-<p><strong>weka</strong> <img alt="weka" src="docs/pics/weka.png" /><br />
+<p><strong>weka</strong> <img alt="weka" src="pics/weka.png" /><br />
 <code>v</code>&shy;<code></code> get away from, ignore, throw away, remove<br />
 <code>m</code>&shy;<code></code> away, ignored</p>
-<p><strong>wile</strong> <img alt="wile" src="docs/pics/wile.png" /><br />
+<p><strong>wile</strong> <img alt="wile" src="pics/wile.png" /><br />
 <code>n</code>&shy;<code></code> will, urge, need, hope<br />
 <code>v</code>&shy;<code></code> want<br />
 <code>a</code>&shy;<code></code> want, should, have to, must, need<br />
 <code>m</code>&shy;<code></code> wanted, desired, necessary  </p>
 <h3>Y</h3>
-<p><strong>yupekosi</strong> <img alt="yupekosi" src="docs/pics/yupekosi.png" /><br />
+<p><strong>yupekosi</strong> <img alt="yupekosi" src="pics/yupekosi.png" /><br />
 <code>v</code>&shy;<code></code> to behave like George Lucas and revise your old creative works and actually make them worse<br />
 <code>pu</code>&shy;<code></code> wile ike
-<em>"nobody knows how to pronounce the y"</em>[sic] &ndash; jan Sonja  </p>
+<em>"Nobody knows how to pronounce the y."</em>[sic] &ndash; jan Sonja</p>
 </div>
 </div>
 <div id="main-hu">

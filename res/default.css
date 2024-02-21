@@ -101,6 +101,8 @@ blockquote::before {
     font-family: var(--mono-font);
     margin-left: -2em;
     margin-bottom: 1rem;
+    grid-column-start: 1;
+    grid-column-end: span 2
 }
 
 blockquote {
@@ -112,6 +114,10 @@ blockquote {
     padding: 10px;
     margin: auto 0 auto 2em;
     line-height: 200%;
+}
+
+blockquote>p {
+    display: none;
 }
 
 .block-left, .block-right {
@@ -180,9 +186,19 @@ tr:not(:last-child) td {
     line-height: 90%;
 }
 
+.dict p {
+    position: relative;
+}
+
 .dict img {
+    position: absolute;
     display: inline-block;
     height: 1.5em;
+    left: 5em;
+}
+
+.dict .kijetesantakalu img {
+    left: 9em;
 }
 
 h6 {
@@ -196,4 +212,23 @@ h6 {
 
 h6 ~ p {
     margin-top: 0;
+}
+
+@media screen and (max-width: 470px) {
+    body {
+        width: 85vw;
+    }
+    table {
+        display: block;
+        overflow-x: scroll;
+        width: initial;
+    }
+    blockquote {
+        margin-left: 0;
+    }
+
+    blockquote::before {
+        margin-left: 0;
+        
+    }
 }
