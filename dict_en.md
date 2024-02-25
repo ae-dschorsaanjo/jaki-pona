@@ -188,7 +188,7 @@ __kalama__ ![kalama](pics/kalama.png)
 `m`&shy;` ` loud, audible
 
 __kama__ ![kama](pics/kama.png)  
-`a`&shy;` ` become, will, pursue actions to arrive to (a certain state)  
+`a`&shy;` ` become, will, pursue actions to arrive to (a certain state), "future tense"  
 `m`&shy;` ` _something_-to-be in the future, coming, arriving
 
 __\*kan__  
@@ -303,8 +303,10 @@ Removed from then-official dictionary in 2004.
 __len__ ![len](pics/len.png)  
 `n`&shy;`1` cloth, fabric, textile  
 `n`&shy;`2` cover, layer  
-`v`&shy;` ` wear, cover, hide  
-`m`&shy;` ` clothed, covered, covering  
+`v`&shy;`1` wear, cover  
+`v`&shy;`2` hide  
+`m`&shy;`1` clothed, covered, covering  
+`m`&shy;`2` hidden
 
 __lete__ ![lete](pics/lete.png)  
 `m`&shy;`1` cold  
@@ -332,9 +334,9 @@ __loje__ ![loje](pics/loje.png)
 `m`&shy;` ` red
 
 __lon__ ![lon](pics/lon.png)  
-`p`&shy;` ` located at, at the time of  
 `v`&shy;` ` place, put  
 `m`&shy;` ` existing, real, true  
+`p`&shy;` ` located at, at the time of  
 `i`&shy;` ` indeed, that's right  
 `l`&shy;`a ` actually, truly, in reality
 
@@ -517,84 +519,83 @@ __pakala__ ![pakala](pics/pakala.png)
 `i`&shy;` ` dammit! shoot!
 
 __pake__ ![pake](pics/pake.png)  
-`n`&shy;` ` blocking, prevention, obstruction  
-`v`&shy;` ` block, obstruct, prevent  
-`m`&shy;` ` blocked, prevented  
-Suggested by jan Sonja, never officially added.
+`v`&shy;` ` prevent, block, obstruct  
+Suggested by jan Sonja, never officially added (before *ku*).
 
 __pali__ ![pali](pics/pali.png)  
-`n`&shy;` ` working, job, process  
-`v`&shy;` ` do, make, build, prepare, work (on)  
+`n`&shy;` ` work, job, process  
+`v`&shy;` ` do, make, build, work (on)  
 
 __palisa__ ![palisa](pics/palisa.png)  
-`n`&shy;` ` rot, stick; long and solid (hard) thing  
-`m`&shy;` ` long and solid (hard)
+`n`&shy;` ` rot, stick; long and solid object  
+`m`&shy;` ` long and solid
 
 __pan__ ![pan](pics/pan.png)  
-`n`&shy;` ` bread, cereal, corn, rice, grain
+`n`&shy;`1` bread  
+`n`&shy;`2` cereal, corn, rice, grain
 
 __pana__ ![pana](pics/pana.png)  
-`n`&shy;` ` giving, sharing  
-`v`&shy;` ` give, send, share, publish, release  
-`m`&shy;` ` given, shared, public
+`v`&shy;`1` give, send  
+`v`&shy;`2` share, publish, release
 
 __\*pasila/pasi__  
 `see`&shy;` ` pona  
-_pasila_ was replaced before the first public draft; _pasi_ was a typo.
+_pasila_ was replaced before the first public draft; _pasi_ was a typo later in a collection of "deprecated words".
 { .hidden }
 
 __pi__ ![pi](pics/pi.png)  
-`p`&shy;` ` of (marks the possessor)  
-`p`&shy;` `&shy;`sep ` separates modifier groups after the noun
+`f`&shy;`1` separates modifier groups after the noun  
+`f`&shy;`2` of (marks the possessor)
 
 __pilin__ ![pilin](pics/pilin.png)  
-`n`&shy;` ` feeling, instinct, emotion, heart (sometimes after _insa_)  
-`v`&shy;` ` feel, smell, sense, guess, think about (an opinion)  
-`m`&shy;`od ` feeling, emotionally
+`n`&shy;`1` feeling, emotion, instinct  
+`n`&shy;`2` heart (often after _insa_)  
+`v`&shy;`1` feel, smell, sense  
+`v`&shy;`2` guess, think (emotionally or subjectively)  
 
 __pimeja__ ![pimeja](pics/pimeja.png)  
 `n`&shy;` ` darkness  
 `v`&shy;` ` darken  
-`m`&shy;` ` dark, unlit, black, hidden (metaphorically)
+`m`&shy;`1` black  
+`m`&shy;`2` dark, unlit
 
 __pini__ ![pini](pics/pini.png)  
-`n`&shy;` ` end, finish, past  
-`v`&shy;` ` finish, end, stop, complete, turn off  
-`a`&shy;` ` end, finish, stop  
-`m`&shy;`od ` finished, past, former, ex-
+`n`&shy;`1` end, finish  
+`n`&shy;`2` past  
+`v`&shy;`1` finish, end, stop, complete  
+`v`&shy;`2` deactivate  
+`a`&shy;` ` finish, stop, :past tense"  
+`m`&shy;` ` finished, past, former, ex-
 
 __pipi__ ![pipi](pics/pipi.png)  
 `n`&shy;` ` insect, bug, spider
 
 __poka__ ![poka](pics/poka.png)  
-`n`&shy;` ` side, hip  
-`p`&shy;` ` along with, together with, next to  
-`p`&shy;` ` with  
-`d`&shy;`ir ` near, next to, side of
+`n`&shy;`1` side (of something)  
+`n`&shy;`2` hip  
+`m`&shy;`1` near, by, next to  
+`m`&shy;`2` along with, together with  
 
 __poki__ ![poki](pics/poki.png)  
 `n`&shy;` ` box, container, bag, bowl  
 `v`&shy;` ` contain  
 
 __pona__ ![pona](pics/pona.png)  
-`n`&shy;` ` good, help, peace  
-`v`&shy;` ` help (someone), repair, fix, improve  
-`m`&shy;` ` good, positive, friendly, useful, simple, nice, right (_not_ the direction)  
-`a`&shy;`dv ` well  
-`i`&shy;`nt ` great! thanks!
+`v`&shy;` ` help, repair, fix, improve  
+`m`&shy;` ` good, nice, positive, friendly, useful, simple  
+`i`&shy;` ` great! thanks!
 
 __\*po__  
-`n`&shy;`um ` four  
+`#`&shy;` ` four  
 `pu`&shy;` ` tu tu  
 Removed before toki pona became well-known.
 { .hidden }
 
 __powe__ ![powe](pics/powe.png)  
-`n`&shy;` ` being false, cheating, trick  
-`v`&shy;` ` be false, deceive, pretend, cheat, trick  
+`v`&shy;` ` deceive, pretend, cheat, trick  
 `m`&shy;` ` false, untrue  
 `pu`&shy;` ` lon ala, toki ike, ike  
-Never was added to any official dictionary.
+It was never added to any official dictionary (before *ku*).
 
 __pu__ ![pu](pics/pu.png)  
 `n`&shy;` ` the _Toki Pona Book_  
@@ -731,9 +732,11 @@ __tenpo__ ![tenpo](pics/tenpo.png)
 `l`&shy;`a ` sometimes
 
 __toki__ ![toki](pics/toki.png)  
-`n`&shy;` ` speak, language  
-`v`&shy;` ` say, talk, tell, communicate, think (of something grounded)  
-`m`&shy;` ` spoken
+`n`&shy;`1` speaking, verbal communication  
+`n`&shy;`2` language  
+`v`&shy;`1` say, talk, tell, communicate  
+`v`&shy;`2` think (rationally or objectively)  
+`i`&shy;` ` hello!
 
 __tomo__ ![tomo](pics/tomo.png)  
 `n`&shy;` ` house, room, indoor space, home  
