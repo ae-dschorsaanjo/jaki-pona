@@ -109,7 +109,7 @@ Added in early 2010, but was not included in _pu_.
 __awen__ ![awen](pics/awen.png)  
 `n`&shy;` ` waiting, staying  
 `v`&shy;`1` wait, wait for (with "tawa"), stay, remain  
-`v`&shy;`2` keep something unchanged
+`v`&shy;`2` keep something unchanged  
 `a`&shy;` ` keep  
 `m`&shy;` ` kept, protected (from change), remaining  
 `l`&shy;`a` still
@@ -179,7 +179,8 @@ __jo__ ![jo](pics/jo.png)
 ### K
 
 __kala__ ![kala](pics/kala.png)  
-`n`&shy;` ` fish  
+`n`&shy;`1` aquatic animal  
+`n`&shy;`2` fish  
 `m`&shy;` ` fish-like, aquatic
 
 __kalama__ ![kalama](pics/kalama.png)  
@@ -313,7 +314,7 @@ __lete__ ![lete](pics/lete.png)
 `m`&shy;`2` raw, uncooked
 
 __li__ ![li](pics/li.png)  
-`f`&shy;`1` separates the predicate and the object
+`f`&shy;`1` separates the predicate and the object  
 `f`&shy;`2` and (between predicates)  
 
 __lili__ ![lili](pics/lili.png)  
@@ -322,7 +323,7 @@ __lili__ ![lili](pics/lili.png)
 `m`&shy;`3` a bit, slightly
 
 __linja__ ![linja](pics/linja.png)  
-`n`&shy;` ` hair, rope, thread
+`n`&shy;` ` hair, rope, thread  
 `m`&shy;` ` long and flexible, rope-like
 
 __lipu__ ![lipu](pics/lipu.png)  
@@ -335,7 +336,7 @@ __loje__ ![loje](pics/loje.png)
 
 __lon__ ![lon](pics/lon.png)  
 `v`&shy;` ` place, put  
-`m`&shy;` ` existing, real, true  
+`m`&shy;` ` existing, real, factual, true  
 `p`&shy;` ` located at, at the time of  
 `i`&shy;` ` indeed, that's right  
 `l`&shy;`a ` actually, truly, in reality
@@ -374,7 +375,7 @@ Removed before first public draft.
 
 __mama__ ![mama](pics/mama.png)  
 `n`&shy;` ` parent, ancestor, origin, creator, caretaker  
-`m`&shy;`1` parent, ancestor, parental
+`m`&shy;`1` parent, ancestor, parental  
 `m`&shy;`2` original (only when it is used in contrast with something)
 
 __mani__ ![mani](pics/mani.png)  
@@ -486,7 +487,7 @@ __noka__ ![noka](pics/noka.png)
 ### O
 
 __o__ ![o](pics/o.png)  
-`f`&shy;`1` marks imperative and vocative
+`f`&shy;` ` marks imperative and vocative
 
 __oko__ ![oko](pics/oko.png)  
 `n`&shy;` ` eye  
@@ -581,7 +582,8 @@ __poki__ ![poki](pics/poki.png)
 `v`&shy;` ` contain  
 
 __pona__ ![pona](pics/pona.png)  
-`v`&shy;` ` help, repair, fix, improve  
+`v`&shy;` ` help, repair, fix  
+`v`&shy;` ` improve, upgrade  
 `m`&shy;` ` good, nice, positive, friendly, useful, simple  
 `i`&shy;` ` great! thanks!
 
@@ -605,80 +607,70 @@ __pu__ ![pu](pics/pu.png)
 ### S
 
 __sama__ ![sama](pics/sama.png)  
-`n`&shy;` ` equality, each other (usually after _e_)  
-`v`&shy;` ` to make similar  
-`m`&shy;` ` same, similar, sibling, fellow  
-`p`&shy;` ` like, as, same as, equal to  
+`m`&shy;` ` same, similar  
+`f`&shy;` ` same as, equal to, like, akin to  
 `l`&shy;`a ` similarly, like
 
 __seli__ ![seli](pics/seli.png)  
-`n`&shy;` ` heat, fire, chemical reaction  
+`n`&shy;` ` fire, heat, chemical reaction  
 `v`&shy;` ` cook, bake, heat  
 `m`&shy;` ` hot, warm, cooked
 
 __selo__ ![selo](pics/selo.png)  
-`n`&shy;` ` outer layer, outer side, shell, skin, wall, separator  
+`n`&shy;` ` outer layer, shell, skin, wall, separator  
 `v`&shy;` ` separate  
-`m`&shy;` ` outer (side)
 
 __seme__ ![seme](pics/seme.png)  
 `n`&shy;` ` what? who?  
-`m`&shy;` ` which? what kind?  
-`a`&shy;`dv ` how?  
-`p`&shy;` ` what? which? wh-? (creates a question)
+`m`&shy;`1` which? what kind?  
+`m`&shy;`2` how?  
 
 __sewi__ ![sewi](pics/sewi.png)  
-`n`&shy;` ` area above, highest part, top    
-`n`&shy;` ` god, sky  
 `v`&shy;` ` get up, arise, lift, raise up, win  
-`v`&shy;` ` worship, adore  
-`m`&shy;` ` divine, sacred, holy, supernatural  
-`m`&shy;` ` formal, religious, elevated, superior  
-`d`&shy;`ir ` above, up
+`m`&shy;`1` above, upwards, elevated, superior  
+`m`&shy;`2` divine, sacred, holy, religious, supernatural  
 
 __sijelo__ ![sijelo](pics/sijelo.png)  
-`n`&shy;` ` body, torso  
+`n`&shy;`1` body, main structure, main section  
+`n`&shy;`2` torso  
 
 __sike__ ![sike](pics/sike.png)  
-`n`&shy;` ` round or circular thing  
+`n`&shy;` ` round or circular object  
 `v`&shy;` ` repeat, rotate  
-`v`&shy;` ` form into a circle, encircle, surround  
-`a`&shy;` ` repeat  
+`v`&shy;` ` form into a circle  
 `m`&shy;` ` round, circular, spherical  
-`a`&shy;`dv ` repeatedly, again and again  
-`m`&shy;` ` of one year
+`m`&shy;` ` repeated(ly), again and again
 
 __sin__ ![sin](pics/sin.png)  
-`v`&shy;` ` renew, freshen, upgrade  
-`m`&shy;` ` new, fresh, another  
-`see`&shy;` ` namako
+`v`&shy;` ` renew, freshen, update  
+`m`&shy;` ` new, fresh  
+`see`&shy;` ` namako  
+This word was merged with *namako* in *pu*, although their uses remained largely separate.
 
 __sina__ ![sina](pics/sina.png)  
 `n`&shy;` ` 2nd person (thou, you)  
 `m`&shy;` ` thy, thine; your, yours
 
 __sinpin__ ![sinpin](pics/sinpin.png)  
-`n`&shy;` ` face, front  
-`n`&shy;` ` wall  
-`m`&shy;` ` front, facial  
-`d`&shy;`ir ` front of
+`n`&shy;` ` face, front facing surface  
+`m`&shy;`1` front, frontal  
+`m`&shy;`2` facial  
 
 __sitelen__ ![sitelen](pics/sitelen.png)  
-`n`&shy;` ` drawing, writing, picture, image, symbol, visual representation  
-`n`&shy;` ` letter  
+`n`&shy;` ` drawing, writing, picture, image, symbol, visual representation of something  
 `v`&shy;` ` draw, write, paint  
 `m`&shy;` ` written, drawn  
-`m`&shy;` ` representational, metaphorical, figurative
 
 __sona__ ![sona](pics/sona.png)  
-`n`&shy;` ` knowledge, science (of something), intelligence, wisdom  
+`n`&shy;`1` knowledge, data and information  
+`n`&shy;`2` intelligence, wisdom  
 `v`&shy;` ` know, skilled in  
-`a`&shy;` ` know how to  
-`m`&shy;` ` known, smart (figuratively, like in "smart phone")  
+`m`&shy;` ` known  
+While *factuality* is usually implied with *sona*, it does not necessarily mean that the knowledge is reliable (use *lon* to mark factuality if needed).
 
 __soweli__ ![soweli](pics/soweli.png)  
-`n`&shy;` ` animal, mammal, land animal  
-`n`&shy;` ` lovable animal  
+`n`&shy;`1` land animal  
+`n`&shy;`2` mammal  
 `m`&shy;` ` wild, animalistic
 
 __su__ ![pu](pics/su.png)  
@@ -687,22 +679,27 @@ __su__ ![pu](pics/su.png)
 `m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_  
 
 __suli__ ![suli](pics/suli.png)  
-`m`&shy;` ` big, large, adult, heavy, important
+`m`&shy;`1` big, large, heavy  
+`m`&shy;`2` adult  
+`m`&shy;`3` important
 
 __suno__ ![suno](pics/suno.png)  
-`n`&shy;` ` sun, light, shine  
-`n`&shy;` ` light source  
-`m`&shy;` ` bright, lit, shining, gold (color)
+`n`&shy;`1` Sun (celestial body)  
+`n`&shy;`2` light source  
+`m`&shy;`1` bright, lit, shining  
+`m`&shy;`2` gold (color, after *kule*)
 
 __supa__ ![supa](pics/supa.png)  
-`n`&shy;` ` horizontal surface  
-`m`&shy;` ` thing you can rest on
+`n`&shy;`1` horizontal surface  
+`n`&shy;`2` thing to put or rest something on  
+`m`&shy;`1` resting  
+`m`&shy;`2` can be rested on (object)
 
 __suwi__ ![suwi](pics/suwi.png)  
-`n`&shy;` ` candy, sweets  
-`v`&shy;` ` sweeten  
-`m`&shy;` ` cute, sweet, adorable  
-`m`&shy;` ` innocent
+`n`&shy;` ` sweets  
+`m`&shy;`1` sweet  
+`m`&shy;`2` cute, adorable  
+`m`&shy;`3` innocent
 
 ### T
 
@@ -786,7 +783,8 @@ __wan__ ![wan](pics/wan.png)
 `n`&shy;`um ` one
 
 __waso__ ![waso](pics/waso.png)  
-`n`&shy;` ` bird  
+`n`&shy;`1` volant animal (able to travel in the air by flying, gliding, etc.)  
+`n`&shy;`2` bird  
 `m`&shy;` ` winged (animal), flying (creature)
 
 __wawa__ ![wawa](pics/wawa.png)  
