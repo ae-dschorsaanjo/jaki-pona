@@ -704,29 +704,30 @@ __suwi__ ![suwi](pics/suwi.png)
 ### T
 
 __tan__ ![tan](pics/tan.png)  
-`n`&shy;` ` reason, ground  
-`v`&shy;` ` reason, cause  
-`m`&shy;` ` grounded  
-`p`&shy;` ` because (of), since, by, from
+`n`&shy;` ` reason, origin point  
+`v`&shy;` ` cause  
+`p`&shy;`1` from, by  
+`p`&shy;`2` because (of), since
 
 __taso__ ![taso](pics/taso.png)  
 `m`&shy;` ` only  
-`c`&shy;`onj ` but
+`c`&shy;` ` but
 
 __tawa__ ![tawa](pics/tawa.png)  
 `v`&shy;` ` move (something)  
 `m`&shy;` ` moving  
-`p`&shy;` ` going to, for, to
+`p`&shy;`1` going to  
+`p`&shy;`2` for, to
 
 __telo__ ![telo](pics/telo.png)  
-`n`&shy;` ` liquid, fluid, beverage, water  
+`n`&shy;`1` water  
+`n`&shy;`2` liquid  
 `v`&shy;` ` water, wash  
-`v`&shy;` ` swim  
-`m`&shy;` ` liquid, wet  
+`m`&shy;`1` wet  
+`m`&shy;`2` liquid
 
 __tenpo__ ![tenpo](pics/tenpo.png)  
-`n`&shy;` ` time, moment, period  
-`l`&shy;`a ` sometimes
+`n`&shy;`1` time, period
 
 __toki__ ![toki](pics/toki.png)  
 `n`&shy;`1` speaking, verbal communication  
@@ -736,20 +737,22 @@ __toki__ ![toki](pics/toki.png)
 `i`&shy;` ` hello!
 
 __tomo__ ![tomo](pics/tomo.png)  
-`n`&shy;` ` house, room, indoor space, home  
-`m`&shy;` ` urban
+`n`&shy;` ` house, room, indoor or enclosed space  
+`n`&shy;`2` home
 
 __tonsi__ ![tonsi](pics/tonsi.png)  
-`n`&shy;` ` non-binary, genderqueer, gender-nonconforming, transgender.  
+`n`&shy;` ` non-binary, genderqueer, transgender  
+`m`&shy;` ` gender-nonconforming  
 `pu`&shy;` ` jan kule  
-This word was coined by the community shortly after *pu* was released. "jan kule" is a possible alternative, though it is most often used as an umbrella term for the whole LGBTQ+ community.
+This word was coined by the community shortly after *pu* was released.  
+"jan kule" is not a true alternative, but a broader term meaning "queer" (LGBTQ+).
 
 __tu__ ![tu](pics/tu.png)  
 `v`&shy;` ` cut  
-`n`&shy;`um ` two
+`#`&shy;` ` two
 
 __\*tuli__  
-`n`&shy;`um ` three  
+`#`&shy;` ` three  
 `pu`&shy;` ` tu wan  
 Removed before toki pona became well-known.
 { .hidden }
@@ -757,21 +760,22 @@ Removed before toki pona became well-known.
 ### U
 
 __unpa__ ![unpa](pics/unpa.png)  
-`n`&shy;` ` sex, making love, intercourse  
-`v`&shy;` ` have sex with, copulate with  
-`v`&shy;` ` have marital relation with  
-`m`&shy;` ` sexual  
-`a`&shy;`dv ` sexually
+`n`&shy;` ` sex, intercourse  
+`v`&shy;`1` have sex (with)  
+`v`&shy;`2` have marital relation with  
+`m`&shy;` ` sexual, sexually  
+More generally could be defined as "performing the action necessary for reproduction, with or without the intent of reproducing".  
+Opinions vary about whether this word is purely used in sexual contexts or could be applied to other, non-sexual relationships.
 
 __uta__ ![uta](pics/uta.png)  
 `n`&shy;` ` mouth, lips  
-`v`&shy;` ` kiss  
-`m`&shy;`od ` oral
+`v`&shy;` ` kiss, lick  
+`m`&shy;` ` oral
 
 __utala__ ![utala](pics/utala.png)  
 `n`&shy;` ` fight, battle, war  
-`v`&shy;` ` battle, challenge  
-`m`&shy;` ` fighting
+`v`&shy;` ` battle, challenge, fight  
+`m`&shy;` ` violent, aggressive, fighting
 
 ### W
 
