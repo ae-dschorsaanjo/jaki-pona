@@ -780,11 +780,13 @@ __utala__ ![utala](pics/utala.png)
 ### W
 
 __walo__ ![walo](pics/walo.png)  
-`m`&shy;` ` white, light, pale, innocent, virgin
+`m`&shy;`1` white  
+`m`&shy;`2` light, pale  
+`m`&shy;`3` innocent, virgin
 
 __wan__ ![wan](pics/wan.png)  
 `m`&shy;` ` unique  
-`n`&shy;`um ` one
+`#`&shy;` ` one
 
 __waso__ ![waso](pics/waso.png)  
 `n`&shy;`1` volant animal (able to travel in the air by flying, gliding, etc.)  
@@ -792,19 +794,25 @@ __waso__ ![waso](pics/waso.png)
 `m`&shy;` ` winged (animal), flying (creature)
 
 __wawa__ ![wawa](pics/wawa.png)  
-`n`&shy;` ` energy, power  
-`v`&shy;` ` energize, empower  
-`m`&shy;` ` strong, powerful, energetic, intense
+`n`&shy;`1` power, energy  
+`n`&shy;`2` magic  
+`m`&shy;`1` strong, powerful  
+`m`&shy;`2` energetic, intense  
+`m`&shy;`3` confident, sure
 
 __weka__ ![weka](pics/weka.png)  
-`v`&shy;` ` get away from, ignore, throw away, remove  
-`m`&shy;` ` away, ignored
+`v`&shy;`1` make distance (from object); get away from, throw away, remove  
+`v`&shy;`2` ignore  
+`m`&shy;`1` away
+`m`&shy;`2` ignored
 
 __wile__ ![wile](pics/wile.png)  
-`n`&shy;` ` will, urge, need, hope  
-`v`&shy;` ` want  
+`n`&shy;` ` will, hope  
+`n`&shy;`2` urge, need  
+`v`&shy;` ` want, need  
 `a`&shy;` ` want, should, have to, must, need  
-`m`&shy;` ` wanted, desired, necessary  
+`m`&shy;` ` wanted, desired  
+`m`&shy;`2` necessary, required
 
 ### Y
 
