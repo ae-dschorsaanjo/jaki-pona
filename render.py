@@ -1,7 +1,9 @@
 #! /usr/bin/env python3
 
+
 from markdown import markdown
 from re import sub
+
 
 def read_file(path: str, is_markdown: bool = False) -> str:
     with open(path, 'r', encoding='utf-8') as f:
@@ -12,17 +14,15 @@ def read_file(path: str, is_markdown: bool = False) -> str:
             return text
         return f.read()
 
+
 def render_markdown(text):
     return markdown(text,
                     extensions=['attr_list', 'def_list', 'smarty',
                                 'tables'],
                     extension_configs={
-                        'smarty': {
-                            'smart_dashes': True,
-                            'smart_quotes': False,
-                            'smart_ellipses': True
-                        }
-                    })
+                        'smarty': {'smart_dashes': True,
+                                   'smart_quotes': False,
+                                   'smart_ellipses': True}})
 
 
 def render(main_en: str, main_hu: str,
@@ -33,7 +33,7 @@ def render(main_en: str, main_hu: str,
     main_hu = render_markdown(read_file(main_hu, True))
     dict_en = render_markdown(read_file(dict_en, True))
     # dict_hu = render_markdown(read_file(dict_hu, True))
-    # FIXME
+    # FIXME: remove override
     dict_hu = ''
     css_fonts = read_file(css_fonts)
     css_global = read_file(css_global)
@@ -53,6 +53,7 @@ def render(main_en: str, main_hu: str,
     with open('docs/index.html', 'w', encoding='utf-8') as f:
         f.write(out)
     return len(out)
+
 
 if __name__ == '__main__':
     print(render('jaki_pona-en.md', 'jaki_pona-hu.md',
