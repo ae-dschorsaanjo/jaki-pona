@@ -77,7 +77,8 @@
     --html-bg: hsl(60, 20%, 93%);
     --mono-bg: hsl(60, 17%, 90%);
     --selection-bg: #6272a4;
-    --selection-bg-trans: #6273a44c;
+    --selection-bg-trans: #6273a44c;    
+    --selection-fg: hsl(60, 100%, 50%);
     --link-fg: #8739f3;
     --link-bg: var(--color-bg);
     --link-click-fg: #f339a3;
@@ -128,12 +129,13 @@ h1 {
 
 h2, h3, h4, h5 {
     color: var(--heading-fg);
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 
 ::selection {
     background-color: var(--selection-bg);
     color: var(--color-bg);
+    color: var(--selection-fg);
 }
 
 a, a:visited {
@@ -170,6 +172,14 @@ p.special {
 
 .hidden.veryhidden {
     display: none;
+}
+
+#table-of-contents~ul {
+    list-style-type: none;
+}
+
+#table-of-contents~ul li::marker {
+    content: "▯ ";
 }
 
 footer {
@@ -441,31 +451,46 @@ h6 ~ p {
 <body>
 
 <header>
-<h1>jaki pona</h1><div id="langsel" style="display: none;"><div id="en">en</div><div id="hu">hu</div></div>
+<h1>jaki pona</h1><div id="langsel"><div id="en">en</div><div id="hu">hu</div></div>
 </header>
 
 <main>
 <div id="main-en">
 <p><em>toki pona</em> ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  </p>
 <p class="special"><em>jaki pona</em> ("the good sh&ast;t") is a short summary&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;<em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em>).</p>
-<h2>Basic Structure</h2>
-<p>toki pona has a 13 letter alphabet (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional <em>'n'</em>). However, there are four <em>forbidden pairings</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> and <code>ti</code> &ndash; the latter becomes <code>si</code> instead), and word-initial consonant may be absent.<br />
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#basic-structure">Basic Structure</a></li>
+<li><a href="#transliterating-names">Transliterating Names</a></li>
+<li><a href="#sentence-types-and-punctuation">Sentence Types and Punctuation</a></li>
+<li><a href="#prepositions-and-conjunctions">Preposition and Conjunctions</a></li>
+<li><a href="#time-and-space">Time and Space</a></li>
+<li><a href="#numbers">Numbers</a></li>
+<li><a href="#advanced-grammar">Advanced Grammar</a></li>
+<li><a href="#dictionary">Dictionary</a></li>
+</ul>
+<h2 id="basic-structure">Basic Structure</h2>
+<p>toki pona has a 13 letter alphabet (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional <code>n</code>). However, there are four <em>forbidden pairings</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> and <code>ti</code> &ndash; the latter becomes <code>si</code> instead), and the word-initial consonant may be absent.<br />
 Letters correspond to the sounds they mark in <a href="https://www.ipachart.com/">IPA</a>, though additional voicing and some variations are allowed.</p>
 <p>There are only three pronouns, <code>mi</code> (I/we), <code>sina</code> (you) and <code>ona</code> (he/she/it/they).  </p>
-<p>Sentences have a simple subject-verb-object word order. Subjects and the predicate (often a verb; toki pona does not have a word for "to be", hence we will use the more generic term "predicate") are separated by the word <code>li</code>, unless the subject is only <em>"mi"</em> or <em>"sina"</em>. Predicates and objects are separated by <code>e</code> and does not by themselves have a tense. Adjectives and adverbs, collectively called <em>modifiers</em>, go after the noun, (as opposed to English).<br />
-Similar to preposition, there are <em>auxiliary-</em> or <em>pre-verbs</em> that can precede the verb or predicate. Usual examples are <code>kama</code> (will) or <code>wile</code> (need, must).</p>
+<p>Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word <code>li</code>, unless the subject is only <em>"mi"</em> or <em>"sina"</em>. Predicates and objects are separated by <code>e</code>. Predicates do not have tense. Adjectives and adverbs, henceforth collectively called <em>modifiers</em>, go after the noun (as opposed to English).<br />
+Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> that precede the verb or predicate. Usual examples are <code>kama</code> (will) or <code>wile</code> (need, must). There are no definite and indefinite articles.</p>
 <blockquote>
-<p><div class="block-left">mi moku e pan.</div><div class="block-right">(I eat bread.)</div>
+<p><div class="block-left">mi loje.</div><div class="block-right">(I red.)</div>
+<div class="block-left">ona li loje.</div><div class="block-right">(It red.)</div>
+<div class="block-left">mi moku e pan.</div><div class="block-right">(I eat bread.)</div>
 <div class="block-left">mi mute li lukin e tomo.</div><div class="block-right">(We are watching the house.)</div>
 <div class="block-left">ona li tawa tomo.</div><div class="block-right">(She is going home.)</div>
 <div class="block-left">ona li wile tawa tomo.</div><div class="block-right">(It wants to go home.)</div>
+<div class="block-left">ona li wile e tawa tomo.</div><div class="block-right">(She wants a car.)</div>
 <div class="block-left">ona li tomo tawa.</div><div class="block-right">(He is a car.)</div>
 <div class="block-left">ona li tawa tomo tawa.</div><div class="block-right">(They are going to [their] car.)</div>
+<div class="block-left">ona li tawa e tomo tawa.</div><div class="block-right">(He moves the car.)</div>
 <div class="block-left">tomo tawa li tawa tomo.</div><div class="block-right">(The car is going home.)</div>
 <div class="block-left">mi tomo tawa wile li wile tawa tomo mi.</div><div class="block-right">(I am a wannabe car and [I] want to go to my apartment.)</div></p>
 </blockquote>
-<h2>Transliterating Names</h2>
-<p>Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as <em>modifiers</em>. The following conventions are usually used, although they are not hard rules:</p>
+<h2 id="transliterating-names">Transliterating Names</h2>
+<p>Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as <em>modifiers</em>. The following conventions are customary, although they are not hard rules:</p>
 <ol>
 <li>Number of syllables should remain the same.</li>
 <li>The letter <em>'r'</em> should become <em>'l'</em>, <em>'w'</em> or <em>'k'</em> (depending on pronunciation).</li>
@@ -474,16 +499,22 @@ Similar to preposition, there are <em>auxiliary-</em> or <em>pre-verbs</em> that
 <li>Vowel clusters should become split into multiple syllables with added consonants.</li>
 <li>Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.</li>
 </ol>
-<h2>Sentence Types and Punctuation</h2>
-<p>Declarative sentences should not need further explanation for now.<br />
-Question end with a question mark, and can be formed in <em>three ways:</em>
-1. Repeating the pre-verb or predicate and putting an <em>"ala"</em> between them.
-2. Putting <em>"anu seme?"</em> at the end of the sentence.
-3. Putting <em>"seme"</em> in place of the thing you want to question.</p>
-<p>The exclamation point is used for <em>three different ways:</em>
-1. To form imperative (command) sentences, in which case, <code>o</code> is used in front of the verb and the subject may be ommitted; if it is not, then <code>o</code> <em>replaces</em> <code>li</code>.
-2. To form interjections, like <em>"moku pona!"</em> (good appetite!).
-3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.</p>
+<p>Although there are no rules against the <em>'nn'</em> cluster (when the first syllable ends with an optional <em>'n'</em> and the next one begins with one, e.g. <em>jan Anna</em>), it is generally avoided.</p>
+<h2 id="sentence-types-and-punctuation">Sentence Types and Punctuation</h2>
+<p>Technically all punctuation marks are optional variants of the <em>full stop</em> (<code>.</code>) with the exception of the <em>colon</em> (<code>:</code>). Using <a href="pics/sitelen_pona_leko/sitelen-pona-leko.png">sitelen pona</a>, no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although <em>colons</em> are still usually used.</p>
+<p>Declarative sentences are the default and should not need further explanation.  </p>
+<p>Question end with a question mark (<code>?</code>), and can be formed in <em>three ways:</em></p>
+<ol>
+<li>Repeating the pre-verb or predicate, and putting an <em>"ala"</em> between them.</li>
+<li>Putting <em>"seme"</em> in place of the thing you want to question.</li>
+<li>Putting <em>"anu seme?"</em> at the end of the sentence.</li>
+</ol>
+<p>The exclamation mark (<code>!</code>) is used in <em>three different ways:</em></p>
+<ol>
+<li>To form imperative ("command") sentences, in which case, <code>o</code> is used in front of the verb and the subject may be ommitted; if it is not, then <code>o</code> <em>replaces</em> <code>li</code>.</li>
+<li>To form interjections, like <em>"moku pona!"</em> (good appetite!).</li>
+<li>To emphasize a declarative sentence; this way it visually shows verbal emphasis.</li>
+</ol>
 <blockquote>
 <p><div class="block-left">sina lukin e ona.</div><div class="block-right">(You look at him.)</div>
 <div class="block-left">sina lukin ala lukin e ona?</div><div class="block-right">(Are you looking at him?)</div>
@@ -494,23 +525,24 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 <div class="block-left">o lukin e ona!</div><div class="block-right">(Look at him!)</div>
 <div class="block-left">sina o lukin e ona!</div><div class="block-right">(You, look at him!)</div></p>
 </blockquote>
-<p>Colons are used after <code>e</code> or a preposition is followed by <code>ni</code>. These are used when the <em>object</em> is another sentence (in case of <code>e</code>), or in certain situations to form compound sentences. The preposition used are most often <em>"tan"</em> ("because") and <em>"sama"</em> ("like, similar"). The latter is rather rare and often does not translate directly.</p>
+<p>Colons (<code>:</code>) are used when a preposition or <code>e</code> is followed by <code>ni</code>. These are used when the <em>object</em> is another sentence (in case of <code>e</code>), or in certain situations to form compound sentences. The preposition used are most often <em>"tan"</em> ("because") and <em>"sama"</em> ("like, similar"). The latter is rather rare and often does not translate directly.</p>
 <blockquote>
 <p><div class="block-left">mi pilin pona tan ni: soweli suwi mi li mu.</div><div class="block-right">(I feel good, because my cat is purring.)</div>
+<div class="block-left">jan Sotan li wile e ni: musi ona li pona tawa jan.</div><div class="block-right">(Zotn wants people to like his music.)</div>
 <div class="block-left">ona li sona e tenpo sama ni: jan ale li tawa kon.</div><div class="block-right">(She knows a time when everyone is flying.)</div>
 <div class="block-left">sina tawa sama ni: jan li wile pakala e sina.</div><div class="block-right">(You are running as if people would want to hurt you.)</div></p>
 </blockquote>
-<p>Commas can be used freely to visually separate parts of a sentence, although customarily they are only put before <em>prepositions</em>, and either before or after <code>la</code>.</p>
-<h2>Prepositions and Conjunctions</h2>
+<p>Commas (<code>,</code>) can be used freely to visually separate parts of a sentence, although customarily they are only put before <em>prepositions</em>, and either before or after <code>la</code>.</p>
+<h2 id="prepositions-and-conjunctions">Prepositions and Conjunctions</h2>
 <p>Prepositions are followed by noun phrases (nouns and modifiers; along with the prepositions, they are called <em>prepositional phrases</em>) and they can be put after virtually any noun phrase (such as the subject or object) to modify or specify their meanings. There are 5 prepositions in toki pona, <code>kepeken</code> (with), <code>lon</code> (at), <code>sama</code> (like), <code>tan</code> (from, because) and <code>tawa</code> (to, for). When these are used at the end of sentences, then their meaning may apply to the whole sentence as opposed to the (last) object; most often this is a <em>'lon'</em> structure indicating physical locations or time.</p>
-<p>Conjunctions, with the exception of <code>taso</code>, must be used along with <code>la</code> (see under <em>Advanced Grammar</em>), or they have special sentence structures. The following ones are available:</p>
+<p>Conjunctions, with the exception of <code>taso</code>, must be used along with <code>la</code> (see under <em><a href="#advanced-grammar">Advanced Grammar</a></em>), or they have special sentence structures. The following ones are available:</p>
 <ol>
 <li>And<ul>
 <li>Between subjects, use <code>en</code>.</li>
-<li>Between verbs, use <code>li</code></li>
+<li>Between verbs, use <code>li</code>.</li>
 <li>Betwen object, use <code>e</code>.</li>
-<li>To apply to the whole sentence (linking it to the previous one), begin the sentence with <code>kin la</code> (alternatively <code>en la</code>).</li>
-<li>Between modifiers, use <code>pi M1 en M2</code> (where <em>M1</em> and <em>M2</em> are modifiers).</li>
+<li>To apply it to the whole sentence (linking it to the previous one), begin the sentence with <code>kin la</code> (alternatively <code>en la</code>).</li>
+<li>Between modifiers, use <code>pi M1 en M2</code> (where <em>M1</em> and <em>M2</em> are the modifiers); this cannot be combined with multiple subjects!</li>
 </ul>
 </li>
 <li>Or<ul>
@@ -533,8 +565,8 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 <div class="block-left">ona li wile pali. ante la ona li kama nasa.</div><div class="block-right">(She must work, otherwise she'd become crazy.)</div>
 <div class="block-left">mi wile pali e musi. taso mi jo e wawa ala.</div><div class="block-right">(I want to make music, but I am exhausted.)</div></p>
 </blockquote>
-<h2>Time and Space</h2>
-<p>Expressing time and location are very similar: they both use <code>lon</code> and they both can be used as the <em>context</em> in <code>la</code> phrases (see Advanced Grammar).</p>
+<h2 id="time-and-space">Time and Space</h2>
+<p>Talking about time and location ("space") are very similar: they both use <code>lon</code> and they both can be used as the <em>context</em> in <code>la</code> phrases (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>).</p>
 <p><em>Time</em> is expressed as a noun phrase using <code>tenpo</code> and modifiers. The most common ones are <code>kama</code> (for future), <code>pini</code> (for past), <code>ni</code> (for present), <code>suno</code> (for day/daytime), <code>pimeja</code> (for night); <em>"kama"</em>, <em>"pini"</em> and <em>"ni"</em> are often used in conjunction with the latter two.</p>
 <blockquote>
 <p><div class="block-left">ona li lape lon tenpo pimeja.</div><div class="block-right">(She sleeps at night.)</div>
@@ -566,7 +598,7 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 <div class="block-left">soweli li lape lon anpa supa.</div><div class="block-right">(The cat is sleeping under the bed.)</div>
 <div class="block-left">soweli li tawa monsi tomo.</div><div class="block-right">(The cat goes behind the house [presumably to sleep].)</div></p>
 </blockquote>
-<h2>Numbers</h2>
+<h2 id="numbers">Numbers</h2>
 <p>Numbers are relatively rare as neither pronouns nor nouns are inherently <em>singular</em> or <em>plural</em>. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):</p>
 <table>
 <thead>
@@ -637,14 +669,14 @@ Question end with a question mark, and can be formed in <em>three ways:</em>
 </tr>
 </tbody>
 </table>
-<p>Numbers are used as <em>modifiers</em>. They always go <em>after the last modifier,</em> but <em>before the first "pi"</em> (see Advanced Grammar). Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; does not apply to short range. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
+<p>Numbers are used as <em>modifiers</em>. They always go <em>after the last modifier,</em> but <em>before the first "pi"</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>). Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; does not apply to short range. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
 Ordinal numbers are expressed using <code>nanpa</code> followed by the number and work the same as regular numbers.</p>
 <blockquote>
 <p><div class="block-left">soweli suwi tu wan</div><div class="block-right">(Three cats)</div>
 <div class="block-left">soweli suwi tuli</div><div class="block-right">(Three cats)</div>
 <div class="block-left">soweli suwi nanpa tu wan</div><div class="block-right">(The third cat)</div></p>
 </blockquote>
-<h2>Advanced Grammar</h2>
+<h2 id="advanced-grammar">Advanced Grammar</h2>
 <p><code>pi</code> is used to group modifiers. For example, <em>"jan pona suli mute"</em> would mean "big friends", but <em>"jan pona pi suli mute"</em> would mean "[a] very big friend".<br />
 When spatial nouns are used in <em>prepositional phrases</em> (either after <em>"lon"</em> or <em>"tawa"</em>), <em>"pi"</em> can be put after the spatial noun if they are followed by more than one word.<br />
 <em>Possessors</em> are modifiers as well and they go <em>after all the other modifiers</em>. If the possessor is more than one word or could be mistaken for a regular modifier, then put a <em>"pi"</em> before them.</p>
@@ -664,12 +696,12 @@ Prepositional phrases may be places in front of <em>'la'</em> to indicate that i
 <div class="block-left">lon ma tomo Uso la jan moli li tawa sin.</div><div class="block-right">(In Uso, dead people are walking again.)</div></p>
 </blockquote>
 <div class="dict">
-<h2>Dictionary</h2>
+<h2 id="dictionary">Dictionary</h2>
 <p>Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example <em><em>kipisi</em></em> at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this <em>does not</em> mean that words without a definition as a noun cannot be use as one in the right context. <em>Function</em> (or <em>grammatical</em>) words are the only exceptions to this rule.</p>
 <p class="hidden">There are multiple different dictionaries that can be found with word counts most ranging between 118&ndash;150. <em>pu</em>, the "official Toki Pona book" written by jan Sonja, had a 120/123 word dictionary &ndash; where 6 words were merged in pairs. <em>ku</em>, the "Toki Pona Dictionary" also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.<br />
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.</p>
 <p class="hidden keep">This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
-<h3>Abbreviations</h3>
+<h3 id="abbreviations">Abbreviations</h3>
 <dl>
 <dt><code>n</code></dt>
 <dd>noun</dd>
@@ -697,7 +729,7 @@ Due to the small number of words, definitions may be vague and toki pona relies 
 <dd>see also (very similar words, or was at one point merged with marked words)</dd>
 </dl>
 <p>Numbers following any of these letters mark <em>alternative</em> definitions.</p>
-<h3>A</h3>
+<h3 id="a">A</h3>
 <p><strong>a</strong> <img alt="a" src="pics/a.png" /><br />
 <code>m</code>&shy;<code>1</code> (emotional) emphasis<br />
 <code>m</code>&shy;<code>2</code> exaggeration, superlative (after <em>adjectives</em>)<br />
@@ -751,7 +783,7 @@ Added in early 2010, but was not included in <em>pu</em>.</p>
 <code>a</code>&shy;<code></code> keep<br />
 <code>m</code>&shy;<code></code> kept, protected (from change), remaining<br />
 <code>l</code>&shy;<code>a</code> still</p>
-<h3>E</h3>
+<h3 id="e">E</h3>
 <p><strong>e</strong> <img alt="e" src="pics/e.png" /> <br />
 <code>f</code>&shy;<code>1</code> separates the predicate and the object<br />
 <code>f</code>&shy;<code>2</code> and (if there are multiple objects)</p>
@@ -762,7 +794,7 @@ Added in early 2010, but was not included in <em>pu</em>.</p>
 <code>n</code>&shy;<code></code> business<br />
 <code>v</code>&shy;<code></code> buy, do business<br />
 <code>m</code>&shy;<code></code> financial, for sale</p>
-<h3>I</h3>
+<h3 id="i">I</h3>
 <p><strong>ijo</strong> <img alt="ijo" src="pics/ijo.png" /><br />
 <code>n</code>&shy;<code></code> something, thing, object  </p>
 <p><strong>ike</strong> <img alt="ike" src="pics/ike.png" /><br />
@@ -780,7 +812,7 @@ Added in early 2010, but was not included in <em>pu</em>.</p>
 <code>n</code>&shy;<code></code> stomach, organ<br />
 <code>m</code>&shy;<code>1</code> internal<br />
 <code>m</code>&shy;<code>2</code> inner, inside, center, among</p>
-<h3>J</h3>
+<h3 id="j">J</h3>
 <p><strong>jaki</strong> <img alt="jaki" src="pics/jaki.png" /><br />
 <code>n</code>&shy;<code></code> dirt, garbage, filth, sh*t<br />
 <code>v</code>&shy;<code></code> stain, defile<br />
@@ -795,7 +827,7 @@ Proposed replacement for <em>noka</em> by jan Sonja. The community voted against
 <code>m</code>&shy;<code></code> yellow</p>
 <p><strong>jo</strong> <img alt="jo" src="pics/jo.png" /><br />
 <code>v</code>&shy;<code></code> have, own, carry, contain</p>
-<h3>K</h3>
+<h3 id="k">K</h3>
 <p><strong>kala</strong> <img alt="kala" src="pics/kala.png" /><br />
 <code>n</code>&shy;<code>1</code> aquatic animal<br />
 <code>n</code>&shy;<code>2</code> fish<br />
@@ -868,7 +900,7 @@ Originally <em>wawa ma</em> was used before this word was created.</p>
 <p><strong>kute</strong> <img alt="kute" src="pics/kute.png" /><br />
 <code>n</code>&shy;<code></code> ear<br />
 <code>v</code>&shy;<code></code> hear, listen to</p>
-<h3>L</h3>
+<h3 id="l">L</h3>
 <p><strong>la</strong> <img alt="la" src="pics/la.png" /><br />
 <code>p</code>&shy;<code></code> separates the context and the main sentence</p>
 <p><strong>lanpan</strong> <img alt="lanpan" src="pics/lanpan.png" /><br />
@@ -936,7 +968,7 @@ In <em>pu</em>, <em>lukin</em> and <em>oko</em> were merged and could be used in
 <code>n</code>&shy;<code></code> hole, orifice, window, door<br />
 <code>v</code>&shy;<code></code> pierce, stab, dig<br />
 <code>m</code>&shy;<code></code> full of holes, hollow</p>
-<h3>M</h3>
+<h3 id="m">M</h3>
 <p><strong>ma</strong> <img alt="ma" src="pics/ma.png" /><br />
 <code>n</code>&shy;<code>1</code> land, country, place<br />
 <code>n</code>&shy;<code>2</code> earth, dry land, outdoor area<br />
@@ -1002,7 +1034,7 @@ Added in 2010 along with <em>kipisi</em> and <em>namako</em>, not included in <e
 <code>m</code>&shy;<code></code> many, a lot, more, much, very  <br />
 <code>#</code>&shy;<code>1</code> many<br />
 <code>#</code>&shy;<code>2</code> twenty</p>
-<h3>N</h3>
+<h3 id="n">N</h3>
 <p><strong>namako</strong> <img alt="namako" src="pics/namako.png" /><br />
 <code>n</code>&shy;<code></code> addition, bonus, spice (for food)<br />
 <code>m</code>&shy;<code></code> extra, additional<br />
@@ -1034,7 +1066,7 @@ Added along with <em>kipisi</em> and <em>monsuta</em> in 2010. In <em>pu</em>, i
 <code>v</code>&shy;<code></code> kick<br />
 <code>m</code>&shy;<code>1</code> on foot, by foot<br />
 <code>m</code>&shy;<code>2</code> lower (part)</p>
-<h3>O</h3>
+<h3 id="o">O</h3>
 <p><strong>o</strong> <img alt="o" src="pics/o.png" /><br />
 <code>f</code>&shy;<code></code> marks imperative and vocative</p>
 <p><strong>oko</strong> <img alt="oko" src="pics/oko.png" /><br />
@@ -1054,7 +1086,7 @@ It was merged with <em>lukin</em> in <em>pu</em>.</p>
 <code>a</code>&shy;<code></code> begin, start<br />
 <code>m</code>&shy;<code>1</code> open, activated<br />
 <code>m</code>&shy;<code>2</code> available, ready</p>
-<h3>P</h3>
+<h3 id="p">P</h3>
 <p><strong>pakala</strong> <img alt="pakala" src="pics/pakala.png" /><br />
 <code>n</code>&shy;<code>1</code> damage, injury<br />
 <code>n</code>&shy;<code>2</code> error, bug, accident, mistake<br />
@@ -1127,7 +1159,7 @@ It was never added to any official dictionary (before <em>ku</em>).</p>
 <code>n</code>&shy;<code></code> the <em>Toki Pona Book</em><br />
 <code>v</code>&shy;<code></code> interacting with the <em>Toki Pona Book</em><br />
 <code>m</code>&shy;<code></code> according to/as in/by the <em>Toki Pona Book</em>  </p>
-<h3>S</h3>
+<h3 id="s">S</h3>
 <p><strong>sama</strong> <img alt="sama" src="pics/sama.png" /><br />
 <code>m</code>&shy;<code></code> same, similar<br />
 <code>f</code>&shy;<code></code> same as, equal to, like, akin to<br />
@@ -1205,7 +1237,7 @@ While <em>factuality</em> is usually implied with <em>sona</em>, it does not nec
 <code>m</code>&shy;<code>1</code> sweet<br />
 <code>m</code>&shy;<code>2</code> cute, adorable<br />
 <code>m</code>&shy;<code>3</code> innocent</p>
-<h3>T</h3>
+<h3 id="t">T</h3>
 <p><strong>tan</strong> <img alt="tan" src="pics/tan.png" /><br />
 <code>n</code>&shy;<code></code> reason, origin point<br />
 <code>v</code>&shy;<code></code> cause<br />
@@ -1249,7 +1281,7 @@ This word was coined by the community shortly after <em>pu</em> was released.<br
 <code>#</code>&shy;<code></code> three<br />
 <code>pu</code>&shy;<code></code> tu wan<br />
 Removed before toki pona became well-known.</p>
-<h3>U</h3>
+<h3 id="u">U</h3>
 <p><strong>unpa</strong> <img alt="unpa" src="pics/unpa.png" /><br />
 <code>n</code>&shy;<code></code> sex, intercourse<br />
 <code>v</code>&shy;<code>1</code> have sex (with)<br />
@@ -1265,7 +1297,7 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 <code>n</code>&shy;<code></code> fight, battle, war<br />
 <code>v</code>&shy;<code></code> battle, challenge, fight<br />
 <code>m</code>&shy;<code></code> violent, aggressive, fighting</p>
-<h3>W</h3>
+<h3 id="w">W</h3>
 <p><strong>walo</strong> <img alt="walo" src="pics/walo.png" /><br />
 <code>m</code>&shy;<code>1</code> white<br />
 <code>m</code>&shy;<code>2</code> light, pale<br />
@@ -1295,7 +1327,7 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 <code>a</code>&shy;<code></code> want, should, have to, must, need<br />
 <code>m</code>&shy;<code></code> wanted, desired<br />
 <code>m</code>&shy;<code>2</code> necessary, required</p>
-<h3>Y</h3>
+<h3 id="y">Y</h3>
 <p><strong>yupekosi</strong> <img alt="yupekosi" src="pics/yupekosi.png" /><br />
 <code>v</code>&shy;<code></code> to behave like George Lucas and revise your old creative works and actually make them worse<br />
 <code>pu</code>&shy;<code></code> wile ike
@@ -1319,45 +1351,45 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 </footer>
 
 <script>
-// const EN_SEL = document.getElementById("en");
-// const HU_SEL = document.getElementById("hu");
-// const EN_ID = EN_SEL.id;
-// const HU_ID = HU_SEL.id;
-// const sel = id => { if (id == HU_ID) return HU_SEL; else return EN_SEL; };
-// const SEL_CLS = "sel";
-// const MAIN_PREFIX = "main-";
-// const LANG = "lang";
+const EN_SEL = document.getElementById("en");
+const HU_SEL = document.getElementById("hu");
+const EN_ID = EN_SEL.id;
+const HU_ID = HU_SEL.id;
+const sel = id => { if (id == HU_ID) return HU_SEL; else return EN_SEL; };
+const SEL_CLS = "sel";
+const MAIN_PREFIX = "main-";
+const LANG = "lang";
 
-// function hideMain(lang) {
-//     let [on, off] = lang == EN_ID ? [EN_ID, HU_ID] : [HU_ID, EN_ID];
-//     document.getElementById(MAIN_PREFIX + on).style.display = 'block';
-//     document.getElementById(MAIN_PREFIX + off).style.display = 'none';
-//     sel(on).classList.add(SEL_CLS);
-//     sel(off).classList.remove(SEL_CLS);
-// }
+function hideMain(lang) {
+    let [on, off] = lang == EN_ID ? [EN_ID, HU_ID] : [HU_ID, EN_ID];
+    document.getElementById(MAIN_PREFIX + on).style.display = 'block';
+    document.getElementById(MAIN_PREFIX + off).style.display = 'none';
+    sel(on).classList.add(SEL_CLS);
+    sel(off).classList.remove(SEL_CLS);
+}
 
-// function chooseLanguage(lang, first_call = false) {
-//     if (first_call) {
-//         let storedLang = localStorage.getItem(LANG);
-//         if (storedLang) lang = storedLang; 
-//     }
-//     else {
-//         if (localStorage.getItem(LANG) == lang) return false;
-//         localStorage.setItem(LANG, lang);
-//     }
-//     hideMain(lang);
-//     return true;
-// }
+function chooseLanguage(lang, first_call = false) {
+    if (first_call) {
+        let storedLang = localStorage.getItem(LANG);
+        if (storedLang) lang = storedLang; 
+    }
+    else {
+        if (localStorage.getItem(LANG) == lang) return false;
+        localStorage.setItem(LANG, lang);
+    }
+    hideMain(lang);
+    return true;
+}
 
-// EN_SEL.addEventListener("click", e => {
-//     chooseLanguage(EN_ID);
-// });
+EN_SEL.addEventListener("click", e => {
+    chooseLanguage(EN_ID);
+});
 
-// HU_SEL.addEventListener("click", e => {
-//     chooseLanguage(HU_ID);
-// })
+HU_SEL.addEventListener("click", e => {
+    chooseLanguage(HU_ID);
+})
 
-// chooseLanguage(EN_ID, true);
+chooseLanguage(EN_ID, true);
 </script>
 
 </body>
