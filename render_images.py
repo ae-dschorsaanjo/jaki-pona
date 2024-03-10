@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 from copy import deepcopy
 
-ORIGINAL = "res/sitelen_pona_leko/sitelen-pona-leko-trans.png"
+ORIGINAL = "pics/sitelen_pona_leko/sitelen-pona-leko-trans.png"
 OUT_DIR = "docs/pics/"
 BORDER_WIDTH = 4
 IMAGE_WIDTH = 148
