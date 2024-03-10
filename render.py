@@ -18,7 +18,7 @@ def read_file(path: str, is_markdown: bool = False) -> str:
 def render_markdown(text):
     return markdown(text,
                     extensions=['attr_list', 'def_list', 'smarty',
-                                'tables'],
+                                'tables', 'toc'],
                     extension_configs={
                         'smarty': {'smart_dashes': True,
                                    'smart_quotes': False,

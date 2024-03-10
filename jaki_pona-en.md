@@ -3,28 +3,43 @@
 *jaki pona* ("the good sh&ast;t") is a short summary&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
 { .special }
 
+## Table of Contents
+
+- [Basic Structure](#basic-structure)
+- [Transliterating Names](#transliterating-names)
+- [Sentence Types and Punctuation](#sentence-types-and-punctuation)
+- [Preposition and Conjunctions](#prepositions-and-conjunctions)
+- [Time and Space](#time-and-space)
+- [Numbers](#numbers)
+- [Advanced Grammar](#advanced-grammar)
+- [Dictionary](#dictionary)
+
 ## Basic Structure
 
-toki pona has a 13 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional *'n'*). However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and word-initial consonant may be absent.  
+toki pona has a 13 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional `n`). However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent.  
 Letters correspond to the sounds they mark in [IPA](https://www.ipachart.com/), though additional voicing and some variations are allowed.
 
 There are only three pronouns, `mi` (I/we), `sina` (you) and `ona` (he/she/it/they).  
 
-Sentences have a simple subject-verb-object word order. Subjects and the predicate (often a verb; toki pona does not have a word for "to be", hence we will use the more generic term "predicate") are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e` and does not by themselves have a tense. Adjectives and adverbs, collectively called *modifiers*, go after the noun, (as opposed to English).  
-Similar to preposition, there are *auxiliary-* or *pre-verbs* that can precede the verb or predicate. Usual examples are `kama` (will) or `wile` (need, must).
+Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e`. Predicates do not have tense. Adjectives and adverbs, henceforth collectively called *modifiers*, go after the noun (as opposed to English).  
+Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the verb or predicate. Usual examples are `kama` (will) or `wile` (need, must). There are no definite and indefinite articles.
 
+> mi loje. | I red.
+> ona li loje. | It red.
 > mi moku e pan. | I eat bread.
 > mi mute li lukin e tomo. | We are watching the house.
 > ona li tawa tomo. | She is going home.
 > ona li wile tawa tomo. | It wants to go home.
+> ona li wile e tawa tomo. | She wants a car.
 > ona li tomo tawa. | He is a car.
 > ona li tawa tomo tawa. | They are going to \[their] car.
+> ona li tawa e tomo tawa. | He moves the car.
 > tomo tawa li tawa tomo. | The car is going home.
 > mi tomo tawa wile li wile tawa tomo mi. | I am a wannabe car and \[I] want to go to my apartment.
 
 ## Transliterating Names
 
-Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as *modifiers*. The following conventions are usually used, although they are not hard rules:
+Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as *modifiers*. The following conventions are customary, although they are not hard rules:
 
 1. Number of syllables should remain the same.
 2. The letter *'r'* should become *'l'*, *'w'* or *'k'* (depending on pronunciation).
@@ -33,16 +48,23 @@ Proper names should be transliterated to toki pona, following standard toki pona
 5. Vowel clusters should become split into multiple syllables with added consonants.
 6. Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.
 
+Although there are no rules against the *'nn'* cluster (when the first syllable ends with an optional *'n'* and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
+
 ## Sentence Types and Punctuation
 
-Declarative sentences should not need further explanation for now.  
-Question end with a question mark, and can be formed in *three ways:*
-1. Repeating the pre-verb or predicate and putting an *"ala"* between them.
-2. Putting *"anu seme?"* at the end of the sentence.
-3. Putting *"seme"* in place of the thing you want to question.
+Technically all punctuation marks are optional variants of the *full stop* (`.`) with the exception of the *colon* (`:`). Using [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png), no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although *colons* are still usually used.
 
-The exclamation point is used for *three different ways:*
-1. To form imperative (command) sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` *replaces* `li`.
+Declarative sentences are the default and should not need further explanation.  
+
+Question end with a question mark (`?`), and can be formed in *three ways:*
+
+1. Repeating the pre-verb or predicate, and putting an *"ala"* between them.
+2. Putting *"seme"* in place of the thing you want to question.
+3. Putting *"anu seme?"* at the end of the sentence.
+
+The exclamation mark (`!`) is used in *three different ways:*
+
+1. To form imperative ("command") sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` *replaces* `li`.
 2. To form interjections, like *"moku pona!"* (good appetite!).
 3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.
 
@@ -55,26 +77,27 @@ The exclamation point is used for *three different ways:*
 > o lukin e ona! | Look at him!
 > sina o lukin e ona! | You, look at him!
 
-Colons are used after `e` or a preposition is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The preposition used are most often *"tan"* ("because") and *"sama"* ("like, similar"). The latter is rather rare and often does not translate directly.
+Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The preposition used are most often *"tan"* ("because") and *"sama"* ("like, similar"). The latter is rather rare and often does not translate directly.
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | I feel good, because my cat is purring.
+> jan Sotan li wile e ni: musi ona li pona tawa jan. | Zotn wants people to like his music.
 > ona li sona e tenpo sama ni: jan ale li tawa kon. | She knows a time when everyone is flying.
 > sina tawa sama ni: jan li wile pakala e sina. | You are running as if people would want to hurt you.
 
-Commas can be used freely to visually separate parts of a sentence, although customarily they are only put before *prepositions*, and either before or after `la`.
+Commas (`,`) can be used freely to visually separate parts of a sentence, although customarily they are only put before *prepositions*, and either before or after `la`.
 
 ## Prepositions and Conjunctions
 
 Prepositions are followed by noun phrases (nouns and modifiers; along with the prepositions, they are called *prepositional phrases*) and they can be put after virtually any noun phrase (such as the subject or object) to modify or specify their meanings. There are 5 prepositions in toki pona, `kepeken` (with), `lon` (at), `sama` (like), `tan` (from, because) and `tawa` (to, for). When these are used at the end of sentences, then their meaning may apply to the whole sentence as opposed to the (last) object; most often this is a *'lon'* structure indicating physical locations or time.
 
-Conjunctions, with the exception of `taso`, must be used along with `la` (see under *Advanced Grammar*), or they have special sentence structures. The following ones are available:
+Conjunctions, with the exception of `taso`, must be used along with `la` (see under *[Advanced Grammar](#advanced-grammar)*), or they have special sentence structures. The following ones are available:
 
 1. And
     - Between subjects, use `en`.
-    - Between verbs, use `li`
+    - Between verbs, use `li`.
     - Betwen object, use `e`.
-    - To apply to the whole sentence (linking it to the previous one), begin the sentence with `kin la` (alternatively `en la`).
-    - Between modifiers, use `pi M1 en M2` (where *M1* and *M2* are modifiers).
+    - To apply it to the whole sentence (linking it to the previous one), begin the sentence with `kin la` (alternatively `en la`).
+    - Between modifiers, use `pi M1 en M2` (where *M1* and *M2* are the modifiers); this cannot be combined with multiple subjects!
 2. Or
     - Same as "and", but always use `anu`.
     - Although `ante la` is used more often than `anu la`.
@@ -92,7 +115,7 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
 
 ## Time and Space
 
-Expressing time and location are very similar: they both use `lon` and they both can be used as the *context* in `la` phrases (see Advanced Grammar).
+Expressing time and location are very similar: they both use `lon` and they both can be used as the *context* in `la` phrases (see *[Advanced Grammar](#advanced-grammar)*).
 
 *Time* is expressed as a noun phrase using `tenpo` and modifiers. The most common ones are `kama` (for future), `pini` (for past), `ni` (for present), `suno` (for day/daytime), `pimeja` (for night); *"kama"*, *"pini"* and *"ni"* are often used in conjunction with the latter two.
 
@@ -144,7 +167,7 @@ luka    |             | 5         | 5              |
 mute    | 3+          | 11+       | 20             | 
 ale/ali | all         | all       | 100,&nbsp;all  | Used for "all", "every" and "countless".
 
-Numbers are used as *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see Advanced Grammar). Numbers without specific words for them are formed by adding them up, starting with the largest -- does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
+Numbers are used as *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Numbers without specific words for them are formed by adding them up, starting with the largest -- does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
 
 > soweli suwi tu wan | Three cats

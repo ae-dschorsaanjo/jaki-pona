@@ -89,8 +89,12 @@ p.special {
     display: none;
 }
 
-.toc {
+#table-of-contents~ul {
     list-style-type: none;
+}
+
+#table-of-contents~ul li::marker {
+    content: "▯ ";
 }
 
 footer {
