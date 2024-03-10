@@ -2,7 +2,7 @@
 
 jaki pona (the "good sh\*t") is a toki pona grammar booklet and dictionary, in two languages (English and Hungarian).
 
-You can read it on [github pages](.) or read the [English version](./jaki_shit-en.md) and the [Hungarian version](./jaki_shit-hu.md) directly.
+You can read it on [github pages](.) or read the [English version](./jaki_pona-en.md) and the [Hungarian version](./jaki_pona-hu.md) directly.
 
 ## Requirements
 
