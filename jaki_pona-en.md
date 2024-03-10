@@ -1,6 +1,6 @@
 *toki pona* ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  
 
-*jaki pona* ("the good sh&ast;t") is a short summary&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
+*jaki pona* ("the good sh&ast;t") is a short overview&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
 { .special }
 
 ## Table of Contents
