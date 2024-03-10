@@ -13,7 +13,8 @@
     --html-bg: hsl(60, 20%, 93%);
     --mono-bg: hsl(60, 17%, 90%);
     --selection-bg: #6272a4;
-    --selection-bg-trans: #6273a44c;
+    --selection-bg-trans: #6273a44c;    
+    --selection-fg: hsl(60, 100%, 50%);
     --link-fg: #8739f3;
     --link-bg: var(--color-bg);
     --link-click-fg: #f339a3;
