@@ -471,6 +471,7 @@ __nena__ ![nena](pics/nena.png)
 
 __ni__ ![ni](pics/ni.png)  
 `n`&shy;` ` this, that  
+`v`&shy;` ` point, refer to  
 `m`&shy;` ` this, that  
 `f`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
 
