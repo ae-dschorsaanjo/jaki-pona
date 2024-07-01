@@ -24,8 +24,8 @@ There are only three pronouns, `mi` (I/we), `sina` (you/you) and `ona` (he/she/i
 Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e`. Predicates do not have a tense. Adjectives and adverbs, collectively called *modifiers*, go after the noun (as opposed to English).  
 Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the verb or predicate. Usual examples are `kama` (will) or `wile` (need, must). There are no definite and indefinite articles.
 
-> mi loje. | I red.  
-> ona li loje. | It red.  
+> mi loje. | I am red.  
+> ona li loje. | It is red.  
 > mi moku e pan. | I eat bread.  
 > mi mute li lukin e tomo. | We are watching the house.  
 > ona li tawa tomo. | She is going home.  
