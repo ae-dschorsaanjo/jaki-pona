@@ -1,6 +1,6 @@
 *toki pona* ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  
 
-*jaki pona* ("the good sh&ast;t") is a short overview&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
+*jaki pona* ("the good sh&ast;t") is a short overview&nbsp;of the language that comes with a dictionary (which is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
 { .special }
 
 ## Table of Contents
@@ -16,12 +16,12 @@
 
 ## Basic Structure
 
-toki pona has a 13 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional `n`). However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent.  
+toki pona has a 13 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`) which is used to create words by forming CVn (consonant, vovel, optional `n`) syllables. However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.  
 Letters correspond to the sounds they mark in [IPA](https://www.ipachart.com/), though additional voicing and some variations are allowed.
 
-There are only three pronouns, `mi` (I/we), `sina` (you) and `ona` (he/she/it/they).  
+There are only three pronouns, `mi` (I/we), `sina` (you/you) and `ona` (he/she/it/they).  
 
-Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e`. Predicates do not have tense. Adjectives and adverbs, henceforth collectively called *modifiers*, go after the noun (as opposed to English).  
+Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e`. Predicates do not have a tense. Adjectives and adverbs, collectively called *modifiers*, go after the noun (as opposed to English).  
 Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the verb or predicate. Usual examples are `kama` (will) or `wile` (need, must). There are no definite and indefinite articles.
 
 > mi loje. | I red.  
@@ -48,11 +48,11 @@ Proper names should be transliterated to toki pona, following standard toki pona
 5. Vowel clusters should become split into multiple syllables with added consonants.
 6. Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.
 
-Although there are no rules against the *'nn'* cluster (when the first syllable ends with an optional *'n'* and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
+Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional *'n'* and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
 
 ## Sentence Types and Punctuation
 
-Technically all punctuation marks are optional variants of the *full stop* (`.`) with the exception of the *colon* (`:`). Using [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png), no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although *colons* are still usually used.
+Technically all punctuation marks are optional variants of the *full stop* (`.`) with the exception of the *colon* (`:`). Using [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png), no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although *colons* are still used.
 
 Declarative sentences are the default and should not need further explanation.  
 
@@ -77,7 +77,7 @@ The exclamation mark (`!`) is used in *three different ways:*
 > o lukin e ona! | Look at him!  
 > sina o lukin e ona! | You, look at him!  
 
-Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The preposition used are most often *"tan"* ("because") and *"sama"* ("like, similar"). The latter is rather rare and often does not translate directly.
+Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are *"tan"* ("because") and *"sama"* ("like, similar").
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | I feel good, because my cat is purring.  
 > jan Sotan li wile e ni: musi ona li pona tawa jan. | Zotn wants people to like his music.  
@@ -167,7 +167,7 @@ luka    |             | 5         | 5              |
 mute    | 3+          | 11+       | 20             | 
 ale/ali | all         | all       | 100,&nbsp;all  | Used for "all", "every" and "countless".
 
-Numbers are used as *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Numbers without specific words for them are formed by adding them up, starting with the largest -- does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
+Numbers are *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Numbers without specific words for them are formed by adding them up, starting with the largest -- this does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
 
 > soweli suwi tu wan | Three cats  
@@ -177,7 +177,7 @@ Ordinal numbers are expressed using `nanpa` followed by the number and work the 
 ## Advanced Grammar
 
 `pi` is used to group modifiers. For example, *"jan pona suli mute"* would mean "big friends", but *"jan pona pi suli mute"* would mean "\[a] very big friend".  
-When spatial nouns are used in *prepositional phrases* (either after *"lon"* or *"tawa"*), *"pi"* can be put after the spatial noun if they are followed by more than one word.  
+When *spatial nouns* are used in *prepositional phrases* (either after *"lon"* or *"tawa"*), *"pi"* can be put after the spatial noun if they are followed by more than one word.  
 *Possessors* are modifiers as well and they go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, then put a *"pi"* before them.
 
 > soweli suwi mi | my cat  

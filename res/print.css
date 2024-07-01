@@ -114,6 +114,9 @@
     .dict p:not(.hidden) {
         line-height: 110%;
     }
+    .dict img {
+        top: -0.3em;
+    }
     footer {
         display: none;
     }

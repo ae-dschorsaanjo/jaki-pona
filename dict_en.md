@@ -6,7 +6,7 @@ There are multiple different dictionaries that can be found with word counts mos
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.
 { .hidden }
 
-This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk `* `.
+This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk `*`.
 { .hidden .keep }
 
 ### Abbreviations
@@ -804,7 +804,7 @@ __wawa__ ![wawa](pics/wawa.png)
 __weka__ ![weka](pics/weka.png)  
 `v`&shy;`1` make distance (from object); get away from, throw away, remove  
 `v`&shy;`2` ignore  
-`m`&shy;`1` away
+`m`&shy;`1` away  
 `m`&shy;`2` ignored
 
 __wile__ ![wile](pics/wile.png)  
@@ -812,12 +812,12 @@ __wile__ ![wile](pics/wile.png)
 `n`&shy;`2` urge, need  
 `v`&shy;` ` want, need  
 `a`&shy;` ` want, should, have to, must, need  
-`m`&shy;` ` wanted, desired  
+`m`&shy;`1` wanted, desired  
 `m`&shy;`2` necessary, required
 
 ### Y
 
 __yupekosi__ ![yupekosi](pics/yupekosi.png)  
 `v`&shy;` ` to behave like George Lucas and revise your old creative works and actually make them worse  
-`pu`&shy;` ` wile ike
+`pu`&shy;` ` wile ike  
 *"Nobody knows how to pronounce the y."*\[sic\] -- jan Sonja

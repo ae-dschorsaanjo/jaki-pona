@@ -83,6 +83,7 @@
     --link-bg: var(--color-bg);
     --link-click-fg: #f339a3;
 }
+
 html {
     font-family: var(--main-font);
     font-size: var(--main-size);
@@ -103,6 +104,8 @@ body {
 #langsel {
     font-family: var(--header-font);
     font-size: var(--header-size);
+    /* TODO: remove after Hungarian translation is done! */
+    display: none;
 }
 
 #en, #hu {
@@ -289,6 +292,7 @@ tr:not(:last-child) td {
     display: inline-block;
     height: 1.5em;
     left: 5em;
+    top: -0.1em;
 }
 
 .dict .kijetesantakalu img {
@@ -323,7 +327,6 @@ h6 ~ p {
 
     blockquote::before {
         margin-left: 0;
-        
     }
 }
 @media print {
@@ -442,6 +445,9 @@ h6 ~ p {
     .dict p:not(.hidden) {
         line-height: 110%;
     }
+    .dict img {
+        top: -0.3em;
+    }
     footer {
         display: none;
     }
@@ -457,7 +463,7 @@ h6 ~ p {
 <main>
 <div id="main-en">
 <p><em>toki pona</em> ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  </p>
-<p class="special"><em>jaki pona</em> ("the good sh&ast;t") is a short overview&nbsp;of the language that comes bundled&nbsp;with a dictionary (that is derived from&nbsp;<em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em>).</p>
+<p class="special"><em>jaki pona</em> ("the good sh&ast;t") is a short overview&nbsp;of the language that comes with a dictionary (which is derived from&nbsp;<em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em>).</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#basic-structure">Basic Structure</a></li>
@@ -470,10 +476,10 @@ h6 ~ p {
 <li><a href="#dictionary">Dictionary</a></li>
 </ul>
 <h2 id="basic-structure">Basic Structure</h2>
-<p>toki pona has a 13 letter alphabet (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>). Only proper names are capitalized, everything else is written in lower case. Syllables have a CVn structure (consonant, vovel, optional <code>n</code>). However, there are four <em>forbidden pairings</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> and <code>ti</code> &ndash; the latter becomes <code>si</code> instead), and the word-initial consonant may be absent.<br />
+<p>toki pona has a 13 letter alphabet (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>) which is used to create words by forming CVn (consonant, vovel, optional <code>n</code>) syllables. However, there are four <em>forbidden pairings</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> and <code>ti</code> &ndash; the latter becomes <code>si</code> instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.<br />
 Letters correspond to the sounds they mark in <a href="https://www.ipachart.com/">IPA</a>, though additional voicing and some variations are allowed.</p>
-<p>There are only three pronouns, <code>mi</code> (I/we), <code>sina</code> (you) and <code>ona</code> (he/she/it/they).  </p>
-<p>Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word <code>li</code>, unless the subject is only <em>"mi"</em> or <em>"sina"</em>. Predicates and objects are separated by <code>e</code>. Predicates do not have tense. Adjectives and adverbs, henceforth collectively called <em>modifiers</em>, go after the noun (as opposed to English).<br />
+<p>There are only three pronouns, <code>mi</code> (I/we), <code>sina</code> (you/you) and <code>ona</code> (he/she/it/they).  </p>
+<p>Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word <code>li</code>, unless the subject is only <em>"mi"</em> or <em>"sina"</em>. Predicates and objects are separated by <code>e</code>. Predicates do not have a tense. Adjectives and adverbs, collectively called <em>modifiers</em>, go after the noun (as opposed to English).<br />
 Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> that precede the verb or predicate. Usual examples are <code>kama</code> (will) or <code>wile</code> (need, must). There are no definite and indefinite articles.</p>
 <blockquote>
 <p><div class="block-left">mi loje.</div><div class="block-right">(I red.)</div></p>
@@ -499,9 +505,9 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <li>Vowel clusters should become split into multiple syllables with added consonants.</li>
 <li>Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.</li>
 </ol>
-<p>Although there are no rules against the <em>'nn'</em> cluster (when the first syllable ends with an optional <em>'n'</em> and the next one begins with one, e.g. <em>jan Anna</em>), it is generally avoided.</p>
+<p>Although there are no explicit rules against the <em>'nn'</em> cluster (when the first syllable ends with an optional <em>'n'</em> and the next one begins with one, e.g. <em>jan Anna</em>), it is generally avoided.</p>
 <h2 id="sentence-types-and-punctuation">Sentence Types and Punctuation</h2>
-<p>Technically all punctuation marks are optional variants of the <em>full stop</em> (<code>.</code>) with the exception of the <em>colon</em> (<code>:</code>). Using <a href="pics/sitelen_pona_leko/sitelen-pona-leko.png">sitelen pona</a>, no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although <em>colons</em> are still usually used.</p>
+<p>Technically all punctuation marks are optional variants of the <em>full stop</em> (<code>.</code>) with the exception of the <em>colon</em> (<code>:</code>). Using <a href="pics/sitelen_pona_leko/sitelen-pona-leko.png">sitelen pona</a>, no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although <em>colons</em> are still used.</p>
 <p>Declarative sentences are the default and should not need further explanation.  </p>
 <p>Question end with a question mark (<code>?</code>), and can be formed in <em>three ways:</em></p>
 <ol>
@@ -525,7 +531,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p><div class="block-left">o lukin e ona!</div><div class="block-right">(Look at him!)</div></p>
 <p><div class="block-left">sina o lukin e ona!</div><div class="block-right">(You, look at him!)</div></p>
 </blockquote>
-<p>Colons (<code>:</code>) are used when a preposition or <code>e</code> is followed by <code>ni</code>. These are used when the <em>object</em> is another sentence (in case of <code>e</code>), or in certain situations to form compound sentences. The preposition used are most often <em>"tan"</em> ("because") and <em>"sama"</em> ("like, similar"). The latter is rather rare and often does not translate directly.</p>
+<p>Colons (<code>:</code>) are used when a preposition or <code>e</code> is followed by <code>ni</code>. These are used when the <em>object</em> is another sentence (in case of <code>e</code>), or in certain situations to form compound sentences. The most often used preposition are <em>"tan"</em> ("because") and <em>"sama"</em> ("like, similar").</p>
 <blockquote>
 <p><div class="block-left">mi pilin pona tan ni: soweli suwi mi li mu.</div><div class="block-right">(I feel good, because my cat is purring.)</div></p>
 <p><div class="block-left">jan Sotan li wile e ni: musi ona li pona tawa jan.</div><div class="block-right">(Zotn wants people to like his music.)</div></p>
@@ -669,7 +675,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 </tr>
 </tbody>
 </table>
-<p>Numbers are used as <em>modifiers</em>. They always go <em>after the last modifier,</em> but <em>before the first "pi"</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>). Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; does not apply to short range. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
+<p>Numbers are <em>modifiers</em>. They always go <em>after the last modifier,</em> but <em>before the first "pi"</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>). Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; this does not apply to short range. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
 Ordinal numbers are expressed using <code>nanpa</code> followed by the number and work the same as regular numbers.</p>
 <blockquote>
 <p><div class="block-left">soweli suwi tu wan</div><div class="block-right">(Three cats)</div></p>
@@ -678,7 +684,7 @@ Ordinal numbers are expressed using <code>nanpa</code> followed by the number an
 </blockquote>
 <h2 id="advanced-grammar">Advanced Grammar</h2>
 <p><code>pi</code> is used to group modifiers. For example, <em>"jan pona suli mute"</em> would mean "big friends", but <em>"jan pona pi suli mute"</em> would mean "[a] very big friend".<br />
-When spatial nouns are used in <em>prepositional phrases</em> (either after <em>"lon"</em> or <em>"tawa"</em>), <em>"pi"</em> can be put after the spatial noun if they are followed by more than one word.<br />
+When <em>spatial nouns</em> are used in <em>prepositional phrases</em> (either after <em>"lon"</em> or <em>"tawa"</em>), <em>"pi"</em> can be put after the spatial noun if they are followed by more than one word.<br />
 <em>Possessors</em> are modifiers as well and they go <em>after all the other modifiers</em>. If the possessor is more than one word or could be mistaken for a regular modifier, then put a <em>"pi"</em> before them.</p>
 <blockquote>
 <p><div class="block-left">soweli suwi mi</div><div class="block-right">(my cat)</div></p>
@@ -700,7 +706,7 @@ Prepositional phrases may be places in front of <em>'la'</em> to indicate that i
 <p>Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example <em><em>kipisi</em></em> at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this <em>does not</em> mean that words without a definition as a noun cannot be use as one in the right context. <em>Function</em> (or <em>grammatical</em>) words are the only exceptions to this rule.</p>
 <p class="hidden">There are multiple different dictionaries that can be found with word counts most ranging between 118&ndash;150. <em>pu</em>, the "official Toki Pona book" written by jan Sonja, had a 120/123 word dictionary &ndash; where 6 words were merged in pairs. <em>ku</em>, the "Toki Pona Dictionary" also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.<br />
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.</p>
-<p class="hidden keep">This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> part after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
+<p class="hidden keep">This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of <em>pu</em>'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words &ndash; these additions are all present in <em>ku</em>. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in <em>pu</em>; non-pu words will have a <code>p</code>&shy;<code>u</code> version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk <code>*</code>.</p>
 <h3 id="abbreviations">Abbreviations</h3>
 <dl>
 <dt><code>n</code></dt>
@@ -1056,6 +1062,7 @@ Added along with <em>kipisi</em> and <em>monsuta</em> in 2010. In <em>pu</em>, i
 <code>m</code>&shy;<code></code> bumpy, hilly, undulating</p>
 <p><strong>ni</strong> <img alt="ni" src="pics/ni.png" /><br />
 <code>n</code>&shy;<code></code> this, that<br />
+<code>v</code>&shy;<code></code> point, refer to<br />
 <code>m</code>&shy;<code></code> this, that<br />
 <code>f</code>&shy;<code></code> that (like a conjunction, after <em>e</em> or a <em>preposition</em>)</p>
 <p><strong>nimi</strong> <img alt="nimi" src="pics/nimi.png" /><br />
@@ -1318,19 +1325,19 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 <p><strong>weka</strong> <img alt="weka" src="pics/weka.png" /><br />
 <code>v</code>&shy;<code>1</code> make distance (from object); get away from, throw away, remove<br />
 <code>v</code>&shy;<code>2</code> ignore<br />
-<code>m</code>&shy;<code>1</code> away
+<code>m</code>&shy;<code>1</code> away<br />
 <code>m</code>&shy;<code>2</code> ignored</p>
 <p><strong>wile</strong> <img alt="wile" src="pics/wile.png" /><br />
 <code>n</code>&shy;<code></code> will, hope<br />
 <code>n</code>&shy;<code>2</code> urge, need<br />
 <code>v</code>&shy;<code></code> want, need<br />
 <code>a</code>&shy;<code></code> want, should, have to, must, need<br />
-<code>m</code>&shy;<code></code> wanted, desired<br />
+<code>m</code>&shy;<code>1</code> wanted, desired<br />
 <code>m</code>&shy;<code>2</code> necessary, required</p>
 <h3 id="y">Y</h3>
 <p><strong>yupekosi</strong> <img alt="yupekosi" src="pics/yupekosi.png" /><br />
 <code>v</code>&shy;<code></code> to behave like George Lucas and revise your old creative works and actually make them worse<br />
-<code>pu</code>&shy;<code></code> wile ike
+<code>pu</code>&shy;<code></code> wile ike<br />
 <em>"Nobody knows how to pronounce the y."</em>[sic] &ndash; jan Sonja</p>
 </div>
 </div>
