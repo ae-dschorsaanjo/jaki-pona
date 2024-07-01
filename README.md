@@ -2,7 +2,7 @@
 
 jaki pona (the "good sh\*t") is a toki pona grammar booklet and dictionary, in two languages (English and Hungarian) in the future: Hungarian translation has not been started yet.
 
-You can read it on [github pages](.), or read the [English version](./jaki_pona-en.md) and the future [Hungarian version](./jaki_pona-hu.md) directly; the latter options are not recommended since the web version is created using a [Python script](./render.py), and the markdown files are using extended markdown syntax which is not fully compatible with [GFM](https://github.github.com/gfm/).
+You can read it on [github pages](https://ae-dschorsaanjo.github.io/jaki-pona/), or read the [English version](./jaki_pona-en.md) and the future [Hungarian version](./jaki_pona-hu.md) directly; the latter options are not recommended since the web version is created using a [Python script](./render.py), and the markdown files are using extended markdown syntax which is not fully compatible with [GFM](https://github.github.com/gfm/).
 
 ## Requirements
 
