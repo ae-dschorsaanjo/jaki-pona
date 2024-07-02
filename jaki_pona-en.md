@@ -16,7 +16,7 @@
 
 ## Basic Structure
 
-toki pona has a 13 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`) which is used to create words by forming CVn (consonant, vovel, optional `n`) syllables. However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.  
+toki pona has a 14 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`) which is used to create words by forming CVn (consonant, vovel, optional `n`) syllables. However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.  
 Letters correspond to the sounds they mark in [IPA](https://www.ipachart.com/), though additional voicing and some variations are allowed.
 
 There are only three pronouns, `mi` (I/we), `sina` (you/you) and `ona` (he/she/it/they).  
@@ -44,7 +44,7 @@ Proper names should be transliterated to toki pona, following standard toki pona
 1. Number of syllables should remain the same.
 2. The letter *'r'* should become *'l'*, *'w'* or *'k'* (depending on pronunciation).
 3. Dental fricatives (*'th'*) becomes either `s` (when voiceless) or `t` (when voiced).
-4. Consonant clusted should either be split or reduced to a single consonant.
+4. Consonant clusters should either be split or reduced to a single consonant.
 5. Vowel clusters should become split into multiple syllables with added consonants.
 6. Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.
 
@@ -187,7 +187,7 @@ When *spatial nouns* are used in *prepositional phrases* (either after *"lon"* o
 > soweli suwi pi tomo | the house's cat  
 
 The word `la` is used to separate *context* (or *condition*) and *main sentence*. The latter is a normal sentence, but the context can be virtually any phrase or a full sentence; most often it is a full sentence or a phrase denoting the time.  
-Prepositional phrases may be places in front of *'la'* to indicate that its meaning applies to the whole sentence, although the preposition itself may be dropped.
+Prepositional phrases may be placed in front of *'la'* to indicate that its meaning applies to the whole sentence, although the preposition itself may be dropped.
 
 > mi la pilin uta ona li pona. | I like its taste.  
 > tenpo kama la mi pali mute. | In the future, I shall work more.  
