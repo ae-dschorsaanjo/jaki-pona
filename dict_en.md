@@ -6,7 +6,7 @@ There are multiple different dictionaries that can be found with word counts mos
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.
 { .hidden }
 
-This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between individual groups, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk `*`.
+This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between groups and dialects, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk `*`.
 { .hidden .keep }
 
 ### Abbreviations
@@ -142,7 +142,7 @@ __ike__ ![ike](pics/ike.png)
 
 __\*iki/ipi__  
 `pu`&shy;` ` ona  
-_ipi_ was replaced for its similarity to _ike_, while _ipi_ was replaced before first draft.
+_iki_ was replaced for its similarity to _ike_, while _ipi_ was replaced before first draft.
 { .hidden }
 
 __ilo__ ![ilo](pics/ilo.png)  
