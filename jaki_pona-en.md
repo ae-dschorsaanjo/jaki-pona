@@ -102,11 +102,11 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
     - Same as "and", but always use `anu`.
     - Although `ante la` is used more often than `anu la`.
 3. But
-    - `taso` is used at the beginning of sentences and nowhere else.
+    - `taso` (as a conjunction) is used at the beginning of sentences and nowhere else.
     - To express things like "anything but..." and "except", structures like *'ale en ona ala'* (everything and not it) could be used.
 
 > mi en sina li tawa. | You and I are walking.  
-> soweli suwi pi suli en laso li musi. | The large and the blue cats are playing.  
+> soweli suwi pi suli en laso li musi. | The large and blue cats are playing.  
 > jan Sotan li pali li wile moku. | Zotn is working and \[is] hungry.  
 > ona li moku e pan e telo walo kiwen. | He is eating bread and cheese.  
 > mi wile e musi anu lape. | I want to enjoy life or sleep.  
