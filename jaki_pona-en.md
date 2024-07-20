@@ -49,7 +49,7 @@ Proper names should be transliterated to toki pona, following standard toki pona
 5. Vowel clusters should become split into multiple syllables with added consonants.
 6. toki pona words should not be used as names (unless it is based on real name).
 
-Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional `n` and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
+Although there are no explicit rules against the *'nn'* and *'nm'* clusters (when the first syllable ends with an optional `n` and the next one begins with another nasal, e.g. *jan Anna*), it is generally avoided.
 { .hidden }
 
 ## Sentence Types and Punctuation
