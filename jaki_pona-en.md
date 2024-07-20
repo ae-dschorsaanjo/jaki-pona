@@ -90,10 +90,11 @@ The exclamation mark (`!`) is used in *three different ways:*
 
 > o lukin e ona! | Look at him!  
 > sina o lukin e ona! | You, look at him!  
-> tawa pona! | Bye! \[said by the one who stays]
-> awen pona! | Bye! \[said by the one who leaves]
-> lape pona! | Good sleeping!
-> moku pona! | Good appetite!
+> toki! | Hi!  
+> tawa pona! | Bye! \[said by the one who stays]  
+> awen pona! | Bye! \[said by the one who leaves]  
+> lape pona! | Good sleeping!  
+> moku pona! | Good appetite!  
 
 Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are `tan` ("because") and `sama` ("like, similar").
 
