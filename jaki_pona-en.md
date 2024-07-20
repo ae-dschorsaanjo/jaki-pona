@@ -31,7 +31,7 @@ Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the 
 > mi mute li lukin e tomo. | We are watching the house.  
 > ona li tawa tomo. | She is going home.  
 > ona li wile tawa tomo. | It wants to go home.  
-> ona li wile e tawa tomo. | She wants a car.  
+> ona li wile e tomo tawa. | She wants a car.  
 > ona li tomo tawa. | He is a car.  
 > ona li tawa tomo tawa. | They are going to \[their] car.  
 > ona li tawa e tomo tawa. | He moves the car.  
@@ -50,6 +50,7 @@ Proper names should be transliterated to toki pona, following standard toki pona
 6. toki pona words should not be used as names (unless it is based on real name).
 
 Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional `n` and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
+{ .hidden }
 
 ## Sentence Types and Punctuation
 
@@ -59,9 +60,27 @@ Declarative sentences are the default and should not need further explanation.
 
 Question end with a question mark (`?`), and can be formed in *three ways:*
 
-1. Repeating the pre-verb or predicate, and putting an `ala` between them.
-2. Using `seme` in place of the thing you want to question.
-3. Adding `anu seme?` at the end of the sentence.
+1. Repeating the pre-verb or predicate, and putting an `ala` between them (yes-no question).
+2. Using `seme` in place of the thing you want to question (open ended question).
+3. Adding `anu seme?` at the end of the sentence (open ended), or having `X anu Y` in either the subject or the object (closed question).
+
+To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back. Open ended questions are answered with full sentences.
+{ .hidden }
+  
+> sina lukin ala lukin e ona? | Are you looking at him?  
+> \[mi] lukin. | Yes.
+> mi lukin e ona. | Yes in a longer way.
+> sina lukin e ona anu seme? | You are looking at him \[or what]?  
+> \[mi lukin e] ona. | Yes.
+> \[mi lukin e ona] ala. | No.
+> sina lukin e ijo laso anu jelo? | Are you look at the blue thing or the yellow thing?
+> \[mi lukin e ijo] jelo. | The yellow \[one.]
+> sina lukin e seme? | What are you looking at?  
+> mi lukin e oko sina. | I am looking at your eyes.
+> seme li lukin e sina? | What is looking at you?
+> jan Anon \[li lukin \[e sina]]. | Anon \[is looking \[at you]]. 
+> sina seme e ona? | What are you doing to him?  
+> \[mi] sitelen \[e ona] | \[I am] drawing \[him].
 
 The exclamation mark (`!`) is used in *three different ways:*
 
@@ -69,14 +88,12 @@ The exclamation mark (`!`) is used in *three different ways:*
 2. To form interjections, like *"moku pona!"* (good appetite!).
 3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.
 
-> sina lukin e ona. | You look at him.  
-> sina lukin ala lukin e ona? | Are you looking at him?  
-> sina lukin e ona anu seme? | You are looking at him or what?  
-> sina lukin e seme? | What are you looking at?  
-> seme li lukin e sina? | What is looking at you?  
-> sina seme e ona? | What are you doing to him?  
 > o lukin e ona! | Look at him!  
 > sina o lukin e ona! | You, look at him!  
+> tawa pona! | Bye! \[said by the one who stays]
+> awen pona! | Bye! \[said by the one who leaves]
+> lape pona! | Good sleeping!
+> moku pona! | Good appetite!
 
 Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are `tan` ("because") and `sama` ("like, similar").
 
@@ -89,9 +106,22 @@ Commas (`,`) can be used freely to visually separate parts of a sentence, althou
 
 ## Negation and Order of Modifiers
 
-Negation is almost exclusively expressed by using the word `ala` which is a modifier in this use.
+Negation is almost exclusively expressed by using the word `ala` which is a *modifier* in this use.
 
-Modifiers usually do not have a fixed order as it is context dependent, but generally speaking `ala` would be the last modifier in a noun phrase or a modifier group (see [Advanced Grammar](#advanced-grammar)), only followed by the possessor (theoreticaly; this is rather rare). It is up to debate whether negation would be placed in front of or after numbers since they usually do not used together.
+Modifiers usually do not have a fixed order as it is context dependent, but generally `ala` would be the *last modifier* in a *noun phrase* or a *modifier group* (see [Advanced Grammar](#advanced-grammar)), only followed by the possessor (theoreticaly; this is rather rare). However, its placement *may vary* depending on what and how we want to emphasize or connote.
+
+> mi loje ala. | I am not red.
+> mi ala li loje. | Not-I is red.  
+> ona ala li loje ala. | Not-it is not-red.  
+> mi moku e pan ala. | I am not eating bread.    
+> ona li tawa tomo ala. | She is going not-home.  
+> ona li tawa ala tomo. | She is not going home.  
+> ona li wile ala tawa tomo. | It does not want want to go home.  
+> ona li wile e tomo tawa ala. | She does not want a car.  
+> ni li kili laso ala. | This is not a blue fruit.  
+> ni li kili ala laso. | This is a blue thing \[that is not a fruit].
+> mi lon ala ma Amelica. | I am not in the Americas.
+> mi lon ma Amelica ala. | I am in not the Americas \[but somewhere else].
 
 ## Prepositions and Conjunctions
 
@@ -184,8 +214,8 @@ Ordinal numbers are expressed using `nanpa` followed by the number and work the 
 ## Advanced Grammar
 
 `pi` is used to group modifiers. For example, *"jan pona suli mute"* would mean "big friends", but *"jan pona pi suli mute"* would mean "\[a] very big friend".  
-When *spatial nouns* are used in *prepositional phrases* (either after *"lon"* or *"tawa"*), *"pi"* can be put after the spatial noun if they are followed by more than one word.  
-*Possessors* are modifiers as well and they go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, then put a *"pi"* before them.
+When *spatial nouns* are used in *prepositional phrases* (either after *"lon"* or *"tawa"*), a *"pi"* can be placed after the spatial noun if they are followed by more than one word.  
+*Possessors* are modifiers as well and they go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, put a *"pi"* before them.
 
 > soweli suwi mi | my cat  
 > soweli suwi tu mi | my two cats  
