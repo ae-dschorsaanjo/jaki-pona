@@ -43,13 +43,13 @@ Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the 
 Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as *modifiers*, hence the use of a noun in front if them is generally required. The following conventions are customary, although they are not hard rules:
 
 1. Number of syllables should remain the same.
-2. The letter *'r'* should become *'l'*, *'w'* or *'k'* (depending on pronunciation).
+2. The letter *'r'* should become `l`, `w` or `k` (depending on pronunciation).
 3. Dental fricatives (*'th'*) becomes either `s` (when voiceless) or `t` (when voiced).
 4. Consonant clusters should either be split or reduced to a single consonant.
 5. Vowel clusters should become split into multiple syllables with added consonants.
 6. toki pona words should not be used as names (unless it is based on real name).
 
-Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional *'n'* and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
+Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional `n` and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
 
 ## Sentence Types and Punctuation
 
@@ -59,9 +59,9 @@ Declarative sentences are the default and should not need further explanation.
 
 Question end with a question mark (`?`), and can be formed in *three ways:*
 
-1. Repeating the pre-verb or predicate, and putting an *"ala"* between them.
-2. Putting *"seme"* in place of the thing you want to question.
-3. Putting *"anu seme?"* at the end of the sentence.
+1. Repeating the pre-verb or predicate, and putting an `ala` between them.
+2. Using `seme` in place of the thing you want to question.
+3. Adding `anu seme?` at the end of the sentence.
 
 The exclamation mark (`!`) is used in *three different ways:*
 
@@ -78,7 +78,7 @@ The exclamation mark (`!`) is used in *three different ways:*
 > o lukin e ona! | Look at him!  
 > sina o lukin e ona! | You, look at him!  
 
-Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are *"tan"* ("because") and *"sama"* ("like, similar").
+Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are `tan` ("because") and `sama` ("like, similar").
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | I feel good, because my cat is purring.  
 > jan Sotan li wile e ni: musi ona li pona tawa jan. | Zotn wants people to like his music.  
