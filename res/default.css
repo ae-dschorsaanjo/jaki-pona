@@ -19,7 +19,7 @@ body {
     font-family: var(--header-font);
     font-size: var(--header-size);
     /* TODO: remove after Hungarian translation is done! */
-    display: none;
+    /* display: none; */
 }
 
 #en, #hu {

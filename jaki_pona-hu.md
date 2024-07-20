@@ -5,7 +5,9 @@ A *jaki pona* ("jó sz&ast;r") az egy rövid összefoglalója és szótára a ny
 
 ## Tartalomjegyzék
 
-TODO
+- [Nyelvtani alapok](#nyelvtani-alapok)
+- [Tulajdonnevek átírása](#tulajdonnevek-átírása)
+- [Mondatfajták és írásjelek](#mondatfajták-és-írásjelek)
 
 ## Nyelvtani alapok
 
@@ -14,7 +16,7 @@ Az egyes betűk nagyjából megfelelnek azoknak a hangoknak amiket azok az [IPA]
 
 Csak három személyes névmás van a nyelvben: `mi` (én/mi), `sina` (te/ti) és `ona` (ő/ők/ez/az).
 
-A mondatokban a szórend SVO (alany-állítmány-tárgy). Az alany és az állítmány a `li` szóval van elválasztva, kivéve ha az alany az `mi` vagy `sina` önmagában. Az igéknek nincs ragozása sem ideje. Az állítmány és tárgy az `e`-vel van elválasztva. Melléknevek és határozószavak (együttesen *módosítószavak*) a főnevek és igék után állnak.  
+A mondatokban a szórend SVO (alany-állítmány-tárgy). Az alany és az állítmány a `li` szóval van elválasztva, kivéve ha az alany az *"mi"* vagy *"sina"* önmagában. Az igéknek nincs ragozása sem ideje. Az állítmány és tárgy az `e`-vel van elválasztva. Melléknevek és határozószavak (együttesen *módosítószavak*) a főnevek és igék után állnak.  
 Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek közül a leggyakoribbak a `kama` (fog; "jövő idő") és a `wile` (akar, kell).
 
 > mi loje. | Piros vagyok.  
@@ -35,7 +37,7 @@ Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek
 A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következő szabályokat szokás továbbá betartani, de ezek nem törvényszerűek:
 
 1. A szótagok száma nem változik;
-2. Az *'r'* betű kiejtéstől függően *'l'*, *'w'* or *'k'* lesz (magyar nevek esetén *'l'*);
+2. Az *'r'* betű kiejtéstől függően `l`, `w` or `k` lesz (magyar nevek esetén `l`);
 3. Dentális réshangok (*'th'* angolban) `s` vagy `t` lesz;
 4. Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;
 5. Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;
@@ -45,9 +47,58 @@ Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `
 
 ## Mondatfajták és írásjelek
 
+A kettőspont (`:`) és vessző (`,`) kivételevél technikailag minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén nem használunk írásjeleket és minden egyes mondat egy új sorra kerül. Ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk chaten és egyéb informális környezetben, habár a kettőspont továbbra is használva szokott lenni.
 
+Kijelentő mondatok a leggyakoribbak és ezeknek nincs különleges tulajdonsága.
 
-Fordítás alatt.
+Kérdőmondatok általában kérdőjellel (`?`) végződnek és három féle képpen hozhatók létre:
+
+1. A segédige vagy állítmány megismétlése és közéjük beilleszteni egy `ala`-t (igen-nem kérdés);
+2. `seme` beillesztése annak a szónak a helyére amire rákérdezünk (kiegészítendő kérdés);
+3. `anu seme?`-vel zárjuk a mondatot (kiegészítendő kérdés), vagy `X anu Y` használata a mondatban (eldöntendő kérdés).
+
+Igen-nem kérdések esetén vagy az állítmányt mondjuk vissza, vagy `ala`-t ha nemleges a válasz, eldöntendő kérdésnél pedig a helyes válasz.
+{ .hidden }
+
+> sina lukin ala lukin e ona? | Őt nézed?
+> \[mi] lukin. | Igen.
+> mi lukin e ona. | Igen, de hosszabban.
+> sina lukin e ona anu seme? | Őt nézed-e?
+> \[mi lukin e] ona. | Őt \[nézem].
+> \[mi lukin e ona] ala. | Nem \[őt nézem].
+> sina lukin e ijo laso anu jelo? | A kéket vagy a sárgát nézed?
+> \[mi lukin e ijo] jelo. | A sárgát.
+> sina lukin e seme? | Mit nézel?
+> mi lukin e oko sina. | A szemeidet nézem.
+> seme li lukin e sina? | Ki néz téged?
+> jan Anon \[li lukin \[e sina]]. | Anon \[néz \[engem]].
+> sina seme e ona? | Mit csinálsz vele/azzal?
+> \[mi] sitelen \[e ona] | Lerajzolom.
+
+A felkiáltójel (`!`) három féle módon használt:
+
+1. Felszólító mondanok formálására, amikor az `o` szavat használjuk az állítmány előtt és az alany elhagyható; ha az alany jelen van, akkor az `o`-t használjuk a `li` *helyett*;
+2. Felkiáltó mondatokhoz, például *"moku pona!"* (jó étvágyat);
+3. Kijelentő mondatok (vízuális) hangsúlyozására.
+
+> o lukin e ni! | Nézd meg ezt!  
+> sina o lukin e ona! | Te, nézd meg őt!  
+> toki! | Szia! \[szokásos köszönés]  
+> tawa pona! | Viszlát! \[szokásos elköszönés] Jó utat!
+> awen pona! | Viszlát! \[szokásos elköszönés] Mentem!
+> lape pona! | Jó alvást ~ Szép álmokat!
+> moku pona! | Jó étvágyat!
+
+A kettőspont (`:`) az akkor használt, amikor egy előljárőszó vagy `e` után `ni` áll, azaz a mondatunk az egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt előljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
+
+> mi pilin pona tan ni: soweli suwi mi li mu. | Jó kedvem van, mert dorombol a macskám.  
+> jan Sotan li wile e ni: musi ona li pona tawa jan. | Zoltán azt szeretné, ha az embereknek tetszene a zenéje.  
+> ona li sona e tenpo sama ni: jan ale li tawa kon. | Ismeri azokat az időket, amikor mindenki \[képes] repül\[ni].  
+> sina tawa sama ni: jan li wile pakala e sina. | Úgy rohansz, mintha meg akarnának verni.  
+
+A vesszők (`,`) szabadon használhatók hogy jobban elkülönítsük az egyes mondatrészeket, ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, vagy a `la` előtt, esetleg után.
+
+**A magyar verzió jelenleg fordítás alatt van.**
 
 plex normal
 
