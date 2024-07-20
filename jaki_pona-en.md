@@ -3,7 +3,7 @@
 *jaki pona* ("the good sh&ast;t") is a short overview&nbsp;of the language that comes with a dictionary (which is derived from&nbsp;*lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona*).
 { .special }
 
-## Table of Contents
+## Table of Contents { .hidden }
 
 - [Basic Structure](#basic-structure)
 - [Transliterating Names](#transliterating-names)
@@ -13,6 +13,7 @@
 - [Numbers](#numbers)
 - [Advanced Grammar](#advanced-grammar)
 - [Dictionary](#dictionary)
+{ .hidden }
 
 ## Basic Structure
 
@@ -39,14 +40,14 @@ Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the 
 
 ## Transliterating Names
 
-Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as *modifiers*. The following conventions are customary, although they are not hard rules:
+Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as *modifiers*, hence the use of a noun in front if them is generally required. The following conventions are customary, although they are not hard rules:
 
 1. Number of syllables should remain the same.
 2. The letter *'r'* should become *'l'*, *'w'* or *'k'* (depending on pronunciation).
 3. Dental fricatives (*'th'*) becomes either `s` (when voiceless) or `t` (when voiced).
 4. Consonant clusters should either be split or reduced to a single consonant.
 5. Vowel clusters should become split into multiple syllables with added consonants.
-6. Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.
+6. toki pona words should not be used as names (unless it is based on real name).
 
 Although there are no explicit rules against the *'nn'* cluster (when the first syllable ends with an optional *'n'* and the next one begins with one, e.g. *jan Anna*), it is generally avoided.
 
@@ -85,6 +86,12 @@ Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are u
 > sina tawa sama ni: jan li wile pakala e sina. | You are running as if people would want to hurt you.  
 
 Commas (`,`) can be used freely to visually separate parts of a sentence, although customarily they are only put before *prepositions*, and either before or after `la`.
+
+## Negation and Order of Modifiers
+
+Negation is almost exclusively expressed by using the word `ala` which is a modifier in this use.
+
+Modifiers usually do not have a fixed order as it is context dependent, but generally speaking `ala` would be the last modifier in a noun phrase or a modifier group (see [Advanced Grammar](#advanced-grammar)), only followed by the possessor (theoreticaly; this is rather rare). It is up to debate whether negation would be placed in front of or after numbers since they usually do not used together.
 
 ## Prepositions and Conjunctions
 

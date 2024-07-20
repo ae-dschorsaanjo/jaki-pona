@@ -391,7 +391,7 @@ h6 ~ p {
         width: 60%;
         page-break-inside: avoid;
     }
-    blockquote:not(.keep), .hidden {
+    blockquote:not(.keep), .hidden, h2.hidden ~ ul {
         display: none;
     }
     code {
@@ -464,7 +464,7 @@ h6 ~ p {
 <div id="main-en">
 <p><em>toki pona</em> ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  </p>
 <p class="special"><em>jaki pona</em> ("the good sh&ast;t") is a short overview&nbsp;of the language that comes with a dictionary (which is derived from&nbsp;<em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em>).</p>
-<h2 id="table-of-contents">Table of Contents</h2>
+<h2 class="hidden" id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#basic-structure">Basic Structure</a></li>
 <li><a href="#transliterating-names">Transliterating Names</a></li>
@@ -473,7 +473,7 @@ h6 ~ p {
 <li><a href="#time-and-space">Time and Space</a></li>
 <li><a href="#numbers">Numbers</a></li>
 <li><a href="#advanced-grammar">Advanced Grammar</a></li>
-<li><a href="#dictionary">Dictionary</a></li>
+<li class="hidden"><a href="#dictionary">Dictionary</a></li>
 </ul>
 <h2 id="basic-structure">Basic Structure</h2>
 <p>toki pona has a 14 letter alphabet (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>) which is used to create words by forming CVn (consonant, vovel, optional <code>n</code>) syllables. However, there are four <em>forbidden pairings</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> and <code>ti</code> &ndash; the latter becomes <code>si</code> instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.<br />
@@ -496,14 +496,14 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p><div class="block-left">mi tomo tawa wile li wile tawa tomo mi.</div><div class="block-right">(I am a wannabe car and [I] want to go to my apartment.)</div></p>
 </blockquote>
 <h2 id="transliterating-names">Transliterating Names</h2>
-<p>Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as <em>modifiers</em>. The following conventions are customary, although they are not hard rules:</p>
+<p>Proper names should be transliterated to toki pona, following standard toki pona grammar. Proper names are treated as <em>modifiers</em>, hence the use of a noun in front if them is generally required. The following conventions are customary, although they are not hard rules:</p>
 <ol>
 <li>Number of syllables should remain the same.</li>
 <li>The letter <em>'r'</em> should become <em>'l'</em>, <em>'w'</em> or <em>'k'</em> (depending on pronunciation).</li>
 <li>Dental fricatives (<em>'th'</em>) becomes either <code>s</code> (when voiceless) or <code>t</code> (when voiced).</li>
 <li>Consonant clusters should either be split or reduced to a single consonant.</li>
 <li>Vowel clusters should become split into multiple syllables with added consonants.</li>
-<li>Transliterated names should not be the same as existing toki pona words or, in other words: toki pona words should not be used as names.</li>
+<li>toki pona words should not be used as names (unless it is based on real name).</li>
 </ol>
 <p>Although there are no explicit rules against the <em>'nn'</em> cluster (when the first syllable ends with an optional <em>'n'</em> and the next one begins with one, e.g. <em>jan Anna</em>), it is generally avoided.</p>
 <h2 id="sentence-types-and-punctuation">Sentence Types and Punctuation</h2>
@@ -539,6 +539,9 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p><div class="block-left">sina tawa sama ni: jan li wile pakala e sina.</div><div class="block-right">(You are running as if people would want to hurt you.)</div></p>
 </blockquote>
 <p>Commas (<code>,</code>) can be used freely to visually separate parts of a sentence, although customarily they are only put before <em>prepositions</em>, and either before or after <code>la</code>.</p>
+<h2 id="negation-and-order-of-modifiers">Negation and Order of Modifiers</h2>
+<p>Negation is almost exclusively expressed by using the word <code>ala</code> which is a modifier in this use.</p>
+<p>Modifiers usually do not have a fixed order as it is context dependent, but generally speaking <code>ala</code> would be the last modifier in a noun phrase or a modifier group (see <a href="#advanced-grammar">Advanced Grammar</a>), only followed by the possessor (theoreticaly; this is rather rare). It is up to debate whether negation would be placed in front of or after numbers since they usually do not used together.</p>
 <h2 id="prepositions-and-conjunctions">Prepositions and Conjunctions</h2>
 <p>Prepositions are followed by noun phrases (nouns and modifiers; along with the prepositions, they are called <em>prepositional phrases</em>) and they can be put after virtually any noun phrase (such as the subject or object) to modify or specify their meanings. There are 5 prepositions in toki pona, <code>kepeken</code> (with), <code>lon</code> (at), <code>sama</code> (like), <code>tan</code> (from, because) and <code>tawa</code> (to, for). When these are used at the end of sentences, then their meaning may apply to the whole sentence as opposed to the (last) object; most often this is a <em>'lon'</em> structure indicating physical locations or time.</p>
 <p>Conjunctions, with the exception of <code>taso</code>, must be used along with <code>la</code> (see under <em><a href="#advanced-grammar">Advanced Grammar</a></em>), or they have special sentence structures. The following ones are available:</p>
@@ -1342,6 +1345,42 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 </div>
 </div>
 <div id="main-hu">
+<p>A <em>toki pona</em> ("jó nyelv", "a jóság nyelve") az egy minimalista mesterséges nyelv amit Sonja Lang hozott létre és publikált eredetileg 2001-ben.</p>
+<p class="special">A <em>jaki pona</em> ("jó sz&ast;r") az egy rövid összefoglalója és szótára a nyelvnek (a utóbbi az a <em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em> szótára alapján készült).</p>
+<h2 id="tartalomjegyzek">Tartalomjegyzék</h2>
+<p>TODO</p>
+<h2 id="nyelvtani-alapok">Nyelvtani alapok</h2>
+<p>A toki pona ábécéje 14 betűből áll (<code>a</code>, <code>e</code>, <code>i</code>, <code>j</code>, <code>k</code>, <code>l</code>, <code>m</code>, <code>n</code>, <code>o</code>, <code>p</code>, <code>s</code>, <code>t</code>, <code>u</code>, <code>w</code>), a szavak pedig CVn (mássalhangzó, magánhangzó, opcionális <code>n</code>) szótagokból állnak. Viszont van négy <em>tiltott szótag</em> (<code>ji</code>, <code>wo</code>, <code>wu</code> és <code>ti</code> &ndash; az utóbbi <code>si</code>-vé változik) és a szóeleji mássalhangzó hiányozhat. Csak a tulajdonneveket írjuk nagy kezdőbetűvel.<br />
+Az egyes betűk nagyjából megfelelnek azoknak a hangoknak amiket azok az <a href="https://www.ipachart.com">IPA</a>-ban is jelölnek, de némi variancia megengedett.</p>
+<p>Csak három személyes névmás van a nyelvben: <code>mi</code> (én/mi), <code>sina</code> (te/ti) és <code>ona</code> (ő/ők/ez/az).</p>
+<p>A mondatokban a szórend SVO (alany-állítmány-tárgy). Az alany és az állítmány a <code>li</code> szóval van elválasztva, kivéve ha az alany az <code>mi</code> vagy <code>sina</code> önmagában. Az igéknek nincs ragozása sem ideje. Az állítmány és tárgy az <code>e</code>-vel van elválasztva. Melléknevek és határozószavak (együttesen <em>módosítószavak</em>) a főnevek és igék után állnak.<br />
+Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek közül a leggyakoribbak a <code>kama</code> (fog; "jövő idő") és a <code>wile</code> (akar, kell).</p>
+<blockquote>
+<p><div class="block-left">mi loje.</div><div class="block-right">(Piros vagyok.)</div></p>
+<p><div class="block-left">ona li loje.</div><div class="block-right">(Ez piros.)</div></p>
+<p><div class="block-left">mi moku e pan.</div><div class="block-right">(Kenyerek eszek.)</div></p>
+<p><div class="block-left">mi mute li lukin e tomo.</div><div class="block-right">(A házat nézzük.)</div></p>
+<p><div class="block-left">ona li tawa tomo.</div><div class="block-right">(Hazamegy.)</div></p>
+<p><div class="block-left">ona li wile tawa tomo.</div><div class="block-right">(Haza akar menni.)</div></p>
+<p><div class="block-left">ona li wile e tawa tomo.</div><div class="block-right">(Szeretne egy autót.)</div></p>
+<p><div class="block-left">ona li tomo tawa.</div><div class="block-right">(Ő egy autó.)</div></p>
+<p><div class="block-left">ona li tawa tomo tawa.</div><div class="block-right">(Az autóhoz mennek.)</div></p>
+<p><div class="block-left">ona li tawa e tomo tawa.</div><div class="block-right">(Mozgatja az autót.)</div></p>
+<p><div class="block-left">tomo tawa li tawa tomo.</div><div class="block-right">(Az autó hazamegy.)</div></p>
+<p><div class="block-left">mi tomo tawa wile li wile tawa tomo mi.</div><div class="block-right">(Egy autó akarok lenni és hazamenni (~haza akarok menni).)</div></p>
+</blockquote>
+<h2 id="tulajdonnevek-atirasa">Tulajdonnevek átírása</h2>
+<p>A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat és ezeket <em>módosítószavakként</em> kezeljük. A következő szabályokat szokás továbbá betartani, de ezek nem törvényszerűek:</p>
+<ol>
+<li>A szótagok száma nem változik;</li>
+<li>Az <em>'r'</em> betű kiejtéstől függően <em>'l'</em>, <em>'w'</em> or <em>'k'</em> lesz (magyar nevek esetén <em>'l'</em>);</li>
+<li>Dentális réshangok (<em>'th'</em> angolban) <code>s</code> vagy <code>t</code> lesz;</li>
+<li>Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;</li>
+<li>Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;</li>
+<li>Az átírt nevek ideális esetben nem egyeznek meg létező toki pona szavakkal.</li>
+</ol>
+<p>Bár nincs kimondottan szabály az <em>'nn'</em> és <em>'nm'</em> ellen (amikor egy szótag <code>n</code>-nel végződik és <code>n</code> vagy <code>m</code> követi, pl.: <em>jan Anna</em>), ezek általában szintén kerülendők.</p>
+<h2 id="mondatfajtak-es-irasjelek">Mondatfajták és írásjelek</h2>
 <p>Fordítás alatt.</p>
 <p>plex normal</p>
 <p><em>plex italix</em></p>

@@ -60,7 +60,7 @@
         width: 60%;
         page-break-inside: avoid;
     }
-    blockquote:not(.keep), .hidden {
+    blockquote:not(.keep), .hidden, h2.hidden ~ ul {
         display: none;
     }
     code {
