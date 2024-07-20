@@ -64,23 +64,23 @@ Question end with a question mark (`?`), and can be formed in *three ways:*
 2. Using `seme` in place of the thing you want to question (open ended question).
 3. Adding `anu seme?` at the end of the sentence (open ended), or having `X anu Y` in somewhere in the sentence (closed question).
 
-To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back. Open ended questions are answered with full sentences.
+To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back.
 { .hidden }
   
 > sina lukin ala lukin e ona? | Are you looking at him?  
-> \[mi] lukin. | Yes.
-> mi lukin e ona. | Yes in a longer way.
+> \[mi] lukin. | Yes.  
+> mi lukin e ona. | Yes in a longer way.  
 > sina lukin e ona anu seme? | You are looking at him \[or what]?  
-> \[mi lukin e] ona. | Yes.
-> \[mi lukin e ona] ala. | No.
-> sina lukin e ijo laso anu jelo? | Are you look at the blue thing or the yellow thing?
-> \[mi lukin e ijo] jelo. | The yellow \[one.]
+> \[mi lukin e] ona. | Yes.  
+> \[mi lukin e ona] ala. | No.  
+> sina lukin e ijo laso anu jelo? | Are you look at the blue thing or the yellow thing?  
+> \[mi lukin e ijo] jelo. | The yellow \[one].  
 > sina lukin e seme? | What are you looking at?  
-> mi lukin e oko sina. | I am looking at your eyes.
-> seme li lukin e sina? | What is looking at you?
-> jan Anon \[li lukin \[e sina]]. | Anon \[is looking \[at you]]. 
+> mi lukin e oko sina. | I am looking at your eyes.  
+> seme li lukin e sina? | Who is looking at you?  
+> jan Anon \[li lukin \[e sina]]. | Anon \[is looking \[at me]].  
 > sina seme e ona? | What are you doing to him?  
-> \[mi] sitelen \[e ona] | \[I am] drawing \[him].
+> \[mi] sitelen \[e ona] | \[I am] drawing \[him].  
 
 The exclamation mark (`!`) is used in *three different ways:*
 
