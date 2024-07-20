@@ -62,7 +62,7 @@ Question end with a question mark (`?`), and can be formed in *three ways:*
 
 1. Repeating the pre-verb or predicate, and putting an `ala` between them (yes-no question).
 2. Using `seme` in place of the thing you want to question (open ended question).
-3. Adding `anu seme?` at the end of the sentence (open ended), or having `X anu Y` in either the subject or the object (closed question).
+3. Adding `anu seme?` at the end of the sentence (open ended), or having `X anu Y` in somewhere in the sentence (closed question).
 
 To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back. Open ended questions are answered with full sentences.
 { .hidden }
