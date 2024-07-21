@@ -20,8 +20,6 @@
 toki pona has a 14 letter alphabet (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`) which is used to create words by forming CVn (consonant, vovel, optional `n`) syllables. However, there are four *forbidden pairings* (`ji`, `wo`, `wu` and `ti` -- the latter becomes `si` instead), and the word-initial consonant may be absent. Only proper names are capitalized, everything else is written in lower case.  
 Letters correspond to the sounds they mark in [IPA](https://www.ipachart.com/), though additional voicing and some variations are allowed.
 
-There are only three pronouns, `mi` (I/we), `sina` (you/you) and `ona` (he/she/it/they).  
-
 Sentences have a simple subject-verb-object word order. Subjects and the predicate (usually a verb; toki pona does not have a word for "to be", so the more generic term "predicate" will be  used) are separated by the word `li`, unless the subject is only *"mi"* or *"sina"*. Predicates and objects are separated by `e`. Predicates do not have a tense. Adjectives and adverbs, collectively called *modifiers*, go after the noun (as opposed to English).  
 Similar to prepositions, there are *auxiliary-* or *pre-verbs* that precede the verb or predicate. Usual examples are `kama` (will) or `wile` (need, must). There are no definite and indefinite articles.
 
