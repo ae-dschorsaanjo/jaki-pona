@@ -90,6 +90,7 @@ The exclamation mark (`!`) is used in *three different ways:*
 > sina o lukin e ona! | You, look at him!  
 > toki! | Hi!  
 > tawa pona! | Bye! \[said by the one who stays]  
+> mi tawa! | Bye! \[said by the one who leaves]  
 > awen pona! | Bye! \[said by the one who leaves]  
 > lape pona! | Good sleeping!  
 > moku pona! | Good appetite!  
