@@ -49,6 +49,9 @@ This dictionary contains 144 words (135 common + 9 archaic ones), including the 
 
 Numbers following any of these letters mark *alternative* definitions.
 
+**Index:** [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
+{ .hidden }
+
 ### A
 
 __a__ ![a](pics/a.png)  
