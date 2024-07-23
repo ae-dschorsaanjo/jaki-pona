@@ -198,7 +198,7 @@ __kama__ ![kama](pics/kama.png)
 __\*kan__  
 `f`&shy;` ` among, with, near by  
 `pu`&shy;` ` poka, kepeken  
-Removed in 2003 in favor of _poka_ and _kepeken_.
+Removed in 2002 in favor of _poka_ and _kepeken_.
 { .hidden }
 
 __\*kapa__  
