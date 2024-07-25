@@ -49,6 +49,9 @@ This dictionary contains 144 words (135 common + 9 archaic ones), including the 
 
 Numbers following any of these letters mark *alternative* definitions.
 
+**Index:** [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w)
+{ .hidden }
+
 ### A
 
 __a__ ![a](pics/a.png)  
@@ -79,7 +82,7 @@ __ale/ali__ ![ale/ali](pics/ale.png)
 `#`&shy;` ` all, countless amount  
 `#`&shy;`1` 100  
 `l`&shy;`a` all told, nevertheless, despite everything, either way  
-_ale_ was the original, while _ali_ was added to avoid ambiguity with _ala_ in speech.
+_ale_ was the original, while _ali_ was added in 2002 to avoid ambiguity with _ala_ in speech.
 
 __anpa__ ![anpa](pics/anpa.png)  
 `n`&shy;` ` bottom, below  
@@ -195,7 +198,7 @@ __kama__ ![kama](pics/kama.png)
 __\*kan__  
 `f`&shy;` ` among, with, near by  
 `pu`&shy;` ` poka, kepeken  
-Removed in 2003 in favor of _poka_ and _kepeken_.
+Removed in 2002 in favor of _poka_ and _kepeken_.
 { .hidden }
 
 __\*kapa__  
@@ -577,6 +580,8 @@ __poka__ ![poka](pics/poka.png)
 `n`&shy;`2` hip  
 `m`&shy;`1` near, by, next to  
 `m`&shy;`2` along with, together with  
+`p`&shy;` ` *(archaic)* along with, at the side of, close to  
+While it is no longer used as a preposition, it used to contrast *kepeken* by *poka* meaning physical (or ideological) closeness, and *kepeken* meaning using/with an instrument or (as) a tool.
 
 __poki__ ![poki](pics/poki.png)  
 `n`&shy;` ` box, container, bag, bowl  

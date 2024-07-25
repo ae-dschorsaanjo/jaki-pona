@@ -9,7 +9,7 @@ A *jaki pona* ("jó sz&ast;r") az egy rövid összefoglalója és szótára a ny
 - [Tulajdonnevek átírása](#tulajdonnevek-átírása)
 - [Mondatfajták és írásjelek](#mondatfajták-és-írásjelek)
 
-## Nyelvtani alapok
+## Nyelvtani Alapok
 
 A toki pona ábécéje 14 betűből áll (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `s`, `t`, `u`, `w`), a szavak pedig CVn (mássalhangzó, magánhangzó, opcionális `n`) szótagokból állnak. Viszont van négy *tiltott szótag* (`ji`, `wo`, `wu` és `ti` -- az utóbbi `si`-vé változik) és a szóeleji mássalhangzó hiányozhat. Csak a tulajdonneveket írjuk nagy kezdőbetűvel.  
 Az egyes betűk nagyjából megfelelnek azoknak a hangoknak amiket azok az [IPA](https://www.ipachart.com)-ban is jelölnek, de némi variancia megengedett.
@@ -30,7 +30,7 @@ Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek
 > tomo tawa li tawa tomo. | Az autó hazamegy.  
 > mi tomo tawa wile li wile tawa tomo mi. | Egy autó akarok lenni és hazamenni (~haza akarok menni).  
 
-## Tulajdonnevek átírása
+## Tulajdonnevek Átírása
 
 A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következő szabályokat szokás továbbá betartani, de ezek nem törvényszerűek:
 
@@ -43,7 +43,7 @@ A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat
 
 Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `n`-nel végződik és `n` vagy `m` követi, pl.: *jan Anna*), ezek általában szintén kerülendők.
 
-## Mondatfajták és írásjelek
+## Mondatfajták és Írásjelek
 
 A kettőspont (`:`) és vessző (`,`) kivételevél technikailag minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén nem használunk írásjeleket és minden egyes mondat egy új sorra kerül. Ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk chaten és egyéb informális környezetben, habár a kettőspont továbbra is használva szokott lenni.
 
@@ -95,6 +95,8 @@ A kettőspont (`:`) az akkor használt, amikor egy előljárőszó vagy `e` utá
 > sina tawa sama ni: jan li wile pakala e sina. | Úgy rohansz, mintha meg akarnának verni.  
 
 A vesszők (`,`) szabadon használhatók hogy jobban elkülönítsük az egyes mondatrészeket, ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, vagy a `la` előtt, esetleg után.
+
+## Tagadás és Módosítószavak sorrendje
 
 **A magyar verzió jelenleg fordítás alatt van.**
 
