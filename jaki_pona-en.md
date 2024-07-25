@@ -8,6 +8,7 @@
 - [Basic Structure](#basic-structure)
 - [Transliterating Names](#transliterating-names)
 - [Sentence Types and Punctuation](#sentence-types-and-punctuation)
+- [Negation and Order of Modifiers](#negation-and-order-of-modifiers)
 - [Preposition and Conjunctions](#prepositions-and-conjunctions)
 - [Time and Space](#time-and-space)
 - [Numbers](#numbers)
