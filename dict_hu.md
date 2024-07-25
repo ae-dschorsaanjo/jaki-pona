@@ -1,1 +1,1 @@
-Fordítás alatt.
+# Szótár

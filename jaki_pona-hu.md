@@ -3,11 +3,18 @@ A *toki pona* ("jó nyelv", "a jóság nyelve") az egy minimalista mesterséges 
 A *jaki pona* ("jó sz&ast;r") az egy rövid összefoglalója és szótára a nyelvnek (a utóbbi az a *lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona* szótára alapján készült).
 { .special }
 
-## Tartalomjegyzék
+## Tartalomjegyzék { .hidden }
 
 - [Nyelvtani alapok](#nyelvtani-alapok)
 - [Tulajdonnevek átírása](#tulajdonnevek-átírása)
 - [Mondatfajták és írásjelek](#mondatfajták-és-írásjelek)
+- [Tagadás és Módosítószavak](#tagadás-és-módosítószavak)
+- [Előljáró- és Kötőszavak](#előljáró--és-kötőszavak)
+- [Tér és Idő](#tér-és-idő)
+- [Számok](#számok)
+- [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)
+- [Szótár](#szótár)
+{ .hidden }
 
 ## Nyelvtani Alapok
 
@@ -42,6 +49,7 @@ A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat
 6. Az átírt nevek ideális esetben nem egyeznek meg létező toki pona szavakkal.
 
 Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `n`-nel végződik és `n` vagy `m` követi, pl.: *jan Anna*), ezek általában szintén kerülendők.
+{ .hidden }
 
 ## Mondatfajták és Írásjelek
 
@@ -82,8 +90,9 @@ A felkiáltójel (`!`) három féle módon használt:
 > o lukin e ni! | Nézd meg ezt!  
 > sina o lukin e ona! | Te, nézd meg őt!  
 > toki! | Szia! \[szokásos köszönés]  
-> tawa pona! | Viszlát! \[szokásos elköszönés] Jó utat!
-> awen pona! | Viszlát! \[szokásos elköszönés] Mentem!
+> mi tawa! | Mentem! Viszlát! \[szokásos elköszönés]
+> tawa pona! | Viszlát! Jó utat! \[szokásos elköszönés]
+> awen pona! | Viszlát! Mentem! \[szokásos elköszönés]
 > lape pona! | Jó alvást ~ Szép álmokat!
 > moku pona! | Jó étvágyat!
 
@@ -96,14 +105,15 @@ A kettőspont (`:`) az akkor használt, amikor egy előljárőszó vagy `e` utá
 
 A vesszők (`,`) szabadon használhatók hogy jobban elkülönítsük az egyes mondatrészeket, ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, vagy a `la` előtt, esetleg után.
 
-## Tagadás és Módosítószavak sorrendje
+## Tagadás és Módosítószavak
+
+## Előljáró- és Kötőszavak
+
+## Tér és Idő
+
+## Számok
+
+## Emelt Szintű Nyelvtan
 
 **A magyar verzió jelenleg fordítás alatt van.**
 
-plex normal
-
-*plex italix*
-
-**plex bold**
-
-**_plex bolditalic_**
