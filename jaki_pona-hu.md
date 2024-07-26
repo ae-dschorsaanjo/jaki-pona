@@ -107,9 +107,53 @@ A vesszők (`,`) szabadon használhatók hogy jobban elkülönítsük az egyes m
 
 ## Tagadás és Módosítószavak
 
+Tagadást az `ala` szóval lehet kifejezni ami ilyenkor mindig egy módosítószónak minősül.
+
+Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetlenül befolyásolja a jelentést, de az `ala` általában az utolsó módosítószó minden főnévi és módosító csoportban (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), ha az adott alanynak vagy tárgynak nincs birtokosa (elméletben; ez egy ritka eset). Viszont bizonyos esetekben a módosítószavak sorrendje változhat annak függvényében, hogy mit szeretnénk hangsúlyozni vagy sugallni.
+
+> mi loje ala. | Nem vagyok piros.  
+> mi ala li loje. | Nem én vagyok piros.  
+> ona ala li loje ala. | Nem ő nem piros.  
+> mi moku e pan ala. | Nem eszek kenyeret.  
+> ona li tawa tomo ala. | Ő nem haza megy.  
+> ona li tawa ala tomo. | Nem megy haza.  
+> ona li wile ala tawa tomo. | Nem akar haza menni.  
+> ona li wile e tomo tawa ala. | Ő nem akar autót.  
+> ni li kili laso ala. | Ez nem egy kék gyümölcs.  
+> ni li kili ala laso. | Ez kék de nem gyümölcs. \[~kék nem-gyümölcs]  
+> mi lon ala ma Amelica. | Nem vagyok Amerikában \[az Amerika szuperkontinensen].  
+> mi lon ma Mewika ala. | Nem vagyok Amerikában \[az USA-ban].  
+
 ## Előljáró- és Kötőszavak
 
+Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl. alany, állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
+
+A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lást [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:
+
+- És
+    - Alanyok között `en`;
+    - Állítmányok között `li`;
+    - Tárgyak között `e`.
+    - Két mondat összekötése esetén a második mondat elején `kin la` (vagy `en la`; toki ponában nincsenek összetett mondatok, két független mondatként fejezzük ki);
+    - Módosítószavak között `pi M1 en M2` (ahol *M1* és *M2* módosítószavak) -- ez nem használható ha az alanyunkban egynél több főnévi csoport van!
+- Vagy
+    - Ugyan úgy mint az "és", de mindig `anu`-t használunk;
+    - Kivéve két mondat esetén, az `ante la` gyakrabban használt mint az `anu la`.
+- De
+    - `taso` a mondat elején (mint kötőszó);
+    - Ahhoz, hogy "kivéve", "akármi, de" jelentéseket fejezzünk ki, *"ale en ona ala"* (minden és ez/ő nem) és ehhez hasonló szerkezeteket tudunk használni.
+
+> mi en sina li tawa. | Te és én sétálunk.  
+> soweli suwi pi suli en laso li musi. | A nagy és kék macskák játszanak.  
+> jan Sotan li pali li wile moku. | Zoltán dolgozik és éhes.  
+> ona li moku e pan e telo walo kiwen. | Kenyeret és sajtot eszik.  
+> mi wile e musi anu lape. | Élvezni szeretném az életet vagy aludni \[szeretnék].  
+> ona li wile pali. ante la ona li kama nasa. | Dolgoznia kell, különben \[~vagy] meg fog őrülni.  
+> mi wile pali e musi. taso mi jo e wawa ala. | Zenélni szeretnék, de nincs hozzá energiám.  
+
 ## Tér és Idő
+
+
 
 ## Számok
 

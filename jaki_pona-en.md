@@ -111,35 +111,35 @@ Negation is almost exclusively expressed by using the word `ala` which is a *mod
 
 Modifiers usually do not have a fixed order as it is context dependent, but generally `ala` would be the *last modifier* in a *noun phrase* or a *modifier group* (see [Advanced Grammar](#advanced-grammar)), only followed by the possessor (theoreticaly; this is rather rare). However, its placement *may vary* depending on what and how we want to emphasize or connote.
 
-> mi loje ala. | I am not red.
+> mi loje ala. | I am not red.  
 > mi ala li loje. | Not-I is red.  
 > ona ala li loje ala. | Not-it is not-red.  
-> mi moku e pan ala. | I am not eating bread.    
+> mi moku e pan ala. | I am not eating bread.  
 > ona li tawa tomo ala. | She is going not-home.  
 > ona li tawa ala tomo. | She is not going home.  
 > ona li wile ala tawa tomo. | It does not want want to go home.  
 > ona li wile e tomo tawa ala. | She does not want a car.  
 > ni li kili laso ala. | This is not a blue fruit.  
-> ni li kili ala laso. | This is a blue thing \[that is not a fruit].
-> mi lon ala ma Amelica. | I am not in the Americas.
-> mi lon ma Amelica ala. | I am in not the Americas \[but somewhere else].
+> ni li kili ala laso. | This is a blue thing \[that is not a fruit].  
+> mi lon ala ma Amelica. | I am not in the Americas.  
+> mi lon ma Mewika ala. | I am in not in the USA. \[but somewhere else].  
 
 ## Prepositions and Conjunctions
 
-Prepositions are followed by noun phrases (nouns and modifiers; along with the prepositions, they are called *prepositional phrases*) and they can be put after virtually any noun phrase (such as the subject or object) to modify or specify their meanings. There are 5 prepositions in toki pona, `kepeken` (with), `lon` (at), `sama` (like), `tan` (from, because) and `tawa` (to, for). When these are used at the end of sentences, then their meaning may apply to the whole sentence as opposed to the (last) object; most often this is a *'lon'* structure indicating physical locations or time.
+Prepositions are followed by noun phrases (nouns and modifiers; along with the prepositions, they are called *prepositional phrases*) and they can be put after virtually any noun phrase (such as the subject or object) to modify or specify their meanings. There are 5 prepositions in toki pona, `kepeken` (with), `lon` (at), `sama` (like), `tan` (from, because) and `tawa` (to, for, going to). When these are used at the end of sentences, then their meaning may apply to the whole sentence as opposed to the (last) object; most often this is a *'lon'* structure indicating physical locations or time.
 
 Conjunctions, with the exception of `taso`, must be used along with `la` (see under *[Advanced Grammar](#advanced-grammar)*), or they have special sentence structures. The following ones are available:
 
-1. And
+- And
     - Between subjects, use `en`.
     - Between verbs, use `li`.
     - Betwen object, use `e`.
     - To apply it to the whole sentence (linking it to the previous one), begin the sentence with `kin la` (alternatively `en la`).
     - Between modifiers, use `pi M1 en M2` (where *M1* and *M2* are the modifiers); this cannot be combined with multiple subjects!
-2. Or
+- Or
     - Same as "and", but always use `anu`.
     - Although `ante la` is used more often than `anu la`.
-3. But
+- But
     - `taso` (as a conjunction) is used at the beginning of sentences and nowhere else.
     - To express things like "anything but..." and "except", structures like *'ale en ona ala'* (everything and not it) could be used.
 
