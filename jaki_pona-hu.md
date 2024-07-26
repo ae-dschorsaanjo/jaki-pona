@@ -126,7 +126,7 @@ Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetl
 
 ## Előljáró- és Kötőszavak
 
-Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl. alany, állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
+Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
 
 A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lást [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:
 
