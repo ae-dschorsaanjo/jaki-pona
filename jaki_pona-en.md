@@ -155,13 +155,13 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
 
 Talking about time and location ("space") are very similar: they both use primarily `lon` and they both can be used as the *context* in `la` phrases (see *[Advanced Grammar](#advanced-grammar)*).
 
-*Time* is expressed as a noun phrase using `tenpo` and modifiers. The most common ones are `kama` (for future), `pini` (for past), `ni` (for present), `suno` (for day/daytime), `pimeja` (for night); *"kama"*, *"pini"* and *"ni"* are often used in conjunction with the latter two.
+*Time* is expressed as a noun phrase using `tenpo` and modifiers. The most common ones are `kama` (for future), `pini` (for past), `ni` (for present), `suno` (for day/daytime) and `pimeja` (for night); *"kama"*, *"pini"* and *"ni"* are often used in conjunction with the latter two.
 
 > ona li lape lon tenpo pimeja. | She sleeps at night.  
 > ona li kama apeja lon tenpo suno ni. | Today she'll be miserable.  
 > tenpo kama la ona li tawa tomo pali. | She will go to work.  
 > tenpo pini la ona li pali ala. | She didn't work before.  
-> tenpo ni la ona li moku. | She is eating now.  
+> taso tenpo ni la ona li moku. | But she is \[only] eating for now.  
 
 *Space* works similar to time, but with more variance: instead of having a single noun, we can use `ma` (for place in general; also "outside"), `tomo` (for house/building) and `ma tomo` (for city/settlement). Spatial nouns after `lon` mean current location, while if they are preceded by `tawa`, they specify directions:
 
