@@ -133,8 +133,6 @@ body.sbs {
 #langsel {
     font-family: var(--header-font);
     font-size: var(--header-size);
-    /* TODO: remove after Hungarian translation is done! */
-    /* display: none; */
 }
 
 #en, #hu {
@@ -206,13 +204,13 @@ p.special {
     display: none;
 }
 
-#table-of-contents~ul,
-#tartalomjegyzek~ul {
+#table-of-contents+ul,
+#tartalomjegyzék+ul {
     list-style-type: none;
 }
 
-#table-of-contents~ul li::marker,
-#tartalomjegyzek~ul li::marker {
+#table-of-contents+ul li::marker,
+#tartalomjegyzék+ul li::marker {
     content: "▯ ";
 }
 
@@ -653,15 +651,15 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 </blockquote>
 <h2 id="time-and-space">Time and Space</h2>
 <p>Talking about time and location ("space") are very similar: they both use primarily <code>lon</code> and they both can be used as the <em>context</em> in <code>la</code> phrases (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>).</p>
-<p><em>Time</em> is expressed as a noun phrase using <code>tenpo</code> and modifiers. The most common ones are <code>kama</code> (for future), <code>pini</code> (for past), <code>ni</code> (for present), <code>suno</code> (for day/daytime), <code>pimeja</code> (for night); <em>"kama"</em>, <em>"pini"</em> and <em>"ni"</em> are often used in conjunction with the latter two.</p>
+<p><em>Time</em> is expressed as a noun phrase using <code>tenpo</code> and modifiers. The most common ones are <code>kama</code> (for future), <code>pini</code> (for past), <code>ni</code> (for present), <code>suno</code> (for day/daytime) and <code>pimeja</code> (for night); <em>"kama"</em>, <em>"pini"</em> and <em>"ni"</em> are often used in conjunction with the latter two.</p>
 <blockquote>
 <p><div class="block-left">ona li lape lon tenpo pimeja.</div><div class="block-right">(She sleeps at night.)</div></p>
 <p><div class="block-left">ona li kama apeja lon tenpo suno ni.</div><div class="block-right">(Today she'll be miserable.)</div></p>
 <p><div class="block-left">tenpo kama la ona li tawa tomo pali.</div><div class="block-right">(She will go to work.)</div></p>
 <p><div class="block-left">tenpo pini la ona li pali ala.</div><div class="block-right">(She didn't work before.)</div></p>
-<p><div class="block-left">tenpo ni la ona li moku.</div><div class="block-right">(She is eating now.)</div></p>
+<p><div class="block-left">taso tenpo ni la ona li moku.</div><div class="block-right">(But she is [only] eating for now.)</div></p>
 </blockquote>
-<p><em>Space</em> works similar to time, but with more variance: instead of having a single noun, we can use <code>ma</code> (for place in general; also "outside"), <code>tomo</code> (for house/building) and <code>ma tomo</code> (for city/settlement). Spatial nouns after <code>lon</code> mean current location, while if they are preceded by <code>tawa</code>, they specify directions:</p>
+<p><em>Space</em> works similar to time, but with more variance: instead of having a single noun, we can use <code>ma</code> (for place in general; also "outside") and <code>tomo</code> (for house/building or "inside") among others. Spatial nouns after <code>lon</code> mean current location, while if they are preceded by <code>tawa</code>, they specify directions:</p>
 <dl>
 <dt>insa</dt>
 <dd>inside, within, among</dd>
@@ -1573,7 +1571,38 @@ Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek
 </blockquote>
 <h2 id="ter-es-ido">Tér és Idő</h2>
 <p>Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a <code>lon</code> előljárót használja és mindkettő használható <em>kontextusként</em> <code>la</code> szerkezetekben (lásd <a href="#emelt-szintű-nyelvtan">Emelt Szintű Nyelvtan</a>).</p>
-<p>Az <em>idő</em> kifejezésére fónévi csoportokat </p>
+<p>Az <em>idő</em> kifejezésére fónévi csoportokat használunk (<code>tenpo</code> és módosítók). A leggyakrabban használt módosítószavak a <code>kama</code> (jövő), <code>pini</code> (múlt), <code>ni</code> (jelen), <code>suno</code> (nap, nappal) és <code>pimeja</code> (éjjel); ezek kombinációban is használhatók.</p>
+<blockquote>
+<p><div class="block-left">ona li lape lon tenpo pimeja.</div><div class="block-right">([Ő] éjszaka alszik.)</div></p>
+<p><div class="block-left">ona li kama apeja lon tenpo suno ni.</div><div class="block-right">(Ma szenvedni fog.)</div></p>
+<p><div class="block-left">tenpo kama la ona li tawa tomo pali.</div><div class="block-right">(Munkába fog menni.)</div></p>
+<p><div class="block-left">tenpo pini la ona li pali ala.</div><div class="block-right">(Eddig [még] nem dolgozott.)</div></p>
+<p><div class="block-left">taso tenpo ni la ona li moku.</div><div class="block-right">(De most még [csak] eszik.)</div></p>
+</blockquote>
+<p><em>Helybeliség</em> kifejezése az időhoz hasonlóan történik, de nem egy szó köré épül; gyakokran használt főnevek a <code>ma</code> (általános "hely" vagy "kint/külvilág") és a <code>tomo</code> (ház, épület vagy "beltér"). Ezen felül a <code>lon</code>-on kívűl a <code>tawa</code> (-ba/be, -hoz/hez/höz) előljárók is gyakran használtak. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:</p>
+<dl>
+<dt>insa</dt>
+<dd>belül, belsejében, között</dd>
+<dt>poka</dt>
+<dd>mellette, közel, körülötte</dd>
+<dt>sewi</dt>
+<dd>felette, felül</dd>
+<dt>anpa</dt>
+<dd>alatta, alul</dd>
+<dt>sinpin</dt>
+<dd>előtte, elől</dd>
+<dt>monsi</dt>
+<dd>mögötte, hátul, utána</dd>
+</dl>
+<p>Megjegyzés: a fentebb adott definíciók más ragozásokkal is érvényesek!</p>
+<blockquote>
+<p><div class="block-left">soweli li lon insa tomo.</div><div class="block-right">(A macska a házon belül van.)</div></p>
+<p><div class="block-left">soweli li lon poka pi jan lawa ona.</div><div class="block-right">(A kutya a gazdája mellett van.)</div></p>
+<p><div class="block-left">soweli li lape lon soweli ante.</div><div class="block-right">(A macska a kutyán alszik.)</div></p>
+<p><div class="block-left">musi kiwen li lon supa lon sewi pi ilo pi sitelen tawa.</div><div class="block-right">(A [macska] szobor egy polcon van a TV felett.)</div></p>
+<p><div class="block-left">soweli li lape lon anpa supa.</div><div class="block-right">(A macska az ágy alatt alszik.)</div></p>
+<p><div class="block-left">soweli li tawa monsi tomo.</div><div class="block-right">(A ház mögé megy a macska [feltehetően aludni].)</div></p>
+</blockquote>
 <h2 id="szamok">Számok</h2>
 <p>Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a fóneveknek nincs számossága (egyes és többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb renszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint van egy egy "középskála" ami gyakran használt, de nem szoktak nevesíteni:</p>
 <table>
@@ -1653,7 +1682,6 @@ Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy <code>n
 <p><div class="block-left">soweli suwi nanpa tu wan</div><div class="block-right">(A harmadik macska)</div></p>
 </blockquote>
 <h2 id="emelt-szintu-nyelvtan">Emelt Szintű Nyelvtan</h2>
-<p><strong>A magyar verzió jelenleg fordítás alatt van.</strong></p>
 </div>
 <div class="break-me"></div>
 <div class="dict">

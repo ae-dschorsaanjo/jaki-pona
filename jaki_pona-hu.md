@@ -216,5 +216,4 @@ Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`
 
 ## Emelt Szintű Nyelvtan
 
-**A magyar verzió jelenleg fordítás alatt van.**
 

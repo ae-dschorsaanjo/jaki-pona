@@ -118,13 +118,13 @@ p.special {
     display: none;
 }
 
-#table-of-contents~ul,
-#tartalomjegyzek~ul {
+#table-of-contents+ul,
+#tartalomjegyzék+ul {
     list-style-type: none;
 }
 
-#table-of-contents~ul li::marker,
-#tartalomjegyzek~ul li::marker {
+#table-of-contents+ul li::marker,
+#tartalomjegyzék+ul li::marker {
     content: "▯ ";
 }
 
