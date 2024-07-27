@@ -109,7 +109,7 @@ Commas (`,`) can be used freely to visually separate parts of a sentence, althou
 
 Negation is almost exclusively expressed by using the word `ala` which is a *modifier* in this use.
 
-Modifiers usually do not have a fixed order as it is context dependent, but generally `ala` would be the *last modifier* in a *noun phrase* or a *modifier group* (see [Advanced Grammar](#advanced-grammar)), only followed by the possessor (theoreticaly; this is rather rare). However, its placement *may vary* depending on what and how we want to emphasize or connote.
+Modifiers usually do not have a fixed order as it is context dependent, but generally `ala` would be the *last modifier* in a *noun phrase* or a *modifier group* (see *[Advanced Grammar](#advanced-grammar)*), only followed by the possessor (theoreticaly; this is rather rare). However, its placement *may vary* depending on what and how we want to emphasize or connote.
 
 > mi loje ala. | I am not red.  
 > mi ala li loje. | Not-I is red.  
@@ -205,7 +205,7 @@ luka    |             | 5         | 5              |
 mute    | 3+          | 11+       | 20             | 
 ale/ali | all         | all       | 100,&nbsp;all  | Used for "all", "every" and "countless".
 
-Numbers are *modifiers*. They always go *after the last modifier,* but *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Numbers without specific words for them are formed by adding them up, starting with the largest -- this does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
+Numbers are *modifiers*. They always go *after the last modifier,* but optionally *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Numbers without specific words for them are formed by adding them up, starting with the largest -- this does not apply to short range. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
 
 > soweli suwi tu wan | Three cats  
