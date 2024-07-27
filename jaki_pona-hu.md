@@ -128,7 +128,7 @@ Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetl
 
 Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
 
-A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lást [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:
+A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:
 
 - És
     - Alanyok között `en`;
@@ -153,9 +153,31 @@ A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeké
 
 ## Tér és Idő
 
+Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a `lon` előljárót használja és mindkettő használható *kontextusként* `la` szerkezetekben (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)).
 
+Az *idő* kifejezésére fónévi csoportokat 
 
 ## Számok
+
+Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a fóneveknek nincs számossága (egyes és többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb renszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint van egy egy "középskála" ami gyakran használt, de nem szoktak nevesíteni:
+
+| Szám    | Rövid skála         | Középskála    | Hosszú skála            | Megjegyzés                                                   |
+| ------- | ------------------- | ------------- | ----------------------- | ------------------------------------------------------------ |
+| ala     | 0                   | 0             | 0                       |                                                              |
+| wan     | 1                   | 1             | 1                       |                                                              |
+| tu      | 2                   | 2             | 2                       |                                                              |
+| tuli    |                     |               | 3                       | Régies, a szótárból korán eltávolításra került.              |
+| po      |                     |               | 4                       | Régies, a szótárból korán eltávolításra került.              |
+| luka    |                     | 5             | 5                       |                                                              |
+| mute    | 2+,&nbsp;többesszám | 11+           | 20                      |                                                              |
+| ale/ali | minden/összes       | minden/összes | 100,&nbsp;minden/összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
+
+A számok nyelvtanilag *módosítószavak* amik az *utolsó módosító után állanak,* de lehetnek az *első "pi" előtt* is (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)). A többi módosító csoporttal ellentétben A rövid skála kivételével azokat a számokat amelyekre nincsenek szavak a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például *luka tu wan* az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és *tu tu* az 4 (2&nbsp;+&nbsp;2).  
+Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`.
+
+> soweli suwi tu wan | Három macska  
+> soweli suwi tuli | Három macska  
+> soweli suwi nanpa tu wan | A harmadik macska  
 
 ## Emelt Szintű Nyelvtan
 
