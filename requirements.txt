@@ -1,3 +1,4 @@
 emojidb==0.0.3
 Markdown==3.5.2
 markdown-extensions==0.0.1
+pillow==10.4.0
