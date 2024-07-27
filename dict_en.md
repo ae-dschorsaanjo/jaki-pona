@@ -79,8 +79,8 @@ __alasa__ ![alasa](pics/alasa.png)
 __ale/ali__ ![ale/ali](pics/ale.png)  
 `n`&shy;` ` everything, life, universe  
 `m`&shy;` ` all, each, every, countless  
-`#`&shy;` ` all, countless amount  
-`#`&shy;`1` 100  
+`#`&shy;`1` all, countless amount  
+`#`&shy;`2` 100  
 `l`&shy;`a` all told, nevertheless, despite everything, either way  
 _ale_ was the original, while _ali_ was added in 2002 to avoid ambiguity with _ala_ in speech.
 
