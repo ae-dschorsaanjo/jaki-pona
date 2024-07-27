@@ -153,7 +153,7 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
 
 ## Time and Space
 
-Talking about time and location ("space") are very similar: they both use `lon` and they both can be used as the *context* in `la` phrases (see *[Advanced Grammar](#advanced-grammar)*).
+Talking about time and location ("space") are very similar: they both use primarily `lon` and they both can be used as the *context* in `la` phrases (see *[Advanced Grammar](#advanced-grammar)*).
 
 *Time* is expressed as a noun phrase using `tenpo` and modifiers. The most common ones are `kama` (for future), `pini` (for past), `ni` (for present), `suno` (for day/daytime), `pimeja` (for night); *"kama"*, *"pini"* and *"ni"* are often used in conjunction with the latter two.
 
