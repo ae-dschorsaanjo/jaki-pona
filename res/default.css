@@ -15,6 +15,35 @@ body {
     padding: 1rem;
 }
 
+body.sbs {
+    max-width: 1900px;
+}
+
+.sbs main {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    column-gap: 3em;
+}
+
+.sbs main>div {
+    max-width: 920px;
+    min-width: 500px;
+    flex: 1 1 500px;
+}
+
+.sbs #main-en {
+    display: block;
+}
+
+.sbs #main-hu {
+    display: block;
+}
+
+.sbs #langsel {
+    display: none;
+}
+
 #langsel {
     font-family: var(--header-font);
     font-size: var(--header-size);
@@ -91,11 +120,13 @@ p.special {
     display: none;
 }
 
-#table-of-contents~ul {
+#table-of-contents~ul,
+#tartalomjegyzek~ul {
     list-style-type: none;
 }
 
-#table-of-contents~ul li::marker {
+#table-of-contents~ul li::marker,
+#tartalomjegyzek~ul li::marker {
     content: "▯ ";
 }
 

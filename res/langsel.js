@@ -6,11 +6,16 @@ const sel = id => { if (id == HU_ID) return HU_SEL; else return EN_SEL; };
 const SEL_CLS = "sel";
 const MAIN_PREFIX = "main-";
 const LANG = "lang";
+const SBS_CLS = "sbs";
+
+function setDisplay(target, value) {
+    document.getElementById(MAIN_PREFIX + target).style.display = value;
+}
 
 function hideMain(lang) {
     let [on, off] = lang == EN_ID ? [EN_ID, HU_ID] : [HU_ID, EN_ID];
-    document.getElementById(MAIN_PREFIX + on).style.display = 'block';
-    document.getElementById(MAIN_PREFIX + off).style.display = 'none';
+    setDisplay(on, 'block');
+    setDisplay(off, 'none');
     sel(on).classList.add(SEL_CLS);
     sel(off).classList.remove(SEL_CLS);
 }
@@ -18,7 +23,7 @@ function hideMain(lang) {
 function chooseLanguage(lang, first_call = false) {
     if (first_call) {
         let storedLang = localStorage.getItem(LANG);
-        if (storedLang) lang = storedLang; 
+        if (storedLang) lang = storedLang;
     }
     else {
         if (localStorage.getItem(LANG) == lang) return false;
@@ -36,4 +41,23 @@ HU_SEL.addEventListener("click", e => {
     chooseLanguage(HU_ID);
 })
 
+document.addEventListener("keydown", (event) => {
+    if (event.altKey && event.key == "s") {
+        event.preventDefault();
+        let cl = document.body.classList;
+        if (cl.contains(SBS_CLS)) {
+            cl.remove(SBS_CLS);
+            chooseLanguage(EN_ID, true);
+        }
+        else {
+            cl.add(SBS_CLS);
+            setDisplay(EN_ID, "block");
+            setDisplay(HU_ID, "block");
+        }
+    }
+});
+
 chooseLanguage(EN_ID, true);
+
+// TODO: update URL based on language selection and be able to
+//       read selected language from URL
