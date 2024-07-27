@@ -12,7 +12,6 @@
     }
     body {
         line-height: 110%;
-        column-count: 2;
         font-size: 11pt;
     }
     a {
@@ -102,20 +101,35 @@
     dl + p {
         page-break-before: avoid;
     }
-    .dict + h2 {
-        page-break-before: always;
+    .grammar, .dict {
+        column-count: 2;
+    }
+    .grammar p {
+        break-inside: avoid-column;
+    }
+    .grammar table {
+        break-inside: avoid;
+    }
+    .break-me {
+        page-break-after: always;
+    }
+    .grammar {
+        break-after: always;
     }
     .dict p {
-        page-break-inside: avoid;
+        break-inside: avoid;
     }
     .dict h3 {
-        page-break-after: avoid;
+        break-after: avoid;
     }
     .dict p:not(.hidden) {
         line-height: 110%;
+        padding: 0.6rem 0;
+        margin: -0.6rem 0 0.6rem;
     }
     .dict img {
-        top: -0.3em;
+        top: 0.6em;
+        height: 1.1em;
     }
     footer {
         display: none;
