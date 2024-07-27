@@ -343,7 +343,6 @@ h6 ~ p {
     }
     body {
         line-height: 110%;
-        column-count: 2;
         font-size: 11pt;
     }
     a {
@@ -433,20 +432,35 @@ h6 ~ p {
     dl + p {
         page-break-before: avoid;
     }
-    .dict + h2 {
-        page-break-before: always;
+    .grammar, .dict {
+        column-count: 2;
+    }
+    .grammar p {
+        break-inside: avoid-column;
+    }
+    .grammar table {
+        break-inside: avoid;
+    }
+    .break-me {
+        page-break-after: always;
+    }
+    .grammar {
+        break-after: always;
     }
     .dict p {
-        page-break-inside: avoid;
+        break-inside: avoid;
     }
     .dict h3 {
-        page-break-after: avoid;
+        break-after: avoid;
     }
     .dict p:not(.hidden) {
         line-height: 110%;
+        padding: 0.6rem 0;
+        margin: -0.6rem 0 0.6rem;
     }
     .dict img {
-        top: -0.3em;
+        top: 0.6em;
+        height: 1.1em;
     }
     footer {
         display: none;
@@ -462,6 +476,7 @@ h6 ~ p {
 
 <main>
 <div id="main-en">
+<div class="grammar">
 <p><em>toki pona</em> ("the language of good", "good language") is a minimalist constructed language created by Sonja Lang that was first published in 2001.  </p>
 <p class="special"><em>jaki pona</em> ("the good sh&ast;t") is a short overview&nbsp;of the language that comes with a dictionary (which is derived from&nbsp;<em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em>).</p>
 <h2 class="hidden" id="table-of-contents">Table of Contents</h2>
@@ -558,7 +573,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p>Commas (<code>,</code>) can be used freely to visually separate parts of a sentence, although customarily they are only put before <em>prepositions</em>, and either before or after <code>la</code>.</p>
 <h2 id="negation-and-order-of-modifiers">Negation and Order of Modifiers</h2>
 <p>Negation is almost exclusively expressed by using the word <code>ala</code> which is a <em>modifier</em> in this use.</p>
-<p>Modifiers usually do not have a fixed order as it is context dependent, but generally <code>ala</code> would be the <em>last modifier</em> in a <em>noun phrase</em> or a <em>modifier group</em> (see <a href="#advanced-grammar">Advanced Grammar</a>), only followed by the possessor (theoreticaly; this is rather rare). However, its placement <em>may vary</em> depending on what and how we want to emphasize or connote.</p>
+<p>Modifiers usually do not have a fixed order as it is context dependent, but generally <code>ala</code> would be the <em>last modifier</em> in a <em>noun phrase</em> or a <em>modifier group</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>), only followed by the possessor (theoreticaly; this is rather rare). However, its placement <em>may vary</em> depending on what and how we want to emphasize or connote.</p>
 <blockquote>
 <p><div class="block-left">mi loje ala.</div><div class="block-right">(I am not red.)</div></p>
 <p><div class="block-left">mi ala li loje.</div><div class="block-right">(Not-I is red.)</div></p>
@@ -606,7 +621,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p><div class="block-left">mi wile pali e musi. taso mi jo e wawa ala.</div><div class="block-right">(I want to make music, but I am exhausted.)</div></p>
 </blockquote>
 <h2 id="time-and-space">Time and Space</h2>
-<p>Talking about time and location ("space") are very similar: they both use <code>lon</code> and they both can be used as the <em>context</em> in <code>la</code> phrases (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>).</p>
+<p>Talking about time and location ("space") are very similar: they both use primarily <code>lon</code> and they both can be used as the <em>context</em> in <code>la</code> phrases (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>).</p>
 <p><em>Time</em> is expressed as a noun phrase using <code>tenpo</code> and modifiers. The most common ones are <code>kama</code> (for future), <code>pini</code> (for past), <code>ni</code> (for present), <code>suno</code> (for day/daytime), <code>pimeja</code> (for night); <em>"kama"</em>, <em>"pini"</em> and <em>"ni"</em> are often used in conjunction with the latter two.</p>
 <blockquote>
 <p><div class="block-left">ona li lape lon tenpo pimeja.</div><div class="block-right">(She sleeps at night.)</div></p>
@@ -639,7 +654,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 <p><div class="block-left">soweli li tawa monsi tomo.</div><div class="block-right">(The cat goes behind the house [presumably to sleep].)</div></p>
 </blockquote>
 <h2 id="numbers">Numbers</h2>
-<p>Numbers are relatively rare as neither pronouns nor nouns are inherently <em>singular</em> or <em>plural</em>. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):</p>
+<p>Numbers are used less than in most languages as there are only limited ways to express numbers over 10 and neither pronouns nor nouns are inherently <em>singular</em> or <em>plural</em>. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):</p>
 <table>
 <thead>
 <tr>
@@ -695,7 +710,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 </tr>
 <tr>
 <td>mute</td>
-<td>3+</td>
+<td>2+,&nbsp;plural</td>
 <td>11+</td>
 <td>20</td>
 <td></td>
@@ -709,7 +724,7 @@ Similar to prepositions, there are <em>auxiliary-</em> or <em>pre-verbs</em> tha
 </tr>
 </tbody>
 </table>
-<p>Numbers are <em>modifiers</em>. They always go <em>after the last modifier,</em> but <em>before the first "pi"</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>). Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; this does not apply to short range. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
+<p>Numbers are <em>modifiers</em> that always go <em>after the last modifier,</em> but optionally <em>before the first "pi"</em> (see <em><a href="#advanced-grammar">Advanced Grammar</a></em>). Unlike other modifiers, <em>pi</em> is never used in front of them. Numbers without specific words for them are formed by adding them up, starting with the largest &ndash; this does not apply to short range where only those single words are used. For example, <em>"luka tu wan"</em> is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while <em>"tu tu"</em> is 4 (2&nbsp;+&nbsp;2).<br />
 Ordinal numbers are expressed using <code>nanpa</code> followed by the number and work the same as regular numbers.</p>
 <blockquote>
 <p><div class="block-left">soweli suwi tu wan</div><div class="block-right">(Three cats)</div></p>
@@ -735,6 +750,8 @@ Prepositional phrases may be placed in front of <em>'la'</em> to indicate that i
 <p><div class="block-left">sina lon tomo la suno sewi li ken ala lukin e sina.</div><div class="block-right">(When you are at home, the the Sun&nbsp;god is unable to see you.)</div></p>
 <p><div class="block-left">lon ma tomo Uso la jan moli li tawa sin.</div><div class="block-right">(In Uso, dead people are walking again.)</div></p>
 </blockquote>
+</div>
+<div class="break-me"></div>
 <div class="dict">
 <h2 id="dictionary">Dictionary</h2>
 <p>Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example <em><em>kipisi</em></em> at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this <em>does not</em> mean that words without a definition as a noun cannot be use as one in the right context. <em>Function</em> (or <em>grammatical</em>) words are the only exceptions to this rule.</p>
@@ -1379,6 +1396,7 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 </div>
 </div>
 <div id="main-hu">
+<div class="grammar">
 <p>A <em>toki pona</em> ("jó nyelv", "a jóság nyelve") az egy minimalista mesterséges nyelv amit Sonja Lang hozott létre és publikált eredetileg 2001-ben.</p>
 <p class="special">A <em>jaki pona</em> ("jó sz&ast;r") az egy rövid összefoglalója és szótára a nyelvnek (a utóbbi az a <em>lipu&nbsp;lili&nbsp;pi&nbsp;toki&nbsp;pona</em> szótára alapján készült).</p>
 <h2 class="hidden" id="tartalomjegyzek">Tartalomjegyzék</h2>
@@ -1492,7 +1510,7 @@ Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek
 </blockquote>
 <h2 id="eloljaro-es-kotoszavak">Előljáró- és Kötőszavak</h2>
 <p>Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket <em>előljárói csoportoknak</em> hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a <code>kepeken</code> (-val/vel), <code>lon</code> (-ban/ben, -ba/be, -kor), <code>sama</code> (mint), <code>tan</code> (-ból/ből, -tól/től, mert) és <code>tawa</code> (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy <em>'lon'</em> kifejezés időbeliség vagy fizikális hely meghatározására.</p>
-<p>A kötőszavak &ndash; a <code>taso</code> kivételével &ndash;  mindig egy <code>la</code> szerkezet részeként használjuk (lást <a href="#emelt-szintű-nyelvtan">Emelt Szintű Nyelvtan</a>), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:</p>
+<p>A kötőszavak &ndash; a <code>taso</code> kivételével &ndash;  mindig egy <code>la</code> szerkezet részeként használjuk (lásd <a href="#emelt-szintű-nyelvtan">Emelt Szintű Nyelvtan</a>), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:</p>
 <ul>
 <li>És<ul>
 <li>Alanyok között <code>en</code>;</li>
@@ -1523,9 +1541,90 @@ Az elöljárókhoz hasonlóan a segédigék az állítmány előtt állnak. Ezek
 <p><div class="block-left">mi wile pali e musi. taso mi jo e wawa ala.</div><div class="block-right">(Zenélni szeretnék, de nincs hozzá energiám.)</div></p>
 </blockquote>
 <h2 id="ter-es-ido">Tér és Idő</h2>
+<p>Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a <code>lon</code> előljárót használja és mindkettő használható <em>kontextusként</em> <code>la</code> szerkezetekben (lásd <a href="#emelt-szintű-nyelvtan">Emelt Szintű Nyelvtan</a>).</p>
+<p>Az <em>idő</em> kifejezésére fónévi csoportokat </p>
 <h2 id="szamok">Számok</h2>
+<p>Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a fóneveknek nincs számossága (egyes és többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb renszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint van egy egy "középskála" ami gyakran használt, de nem szoktak nevesíteni:</p>
+<table>
+<thead>
+<tr>
+<th>Szám</th>
+<th>Rövid skála</th>
+<th>Középskála</th>
+<th>Hosszú skála</th>
+<th>Megjegyzés</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ala</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>wan</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>tu</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>tuli</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Régies, a szótárból korán eltávolításra került.</td>
+</tr>
+<tr>
+<td>po</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Régies, a szótárból korán eltávolításra került.</td>
+</tr>
+<tr>
+<td>luka</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>mute</td>
+<td>2+,&nbsp;többesszám</td>
+<td>11+</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>ale/ali</td>
+<td>minden/összes</td>
+<td>minden/összes</td>
+<td>100,&nbsp;minden/összes</td>
+<td>Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül".</td>
+</tr>
+</tbody>
+</table>
+<p>A számok nyelvtanilag <em>módosítószavak</em> amik az <em>utolsó módosító után állanak,</em> de lehetnek az <em>első "pi" előtt</em> is (lásd <a href="#emelt-szintű-nyelvtan">Emelt Szintű Nyelvtan</a>). A többi módosító csoporttal ellentétben A rövid skála kivételével azokat a számokat amelyekre nincsenek szavak a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például <em>luka tu wan</em> az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és <em>tu tu</em> az 4 (2&nbsp;+&nbsp;2).<br />
+Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy <code>nanpa</code>.</p>
+<blockquote>
+<p><div class="block-left">soweli suwi tu wan</div><div class="block-right">(Három macska)</div></p>
+<p><div class="block-left">soweli suwi tuli</div><div class="block-right">(Három macska)</div></p>
+<p><div class="block-left">soweli suwi nanpa tu wan</div><div class="block-right">(A harmadik macska)</div></p>
+</blockquote>
 <h2 id="emelt-szintu-nyelvtan">Emelt Szintű Nyelvtan</h2>
 <p><strong>A magyar verzió jelenleg fordítás alatt van.</strong></p>
+</div>
+<div class="break-me"></div>
 <div class="dict">
 
 </div>
@@ -1557,7 +1656,7 @@ function hideMain(lang) {
 function chooseLanguage(lang, first_call = false) {
     if (first_call) {
         let storedLang = localStorage.getItem(LANG);
-        if (storedLang) lang = storedLang; 
+        if (storedLang) lang = storedLang;
     }
     else {
         if (localStorage.getItem(LANG) == lang) return false;
@@ -1576,6 +1675,9 @@ HU_SEL.addEventListener("click", e => {
 })
 
 chooseLanguage(EN_ID, true);
+
+// TODO: update URL based on language selection and be able to
+//       read selected language from URL
 </script>
 
 </body>
