@@ -47,8 +47,6 @@ body.sbs {
 #langsel {
     font-family: var(--header-font);
     font-size: var(--header-size);
-    /* TODO: remove after Hungarian translation is done! */
-    /* display: none; */
 }
 
 #en, #hu {
