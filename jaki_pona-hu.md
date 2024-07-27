@@ -155,7 +155,42 @@ A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeké
 
 Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a `lon` előljárót használja és mindkettő használható *kontextusként* `la` szerkezetekben (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)).
 
-Az *idő* kifejezésére fónévi csoportokat 
+Az *idő* kifejezésére fónévi csoportokat használunk (`tenpo` és módosítók). A leggyakrabban használt módosítószavak a `kama` (jövő), `pini` (múlt), `ni` (jelen), `suno` (nap, nappal) és `pimeja` (éjjel); ezek kombinációban is használhatók.
+
+> ona li lape lon tenpo pimeja. | \[Ő] éjszaka alszik.  
+> ona li kama apeja lon tenpo suno ni. | Ma szenvedni fog.  
+> tenpo kama la ona li tawa tomo pali. | Munkába fog menni.  
+> tenpo pini la ona li pali ala. | Eddig \[még] nem dolgozott.  
+> taso tenpo ni la ona li moku. | De most még \[csak] eszik.  
+
+*Helybeliség* kifejezése az időhoz hasonlóan történik, de nem egy szó köré épül; gyakokran használt főnevek a `ma` (általános "hely" vagy "kint/külvilág") és a `tomo` (ház, épület vagy "beltér"). Ezen felül a `lon`-on kívűl a `tawa` (-ba/be, -hoz/hez/höz) előljárók is gyakran használtak. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:
+
+insa
+: belül, belsejében, között
+
+poka
+: mellette, közel, körülötte
+
+sewi
+: felette, felül
+
+anpa
+: alatta, alul
+
+sinpin
+: előtte, elől
+
+monsi
+: mögötte, hátul, utána
+
+Megjegyzés: a fentebb adott definíciók más ragozásokkal is érvényesek!
+
+> soweli li lon insa tomo. | A macska a házon belül van.  
+> soweli li lon poka pi jan lawa ona. | A kutya a gazdája mellett van.  
+> soweli li lape lon soweli ante. | A macska a kutyán alszik.  
+> musi kiwen li lon supa lon sewi pi ilo pi sitelen tawa. | A \[macska] szobor egy polcon van a TV felett.  
+> soweli li lape lon anpa supa. | A macska az ágy alatt alszik.  
+> soweli li tawa monsi tomo. | A ház mögé megy a macska \[feltehetően aludni].  
 
 ## Számok
 
