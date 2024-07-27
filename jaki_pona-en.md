@@ -163,7 +163,7 @@ Talking about time and location ("space") are very similar: they both use primar
 > tenpo pini la ona li pali ala. | She didn't work before.  
 > taso tenpo ni la ona li moku. | But she is \[only] eating for now.  
 
-*Space* works similar to time, but with more variance: instead of having a single noun, we can use `ma` (for place in general; also "outside"), `tomo` (for house/building) and `ma tomo` (for city/settlement). Spatial nouns after `lon` mean current location, while if they are preceded by `tawa`, they specify directions:
+*Space* works similar to time, but with more variance: instead of having a single noun, we can use `ma` (for place in general; also "outside") and `tomo` (for house/building or "inside") among others. Spatial nouns after `lon` mean current location, while if they are preceded by `tawa`, they specify directions:
 
 insa
 : inside, within, among
