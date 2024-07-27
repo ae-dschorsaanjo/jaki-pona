@@ -48,9 +48,7 @@ def render(
     main_en = render_markdown(read_file(main_en, True))
     main_hu = render_markdown(read_file(main_hu, True))
     dict_en = render_markdown(read_file(dict_en, True))
-    # dict_hu = render_markdown(read_file(dict_hu, True))
-    # FIXME: remove override after translation is done
-    dict_hu = ""
+    dict_hu = render_markdown(read_file(dict_hu, True))
     css_fonts = read_file(css_fonts)
     css_global = read_file(css_global)
     css_default = read_file(css_default)
