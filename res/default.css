@@ -119,12 +119,12 @@ p.special {
 }
 
 #table-of-contents+ul,
-#tartalomjegyzék+ul {
+#tartalomjegyzek+ul {
     list-style-type: none;
 }
 
 #table-of-contents+ul li::marker,
-#tartalomjegyzék+ul li::marker {
+#tartalomjegyzek+ul li::marker {
     content: "▯ ";
 }
 
