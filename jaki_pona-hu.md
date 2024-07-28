@@ -6,14 +6,14 @@ A *jaki pona* ("jó sz&ast;r") az egy rövid összefoglalója és szótára a ny
 ## Tartalomjegyzék { .hidden }
 
 - [Nyelvtani alapok](#nyelvtani-alapok)
-- [Tulajdonnevek átírása](#tulajdonnevek-átírása)
-- [Mondatfajták és írásjelek](#mondatfajták-és-írásjelek)
-- [Tagadás és Módosítószavak](#tagadás-és-módosítószavak)
-- [Előljáró- és Kötőszavak](#előljáró--és-kötőszavak)
-- [Tér és Idő](#tér-és-idő)
-- [Számok](#számok)
-- [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)
-- [Szótár](#szótár)
+- [Tulajdonnevek átírása](#tulajdonnevek-atirasa)
+- [Mondatfajták és írásjelek](#mondatfajtak-es-irasjelek)
+- [Tagadás és Módosítószavak](#tagadas-es-modositoszavak)
+- [Előljáró- és Kötőszavak](#eloljaro-es-kotoszavak)
+- [Tér és Idő](#ter-es-ido)
+- [Számok](#szamok)
+- [Emelt Szintű Nyelvtan](#emelt-szintu-nyelvtan)
+- [Szótár](#szotar)
 { .hidden }
 
 ## Nyelvtani Alapok
@@ -205,7 +205,7 @@ Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb sz�
 | po      |                     |               | 4                       | Régies, a szótárból korán eltávolításra került.              |
 | luka    |                     | 5             | 5                       |                                                              |
 | mute    | 2+,&nbsp;többesszám | 11+           | 20                      |                                                              |
-| ale/ali | minden/összes       | minden/összes | 100,&nbsp;minden/összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
+| ale/ali | összes       | összes | 100,&nbsp;összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
 
 A számok nyelvtanilag *módosítószavak* amik az *utolsó módosító után állanak,* de lehetnek az *első "pi" előtt* is (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)). A többi módosító csoporttal ellentétben A rövid skála kivételével azokat a számokat amelyekre nincsenek szavak a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például *luka tu wan* az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és *tu tu* az 4 (2&nbsp;+&nbsp;2).  
 Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`.
@@ -216,4 +216,21 @@ Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`
 
 ## Emelt Szintű Nyelvtan
 
+Módosítószavakat a `pi` segítségével tudunk csoportosítani és módosítószó csoportokat formálni (ezeknél a módosítói csoport első szavát módosítják az azt követők). Például *"jan pona suli mute"* az "nagy barátok", de *"jan pona pi suli mute"* az "nagyon nagy barát".  
+Amikor *Térbeliséget kifejező szavakat* használunk *előljárói csoportokban,* akkor egy *"pi"*-t szokás használni a térbeliséget kifejező szó után ha azt több mint egy szó követi.  
+A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden egyéb módosító után állnak.* Ha a birtokos az több mint egy szóval van kifejezve vagy nem egyértelmű, hogy az egy birtokos (és nem egy módosító például), akkor egy *pi*-t rakunk eléjük.
 
+> soweli suwi mi | a\[z én] macskám  
+> soweli suwi tu mi | a három macskám  
+> soweli suwi mute pi jan Sotan | Zoltán macskái  
+> soweli suwi jan | humanoid macska VAGY az ember macskája  
+> soweli suwi pi jan | az ember macskája  
+
+A `la` szó arra használt, hogy az egész mondatra ható kontextust (vagy *feltételt*) elkülönítse a *fő mondattól*. Az utóbbi az egy hétköznapi mondat, a kontextus pedig gyakorlatilag bármilyen (általában főnévi) csoport lehet, de akár egy teljes mondat is; leggyakrabban ez egy mondat feltétel kifejezésére (ha, amikor), vagy egy főnévi, esetleg előljárói csoport tér- vagy időbeliség kifejezésére.  
+Előljárói csoportokat *"la"* szerkezetben kontextusként is használhatunk, ilyenkor annak a jelentése egyértelműen a teljes mondatra vonatkozik. Ebben az esetben maga az előljáró akár el is hagyható.
+
+> tenpo kama la mi pali mute. | Többet fogok dolgozni.  
+> sina lon tomo la suno sewi li ken ala lukin e sina. | A Nap-isten nem tud megfigyelni mikor négy fal között vagy.  
+> \[lon] ma tomo Uso la jan moli li tawa sin. | Usóban a halottak ismét két lábon járnak.  
+> toki pona li pona tawa mi. | Nekem tetszik a toki pona.  
+> mi la toki pona li pona. | Nekem tetszik a toki pona.  
