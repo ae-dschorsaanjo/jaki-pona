@@ -215,19 +215,20 @@ Ordinal numbers are expressed using `nanpa` followed by the number and work the 
 ## Advanced Grammar
 
 `pi` is used to group modifiers. For example, *"jan pona suli mute"* would mean "big friends", but *"jan pona pi suli mute"* would mean "\[a] very big friend".  
-When *spatial nouns* are used in *prepositional phrases* (either after *"lon"* or *"tawa"*), a *"pi"* can be placed after the spatial noun if they are followed by more than one word.  
-*Possessors* are modifiers as well and they go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, put a *"pi"* before them.
+When *spatial nouns* are used in *prepositional phrases,* a *"pi"* can be placed after the spatial noun if they are followed by more than one word.  
+*Possessors* are noun phrases that go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, put a *"pi"* before them.
 
 > soweli suwi mi | my cat  
 > soweli suwi tu mi | my two cats  
-> soweli suwi mute pi jan Kalen | Karen's cats  
-> soweli suwi tomo | indoor cat OR the house's cat  
-> soweli suwi pi tomo | the house's cat  
+> soweli suwi mute pi jan Sotan | Zotn's cats  
+> soweli suwi jan | humanoid cat OR a human's cat  
+> soweli suwi pi jan | a human's cat  
 
-The word `la` is used to separate *context* (or *condition*) and *main sentence*. The latter is a normal sentence, but the context can be virtually any phrase or a full sentence; most often it is a full sentence or a phrase denoting the time.  
-Prepositional phrases may be placed in front of *'la'* to indicate that its meaning applies to the whole sentence, although the preposition itself may be dropped.
+The word `la` is used to separate *context* (or *condition*) and *main sentence*. The latter is a normal sentence, but the context can be virtually any phrase or a full sentence; most often it is a full sentence or a phrase denoting time or place.  
+Prepositional phrases may be placed in front of *"la"* to indicate that its meaning applies to the whole sentence, although the preposition itself may be dropped.
 
-> mi la pilin uta ona li pona. | I like its taste.  
 > tenpo kama la mi pali mute. | In the future, I shall work more.  
-> sina lon tomo la suno sewi li ken ala lukin e sina. | When you are at home, the the Sun&nbsp;god is unable to see you.  
-> lon ma tomo Uso la jan moli li tawa sin. | In Uso, dead people are walking again.  
+> sina lon tomo la suno sewi li ken ala lukin e sina. | If/when you are at home, the the Sun&nbsp;god is unable to see you.  
+> \[lon] ma tomo Uso la jan moli li tawa sin. | In Uso, dead people are walking again.  
+> toki pona li pona tawa mi. | I like toki pona.  
+> mi la toki pona li pona. | I like toki pona.  
