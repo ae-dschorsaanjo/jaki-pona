@@ -43,7 +43,7 @@ A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat
 
 1. A szótagok száma nem változik;
 2. Az *'r'* betű kiejtéstől függően `l`, `w` or `k` lesz (magyar nevek esetén `l`);
-3. Dentális réshangok (*'th'* angolban) `s` vagy `t` lesz;
+3. Dentális réshangok (angol *'th'*) `s` vagy `t` lesz;
 4. Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;
 5. Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;
 6. Az átírt nevek ideális esetben nem egyeznek meg létező toki pona szavakkal.
@@ -53,7 +53,7 @@ Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `
 
 ## Mondatfajták és Írásjelek
 
-A kettőspont (`:`) és vessző (`,`) kivételevél technikailag minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén nem használunk írásjeleket és minden egyes mondat egy új sorra kerül. Ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk chaten és egyéb informális környezetben, habár a kettőspont továbbra is használva szokott lenni.
+A kettőspont (`:`) és vessző (`,`) kivételevél technikailag minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén nem használunk írásjeleket, minden egyes mondat egy új sorra kerül. Ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk chaten és egyéb informális környezetben, habár a kettőspont továbbra is használva szokott lenni.
 
 Kijelentő mondatok a leggyakoribbak és ezeknek nincs különleges tulajdonsága.
 
