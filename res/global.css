@@ -1,21 +1,20 @@
 :root {
     --header-font: 'Major Mono Display', serif;
     --header-size: 1rem;
-    --heading-fg: #2a346f;
     --main-font: 'IBM Plex Sans', sans-serif;
     --main-size: 1rem;
     --mono-font: 'IBM Plex Mono', monospace;
     --mono-size: 1rem;
     --print-size: 10pt;
-    --heading-fg: #2a346f;
-    --color-fg: #282a36;
-    --color-bg: #f6f6f4;
+    --heading-fg: hsl(231, 45%, 30%);
+    --color-fg: hsl(231, 15%, 18%);
+    --color-bg: hsl(60, 10%, 96%);
     --html-bg: hsl(60, 20%, 93%);
     --mono-bg: hsl(60, 17%, 90%);
-    --selection-bg: #6272a4;
+    --selection-bg: hsl(225, 27%, 51%);
     --selection-bg-trans: #6273a44c;    
-    --selection-fg: hsl(60, 100%, 50%);
-    --link-fg: #8739f3;
+    --selection-fg: hsl(60, 100%, 51%);
+    --link-fg: hsl(265, 89%, 51%);
     --link-bg: var(--color-bg);
-    --link-click-fg: #f339a3;
+    --link-click-fg: hsl(326, 89%, 51%);
 }
