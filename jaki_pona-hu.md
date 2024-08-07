@@ -39,7 +39,7 @@ Az előljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt á
 
 ## Tulajdonnevek Átírása
 
-A tulajdonneveknek követniük kell a szokásos toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következő szabályokat szokás továbbá betartani, de ezek nem törvényszerűek:
+A tulajdonneveknek követik a toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következőket szokás továbbá betartani, de ezek nem törvényszerűek:
 
 1. A szótagok száma nem változik;
 2. Az *'r'* betű kiejtéstől függően `l`, `w` or `k` lesz (magyar nevek esetén `l`);
@@ -53,18 +53,17 @@ Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `
 
 ## Mondatfajták és Írásjelek
 
-A kettőspont (`:`) és vessző (`,`) kivételevél technikailag minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén nem használunk írásjeleket, minden egyes mondat egy új sorra kerül. Ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk chaten és egyéb informális környezetben, habár a kettőspont továbbra is használva szokott lenni.
+A kettőspont (`:`) és vessző (`,`) kivételevél minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén általában nem használunk írásjeleket, minden egyes mondat egy új sorra kerül. Chaten és egyéb informális környezetben ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk, habár a kettőspontot továbbra is használni szoktuk.
 
 Kijelentő mondatok a leggyakoribbak és ezeknek nincs különleges tulajdonsága.
 
 Kérdőmondatok általában kérdőjellel (`?`) végződnek és három féle képpen hozhatók létre:
 
-1. A segédige vagy állítmány megismétlése és közéjük beilleszteni egy `ala`-t (igen-nem kérdés);
+1. A segédige vagy állítmány megismétlése és közéjük beilleszteni egy `ala`-t (eldöntendő kérdés);
 2. `seme` beillesztése annak a szónak a helyére amire rákérdezünk (kiegészítendő kérdés);
-3. `anu seme?`-vel zárjuk a mondatot (kiegészítendő kérdés), vagy `X anu Y` használata a mondatban (eldöntendő kérdés).
+3. `anu seme?`-vel zárjuk a mondatot (kiegészítendő vagy választó kérdés), vagy `X anu Y` használata a mondatban (választó kérdés).
 
-Igen-nem kérdések esetén vagy az állítmányt mondjuk vissza, vagy `ala`-t ha nemleges a válasz, eldöntendő kérdésnél pedig a helyes válasz.
-{ .hidden }
+Eldöntendő kérdések esetén az *állítmányt* mondjuk vissza (amit megelőzhet az alany), vagy `ala`-t ha nemleges a válasz. A kiegészítendő kérdések a magyarhoz hasonlóan működnek, a választó kérdések esetén pedig a válasz az a felsorolt lehetőségek egyike.
 
 > sina lukin ala lukin e ona? | Őt nézed?
 > \[mi] lukin. | Igen.
@@ -81,7 +80,7 @@ Igen-nem kérdések esetén vagy az állítmányt mondjuk vissza, vagy `ala`-t h
 > sina seme e ona? | Mit csinálsz vele/azzal?
 > \[mi] sitelen \[e ona] | Lerajzolom.
 
-A felkiáltójel (`!`) három féle módon használt:
+A felkiáltójel (`!`) három különböző helyzetben használt:
 
 1. Felszólító mondanok formálására, amikor az `o` szavat használjuk az állítmány előtt és az alany elhagyható; ha az alany jelen van, akkor az `o`-t használjuk a `li` *helyett*;
 2. Felkiáltó mondatokhoz, például *"moku pona!"* (jó étvágyat);
@@ -96,24 +95,27 @@ A felkiáltójel (`!`) három féle módon használt:
 > lape pona! | Jó alvást ~ Szép álmokat!
 > moku pona! | Jó étvágyat!
 
-A kettőspont (`:`) az akkor használt, amikor egy előljárőszó vagy `e` után `ni` áll, azaz a mondatunk az egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt előljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
+A kettőspont (`:`) akkor használt, amikor egy előljárőszó vagy `e` után `ni` áll, azaz a mondatunk egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt előljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | Jó kedvem van, mert dorombol a macskám.  
 > jan Sotan li wile e ni: musi ona li pona tawa jan. | Zoltán azt szeretné, ha az embereknek tetszene a zenéje.  
-> ona li sona e tenpo sama ni: jan ale li tawa kon. | Ismeri azokat az időket, amikor mindenki \[képes] repül\[ni].  
+> ona li sona e tenpo ni: jan ale li tawa kon. | Emlékszik azokra az időkre, amikor mindenki repült.  
 > sina tawa sama ni: jan li wile pakala e sina. | Úgy rohansz, mintha meg akarnának verni.  
 
-A vesszők (`,`) szabadon használhatók hogy jobban elkülönítsük az egyes mondatrészeket, ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, vagy a `la` előtt, esetleg után.
+A vesszők (`,`) szabadon használhatók az egyes mondatrészeket elkülönítésére; ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, esetleg a `la` előtt vagy után.
 
 ## Tagadás és Módosítószavak
 
-Tagadást az `ala` szóval lehet kifejezni ami ilyenkor mindig egy módosítószónak minősül.
+Tagadást az `ala` szóval lehet kifejezni ami ilyenkor egy *módosítószónak* minősül.
 
 Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetlenül befolyásolja a jelentést, de az `ala` általában az utolsó módosítószó minden főnévi és módosító csoportban (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), ha az adott alanynak vagy tárgynak nincs birtokosa (elméletben; ez egy ritka eset). Viszont bizonyos esetekben a módosítószavak sorrendje változhat annak függvényében, hogy mit szeretnénk hangsúlyozni vagy sugallni.
 
 > mi loje ala. | Nem vagyok piros.  
 > mi ala li loje. | Nem én vagyok piros.  
 > ona ala li loje ala. | Nem ő nem piros.  
+> jan ala pi sona mute | Egy bölcs ember sem  
+> jan pi sona mute ala | Nem nagy tudás embere  
+> jan pi sona ala mute | Sok nem-tudás embere  
 > mi moku e pan ala. | Nem eszek kenyeret.  
 > ona li tawa tomo ala. | Ő nem haza megy.  
 > ona li tawa ala tomo. | Nem megy haza.  
@@ -126,9 +128,9 @@ Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetl
 
 ## Előljáró- és Kötőszavak
 
-Az előljárókat esetben egy főnévi csoport (főnév és módosítószavak; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
+Az előljárókat esetben egy főnévi csoport (ami a főnév és módosítószavak összessége; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
 
-A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy rájuk specifikus szórenddet használnak. A következők használhatóak a nyelvben:
+A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy specifikus szórendet használnak. A következők használhatóak állnak rendelkezésre:
 
 - És
     - Alanyok között `en`;
@@ -140,7 +142,7 @@ A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeké
     - Ugyan úgy mint az "és", de mindig `anu`-t használunk;
     - Kivéve két mondat esetén, az `ante la` gyakrabban használt mint az `anu la`.
 - De
-    - `taso` a mondat elején (mint kötőszó);
+    - `taso` a mondat elején (kötőszóként);
     - Ahhoz, hogy "kivéve", "akármi, de" jelentéseket fejezzünk ki, *"ale en ona ala"* (minden és ez/ő nem) és ehhez hasonló szerkezeteket tudunk használni.
 
 > mi en sina li tawa. | Te és én sétálunk.  

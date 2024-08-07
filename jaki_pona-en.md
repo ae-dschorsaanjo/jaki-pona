@@ -61,10 +61,9 @@ Question end with a question mark (`?`), and can be formed in *three ways:*
 
 1. Repeating the pre-verb or predicate, and putting an `ala` between them (yes-no question).
 2. Using `seme` in place of the thing you want to question (open ended question).
-3. Adding `anu seme?` at the end of the sentence (open ended), or having `X anu Y` in somewhere in the sentence (closed question).
+3. Adding `anu seme?` at the end of the sentence (open ended or closed question), or having `X anu Y` in somewhere in the sentence (closed question).
 
-To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back.
-{ .hidden }
+To answer yes-no question, either the *predicate* (with or without subject) is repeated or `ala` is used; in case of closed questions, the correct option is repeated back. Open ended questions work similar to English.
   
 > sina lukin ala lukin e ona? | Are you looking at him?  
 > \[mi] lukin. | Yes.  
@@ -96,7 +95,7 @@ The exclamation mark (`!`) is used in *three different ways:*
 > lape pona! | Good sleeping!  
 > moku pona! | Good appetite!  
 
-Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition are `tan` ("because") and `sama` ("like, similar").
+Colons (`:`) are used when a preposition or `e` is followed by `ni`. These are used when the *object* is another sentence (in case of `e`), or in certain situations to form compound sentences. The most often used preposition in this case are `tan` ("because") and `sama` ("like, similar").
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | I feel good, because my cat is purring.  
 > jan Sotan li wile e ni: musi ona li pona tawa jan. | Zotn wants people to like his music.  
@@ -115,6 +114,9 @@ Modifiers usually do not have a fixed order as it is context dependent, but gene
 > mi ala li loje. | Not-I is red.  
 > ona ala li loje ala. | Not-it is not-red.  
 > mi moku e pan ala. | I am not eating bread.  
+> jan ala pi sona mute | No one of knowledge  
+> jan pi sona mute ala | Human of no great knowledge  
+> jan pi sona ala mute | Man of great lack-of-knowledge  
 > ona li tawa tomo ala. | She is going not-home.  
 > ona li tawa ala tomo. | She is not going home.  
 > ona li wile ala tawa tomo. | It does not want want to go home.  
@@ -141,7 +143,7 @@ Conjunctions, with the exception of `taso`, must be used along with `la` (see un
     - Although `ante la` is used more often than `anu la`.
 - But
     - `taso` (as a conjunction) is used at the beginning of sentences and nowhere else.
-    - To express things like "anything but..." and "except", structures like *'ale en ona ala'* (everything and not it) could be used.
+    - To express things like "anything but..." and "except", structures like *"ale en ona ala"* (everything and not it) could be used.
 
 > mi en sina li tawa. | You and I are walking.  
 > soweli suwi pi suli en laso li musi. | The large and blue cats are playing.  
