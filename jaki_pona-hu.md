@@ -157,7 +157,7 @@ A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeké
 
 Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a `lon` előljárót használja és mindkettő használható *kontextusként* `la` szerkezetekben (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)).
 
-Az *idő* kifejezésére fónévi csoportokat használunk (`tenpo` és módosítók). A leggyakrabban használt módosítószavak a `kama` (jövő), `pini` (múlt), `ni` (jelen), `suno` (nap, nappal) és `pimeja` (éjjel); ezek kombinációban is használhatók.
+Az *idő* kifejezése `tenpo` és azt követő módosítószavakból álló főnévi csoport segítségével történik. A leggyakoribb módosítószavak a `kama` (jövő), `pini` (múlt), `ni` (jelen), `suno` (nap, nappal) és `pimeja` (éjjel); ezek gyakran együtt használtak.
 
 > ona li lape lon tenpo pimeja. | \[Ő] éjszaka alszik.  
 > ona li kama apeja lon tenpo suno ni. | Ma szenvedni fog.  
@@ -165,7 +165,7 @@ Az *idő* kifejezésére fónévi csoportokat használunk (`tenpo` és módosít
 > tenpo pini la ona li pali ala. | Eddig \[még] nem dolgozott.  
 > taso tenpo ni la ona li moku. | De most még \[csak] eszik.  
 
-*Helybeliség* kifejezése az időhoz hasonlóan történik, de nem egy szó köré épül; gyakokran használt főnevek a `ma` (általános "hely" vagy "kint/külvilág") és a `tomo` (ház, épület vagy "beltér"). Ezen felül a `lon`-on kívűl a `tawa` (-ba/be, -hoz/hez/höz) előljárók is gyakran használtak. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:
+*Helybeliség* kifejezése az időhoz hasonlóan történik, de nem csak egy szó köré épül; gyakokran használt főnevek a `ma` (általános "hely" vagy "kint/külvilág") és a `tomo` (ház, épület vagy "beltér"). Ezen felül a `lon`-on (-ban/ben) kívűl a `tawa` (-ba/be, -hoz/hez/höz) előljáró is gyakran használt. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:
 
 insa
 : belül, belsejében, között
