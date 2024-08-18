@@ -91,7 +91,7 @@ A felkiáltójel (`!`) három különböző helyzetben használt:
 > toki! | Szia! \[szokásos köszönés]  
 > mi tawa! | Mentem! Viszlát! \[szokásos elköszönés]
 > tawa pona! | Viszlát! Jó utat! \[szokásos elköszönés]
-> awen pona! | Viszlát! Mentem! \[szokásos elköszönés]
+> awen pona! | Viszlát! Mentem! Maradj jól! \[szokásos elköszönés]
 > lape pona! | Jó alvást ~ Szép álmokat!
 > moku pona! | Jó étvágyat!
 
@@ -223,7 +223,7 @@ Amikor *Térbeliséget kifejező szavakat* használunk *előljárói csoportokba
 A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden egyéb módosító után állnak.* Ha a birtokos az több mint egy szóval van kifejezve vagy nem egyértelmű, hogy az egy birtokos (és nem egy módosító például), akkor egy *pi*-t rakunk eléjük.
 
 > soweli suwi mi | a\[z én] macskám  
-> soweli suwi tu mi | a három macskám  
+> soweli suwi tu wan mi | a három macskám  
 > soweli suwi mute pi jan Sotan | Zoltán macskái  
 > soweli suwi jan | humanoid macska VAGY az ember macskája  
 > soweli suwi pi jan | az ember macskája  
