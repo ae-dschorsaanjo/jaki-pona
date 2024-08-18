@@ -194,7 +194,7 @@ monsi
 
 ## Numbers
 
-Numbers are used less than in most languages as there are only limited ways to express numbers over 10 and neither pronouns nor nouns are inherently *singular* or *plural*. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):
+Numbers are used less frequently than in most languages as there are only limited ways to express numbers over 10 and neither pronouns nor nouns are inherently *singular* or *plural*. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):
 
 | Number  | Short range     | Mid range    | Extended range | Note                                                  |
 | ------- | --------------- | ------------ | -------------- | ----------------------------------------------------- |
@@ -207,7 +207,7 @@ Numbers are used less than in most languages as there are only limited ways to e
 | mute    | 2+,&nbsp;plural | 11+          | 20             |                                                       |
 | ale/ali | all             | all          | 100,&nbsp;all  | Used for "all", "every" and "countless".              |
 
-Numbers are *modifiers* that always go *after the last modifier,* but optionally *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Unlike other modifiers, *pi* is never used in front of them. Numbers without specific words for them are formed by adding them up, starting with the largest -- this does not apply to short range where only those single words are used. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
+Numbers are *modifiers* that always go *after the last modifier,* but optionally *before the first "pi"* (see *[Advanced Grammar](#advanced-grammar)*). Unlike other modifiers, *pi* is never used in front of them. Numbers without specific words for them are formed by adding them up, starting with the largest -- this does not apply to short range since in that system only those single words are used. For example, *"luka tu wan"* is 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1), while *"tu tu"* is 4 (2&nbsp;+&nbsp;2).  
 Ordinal numbers are expressed using `nanpa` followed by the number and work the same as regular numbers.
 
 > soweli suwi tu wan | Three cats  
