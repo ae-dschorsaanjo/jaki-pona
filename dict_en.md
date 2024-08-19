@@ -38,7 +38,7 @@ This dictionary contains 144 words (135 common + 9 archaic ones), including the 
 `c`
 : conjunction
 
-`l`
+`l`&shy;`a`
 : meanings of the word if it stands alone before _la_
 
 `pu`
