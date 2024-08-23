@@ -42,17 +42,31 @@ HU_SEL.addEventListener("click", e => {
 })
 
 document.addEventListener("keydown", (event) => {
-    if (event.altKey && event.key == "s") {
-        event.preventDefault();
-        let cl = document.body.classList;
-        if (cl.contains(SBS_CLS)) {
-            cl.remove(SBS_CLS);
-            chooseLanguage(EN_ID, true);
-        }
-        else {
-            cl.add(SBS_CLS);
-            setDisplay(EN_ID, "block");
-            setDisplay(HU_ID, "block");
+    if (event.altKey) {
+        switch (event.key) {
+            case "a":
+            case "e":
+                event.preventDefault();
+                chooseLanguage(EN_ID);
+                break;
+            case "h":
+            case "m":
+                event.preventDefault();
+                chooseLanguage(HU_ID);
+                break;
+            case "s":
+                event.preventDefault();
+                let cl = document.body.classList;
+                if (cl.contains(SBS_CLS)) {
+                    cl.remove(SBS_CLS);
+                    chooseLanguage(EN_ID, true);
+                }
+                else {
+                    cl.add(SBS_CLS);
+                    setDisplay(EN_ID, "block");
+                    setDisplay(HU_ID, "block");
+                }
+                break;
         }
     }
 });
