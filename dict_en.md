@@ -2,7 +2,7 @@
 
 Words in toki pona often have vague definitions, their meaning depending on the context they appear in. They are also quite flexible as to where and how they appear within a sentence; for example *"kipisi"* at first only had the definition of "to cut", but this meaning can be extrapolated to mean "cut" as an adjective, or "cutting" as a noun. In this dictionary, multiple meanings are listed for most words, however this *does not* mean that words without a definition as a noun cannot be use as one in the right context. *Function* (or *grammatical*) words are the only exceptions to this rule.
 
-There are multiple different dictionaries that can be found with word counts most ranging between 118--150. *pu*, the "official Toki Pona book" written by jan Sonja, had a 120/123 word dictionary -- where 6 words were merged in pairs. *ku*, the "Toki Pona Dictionary" also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.  
+There are multiple different dictionaries that can be found with word counts most ranging between 118--150. *pu*, the "official Toki Pona book" (2014) written by jan Sonja, had a 120/123 word dictionary -- where 6 words were merged in pairs. *ku*, the "Toki Pona Dictionary" (2021), also by jan Sonja, had a main word count ("ku suli") of 137, with even more words present as it contained every word that were in use at the time, among others ("ku lili"); this can add up as high as 190.  
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.
 { .hidden }
 
@@ -57,7 +57,7 @@ Numbers following any of these letters mark *alternative* definitions.
 __a__ ![a](pics/a.png)  
 `m`&shy;`1` (emotional) emphasis  
 `m`&shy;`2` exaggeration, superlative (after _adjectives_)  
-`i`&shy;` ` ah! I got it! Hahaha! (as "a a a")  
+`i`&shy;` ` Ah! I got it! Hahaha! (as "a a a")  
 `see`&shy;` ` kin
 
 __akesi__ ![akesi](pics/akesi.png)  
@@ -69,7 +69,7 @@ __ala__ ![ala](pics/ala.png)
 `n`&shy;` ` nothing, no one, null, the lack of (something)  
 `v`&shy;` ` deny  
 `m`&shy;` ` no, not  
-`i`&shy;` ` no!
+`i`&shy;` ` No!
 
 __alasa__ ![alasa](pics/alasa.png)  
 `n`&shy;` ` hunting, searching  
@@ -86,7 +86,7 @@ _ale_ was the original, while _ali_ was added in 2002 to avoid ambiguity with _a
 
 __anpa__ ![anpa](pics/anpa.png)  
 `n`&shy;` ` bottom, below  
-`v`&shy;`1` kneel, bow, accept (the terms)  
+`v`&shy;`1` kneel, bow, accept (the terms set by someone else)  
 `v`&shy;`2` defeat, beat, conquer, enslave  
 `m`&shy;`1` low, below, down, beneath  
 `m`&shy;`2` dependent
@@ -106,7 +106,7 @@ __apeja__ ![apeja](pics/apeja.png)
 `n`&shy;` ` depression, abuse, shame, dishonor  
 `v`&shy;` ` verbal attack, disgrace, depress  
 `m`&shy;` ` shameful, dishonored, depressive  
-`p`&shy;` ` ike, utala toki  
+`p`&shy;` ` ike, utala toki, toki anpa  
 Added in early 2010, but was not included in _pu_.
 
 __awen__ ![awen](pics/awen.png)  
