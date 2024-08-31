@@ -21,6 +21,8 @@ function hideMain(lang) {
 }
 
 function chooseLanguage(lang, first_call = false) {
+    document.body.classList.remove(SBS_CLS);
+    
     if (first_call) {
         let storedLang = localStorage.getItem(LANG);
         if (storedLang) lang = storedLang;
@@ -56,9 +58,8 @@ document.addEventListener("keydown", (event) => {
                 break;
             case "s":
                 event.preventDefault();
-                let cl = document.body.classList;
+                const cl = document.body.classList;
                 if (cl.contains(SBS_CLS)) {
-                    cl.remove(SBS_CLS);
                     chooseLanguage(EN_ID, true);
                 }
                 else {
