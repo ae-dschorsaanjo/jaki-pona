@@ -141,7 +141,7 @@ __ike__ ![ike](pics/ike.png)
 `n`&shy;` ` bad(ness), evil  
 `v`&shy;` ` ruin, spoil  
 `m`&shy;` ` bad, negative, wrong, corrupted, evil, complex  
-`l`&shy;`a ` sadly
+`l`&shy;`a` sadly
 
 __\*iki/ipi__  
 `pu`&shy;` ` ona  
