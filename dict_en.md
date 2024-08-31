@@ -125,7 +125,7 @@ __e__ ![e](pics/e.png)
 
 __en__ ![en](pics/en.png)  
 `f`&shy;` ` and (between subject)  
-`l`&shy;`a` and, additionally
+`l`&shy;`a` and, moreover
 
 __esun__ ![esun](pics/esun.png)  
 `n`&shy;` ` business  
@@ -451,6 +451,7 @@ __mute__ ![mute](pics/mute.png)
 __namako__ ![namako](pics/namako.png)  
 `n`&shy;` ` addition, bonus, spice (for food)  
 `m`&shy;` ` extra, additional  
+`l`&shy;`a` additionally, furthermore  
 `see`&shy;` ` sin  
 Added along with _kipisi_ and _monsuta_ in 2010. In _pu_, it was merged with _sin_.
 
