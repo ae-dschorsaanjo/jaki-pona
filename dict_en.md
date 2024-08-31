@@ -155,7 +155,7 @@ __insa__ ![insa](pics/insa.png)
 `n`&shy;` ` inside  
 `n`&shy;` ` stomach, organ  
 `m`&shy;`1` internal  
-`m`&shy;`2` inner, inside, center, among
+`m`&shy;`2` inner, inside, center, between
 
 ### J
 
