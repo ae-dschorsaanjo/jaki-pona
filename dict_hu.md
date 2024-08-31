@@ -120,42 +120,44 @@ __awen__ ![awen](pics/awen.png)
 ### E
 
 __e__ ![e](pics/e.png)  
-`n`&shy;`1` separates the predicate and the object  
-`n`&shy;`2` and (if there are multiple objects)  
+`n`&shy;`1` elválasztja az állítmányt és a tárgyat  
+`n`&shy;`2` és (tárgyak között)  
 
 __en__ ![en](pics/en.png)  
-`n`&shy;` ` and (between subject)  
-`l`&shy;`a` and, additionally  
+`n`&shy;` ` és (alanyok között)  
+`l`&shy;`a` és, továbbá  
 
 __esun__ ![esun](pics/esun.png)  
-`f`&shy;` ` business  
-`i`&shy;` ` buy, do business  
-`m`&shy;` ` financial, for sale  
+`f`&shy;` ` üzlet  
+`i`&shy;` ` vesz, üzletel  
+`m`&shy;` ` pénzügyi, eladó
 
 ### I
 
 __ijo__ ![ijo](pics/ijo.png)  
-`f`&shy;` ` something, thing, object  
+`f`&shy;` ` valami, dolog, tárgy  
 
 __ike__ ![ike](pics/ike.png)  
-`f`&shy;` ` bad(ness), evil  
-`i`&shy;` ` ruin, spoil  
-`m`&shy;` ` bad, negative, wrong, corrupted, evil, complex  
-`l`&shy;`a ` sadly  
+`f`&shy;` ` rossz(aság), gonosz  
+`i`&shy;` ` tönkretesz, elront  
+`m`&shy;` ` rossz, negatív, hibás, korrupt, gonosz  
+`m`&shy;` ` összetett, komplex  
+`l`&shy;`a` sajnos  
 
 __\*iki/ipi__
 `pu`&shy;` ` ona  
 _iki_ was replaced for its similarity to _ike_, while _ipi_ was replaced before first draft.
+Az _ipi_ forma az első publikálás előtt kikerült, az _iki_ forma pedig lecserélésre került mert túl hasonló volt az _ike_-hez.
 { .hidden }
 
 __ilo__ ![ilo](pics/ilo.png)  
-`f`&shy;` ` tool, machine, device  
+`f`&shy;` ` (cél)szerszám, eszköz, gép  
 
 __insa__ ![insa](pics/insa.png)  
-`f`&shy;` ` inside  
-`f`&shy;` ` stomach, organ  
-`m`&shy;`1` internal  
-`m`&shy;`2` inner, inside, center, among  
+`f`&shy;` ` belső, beltér  
+`f`&shy;` ` gyomor, szerv  
+`m`&shy;`1` belső, belsőleg  
+`m`&shy;`2` belső, benne, közép, között
 
 ### J
 
