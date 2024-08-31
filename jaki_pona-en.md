@@ -218,7 +218,7 @@ Ordinal numbers are expressed using `nanpa` followed by the number and work the 
 
 `pi` is used to group modifiers. For example, *"jan pona suli mute"* would mean "big friends", but *"jan pona pi suli mute"* would mean "\[a] very big friend".  
 When *spatial nouns* are used in *prepositional phrases,* a *"pi"* can be placed after the spatial noun if they are followed by more than one word.  
-*Possessors* are noun phrases that go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, put a *"pi"* in front of the possessor.
+*Possessors* are noun phrases that go *after all the other modifiers*. If the possessor is more than one word or could be mistaken for a regular modifier, put a *"pi"* in front of the possessor; the latter case is considered archaic.
 
 > soweli suwi mi | my cat  
 > soweli suwi tu mi | my two cats  

@@ -552,7 +552,7 @@ _pasila_ was replaced before the first public draft; _pasi_ was a typo later in 
 
 __pi__ ![pi](pics/pi.png)  
 `n`&shy;`1` separates modifier groups after the noun  
-`n`&shy;`2` of (marks the possessor)  
+`n`&shy;`2` *(archaic)* of
 
 __pilin__ ![pilin](pics/pilin.png)  
 `f`&shy;`1` feeling, emotion, instinct  

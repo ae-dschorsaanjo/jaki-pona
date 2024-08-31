@@ -220,7 +220,7 @@ Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`
 
 Módosítószavakat a `pi` segítségével tudunk csoportosítani és módosítószó csoportokat formálni (ezeknél a módosítói csoport első szavát módosítják az azt követők). Például *"jan pona suli mute"* az "nagy barátok", de *"jan pona pi suli mute"* az "nagyon nagy barát".  
 Amikor *Térbeliséget kifejező szavakat* használunk *előljárói csoportokban,* akkor egy *"pi"*-t szokás használni a térbeliséget kifejező szó után ha azt több mint egy szó követi.  
-A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden egyéb módosító után állnak.* Ha a birtokos az több mint egy szóval van kifejezve vagy nem egyértelmű, hogy az egy birtokos (és nem egy módosító), akkor *pi*-t rakunk a birtokos elé.
+A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden egyéb módosító után állnak.* Ha a birtokos az több mint egy szóval van kifejezve vagy nem egyértelmű, hogy az egy birtokos (és nem egy módosító), akkor *pi*-t rakunk a birtokos elé -- az utóbbi eset régies szóhasználatnak minősül.
 
 > soweli suwi mi | a\[z én] macskám  
 > soweli suwi tu wan mi | a három macskám  
