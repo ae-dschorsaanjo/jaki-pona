@@ -160,9 +160,10 @@ __insa__ ![insa](pics/insa.png)
 ### J
 
 __jaki__ ![jaki](pics/jaki.png)  
-`n`&shy;` ` dirt, garbage, filth, sh\*t  
-`v`&shy;` ` stain, defile  
-`m`&shy;` ` disgusting, toxic, unclean
+`n`&shy;`1` dirt, filth  
+`n`&shy;`2` garbage, waste, sh\*t  
+`v`&shy;` ` stain, defile, discard  
+`m`&shy;` ` disgusting, toxic, unclean, stained
 
 __\*jalan__  
 `pu`&shy;` ` noka
