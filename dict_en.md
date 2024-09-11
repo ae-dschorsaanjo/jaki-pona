@@ -194,7 +194,7 @@ __kalama__ ![kalama](pics/kalama.png)
 
 __kama__ ![kama](pics/kama.png)  
 `a`&shy;` ` become, will, pursue actions to arrive to (a certain state), "future tense"  
-`m`&shy;` ` _something_-to-be in the future, coming, arriving
+`m`&shy;` ` to become, coming, arriving
 
 __\*kan__  
 `f`&shy;` ` among, with, near by  
