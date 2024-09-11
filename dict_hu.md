@@ -162,24 +162,26 @@ __insa__ ![insa](pics/insa.png)
 ### J
 
 __jaki__ ![jaki](pics/jaki.png)  
-`f`&shy;` ` dirt, garbage, filth, sh\*t  
-`i`&shy;` ` stain, defile  
-`m`&shy;` ` disgusting, toxic, unclean  
+`f`&shy;` ` mocsok, sár  
+`f`&shy;` ` szemét, hulladék, ürülék, selejt  
+`i`&shy;` ` bemocskol  
+`m`&shy;` ` undorító, mérgező, tisztátlan, bemocskolt
 
 __\*jalan__
 `pu`&shy;` ` noka  
-Proposed replacement for _noka_ by jan Sonja. The community voted against it.
+jan Sonja javaslata volt a _noka_ lecserélésére, de a közösség leszavazta a változást.
 { .hidden }
 
 __jan__ ![jan](pics/jan.png)  
-`f`&shy;` ` human, person  
-`m`&shy;` ` humanoid, human-like  
+`f`&shy;` ` ember, egyén  
+`m`&shy;` ` humanoid, emberszerű  
 
 __jelo__ ![jelo](pics/jelo.png)  
-`m`&shy;` ` yellow  
+`m`&shy;` ` sárga  
 
 __jo__ ![jo](pics/jo.png)  
 `i`&shy;` ` have, own, carry, contain  
+`i`&shy;` ` van neki, birtokol, hordoz, tartalmaz
 
 ### K
 
