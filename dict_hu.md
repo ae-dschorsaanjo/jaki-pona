@@ -186,18 +186,18 @@ __jo__ ![jo](pics/jo.png)
 ### K
 
 __kala__ ![kala](pics/kala.png)  
-`f`&shy;`1` aquatic animal  
-`f`&shy;`2` fish  
-`m`&shy;` ` fish-like, aquatic  
+`f`&shy;`1` vízi állat  
+`f`&shy;`2` hal  
+`m`&shy;` ` halszerű, vízi (élőlény)  
 
 __kalama__ ![kalama](pics/kalama.png)  
-`f`&shy;` ` sound, noise, roar  
-`i`&shy;` ` produce a sound, yell, bawl  
-`m`&shy;` ` loud, audible  
+`f`&shy;` ` hang, zaj, kiáltás  
+`i`&shy;` ` hangot ad ki, kiabál  
+`m`&shy;` ` hangos, hallható  
 
 __kama__ ![kama](pics/kama.png)  
-`s`&shy;` ` become, will, pursue actions to arrive to (a certain state), "future tense"  
-`m`&shy;` ` _something_-to-be in the future, coming, arriving  
+`s`&shy;` ` lesz, fog, _valamivé_ válik  
+`m`&shy;` ` to become, coming, arriving  
 
 __\*kan__
 `n`&shy;` ` among, with, near by  
