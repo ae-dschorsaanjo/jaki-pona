@@ -215,7 +215,8 @@ Removed in 2002 without a replacement.
 
 __kasi__ ![kasi](pics/kasi.png)  
 `n`&shy;` ` plant, vegetation  
-`m`&shy;` ` plant-like, green (after _kule_)
+`m`&shy;`1` plant-like  
+`m`&shy;`2` green (after _kule_)
 
 __ken__ ![ken](pics/ken.png)  
 `n`&shy;` ` ability, chance, possibility  
@@ -671,7 +672,7 @@ __sitelen__ ![sitelen](pics/sitelen.png)
 
 __soko__ ![soko](pics/soko.png)  
 `n`&shy;` ` mushroom, fungus  
-`pu`&shy;` ` kili
+`pu`&shy;` ` kili, kasi
 
 __sona__ ![sona](pics/sona.png)  
 `n`&shy;`1` knowledge, data and information  
