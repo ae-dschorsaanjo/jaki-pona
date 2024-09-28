@@ -248,7 +248,8 @@ __kipisi__ ![kipisi](pics/kipisi.png)
 Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
 
 __kiwen__ ![kiwen](pics/kiwen.png)  
-`n`&shy;` ` metal, rock, stone, hard object  
+`n`&shy;`1` metal, rock, stone  
+`n`&shy;`2` hard object  
 `m`&shy;` ` hard, heavy  
 Originally _wawa ma_ was used before this word was created.
 
