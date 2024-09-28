@@ -671,6 +671,10 @@ __sitelen__ ![sitelen](pics/sitelen.png)
 `i`&shy;` ` draw, write, paint  
 `m`&shy;` ` written, drawn  
 
+__soko__ ![soko](pics/soko.png)  
+`n`&shy;` ` mushroom, fungus  
+`pu`&shy;` ` kili
+
 __sona__ ![sona](pics/sona.png)  
 `f`&shy;`1` knowledge, data and information  
 `f`&shy;`2` intelligence, wisdom  

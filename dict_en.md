@@ -6,7 +6,7 @@ There are multiple different dictionaries that can be found with word counts mos
 Due to the small number of words, definitions may be vague and toki pona relies more on context than most languages. It also prefers to "leave out" unimportant details, favoring simplicity.
 { .hidden }
 
-This dictionary contains 144 words (135 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between groups and dialects, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk (`*`).
+This dictionary contains 145 words (136 common + 9 archaic ones), including the entirety of *pu*'s dictionary, in addition to select pre-pu words (that were either replaced or deprecated) and post-pu words -- these additions are all present in *ku*. Word usage can vary between groups and dialects, but generally it is best practice to mostly restrict ourselves to use words found in *pu*; non-pu words will have a `p`&shy;`u` version after their definitions to offer "pu friendly" alternatives and older, archaic words that are seldom used will be marked with a leading asterisk (`*`).
 { .hidden .keep }
 
 ### Abbreviations
@@ -668,6 +668,10 @@ __sitelen__ ![sitelen](pics/sitelen.png)
 `n`&shy;` ` drawing, writing, picture, image, symbol, visual representation of something  
 `v`&shy;` ` draw, write, paint  
 `m`&shy;` ` written, drawn  
+
+__soko__ ![soko](pics/soko.png)  
+`n`&shy;` ` mushroom, fungus  
+`pu`&shy;` ` kili
 
 __sona__ ![sona](pics/sona.png)  
 `n`&shy;`1` knowledge, data and information  

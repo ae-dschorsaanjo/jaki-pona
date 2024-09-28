@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 from copy import deepcopy
 
-ORIGINAL = "pics/sitelen_pona_leko/sitelen-pona-leko-trans.png"
+ORIGINAL = "docs/pics/sitelen_pona_leko/sitelen-pona-leko-400.png"
 OUT_DIR = "docs/pics/"
 BORDER_WIDTH = 4
 IMAGE_WIDTH = 148
@@ -120,6 +120,7 @@ WORDS = [
     "sina",
     "sinpin",
     "sitelen",
+    "soko",
     "sona",
     "soweli",
     "su",
