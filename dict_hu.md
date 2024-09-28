@@ -197,89 +197,90 @@ __kalama__ ![kalama](pics/kalama.png)
 
 __kama__ ![kama](pics/kama.png)  
 `s`&shy;` ` lesz, fog, _valamivé_ válik  
-`m`&shy;` ` to become, coming, arriving  
+`m`&shy;` ` jövendő, jövőbeli, érkező  
 
 __\*kan__
-`n`&shy;` ` among, with, near by  
+`n`&shy;` ` között, mellett, körül, -val/vel  
 `pu`&shy;` ` poka, kepeken  
-Removed in 2002 in favor of _poka_ and _kepeken_.
+Eltávolításra került 2002-ben a _poka_ és _kepeken_ javára.
 { .hidden }
 
 __\*kapa__
 `pu`&shy;` ` nena  
-It was the first word to be replaced, for unknown reasons.
+Ez volt az első szó ami lecserélésre került. A lecserélés oka nem ismert.
 { .hidden }
 
 __\*kapesi__
-`m`&shy;` ` brown, gray  
+`m`&shy;` ` szürke, barna  
 `pu`&shy;` ` pimeja  
-Removed in 2002 without a replacement.
+Eltávolításra került 2002-ben csere nélkül.
 { .hidden }
 
 __kasi__ ![kasi](pics/kasi.png)  
-`f`&shy;` ` plant, vegetation  
-`m`&shy;` ` plant-like, green (after _kule_)  
+`f`&shy;` ` növény, növényzet  
+`m`&shy;`1` növényszerű  
+`m`&shy;`2` zöld (_kule_ után)  
 
 __ken__ ![ken](pics/ken.png)  
-`f`&shy;` ` ability, chance, possibility  
-`s`&shy;` ` can, able to, allowed to  
-`m`&shy;` ` able, possible, allowed  
+`f`&shy;` ` képesség, esély, lehetőség  
+`s`&shy;` ` tud, képes rá  
+`m`&shy;` ` lehetséges, képes, megengedett  
 
 __kepeken__ ![kepeken](pics/kepeken.png)  
-`e`&shy;` ` use, with  
-`i`&shy;` ` use  
+`e`&shy;` ` használ, -val/vel  
+`i`&shy;` ` használ  
 
 __kijetesantakalu__ ![kijetesantakalu](pics/kijetesantakalu.png)  
-`f`&shy;` ` animal from the Procyonidae family (such as raccoons and kinkajous)  
+`f`&shy;` ` állat a mosómedvefélék családjából  
 `pu`&shy;` ` soweli  
-Added as an April Fool's joke in 2009, now it is a "fan favorite".
+Április elsejei viccként született 2009-ben.
 { .kijetesantakalu }
 
 __kili__ ![kili](pics/kili.png)  
-`f`&shy;` ` fruit, vegetable, mushroom  
+`f`&shy;` ` gyümölcs, zöldség, gomba  
 
 __kin__ ![kin](pics/kin.png)  
-`m`&shy;`1` also, too  
-`m`&shy;`2` confirmation, emphasis (not as strong as _a_)  
-`l`&shy;`a` also, and  
+`m`&shy;`1` is  
+`m`&shy;`2` megerősítés, hangsúlyozás (gyengébb mint az _a_)  
+`l`&shy;`a` és, továbbá  
 `ld`&shy;` ` a  
 
 __kipisi__ ![kipisi](pics/kipisi.png)  
-`i`&shy;` ` cut  
+`i`&shy;` ` vág  
 `pu`&shy;` ` tu  
-Presented along with _namako_ and _monsuta_ around 2010, not included in _pu_.
+A _namako_-val és a _monsuta_-val együtt került hozzáadásra 2010 körül, azonban nem került be a _pu_-ba.
 
 __kiwen__ ![kiwen](pics/kiwen.png)  
-`f`&shy;` ` metal, rock, stone, hard object  
-`m`&shy;` ` hard, heavy  
-Originally _wawa ma_ was used before this word was created.
+`f`&shy;`1` fém, kő  
+`f`&shy;`2` kemény tárgy vagy anyag  
+`m`&shy;` ` kemény, nehéz  
 
 __ko__ ![ko](pics/ko.png)  
-`f`&shy;` ` semi-solid material, paste, powder, clay, dough  
+`f`&shy;` ` félkemény vagy porszerű anyag, paszta, agyag, tészta, por
 
 __kon__ ![kon](pics/kon.png)  
-`f`&shy;`1` air, breath  
-`f`&shy;`2` spirit, essence, meaning, sense, concept  
-`f`&shy;`3` mind, consciousness, soul  
-`m`&shy;` ` air-like, gaseous  
+`f`&shy;`1` levegő, lélegzet  
+`f`&shy;`2` lélek, lényeg, jelentés, érzés, elképzelés  
+`f`&shy;`3` elme, tudat, öntudat  
+`m`&shy;` ` levegőszerű, légnemű  
 
 __ku__ ![pu](pics/ku.png)  
-`f`&shy;` ` the _Toki Pona Dictionary_  
-`i`&shy;` ` interacting with the _Toki Pona Dictionary_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Dictionary_  
+`f`&shy;` ` a _Toki Pona Szótár_  
+`i`&shy;` ` interakció a _Toki Pona Szótárral_  
+`m`&shy;` ` a _Toki Pona Szótárnak_ megfelelően
 
 __kule__ ![kule](pics/kule.png)  
-`f`&shy;` ` color  
-`i`&shy;` ` color  
-`m`&shy;` ` colorful, pigmented  
+`f`&shy;` ` szín  
+`i`&shy;` ` színez  
+`m`&shy;` ` színes, színezett  
 
 __kulupu__ ![kulupu](pics/kulupu.png)  
-`f`&shy;`1` group, collection, set  
-`f`&shy;`2` community, nation, society  
+`f`&shy;`1` csoport, gyűjtemény, halmaz  
+`f`&shy;`2` társaság, társadalom, nemzet  
 
 __kute__ ![kute](pics/kute.png)  
-`f`&shy;` ` ear  
-`i`&shy;` ` hear, listen to  
+`f`&shy;` ` fül  
+`i`&shy;` ` hall, figyel  
 
 ### L
 
