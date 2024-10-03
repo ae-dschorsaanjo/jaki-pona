@@ -5,7 +5,7 @@ Gyakran csak körülbelüli definíciói vannak, mivel a pontos jelentés az min
 Több különböző szótár létezik amelyek körülbelül 118--150 szót tartalmaznak. jan Sonja "Hivatalos Toki Pona Könyv" (*pu*, 2014) 120/123 szót tartalmazott -- ebből 6 szó páronként össze lett vonva. A "Toki Pona Szótár" (*ku*, 2021, szintén jan Sonjától) két részre volt bontható, egy fő listára ("ku suli") 137 szóval, valamint egy kisebb listára ("ku lili") amely az egyéb, ritkább szavakat tartalmazta amit csak bizonyos kisebb társaságokban használtak és nem mindenhol elfogadottak; a két lista együtt nagyjából 190 szóból áll.
 { .hidden }
 
-Ez a szótár 145 (136 gyakori és 9 régi) szavat tartalmaz, beleértve a *pu* szótárának teljes tartalmát, bizonyos pu-t megelőző szavakat (amelyek lecserélésre vagy eltávolításra kerültek), valamint néhány pu után alkotott szót -- ezek mint megtalálhatók a *ku*-ban. Társaságonként és dialektusonként eltérő, hogy pontosan mely szavakat használják aktívan, de általában a legjobb gyakorlat az, ha elsősorban a *pu* szótárában megtalálható szavakat használjuk; a pu-n kívüli szavaknál megtalálható egy `p`&shy;`u`-beli változat is, valamint régi alig használt szavak meg vannak jelölve egy csillaggal (`*`).
+Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu* szótárának teljes tartalmát, bizonyos pu-t megelőző szavakat (amelyek lecserélésre vagy eltávolításra kerültek), valamint néhány pu után alkotott szót -- ezek mint megtalálhatók a *ku*-ban. Társaságonként és dialektusonként eltérő, hogy pontosan mely szavakat használják aktívan, de általában a legjobb gyakorlat az, ha elsősorban a *pu* szótárában megtalálható szavakat használjuk; a pu-n kívüli szavaknál megtalálható egy `p`&shy;`u`-beli változat is, valamint régi alig használt szavak meg vannak jelölve egy csillaggal (`*`).
 { .hidden .keep }
 
 ### Rövidítések
@@ -551,6 +551,12 @@ __pana__ ![pana](pics/pana.png)
 __\*pasila/pasi__
 `ld`&shy;` ` pona  
 _pasila_ was replaced before the first public draft; _pasi_ was a typo later in a collection of "deprecated words".
+{ .hidden }
+
+__\*pata__  
+`n`&shy;` ` sibling  
+`pu`&shy;` ` jan sama  
+It was removed in 2004.
 { .hidden }
 
 __pi__ ![pi](pics/pi.png)  
