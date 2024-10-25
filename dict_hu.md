@@ -2,7 +2,7 @@
 
 Gyakran csak körülbelüli definíciói vannak, mivel a pontos jelentés az minden esetben a kontextusra (szövegkörnyezetre) épül. Ezen felül a jelentések rugalmasak és a mondaton belüli pozíciójuk határozza meg szófajukat és ezáltal pontosabb jelentésüket. Például *"kipisi"* az eredetileg csak igeként volt meghatározva "vág" jelentéssel, ebből pedig le tudunk származtatni "vágott" (módosítóként), "vágás" (főnévként) jelentéseket is. Ebben a szótárban a legtöbb szóhoz több definíció is fel van sorolva, de ez *nem* jelenti azt, például egy szó főnévi jelentés nélkül ne lehetne használható főnévként a megfelelő szövegkörnyezetben. Kivételt képeznek a *nyelvtani* szavak, melyeknek nincs önálló jelentésük, hanem nyelvtani viszonyokat fejeznek ki.
 
-Több különböző szótár létezik amelyek körülbelül 118--150 szót tartalmaznak. jan Sonja "Hivatalos Toki Pona Könyv" (*pu*, 2014) 120/123 szót tartalmazott -- ebből 6 szó páronként össze lett vonva. A "Toki Pona Szótár" (*ku*, 2021, szintén jan Sonjától) két részre volt bontható, egy fő listára ("ku suli") 137 szóval, valamint egy kisebb listára ("ku lili") amely az egyéb, ritkább szavakat tartalmazta amit csak bizonyos kisebb társaságokban használtak és nem mindenhol elfogadottak; a két lista együtt nagyjából 190 szóból áll.
+Több különböző szótár létezik amelyek körülbelül 118--150 szót tartalmaznak. jan Sonja "Hivatalos Toki Pona Könyv" (*pu*, 2014) 120/123 szót tartalmazott -- ebből 6 szó páronként össze lett vonva. A "Toki Pona Szótár" (*ku*, 2021, szintén jan Sonjától) két részre volt bontható, egy fő listára ("ku suli") 137 szóval, valamint egy kisebb listára ("ku lili") amely az egyéb, ritkább szavakat tartalmazta amit csak bizonyos kisebb társaságokban használtak és nem mindenhol elfogadottak; a két lista együtt nagyjából 190 szóból áll. Azokat a szavakat amelyeket nem jan Sonja hozott létre *"nimi sin"*-nek (új szónak) nevezzük.
 { .hidden }
 
 Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu* szótárának teljes tartalmát, bizonyos pu-t megelőző szavakat (amelyek lecserélésre vagy eltávolításra kerültek), valamint néhány pu után alkotott szót -- ezek mint megtalálhatók a *ku*-ban. Társaságonként és dialektusonként eltérő, hogy pontosan mely szavakat használják aktívan, de általában a legjobb gyakorlat az, ha elsősorban a *pu* szótárában megtalálható szavakat használjuk; a pu-n kívüli szavaknál megtalálható egy `p`&shy;`u`-beli változat is, valamint régi alig használt szavak meg vannak jelölve egy csillaggal (`*`).
@@ -69,6 +69,7 @@ __ala__ ![ala](pics/ala.png)
 `f`&shy;` ` semmi, egyik sem, valami hiánya  
 `i`&shy;` ` tagad  
 `m`&shy;` ` nem  
+`#`&shy;` ` 0  
 `!`&shy;` ` Ne!  
 
 __alasa__ ![alasa](pics/alasa.png)  
@@ -285,88 +286,88 @@ __kute__ ![kute](pics/kute.png)
 ### L
 
 __la__ ![la](pics/la.png)  
-`e`&shy;` ` separates the context and the main sentence  
+`e`&shy;` ` elválasztja a kontextust a főmondattól  
 
 __lanpan__ ![lanpan](pics/lanpan.png)  
-`i`&shy;` ` take, seize, steal, catch, receive  
+`i`&shy;` ` elvesz, eltulajdonít, ellop, kap, elkap  
 `pu`&shy;` ` kama jo, alasa  
-It was coined by the community shortly after *pu* was released, making it one of the most used _nimi sin_.
+Nem sokkal a _pu_ megjelenése után alkotta meg a közösség ezt a szót.
 
 __lape__ ![lape](pics/lape.png)  
-`i`&shy;` ` sleep, rest  
+`i`&shy;` ` alszik, pihen  
 
 __laso__ ![laso](pics/laso.png)  
-`m`&shy;`1` blue  
-`m`&shy;`2` green (_kule kasi_ is often preferred)  
+`m`&shy;`1` kék  
+`m`&shy;`2` zöld
 
 __lawa__ ![lawa](pics/lawa.png)  
-`f`&shy;`1` head  
-`f`&shy;`2` leader  
-`i`&shy;` ` lead, rule, manage, control, direct  
+`f`&shy;`1` fej  
+`f`&shy;`2` vezető  
+`i`&shy;` ` irányít, uralkodik, vezet
 
 __leko__ ![leko](pics/leko.png)  
-`f`&shy;` ` stairs, square, block, edge  
+`f`&shy;` ` négyzet, hasáb, lépcső, él  
 `pu`&shy;` ` sike ala  
 Removed from then-official dictionary in 2004.
 
 __len__ ![len](pics/len.png)  
-`f`&shy;`1` cloth, fabric, textile  
-`f`&shy;`2` cover, layer  
-`i`&shy;`1` wear, cover  
-`i`&shy;`2` hide  
-`m`&shy;`1` clothed, covered, covering  
-`m`&shy;`2` hidden  
+`f`&shy;`1` ruha, szövet, textil  
+`f`&shy;`2` takaró, réteg  
+`i`&shy;`1` visel, takar  
+`i`&shy;`2` elrejt, elbújik  
+`m`&shy;`1` felöltözött, takart takaró  
+`m`&shy;`2` rejtett
 
 __lete__ ![lete](pics/lete.png)  
-`m`&shy;`1` cold  
-`m`&shy;`2` raw, uncooked  
+`m`&shy;`1` hideg  
+`m`&shy;`2` nyers
 
 __li__ ![li](pics/li.png)  
-`n`&shy;`1` separates the predicate and the object  
-`n`&shy;`2` and (between predicates)  
+`n`&shy;`1` elválasztja az alanyt és az állítmányt  
+`n`&shy;`2` és (állítmányok között)  
 
 __lili__ ![lili](pics/lili.png)  
-`m`&shy;`1` small, little, short  
-`m`&shy;`2` young  
-`m`&shy;`3` a bit, slightly  
+`m`&shy;`1` kicsi, alacsony  
+`m`&shy;`2` fiatal  
+`m`&shy;`3` egy kicsit, enyhén
 
 __linja__ ![linja](pics/linja.png)  
-`f`&shy;` ` hair, rope, thread  
-`m`&shy;` ` long and flexible, rope-like  
+`f`&shy;` ` haj, kötél, szál  
+`m`&shy;` ` hosszú és hajlékony, kötélszerű  
 
 __lipu__ ![lipu](pics/lipu.png)  
-`f`&shy;` ` document, book, website, written record  
-`m`&shy;`1` flat, page-like  
-`m`&shy;`2` documented  
+`f`&shy;` ` dokumentum, könyv, weboldal, írott rekord  
+`m`&shy;`1` lapos, lapszerű  
+`m`&shy;`2` dokumentált  
 
 __loje__ ![loje](pics/loje.png)  
-`m`&shy;` ` red  
+`m`&shy;` ` piros, vörös  
 
 __lon__ ![lon](pics/lon.png)  
-`i`&shy;` ` place, put  
-`m`&shy;` ` existing, real, factual, true  
-`e`&shy;` ` located at, at the time of  
-`!`&shy;` ` indeed, that's right  
-`l`&shy;`a ` actually, truly, in reality  
+`i`&shy;` ` elhelyez, lerak  
+`m`&shy;` ` létező, valódi, tényleges, igaz  
+`e`&shy;` ` -ban/ben, -on/en/ön, -kor  
+`!`&shy;` ` valóban, így igaz  
+`l`&shy;`a ` valóban, igazából  
 
 __luka__ ![luka](pics/luka.png)  
-`f`&shy;` ` upper or front limb (hand, arm)  
-`m`&shy;` ` with hands, by hands  
+`f`&shy;` ` felső vagy elülső végtag (kéz, kar)  
+`m`&shy;` ` kézzel  
 `f`&shy;`um ` five  
 
 __lukin__ ![lukin](pics/lukin.png)  
-`i`&shy;`1` look, see, examine, read, watch  
-`i`&shy;`2` (with _tawa_) search, look for, seek  
-`s`&shy;` ` try to  
-`m`&shy;`1` visible, readable  
-`m`&shy;`2` seemingly, -looking (as in "good looking")  
+`i`&shy;`1` néz, lát, szemlél, olvas  
+`i`&shy;`2` (_tawa_-val) keres, kutat  
+`s`&shy;` ` próbál  
+`m`&shy;`1` látható, olvasható  
+`m`&shy;`2` látszólag, -l kinéző (pl. jól kinéző)  
 `ld`&shy;` ` oko  
-In *pu*, _lukin_ and _oko_ were merged and could be used interchangibly.
+A *pu*-ban a *lukin* és *oko* össze lett vonva és egymással felcserélhetőek voltak.
 
 __lupa__ ![lupa](pics/lupa.png)  
-`f`&shy;` ` hole, orifice, window, door  
-`i`&shy;` ` pierce, stab, dig  
-`m`&shy;` ` full of holes, hollow  
+`f`&shy;` ` lyuk, nyílás, ablak, ajtó  
+`i`&shy;` ` átszúr, lyukaszt, ás  
+`m`&shy;` ` lyukas, üreges  
 
 ### M
 
