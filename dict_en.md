@@ -487,7 +487,7 @@ __nimi__ ![nimi](pics/nimi.png)
 `n`&shy;` ` name, word
 
 __noka__ ![noka](pics/noka.png)  
-`n`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
+`n`&shy;`1` bottom or rear limb (foot, leg); organ of locomotion  
 `v`&shy;` ` kick  
 `m`&shy;`1` on foot, by foot  
 `m`&shy;`2` lower (part)

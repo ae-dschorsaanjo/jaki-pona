@@ -455,42 +455,42 @@ __mute__ ![mute](pics/mute.png)
 __namako__ ![namako](pics/namako.png)  
 `f`&shy;` ` kiegészítés, bónusz, fűszer (ételek esetén)  
 `m`&shy;` ` extra, további  
+`l`&shy;`a` továbbá  
 `ld`&shy;` ` sin  
 A *kipisi*-vel és *monsutával* együtt lett megalkotva 2010-ben. A *pu*-ban összevonásra került a *sin*-nel.
 
 __nanpa__ ![nanpa](pics/nanpa.png)  
-`f`&shy;` ` number  
-`n`&shy;` ` -th (ordinal number)
+`f`&shy;` ` szám  
+`n`&shy;` ` -ik (sorszámnév)
 
 __nasa__ ![nasa](pics/nasa.png)  
-`i`&shy;` ` fool around  
-`m`&shy;` ` unusual, strange, weird, crazy, intoxicated
+`i`&shy;` ` hülyéskedik  
+`m`&shy;` ` furcsa, idegen, őrült, részeg
 
 __nasin__ ![nasin](pics/nasin.png)  
-`f`&shy;`1` path, road  
-`f`&shy;`2` way, method  
-`i`&shy;` ` follow, adopt
+`f`&shy;`1` út, ösvény  
+`f`&shy;`2` irány, mód, eljárás  
+`i`&shy;` ` követ, adoptál
 
 __nena__ ![nena](pics/nena.png)  
-`f`&shy;` ` mountain, hill  
-`f`&shy;` ` protuberance, bump  
-`m`&shy;` ` bumpy, hilly, undulating
+`f`&shy;` ` hegy, domb  
+`f`&shy;` ` kiálló rész, kitülemkedés  
+`m`&shy;` ` egyenletlen, dombos
 
 __ni__ ![ni](pics/ni.png)  
-`f`&shy;` ` this, that  
-`i`&shy;` ` point, refer to  
-`m`&shy;` ` this, that  
-`n`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
+`f`&shy;` ` ez, az  
+`i`&shy;` ` mutat, utál (valamire)  
+`m`&shy;` ` ez, az  
+`n`&shy;` ` amelyik, hogy (mint egy kötőszó, kizárólag _e_ vagy egy _előljáró_ után)
 
 __nimi__ ![nimi](pics/nimi.png)  
-`f`&shy;` ` name, word  
-`i`&shy;` ` name (with _sama_)
+`f`&shy;` ` név, szó
 
 __noka__ ![noka](pics/noka.png)  
-`f`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
-`i`&shy;` ` kick  
-`m`&shy;`1` on foot, by foot  
-`m`&shy;`2` lower (part)
+`f`&shy;`1` alsó vagy hátsó végtag (láb); mozgást lehetővé tevő végtag vagy testrész  
+`i`&shy;` ` rúg  
+`m`&shy;`1` lábon, gyalog  
+`m`&shy;`2` alsó rész
 
 ### O
 
