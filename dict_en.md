@@ -372,7 +372,8 @@ __lupa__ ![lupa](pics/lupa.png)
 __ma__ ![ma](pics/ma.png)  
 `n`&shy;`1` land, country, place  
 `n`&shy;`2` earth, dry land, outdoor area  
-`m`&shy;` ` outside
+`m`&shy;`1` terrestial  
+`m`&shy;`2` outside
 
 __\*majuna__ ![majuna](pics/majuna.png)  
 `m`&shy;` ` old  
@@ -382,8 +383,7 @@ Removed before first public draft.
 
 __mama__ ![mama](pics/mama.png)  
 `n`&shy;` ` parent, ancestor, origin, creator, caretaker  
-`m`&shy;`1` parent, ancestor, parental  
-`m`&shy;`2` original (only when it is used in contrast with something)
+`m`&shy;` ` predecessor, parental, original
 
 __mani__ ![mani](pics/mani.png)  
 `n`&shy;`1` money, wealth  
@@ -397,16 +397,16 @@ __meli__ ![meli](pics/meli.png)
 
 __mi__ ![mi](pics/mi.png)  
 `n`&shy;` ` 1st person (I, me; we, us)  
-`m`&shy;`1` my, mine; our, ours  
+`m`&shy;` ` my, mine; our, ours  
 
 __mije__ ![mije](pics/mije.png)  
-`n`&shy;` ` man, boy, male  
+`n`&shy;` ` male, boy  
 `m`&shy;`1` male (of their species)  
 `m`&shy;`2` masculine
 
 __moku__ ![moku](pics/moku.png)  
 `n`&shy;` ` food, meal, sustenance  
-`v`&shy;`1` eat, drinkm, consume, inhale, swallow  
+`v`&shy;` ` eat, drinkm, consume, inhale, swallow  
 `m`&shy;` ` edible, nourishing
 
 __moli__ ![moli](pics/moli.png)  
