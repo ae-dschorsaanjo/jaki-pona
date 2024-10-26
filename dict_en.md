@@ -75,7 +75,7 @@ __ala__ ![ala](pics/ala.png)
 __alasa__ ![alasa](pics/alasa.png)  
 `n`&shy;` ` hunting, searching  
 `v`&shy;`1` hunt, forage, gather  
-`v`&shy;`2` look for, search determinedly  
+`v`&shy;`2` look for, search determinedly
 
 __ale/ali__ ![ale/ali](pics/ale.png)  
 `n`&shy;` ` everything, life, universe  
@@ -136,7 +136,7 @@ __esun__ ![esun](pics/esun.png)
 ### I
 
 __ijo__ ![ijo](pics/ijo.png)  
-`n`&shy;` ` something, thing, object  
+`n`&shy;` ` something, thing, object
 
 __ike__ ![ike](pics/ike.png)  
 `n`&shy;` ` bad(ness), evil  
@@ -267,7 +267,7 @@ __kon__ ![kon](pics/kon.png)
 __ku__ ![pu](pics/ku.png)  
 `n`&shy;` ` the _Toki Pona Dictionary_  
 `v`&shy;` ` interacting with the _Toki Pona Dictionary_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Dictionary_  
+`m`&shy;` ` according to/as in/by the _Toki Pona Dictionary_
 
 __kule__ ![kule](pics/kule.png)  
 `n`&shy;` ` color  
@@ -302,7 +302,7 @@ __laso__ ![laso](pics/laso.png)
 __lawa__ ![lawa](pics/lawa.png)  
 `n`&shy;`1` head  
 `n`&shy;`2` leader  
-`v`&shy;` ` lead, rule, manage, control, direct  
+`v`&shy;` ` lead, rule, manage, control, direct
 
 __leko__ ![leko](pics/leko.png)  
 `n`&shy;` ` square, block, stairs, edge  
@@ -323,7 +323,7 @@ __lete__ ![lete](pics/lete.png)
 
 __li__ ![li](pics/li.png)  
 `f`&shy;`1` separates the predicate and the object  
-`f`&shy;`2` and (between predicates)  
+`f`&shy;`2` and (between predicates)
 
 __lili__ ![lili](pics/lili.png)  
 `m`&shy;`1` small, little, short  
@@ -398,7 +398,7 @@ __meli__ ![meli](pics/meli.png)
 
 __mi__ ![mi](pics/mi.png)  
 `n`&shy;` ` 1st person (I, me; we, us)  
-`m`&shy;` ` my, mine; our, ours  
+`m`&shy;` ` my, mine; our, ours
 
 __mije__ ![mije](pics/mije.png)  
 `n`&shy;` ` male, boy  
@@ -470,7 +470,7 @@ __nasa__ ![nasa](pics/nasa.png)
 __nasin__ ![nasin](pics/nasin.png)  
 `n`&shy;`1` path, road  
 `n`&shy;`2` way, method  
-`v`&shy;` ` follow, adopt  
+`v`&shy;` ` follow, adopt
 
 __nena__ ![nena](pics/nena.png)  
 `n`&shy;` ` mountain, hill  
@@ -506,7 +506,7 @@ It was merged with _lukin_ in _pu_.
 
 __olin__ ![olin](pics/olin.png)  
 `n`&shy;` ` love, emotional affection  
-`v`&shy;` ` love, adore  
+`v`&shy;` ` love, adore
 
 __ona__ ![ona](pics/ona.png)  
 `n`&shy;` ` 3rd person (he, she, it, they)  
@@ -534,7 +534,7 @@ Suggested by jan Sonja, never officially added (before *ku*).
 
 __pali__ ![pali](pics/pali.png)  
 `n`&shy;` ` work, job, process  
-`v`&shy;` ` do, make, build, work (on)  
+`v`&shy;` ` do, make, build, work (on)
 
 __palisa__ ![palisa](pics/palisa.png)  
 `n`&shy;` ` rot, stick; long and solid object  
@@ -567,7 +567,7 @@ __pilin__ ![pilin](pics/pilin.png)
 `n`&shy;`1` feeling, emotion, instinct  
 `n`&shy;`2` heart (often after _insa_)  
 `v`&shy;`1` feel, smell, sense  
-`v`&shy;`2` guess, think (emotionally or subjectively)  
+`v`&shy;`2` guess, think (emotionally or subjectively)
 
 __pimeja__ ![pimeja](pics/pimeja.png)  
 `n`&shy;` ` darkness  
@@ -596,7 +596,7 @@ While it is no longer used as a preposition, it used to contrast *kepeken* by *p
 
 __poki__ ![poki](pics/poki.png)  
 `n`&shy;` ` box, container, bag, bowl  
-`v`&shy;` ` contain  
+`v`&shy;` ` contain
 
 __pona__ ![pona](pics/pona.png)  
 `v`&shy;` ` help, repair, fix  
@@ -619,7 +619,7 @@ It was never added to any official dictionary (before *ku*).
 __pu__ ![pu](pics/pu.png)  
 `n`&shy;` ` the _Toki Pona Book_  
 `v`&shy;` ` interacting with the _Toki Pona Book_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Book_  
+`m`&shy;` ` according to/as in/by the _Toki Pona Book_
 
 ### S
 
@@ -635,21 +635,21 @@ __seli__ ![seli](pics/seli.png)
 
 __selo__ ![selo](pics/selo.png)  
 `n`&shy;` ` outer layer, shell, skin, wall, separator  
-`v`&shy;` ` separate  
+`v`&shy;` ` separate
 
 __seme__ ![seme](pics/seme.png)  
 `n`&shy;` ` what? who?  
 `m`&shy;`1` which? what kind?  
-`m`&shy;`2` how?  
+`m`&shy;`2` how?
 
 __sewi__ ![sewi](pics/sewi.png)  
 `v`&shy;` ` get up, arise, lift, raise up, win  
 `m`&shy;`1` above, upwards, elevated, superior  
-`m`&shy;`2` divine, sacred, holy, religious, supernatural  
+`m`&shy;`2` divine, sacred, holy, religious, supernatural
 
 __sijelo__ ![sijelo](pics/sijelo.png)  
 `n`&shy;`1` body, main structure, main section  
-`n`&shy;`2` torso  
+`n`&shy;`2` torso
 
 __sike__ ![sike](pics/sike.png)  
 `n`&shy;` ` round or circular object  
@@ -671,12 +671,12 @@ __sina__ ![sina](pics/sina.png)
 __sinpin__ ![sinpin](pics/sinpin.png)  
 `n`&shy;` ` face, front facing surface  
 `m`&shy;`1` front, frontal  
-`m`&shy;`2` facial  
+`m`&shy;`2` facial
 
 __sitelen__ ![sitelen](pics/sitelen.png)  
 `n`&shy;` ` drawing, writing, picture, image, symbol, visual representation of something  
 `v`&shy;` ` draw, write, paint  
-`m`&shy;` ` written, drawn  
+`m`&shy;` ` written, drawn
 
 __soko__ ![soko](pics/soko.png)  
 `n`&shy;` ` mushroom, fungus  
@@ -697,7 +697,7 @@ __soweli__ ![soweli](pics/soweli.png)
 __su__ ![pu](pics/su.png)  
 `n`&shy;` ` _The Wonderful Wizard of Oz (Toki Pona edition)_  
 `v`&shy;` ` interacting with the _The Wonderful Wizard of Oz (Toki Pona edition)_  
-`m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_  
+`m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_
 
 __suli__ ![suli](pics/suli.png)  
 `m`&shy;`1` big, large, heavy  

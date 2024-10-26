@@ -58,7 +58,7 @@ __a__ ![a](pics/a.png)
 `m`&shy;`1` hangsúlyozás (érzelmi)  
 `m`&shy;`2` túlzás, felsőfok (_módosítószavak_ után)  
 `!`&shy;` ` Á! Értem! Hahaha! (mint "a a a")  
-`ld`&shy;` ` kin  
+`ld`&shy;` ` kin
 
 __akesi__ ![akesi](pics/akesi.png)  
 `f`&shy;`1` hüllő, kétéltű  
@@ -70,12 +70,12 @@ __ala__ ![ala](pics/ala.png)
 `i`&shy;` ` tagad  
 `m`&shy;` ` nem  
 `#`&shy;` ` 0  
-`!`&shy;` ` Ne!  
+`!`&shy;` ` Ne!
 
 __alasa__ ![alasa](pics/alasa.png)  
 `f`&shy;` ` vadászat, keresés  
 `i`&shy;`1` vadászik, gyűjt(öget)  
-`i`&shy;`2` keres  
+`i`&shy;`2` keres
 
 __ale/ali__ ![ale/ali](pics/ale.png)  
 `f`&shy;` ` minden, élet, univerzium  
@@ -90,18 +90,18 @@ __anpa__ ![anpa](pics/anpa.png)
 `i`&shy;`1` térdel, meghajol, elfogad (másik fél által szabott feltételeket)  
 `i`&shy;`2` legyőz, megver, meghódít, rabul ejt  
 `m`&shy;`1` alul, lent, alatt  
-`m`&shy;`2` kiszolgáltatott, alárendelt  
+`m`&shy;`2` kiszolgáltatott, alárendelt
 
 __ante__ ![ante](pics/ante.png)  
 `f`&shy;` ` változás, különbség, változatosság  
 `i`&shy;` ` megváltoztat, változik, átalakít, átalakul  
 `m`&shy;`1` más milyen, megváltozott, átalakult  
 `m`&shy;`2` egyéb  
-`l`&shy;`a` vagy, különben  
+`l`&shy;`a` vagy, különben
 
 __anu__ ![anu](pics/anu.png)  
 `n`&shy;` ` vagy  
-`l`&shy;`a` vagy  
+`l`&shy;`a` vagy
 
 __apeja__ ![apeja](pics/apeja.png)  
 `f`&shy;` ` depresszió, (érzelmi) erőszak, szánalom, szégyen, becstelenség  
@@ -116,17 +116,17 @@ __awen__ ![awen](pics/awen.png)
 `i`&shy;`2` változatlanul hagy  
 `s`&shy;` ` még (ige)-ik  
 `m`&shy;` ` megtartott, (változástól) védett, fennmaradt  
-`l`&shy;`a` még mindig, változatlanul  
+`l`&shy;`a` még mindig, változatlanul
 
 ### E
 
 __e__ ![e](pics/e.png)  
 `n`&shy;`1` elválasztja az állítmányt és a tárgyat  
-`n`&shy;`2` és (tárgyak között)  
+`n`&shy;`2` és (tárgyak között)
 
 __en__ ![en](pics/en.png)  
 `n`&shy;` ` és (alanyok között)  
-`l`&shy;`a` és, továbbá  
+`l`&shy;`a` és, továbbá
 
 __esun__ ![esun](pics/esun.png)  
 `f`&shy;` ` üzlet  
@@ -136,14 +136,14 @@ __esun__ ![esun](pics/esun.png)
 ### I
 
 __ijo__ ![ijo](pics/ijo.png)  
-`f`&shy;` ` valami, dolog, tárgy  
+`f`&shy;` ` valami, dolog, tárgy
 
 __ike__ ![ike](pics/ike.png)  
 `f`&shy;` ` rossz(aság), gonosz  
 `i`&shy;` ` tönkretesz, elront  
 `m`&shy;`1` rossz, negatív, hibás, korrupt, gonosz  
 `m`&shy;`2` összetett, komplex  
-`l`&shy;`a` sajnos  
+`l`&shy;`a` sajnos
 
 __\*iki/ipi__
 `pu`&shy;` ` ona  
@@ -151,7 +151,7 @@ Az _ipi_ forma az első publikálás előtt kikerült, az _iki_ forma pedig lecs
 { .hidden }
 
 __ilo__ ![ilo](pics/ilo.png)  
-`f`&shy;` ` (cél)szerszám, eszköz, gép  
+`f`&shy;` ` (cél)szerszám, eszköz, gép
 
 __insa__ ![insa](pics/insa.png)  
 `f`&shy;` ` belső, beltér  
@@ -174,10 +174,10 @@ jan Sonja javaslata volt a _noka_ lecserélésére, de a közösség leszavazta 
 
 __jan__ ![jan](pics/jan.png)  
 `f`&shy;` ` ember, egyén  
-`m`&shy;` ` humanoid, emberszerű  
+`m`&shy;` ` humanoid, emberszerű
 
 __jelo__ ![jelo](pics/jelo.png)  
-`m`&shy;` ` sárga  
+`m`&shy;` ` sárga
 
 __jo__ ![jo](pics/jo.png)  
 `i`&shy;` ` van neki, birtokol, hordoz, tartalmaz
@@ -187,16 +187,16 @@ __jo__ ![jo](pics/jo.png)
 __kala__ ![kala](pics/kala.png)  
 `f`&shy;`1` vízi állat  
 `f`&shy;`2` hal  
-`m`&shy;` ` halszerű, vízi (élőlény)  
+`m`&shy;` ` halszerű, vízi (élőlény)
 
 __kalama__ ![kalama](pics/kalama.png)  
 `f`&shy;` ` hang, zaj, kiáltás  
 `i`&shy;` ` hangot ad ki, kiabál  
-`m`&shy;` ` hangos, hallható  
+`m`&shy;` ` hangos, hallható
 
 __kama__ ![kama](pics/kama.png)  
 `s`&shy;` ` lesz, fog, _valamivé_ válik  
-`m`&shy;` ` jövendő, jövőbeli, érkező  
+`m`&shy;` ` jövendő, jövőbeli, érkező
 
 __\*kan__
 `n`&shy;` ` között, mellett, körül, -val/vel  
@@ -218,16 +218,16 @@ Eltávolításra került 2002-ben csere nélkül.
 __kasi__ ![kasi](pics/kasi.png)  
 `f`&shy;` ` növény, növényzet  
 `m`&shy;`1` növényszerű  
-`m`&shy;`2` zöld (_kule_ után)  
+`m`&shy;`2` zöld (_kule_ után)
 
 __ken__ ![ken](pics/ken.png)  
 `f`&shy;` ` képesség, esély, lehetőség  
 `s`&shy;` ` tud, képes rá  
-`m`&shy;` ` lehetséges, képes, megengedett  
+`m`&shy;` ` lehetséges, képes, megengedett
 
 __kepeken__ ![kepeken](pics/kepeken.png)  
 `e`&shy;` ` használ, -val/vel  
-`i`&shy;` ` használ  
+`i`&shy;` ` használ
 
 __kijetesantakalu__ ![kijetesantakalu](pics/kijetesantakalu.png)  
 `f`&shy;` ` állat a mosómedvefélék családjából  
@@ -236,13 +236,13 @@ __kijetesantakalu__ ![kijetesantakalu](pics/kijetesantakalu.png)
 { .kijetesantakalu }
 
 __kili__ ![kili](pics/kili.png)  
-`f`&shy;` ` gyümölcs, zöldség, gomba  
+`f`&shy;` ` gyümölcs, zöldség, gomba
 
 __kin__ ![kin](pics/kin.png)  
 `m`&shy;`1` is  
 `m`&shy;`2` megerősítés, hangsúlyozás (gyengébb mint az _a_)  
 `l`&shy;`a` és, továbbá  
-`ld`&shy;` ` a  
+`ld`&shy;` ` a
 
 __kipisi__ ![kipisi](pics/kipisi.png)  
 `i`&shy;` ` vág  
@@ -262,7 +262,7 @@ __kon__ ![kon](pics/kon.png)
 `f`&shy;`1` levegő, lélegzet  
 `f`&shy;`2` lélek, lényeg, jelentés, érzés, elképzelés  
 `f`&shy;`3` elme, tudat, öntudat  
-`m`&shy;` ` levegőszerű, légnemű  
+`m`&shy;` ` levegőszerű, légnemű
 
 __ku__ ![pu](pics/ku.png)  
 `f`&shy;` ` a _Toki Pona Szótár_  
@@ -272,20 +272,20 @@ __ku__ ![pu](pics/ku.png)
 __kule__ ![kule](pics/kule.png)  
 `f`&shy;` ` szín  
 `i`&shy;` ` színez  
-`m`&shy;` ` színes, színezett  
+`m`&shy;` ` színes, színezett
 
 __kulupu__ ![kulupu](pics/kulupu.png)  
 `f`&shy;`1` csoport, gyűjtemény, halmaz  
-`f`&shy;`2` társaság, társadalom, nemzet  
+`f`&shy;`2` társaság, társadalom, nemzet
 
 __kute__ ![kute](pics/kute.png)  
 `f`&shy;` ` fül  
-`i`&shy;` ` hall, figyel  
+`i`&shy;` ` hall, figyel
 
 ### L
 
 __la__ ![la](pics/la.png)  
-`e`&shy;` ` elválasztja a kontextust a főmondattól  
+`e`&shy;` ` elválasztja a kontextust a főmondattól
 
 __lanpan__ ![lanpan](pics/lanpan.png)  
 `i`&shy;` ` elvesz, eltulajdonít, ellop, kap, elkap  
@@ -293,7 +293,7 @@ __lanpan__ ![lanpan](pics/lanpan.png)
 Nem sokkal a _pu_ megjelenése után alkotta meg a közösség ezt a szót.
 
 __lape__ ![lape](pics/lape.png)  
-`i`&shy;` ` alszik, pihen  
+`i`&shy;` ` alszik, pihen
 
 __laso__ ![laso](pics/laso.png)  
 `m`&shy;`1` kék  
@@ -323,7 +323,7 @@ __lete__ ![lete](pics/lete.png)
 
 __li__ ![li](pics/li.png)  
 `n`&shy;`1` elválasztja az alanyt és az állítmányt  
-`n`&shy;`2` és (állítmányok között)  
+`n`&shy;`2` és (állítmányok között)
 
 __lili__ ![lili](pics/lili.png)  
 `m`&shy;`1` kicsi, alacsony  
@@ -332,27 +332,27 @@ __lili__ ![lili](pics/lili.png)
 
 __linja__ ![linja](pics/linja.png)  
 `f`&shy;` ` haj, kötél, szál  
-`m`&shy;` ` hosszú és hajlékony, kötélszerű  
+`m`&shy;` ` hosszú és hajlékony, kötélszerű
 
 __lipu__ ![lipu](pics/lipu.png)  
 `f`&shy;` ` dokumentum, könyv, weboldal, írott rekord  
 `m`&shy;`1` lapos, lapszerű  
-`m`&shy;`2` dokumentált  
+`m`&shy;`2` dokumentált
 
 __loje__ ![loje](pics/loje.png)  
-`m`&shy;` ` piros, vörös  
+`m`&shy;` ` piros, vörös
 
 __lon__ ![lon](pics/lon.png)  
 `i`&shy;` ` elhelyez, lerak  
 `m`&shy;` ` létező, valódi, tényleges, igaz  
 `e`&shy;` ` -ban/ben, -on/en/ön, -kor  
 `!`&shy;` ` valóban, így igaz  
-`l`&shy;`a ` valóban, igazából  
+`l`&shy;`a ` valóban, igazából
 
 __luka__ ![luka](pics/luka.png)  
 `f`&shy;` ` felső vagy elülső végtag (kéz, kar)  
 `m`&shy;` ` kézzel  
-`f`&shy;`um ` five  
+`f`&shy;`um ` five
 
 __lukin__ ![lukin](pics/lukin.png)  
 `i`&shy;`1` néz, lát, szemlél, olvas  
@@ -366,7 +366,7 @@ A *pu*-ban a *lukin* és *oko* össze lett vonva és egymással felcserélhetőe
 __lupa__ ![lupa](pics/lupa.png)  
 `f`&shy;` ` lyuk, nyílás, ablak, ajtó  
 `i`&shy;` ` átszúr, lyukaszt, ás  
-`m`&shy;` ` lyukas, üreges  
+`m`&shy;` ` lyukas, üreges
 
 ### M
 
@@ -374,7 +374,7 @@ __ma__ ![ma](pics/ma.png)
 `f`&shy;`1` hely, táj, ország  
 `f`&shy;`2` föld, szárazföld, szabad tér, házon kívül  
 `m`&shy;`1` szárazföldi  
-`m`&shy;`2` kinti, szabadtéri  
+`m`&shy;`2` kinti, szabadtéri
 
 __\*majuna__ ![majuna](pics/majuna.png)  
 `m`&shy;` ` idős, régi  
@@ -384,12 +384,12 @@ Eredetileg az első publikálás előtt kikerült a szókincsből.
 
 __mama__ ![mama](pics/mama.png)  
 `f`&shy;` ` szülő, felmenő, eredet, alkotó, gondnok  
-`m`&shy;` ` felmenő, szülői, eredeti  
+`m`&shy;` ` felmenő, szülői, eredeti
 
 __mani__ ![mani](pics/mani.png)  
 `f`&shy;`1` pénz, vagyon  
 `f`&shy;`2` jószág, haszonállat  
-`m`&shy;` ` értékes  
+`m`&shy;` ` értékes
 
 __meli__ ![meli](pics/meli.png)  
 `f`&shy;` ` nő, lány  
@@ -398,12 +398,12 @@ __meli__ ![meli](pics/meli.png)
 
 __mi__ ![mi](pics/mi.png)  
 `f`&shy;` ` én, mi  
-`m`&shy;` ` enyém, miénk  
+`m`&shy;` ` enyém, miénk
 
 __mije__ ![mije](pics/mije.png)  
 `f`&shy;` ` férfi, fiú  
 `m`&shy;`1` hím  
-`m`&shy;`2` férfias  
+`m`&shy;`2` férfias
 
 __moku__ ![moku](pics/moku.png)  
 `f`&shy;` ` étel, táplálék  
@@ -432,7 +432,7 @@ __mu__ ![mu](pics/mu.png)
 `f`&shy;`2` értelmetlen vagy érthetetlen beszéd  
 `i`&shy;` ` állat hangot ad ki, érthetetlenül beszél  
 `m`&shy;` ` értelmetlen, érthetetlen  
-`!`&shy;` ` állat hang (pl. 'mijáu', 'mú', 'háp')  
+`!`&shy;` ` állat hang (pl. 'mijáu', 'mú', 'háp')
 
 __mun__ ![mun](pics/mun.png)  
 `f`&shy;` ` hold, csillag, égitest  
@@ -442,13 +442,13 @@ __musi__ ![musi](pics/musi.png)
 `f`&shy;`1` szórakozás, szórakoztató tárgy  
 `f`&shy;`2` művészet  
 `i`&shy;`1` játszik, szórakozik  
-`m`&shy;` ` szórakoztató, művészi  
+`m`&shy;` ` szórakoztató, művészi
 
 __mute__ ![mute](pics/mute.png)  
 `i`&shy;` ` sokszoroz, megnövel, kiterjeszt  
 `m`&shy;` ` sok, több, nagyobb  
 `#`&shy;`1` (megszámlálhatóan) sok  
-`#`&shy;`2` 20  
+`#`&shy;`2` 20
 
 ### N
 
@@ -460,42 +460,42 @@ A *kipisi*-vel és *monsutával* együtt lett megalkotva 2010-ben. A *pu*-ban ö
 
 __nanpa__ ![nanpa](pics/nanpa.png)  
 `f`&shy;` ` number  
-`n`&shy;` ` -th (ordinal number)  
+`n`&shy;` ` -th (ordinal number)
 
 __nasa__ ![nasa](pics/nasa.png)  
 `i`&shy;` ` fool around  
-`m`&shy;` ` unusual, strange, weird, crazy, intoxicated  
+`m`&shy;` ` unusual, strange, weird, crazy, intoxicated
 
 __nasin__ ![nasin](pics/nasin.png)  
 `f`&shy;`1` path, road  
 `f`&shy;`2` way, method  
-`i`&shy;` ` follow, adopt  
+`i`&shy;` ` follow, adopt
 
 __nena__ ![nena](pics/nena.png)  
 `f`&shy;` ` mountain, hill  
 `f`&shy;` ` protuberance, bump  
-`m`&shy;` ` bumpy, hilly, undulating  
+`m`&shy;` ` bumpy, hilly, undulating
 
 __ni__ ![ni](pics/ni.png)  
 `f`&shy;` ` this, that  
 `i`&shy;` ` point, refer to  
 `m`&shy;` ` this, that  
-`n`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)  
+`n`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
 
 __nimi__ ![nimi](pics/nimi.png)  
 `f`&shy;` ` name, word  
-`i`&shy;` ` name (with _sama_)  
+`i`&shy;` ` name (with _sama_)
 
 __noka__ ![noka](pics/noka.png)  
 `f`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
 `i`&shy;` ` kick  
 `m`&shy;`1` on foot, by foot  
-`m`&shy;`2` lower (part)  
+`m`&shy;`2` lower (part)
 
 ### O
 
 __o__ ![o](pics/o.png)  
-`n`&shy;` ` marks imperative and vocative  
+`n`&shy;` ` marks imperative and vocative
 
 __oko__ ![oko](pics/oko.png)  
 `f`&shy;` ` eye  
@@ -505,18 +505,18 @@ It was merged with _lukin_ in _pu_.
 
 __olin__ ![olin](pics/olin.png)  
 `f`&shy;` ` love, emotional affection  
-`i`&shy;` ` love, adore  
+`i`&shy;` ` love, adore
 
 __ona__ ![ona](pics/ona.png)  
 `f`&shy;` ` 3rd person (he, she, it, they)  
-`m`&shy;` ` their, theirs (and all the others)  
+`m`&shy;` ` their, theirs (and all the others)
 
 __open__ ![open](pics/open.png)  
 `f`&shy;` ` start, beginning  
 `i`&shy;` ` open, activate, turn on  
 `s`&shy;` ` begin, start  
 `m`&shy;`1` open, activated  
-`m`&shy;`2` available, ready  
+`m`&shy;`2` available, ready
 
 ### P
 
@@ -525,7 +525,7 @@ __pakala__ ![pakala](pics/pakala.png)
 `f`&shy;`2` error, bug, accident, mistake  
 `i`&shy;` ` brake, damage  
 `m`&shy;` ` broken, damaged, non-funcional  
-`!`&shy;` ` dammit! shoot!  
+`!`&shy;` ` dammit! shoot!
 
 __pake__ ![pake](pics/pake.png)  
 `i`&shy;` ` prevent, block, obstruct  
@@ -533,19 +533,19 @@ Suggested by jan Sonja, never officially added (before *ku*).
 
 __pali__ ![pali](pics/pali.png)  
 `f`&shy;` ` work, job, process  
-`i`&shy;` ` do, make, build, work (on)  
+`i`&shy;` ` do, make, build, work (on)
 
 __palisa__ ![palisa](pics/palisa.png)  
 `f`&shy;` ` rot, stick; long and solid object  
-`m`&shy;` ` long and solid  
+`m`&shy;` ` long and solid
 
 __pan__ ![pan](pics/pan.png)  
 `f`&shy;`1` bread  
-`f`&shy;`2` cereal, corn, rice, grain  
+`f`&shy;`2` cereal, corn, rice, grain
 
 __pana__ ![pana](pics/pana.png)  
 `i`&shy;`1` give, send  
-`i`&shy;`2` share, publish, release  
+`i`&shy;`2` share, publish, release
 
 __\*pasila/pasi__
 `ld`&shy;` ` pona  
@@ -566,13 +566,13 @@ __pilin__ ![pilin](pics/pilin.png)
 `f`&shy;`1` feeling, emotion, instinct  
 `f`&shy;`2` heart (often after _insa_)  
 `i`&shy;`1` feel, smell, sense  
-`i`&shy;`2` guess, think (emotionally or subjectively)  
+`i`&shy;`2` guess, think (emotionally or subjectively)
 
 __pimeja__ ![pimeja](pics/pimeja.png)  
 `f`&shy;` ` darkness  
 `i`&shy;` ` darken  
 `m`&shy;`1` black  
-`m`&shy;`2` dark, unlit  
+`m`&shy;`2` dark, unlit
 
 __pini__ ![pini](pics/pini.png)  
 `f`&shy;`1` end, finish  
@@ -580,10 +580,10 @@ __pini__ ![pini](pics/pini.png)
 `i`&shy;`1` finish, end, stop, complete  
 `i`&shy;`2` deactivate  
 `s`&shy;` ` finish, stop, :past tense"  
-`m`&shy;` ` finished, past, former, ex-  
+`m`&shy;` ` finished, past, former, ex-
 
 __pipi__ ![pipi](pics/pipi.png)  
-`f`&shy;` ` insect, bug, spider  
+`f`&shy;` ` insect, bug, spider
 
 __poka__ ![poka](pics/poka.png)  
 `f`&shy;`1` side (of something)  
@@ -595,13 +595,13 @@ While it is no longer used as a preposition, it used to contrast *kepeken* by *p
 
 __poki__ ![poki](pics/poki.png)  
 `f`&shy;` ` box, container, bag, bowl  
-`i`&shy;` ` contain  
+`i`&shy;` ` contain
 
 __pona__ ![pona](pics/pona.png)  
 `i`&shy;` ` help, repair, fix  
 `i`&shy;` ` improve, upgrade  
 `m`&shy;` ` good, nice, positive, friendly, useful, simple  
-`!`&shy;` ` great! thanks!  
+`!`&shy;` ` great! thanks!
 
 __\*po__
 `#`&shy;` ` four  
@@ -618,44 +618,44 @@ It was never added to any official dictionary (before *ku*).
 __pu__ ![pu](pics/pu.png)  
 `f`&shy;` ` the _Toki Pona Book_  
 `i`&shy;` ` interacting with the _Toki Pona Book_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Book_  
+`m`&shy;` ` according to/as in/by the _Toki Pona Book_
 
 ### S
 
 __sama__ ![sama](pics/sama.png)  
 `m`&shy;` ` same, similar  
 `n`&shy;` ` same as, equal to, like, akin to  
-`l`&shy;`a ` similarly, like  
+`l`&shy;`a ` similarly, like
 
 __seli__ ![seli](pics/seli.png)  
 `f`&shy;` ` fire, heat, chemical reaction  
 `i`&shy;` ` cook, bake, heat  
-`m`&shy;` ` hot, warm, cooked  
+`m`&shy;` ` hot, warm, cooked
 
 __selo__ ![selo](pics/selo.png)  
 `f`&shy;` ` outer layer, shell, skin, wall, separator  
-`i`&shy;` ` separate  
+`i`&shy;` ` separate
 
 __seme__ ![seme](pics/seme.png)  
 `f`&shy;` ` what? who?  
 `m`&shy;`1` which? what kind?  
-`m`&shy;`2` how?  
+`m`&shy;`2` how?
 
 __sewi__ ![sewi](pics/sewi.png)  
 `i`&shy;` ` get up, arise, lift, raise up, win  
 `m`&shy;`1` above, upwards, elevated, superior  
-`m`&shy;`2` divine, sacred, holy, religious, supernatural  
+`m`&shy;`2` divine, sacred, holy, religious, supernatural
 
 __sijelo__ ![sijelo](pics/sijelo.png)  
 `f`&shy;`1` body, main structure, main section  
-`f`&shy;`2` torso  
+`f`&shy;`2` torso
 
 __sike__ ![sike](pics/sike.png)  
 `f`&shy;` ` round or circular object  
 `i`&shy;` ` repeat, rotate  
 `i`&shy;` ` form into a circle  
 `m`&shy;` ` round, circular, spherical  
-`m`&shy;` ` repeated(ly), again and again  
+`m`&shy;` ` repeated(ly), again and again
 
 __sin__ ![sin](pics/sin.png)  
 `i`&shy;` ` renew, freshen, update  
@@ -665,17 +665,17 @@ This word was merged with *namako* in *pu*, although their uses remained largely
 
 __sina__ ![sina](pics/sina.png)  
 `f`&shy;` ` 2nd person (thou, you)  
-`m`&shy;` ` thy, thine; your, yours  
+`m`&shy;` ` thy, thine; your, yours
 
 __sinpin__ ![sinpin](pics/sinpin.png)  
 `f`&shy;` ` face, front facing surface  
 `m`&shy;`1` front, frontal  
-`m`&shy;`2` facial  
+`m`&shy;`2` facial
 
 __sitelen__ ![sitelen](pics/sitelen.png)  
 `f`&shy;` ` drawing, writing, picture, image, symbol, visual representation of something  
 `i`&shy;` ` draw, write, paint  
-`m`&shy;` ` written, drawn  
+`m`&shy;` ` written, drawn
 
 __soko__ ![soko](pics/soko.png)  
 `n`&shy;` ` mushroom, fungus  
@@ -691,35 +691,35 @@ While *factuality* is usually implied with *sona*, it does not necessarily mean 
 __soweli__ ![soweli](pics/soweli.png)  
 `f`&shy;`1` land animal  
 `f`&shy;`2` mammal  
-`m`&shy;` ` wild, animalistic  
+`m`&shy;` ` wild, animalistic
 
 __su__ ![pu](pics/su.png)  
 `f`&shy;` ` _The Wonderful Wizard of Oz (Toki Pona edition)_  
 `i`&shy;` ` interacting with the _The Wonderful Wizard of Oz (Toki Pona edition)_  
-`m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_  
+`m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_
 
 __suli__ ![suli](pics/suli.png)  
 `m`&shy;`1` big, large, heavy  
 `m`&shy;`2` adult  
-`m`&shy;`3` important  
+`m`&shy;`3` important
 
 __suno__ ![suno](pics/suno.png)  
 `f`&shy;`1` Sun (celestial body)  
 `f`&shy;`2` light source  
 `m`&shy;`1` bright, lit, shining  
-`m`&shy;`2` gold (color, after *kule*)  
+`m`&shy;`2` gold (color, after *kule*)
 
 __supa__ ![supa](pics/supa.png)  
 `f`&shy;`1` horizontal surface  
 `f`&shy;`2` thing to put or rest something on  
 `m`&shy;`1` resting  
-`m`&shy;`2` can be rested on (object)  
+`m`&shy;`2` can be rested on (object)
 
 __suwi__ ![suwi](pics/suwi.png)  
 `f`&shy;` ` sweets  
 `m`&shy;`1` sweet  
 `m`&shy;`2` cute, adorable  
-`m`&shy;`3` innocent  
+`m`&shy;`3` innocent
 
 ### T
 
@@ -727,38 +727,38 @@ __tan__ ![tan](pics/tan.png)
 `f`&shy;` ` reason, origin point  
 `i`&shy;` ` cause  
 `e`&shy;`1` from, by  
-`e`&shy;`2` because (of), since  
+`e`&shy;`2` because (of), since
 
 __taso__ ![taso](pics/taso.png)  
 `m`&shy;` ` only  
-`k`&shy;` ` but  
+`k`&shy;` ` but
 
 __tawa__ ![tawa](pics/tawa.png)  
 `i`&shy;` ` move (something)  
 `m`&shy;` ` moving  
 `e`&shy;`1` going to  
-`e`&shy;`2` for, to  
+`e`&shy;`2` for, to
 
 __telo__ ![telo](pics/telo.png)  
 `f`&shy;`1` water  
 `f`&shy;`2` liquid  
 `i`&shy;` ` water, wash  
 `m`&shy;`1` wet  
-`m`&shy;`2` liquid  
+`m`&shy;`2` liquid
 
 __tenpo__ ![tenpo](pics/tenpo.png)  
-`f`&shy;`1` time, period  
+`f`&shy;`1` time, period
 
 __toki__ ![toki](pics/toki.png)  
 `f`&shy;`1` speaking, verbal communication  
 `f`&shy;`2` language  
 `i`&shy;`1` say, talk, tell, communicate  
 `i`&shy;`2` think (rationally or objectively)  
-`!`&shy;` ` hello!  
+`!`&shy;` ` hello!
 
 __tomo__ ![tomo](pics/tomo.png)  
 `f`&shy;` ` house, room, indoor or enclosed space  
-`f`&shy;`2` home  
+`f`&shy;`2` home
 
 __tonsi__ ![tonsi](pics/tonsi.png)  
 `f`&shy;` ` non-binary, genderqueer, transgender  
@@ -769,7 +769,7 @@ This word was coined by the community shortly after *pu* was released.
 
 __tu__ ![tu](pics/tu.png)  
 `i`&shy;` ` cut  
-`#`&shy;` ` two  
+`#`&shy;` ` two
 
 __\*tuli__
 `#`&shy;` ` three  
@@ -790,41 +790,41 @@ Opinions vary about whether this word is purely used in sexual contexts or could
 __uta__ ![uta](pics/uta.png)  
 `f`&shy;` ` mouth, lips  
 `i`&shy;` ` kiss, lick  
-`m`&shy;` ` oral  
+`m`&shy;` ` oral
 
 __utala__ ![utala](pics/utala.png)  
 `f`&shy;` ` fight, battle, war  
 `i`&shy;` ` battle, challenge, fight  
-`m`&shy;` ` violent, aggressive, fighting  
+`m`&shy;` ` violent, aggressive, fighting
 
 ### W
 
 __walo__ ![walo](pics/walo.png)  
 `m`&shy;`1` white  
 `m`&shy;`2` light, pale  
-`m`&shy;`3` innocent, virgin  
+`m`&shy;`3` innocent, virgin
 
 __wan__ ![wan](pics/wan.png)  
 `m`&shy;` ` unique  
-`#`&shy;` ` one  
+`#`&shy;` ` one
 
 __waso__ ![waso](pics/waso.png)  
 `f`&shy;`1` volant animal (able to travel in the air by flying, gliding, etc.)  
 `f`&shy;`2` bird  
-`m`&shy;` ` winged (animal), flying (creature)  
+`m`&shy;` ` winged (animal), flying (creature)
 
 __wawa__ ![wawa](pics/wawa.png)  
 `f`&shy;`1` power, energy  
 `f`&shy;`2` magic  
 `m`&shy;`1` strong, powerful  
 `m`&shy;`2` energetic, intense  
-`m`&shy;`3` confident, sure  
+`m`&shy;`3` confident, sure
 
 __weka__ ![weka](pics/weka.png)  
 `i`&shy;`1` make distance (from object); get away from, throw away, remove  
 `i`&shy;`2` ignore  
 `m`&shy;`1` away  
-`m`&shy;`2` ignored  
+`m`&shy;`2` ignored
 
 __wile__ ![wile](pics/wile.png)  
 `f`&shy;` ` will, hope  
@@ -832,7 +832,7 @@ __wile__ ![wile](pics/wile.png)
 `i`&shy;` ` want, need  
 `s`&shy;` ` want, should, have to, must, need  
 `m`&shy;`1` wanted, desired  
-`m`&shy;`2` necessary, required  
+`m`&shy;`2` necessary, required
 
 ### Y
 
