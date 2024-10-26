@@ -406,7 +406,7 @@ __mije__ ![mije](pics/mije.png)
 
 __moku__ ![moku](pics/moku.png)  
 `n`&shy;` ` food, meal, sustenance  
-`v`&shy;` ` eat, drinkm, consume, inhale, swallow  
+`v`&shy;` ` eat, drink, consume, inhale, swallow  
 `m`&shy;` ` edible, nourishing
 
 __moli__ ![moli](pics/moli.png)  
