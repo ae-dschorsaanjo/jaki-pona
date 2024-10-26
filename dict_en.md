@@ -484,8 +484,7 @@ __ni__ ![ni](pics/ni.png)
 `f`&shy;` ` that (like a conjunction, after _e_ or a _preposition_)
 
 __nimi__ ![nimi](pics/nimi.png)  
-`n`&shy;` ` name, word  
-`v`&shy;` ` name (with _sama_)
+`n`&shy;` ` name, word
 
 __noka__ ![noka](pics/noka.png)  
 `n`&shy;`1` bottom or rear limb (foot, leg), organ of locomotion  
