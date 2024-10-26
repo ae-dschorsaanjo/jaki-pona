@@ -141,7 +141,8 @@ __ijo__ ![ijo](pics/ijo.png)
 __ike__ ![ike](pics/ike.png)  
 `n`&shy;` ` bad(ness), evil  
 `v`&shy;` ` ruin, spoil  
-`m`&shy;` ` bad, negative, wrong, corrupted, evil, complex  
+`m`&shy;` ` bad, negative, wrong, corrupted, evil  
+`m`&shy;` ` non-trivial, complex  
 `l`&shy;`a` sadly
 
 __\*iki/ipi__  
@@ -412,7 +413,7 @@ __moku__ ![moku](pics/moku.png)
 __moli__ ![moli](pics/moli.png)  
 `n`&shy;` ` death  
 `v`&shy;` ` murder, kill  
-`m`&shy;` ` dying, dead, lethal, mortal, fatal
+`m`&shy;` ` dying, dead, lethal, mortal, fatal, non-functional (permanently)
 
 __monsi__ ![monsi](pics/monsi.png)  
 `n`&shy;` ` back, rear end  
@@ -423,7 +424,6 @@ __monsuta__ ![monsuta](pics/monsuta.png)
 `n`&shy;` ` monster  
 `v`&shy;` ` fear, be afraid of  
 `m`&shy;` ` frightening  
-`m`&shy;` ` (after _pilin_) afraid  
 `pu`&shy;` ` ike, akesi, apeja  
 Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
 
@@ -435,7 +435,7 @@ __mu__ ![mu](pics/mu.png)
 `i`&shy;` ` animal vocalization (such as 'meow', 'moo', 'quack')
 
 __mun__ ![mun](pics/mun.png)  
-`n`&shy;` ` moon, star  
+`n`&shy;` ` moon, star, celestial body  
 `m`&shy;` ` lunar
 
 __musi__ ![musi](pics/musi.png)  
@@ -448,7 +448,7 @@ __mute__ ![mute](pics/mute.png)
 `v`&shy;` ` multiply, extend  
 `m`&shy;` ` many, a lot, more, much, very    
 `#`&shy;`1` many  
-`#`&shy;`2` twenty
+`#`&shy;`2` 20
 
 ### N
 
