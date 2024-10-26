@@ -495,28 +495,28 @@ __noka__ ![noka](pics/noka.png)
 ### O
 
 __o__ ![o](pics/o.png)  
-`n`&shy;` ` marks imperative and vocative
+`n`&shy;` ` jelöli a felszólító és megszólító módokat
 
 __oko__ ![oko](pics/oko.png)  
-`f`&shy;` ` eye  
-`i`&shy;` ` look (but not _see_)  
+`f`&shy;` ` szem  
+`i`&shy;` ` néz (de nem *lát*)  
 `ld`&shy;` ` lukin  
-It was merged with _lukin_ in _pu_.
+A *pu*-ban ez a szó össze lett vonva a *lukin*-nal.
 
 __olin__ ![olin](pics/olin.png)  
-`f`&shy;` ` love, emotional affection  
-`i`&shy;` ` love, adore
+`f`&shy;` ` szerelem, érzelmi vonzalom  
+`i`&shy;` ` szeret
 
 __ona__ ![ona](pics/ona.png)  
-`f`&shy;` ` 3rd person (he, she, it, they)  
-`m`&shy;` ` their, theirs (and all the others)
+`f`&shy;` ` ő, ők  
+`m`&shy;` ` övék
 
 __open__ ![open](pics/open.png)  
-`f`&shy;` ` start, beginning  
-`i`&shy;` ` open, activate, turn on  
-`s`&shy;` ` begin, start  
-`m`&shy;`1` open, activated  
-`m`&shy;`2` available, ready
+`f`&shy;` ` kezdet, valaminek az eleje  
+`i`&shy;` ` nyit, aktivál, bekapcsol  
+`s`&shy;` ` kezd (ige)-ni  
+`m`&shy;`1` nyitott, aktivált  
+`m`&shy;`2` elérhető, kész(en álló)
 
 ### P
 
