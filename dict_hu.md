@@ -141,13 +141,12 @@ __ijo__ ![ijo](pics/ijo.png)
 __ike__ ![ike](pics/ike.png)  
 `f`&shy;` ` rossz(aság), gonosz  
 `i`&shy;` ` tönkretesz, elront  
-`m`&shy;` ` rossz, negatív, hibás, korrupt, gonosz  
-`m`&shy;` ` összetett, komplex  
+`m`&shy;`1` rossz, negatív, hibás, korrupt, gonosz  
+`m`&shy;`2` összetett, komplex  
 `l`&shy;`a` sajnos  
 
 __\*iki/ipi__
 `pu`&shy;` ` ona  
-_iki_ was replaced for its similarity to _ike_, while _ipi_ was replaced before first draft.
 Az _ipi_ forma az első publikálás előtt kikerült, az _iki_ forma pedig lecserélésre került mert túl hasonló volt az _ike_-hez.
 { .hidden }
 
@@ -181,7 +180,6 @@ __jelo__ ![jelo](pics/jelo.png)
 `m`&shy;` ` sárga  
 
 __jo__ ![jo](pics/jo.png)  
-`i`&shy;` ` have, own, carry, contain  
 `i`&shy;` ` van neki, birtokol, hordoz, tartalmaz
 
 ### K
@@ -255,6 +253,7 @@ __kiwen__ ![kiwen](pics/kiwen.png)
 `f`&shy;`1` fém, kő  
 `f`&shy;`2` kemény tárgy vagy anyag  
 `m`&shy;` ` kemény, nehéz  
+{ .intentional-alteration }
 
 __ko__ ![ko](pics/ko.png)  
 `f`&shy;` ` félkemény vagy porszerű anyag, paszta, agyag, tészta, por
@@ -372,85 +371,84 @@ __lupa__ ![lupa](pics/lupa.png)
 ### M
 
 __ma__ ![ma](pics/ma.png)  
-`f`&shy;`1` land, country, place  
-`f`&shy;`2` earth, dry land, outdoor area  
-`m`&shy;` ` outside  
+`f`&shy;`1` hely, táj, ország  
+`f`&shy;`2` föld, szárazföld, szabad tér, házon kívül  
+`m`&shy;`1` szárazföldi  
+`m`&shy;`2` kinti, szabadtéri  
 
 __\*majuna__ ![majuna](pics/majuna.png)  
-`m`&shy;` ` old  
+`m`&shy;` ` idős, régi  
 `pu`&shy;` ` sin ala, lili ala, suli  
-Removed before first public draft.
+Eredetileg az első publikálás előtt kikerült a szókincsből.
 { .hidden }
 
 __mama__ ![mama](pics/mama.png)  
-`f`&shy;` ` parent, ancestor, origin, creator, caretaker  
-`m`&shy;`1` parent, ancestor, parental  
-`m`&shy;`2` original (only when it is used in contrast with something)  
+`f`&shy;` ` szülő, felmenő, eredet, alkotó, gondnok  
+`m`&shy;` ` felmenő, szülői, eredeti  
 
 __mani__ ![mani](pics/mani.png)  
-`f`&shy;`1` money, wealth  
-`f`&shy;`2` livestock  
-`m`&shy;` ` valuable  
+`f`&shy;`1` pénz, vagyon  
+`f`&shy;`2` jószág, haszonállat  
+`m`&shy;` ` értékes  
 
 __meli__ ![meli](pics/meli.png)  
-`f`&shy;` ` woman, girl  
-`m`&shy;`1` female (of their species)  
-`m`&shy;`2` feminine  
+`f`&shy;` ` nő, lány  
+`m`&shy;`1` nőstény  
+`m`&shy;`2` nőies
 
 __mi__ ![mi](pics/mi.png)  
-`f`&shy;` ` 1st person (I, me; we, us)  
-`m`&shy;`1` my, mine; our, ours  
+`f`&shy;` ` én, mi  
+`m`&shy;` ` enyém, miénk  
 
 __mije__ ![mije](pics/mije.png)  
-`f`&shy;` ` man, boy, male  
-`m`&shy;`1` male (of their species)  
-`m`&shy;`2` masculine  
+`f`&shy;` ` férfi, fiú  
+`m`&shy;`1` hím  
+`m`&shy;`2` férfias  
 
 __moku__ ![moku](pics/moku.png)  
-`f`&shy;` ` food, meal, sustenance  
-`i`&shy;`1` eat, drinkm, consume, inhale, swallow  
-`m`&shy;` ` edible, nourishing  
+`f`&shy;` ` étel, táplálék  
+`i`&shy;` ` eszik, iszik, fogyaszt, belélegez, lenyel  
+`m`&shy;` ` ehető, tápláló
 
 __moli__ ![moli](pics/moli.png)  
-`f`&shy;` ` death  
-`i`&shy;` ` murder, kill  
-`m`&shy;` ` dying, dead, lethal, mortal, fatal  
+`f`&shy;` ` halál  
+`i`&shy;` ` megöl  
+`m`&shy;` ` haldokló, halott, halálos, helyreállíthatatlanul nem működő
 
 __monsi__ ![monsi](pics/monsi.png)  
-`f`&shy;` ` back, rear end  
-`i`&shy;` ` retreat  
-`m`&shy;` ` behind  
+`f`&shy;` ` hátul, hátsó rész  
+`i`&shy;` ` visszavonul  
+`m`&shy;` ` hátul, mögött
 
 __monsuta__ ![monsuta](pics/monsuta.png)  
-`f`&shy;` ` monster  
-`i`&shy;` ` fear, be afraid of  
-`m`&shy;` ` frightening  
-`m`&shy;` ` (after _pilin_) afraid  
+`f`&shy;` ` szörny  
+`i`&shy;` ` fél, tart (valamitől)  
+`m`&shy;` ` félelmetes  
 `pu`&shy;` ` ike, akesi, apeja  
-Added in 2010 along with _kipisi_ and _namako_, not included in _pu_.
+2010-ben került hozzáadásra a *kipisi*-vel és *namako*-val együtt, azonban nem került be a *pu*-ba.
 
 __mu__ ![mu](pics/mu.png)  
-`f`&shy;`1` animal noise  
-`f`&shy;`2` meaningless or incomprehensible talking  
-`i`&shy;` ` make animal noises, speak incomprehensibly  
-`m`&shy;` ` meaningless, incomprehensible, unintelligible  
-`!`&shy;` ` animal vocalization (such as 'meow', 'moo', 'quack')  
+`f`&shy;`1` állat hang  
+`f`&shy;`2` értelmetlen vagy érthetetlen beszéd  
+`i`&shy;` ` állat hangot ad ki, érthetetlenül beszél  
+`m`&shy;` ` értelmetlen, érthetetlen  
+`!`&shy;` ` állat hang (pl. 'mijáu', 'mú', 'háp')  
 
 __mun__ ![mun](pics/mun.png)  
-`f`&shy;` ` moon, star  
-`m`&shy;` ` lunar  
+`f`&shy;` ` hold, csillag, égitest  
+`m`&shy;` ` holdtól függő, hold- (mint pl. "holdciklus") 
 
 __musi__ ![musi](pics/musi.png)  
-`f`&shy;`1` fun  
-`f`&shy;`2` art  
-`i`&shy;`1` play, have fun  
-`m`&shy;` ` entertaining, artistic  
+`f`&shy;`1` szórakozás, szórakoztató tárgy  
+`f`&shy;`2` művészet  
+`i`&shy;`1` játszik, szórakozik  
+`m`&shy;` ` szórakoztató, művészi  
 
 __mute__ ![mute](pics/mute.png)  
-`i`&shy;` ` multiply, extend  
-`m`&shy;` ` many, a lot, more, much, very  
-`#`&shy;`1` many  
-`#`&shy;`2` twenty  
+`i`&shy;` ` sokszoroz, megnövel, kiterjeszt  
+`m`&shy;` ` sok, több, nagyobb  
+`#`&shy;`1` (megszámlálhatóan) sok  
+`#`&shy;`2` 20  
 
 ### N
 
