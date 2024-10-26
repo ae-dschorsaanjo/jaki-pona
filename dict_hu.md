@@ -453,10 +453,10 @@ __mute__ ![mute](pics/mute.png)
 ### N
 
 __namako__ ![namako](pics/namako.png)  
-`f`&shy;` ` addition, bonus, spice (for food)  
-`m`&shy;` ` extra, additional  
+`f`&shy;` ` kiegészítés, bónusz, fűszer (ételek esetén)  
+`m`&shy;` ` extra, további  
 `ld`&shy;` ` sin  
-Added along with _kipisi_ and _monsuta_ in 2010. In _pu_, it was merged with _sin_.
+A *kipisi*-vel és *monsutával* együtt lett megalkotva 2010-ben. A *pu*-ban összevonásra került a *sin*-nel.
 
 __nanpa__ ![nanpa](pics/nanpa.png)  
 `f`&shy;` ` number  
