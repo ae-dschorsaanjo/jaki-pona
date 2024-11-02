@@ -98,7 +98,7 @@ A felkiáltójel (`!`) három különböző helyzetben használt:
 A kettőspont (`:`) akkor használt, amikor egy előljárőszó vagy `e` után `ni` áll, azaz a mondatunk egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt előljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | Jó kedvem van, mert dorombol a macskám.  
-> jan Sotan li wile e ni: musi ona li pona tawa jan. | Zoltán azt szeretné, ha az embereknek tetszene a zenéje.  
+> jan Se li wile e ni: musi ona li pona tawa jan. | Zé szeretné, ha az embereknek tetszene a zenéje.  
 > ona li sona e tenpo ni: jan ale li tawa kon. | Emlékszik azokra az időkre, amikor mindenki repült.  
 > sina tawa sama ni: jan li wile pakala e sina. | Úgy rohansz, mintha meg akarnának verni.  
 
