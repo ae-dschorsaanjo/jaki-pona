@@ -536,7 +536,7 @@ __pali__ ![pali](pics/pali.png)
 `v`&shy;` ` do, make, build, work (on)
 
 __palisa__ ![palisa](pics/palisa.png)  
-`n`&shy;` ` rot, stick; long and solid object  
+`n`&shy;` ` rod, stick; long and solid object  
 `m`&shy;` ` long and solid
 
 __pan__ ![pan](pics/pan.png)  
