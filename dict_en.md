@@ -579,7 +579,7 @@ __pini__ ![pini](pics/pini.png)
 `n`&shy;`2` past  
 `v`&shy;`1` finish, end, stop, complete  
 `v`&shy;`2` deactivate  
-`a`&shy;` ` finish, stop, :past tense"  
+`a`&shy;` ` finish, stop, "past tense"  
 `m`&shy;` ` finished, past, former, ex-
 
 __pipi__ ![pipi](pics/pipi.png)  
