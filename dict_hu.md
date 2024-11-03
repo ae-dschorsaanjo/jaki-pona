@@ -195,7 +195,7 @@ __kalama__ ![kalama](pics/kalama.png)
 `m`&shy;` ` hangos, hallható
 
 __kama__ ![kama](pics/kama.png)  
-`s`&shy;` ` lesz, fog, _valamivé_ válik  
+`s`&shy;` ` lesz, fog, válik (valamivé)  
 `m`&shy;` ` jövendő, jövőbeli, érkező
 
 __\*kan__
@@ -267,7 +267,7 @@ __kon__ ![kon](pics/kon.png)
 __ku__ ![pu](pics/ku.png)  
 `f`&shy;` ` a _Toki Pona Szótár_  
 `i`&shy;` ` interakció a _Toki Pona Szótárral_  
-`m`&shy;` ` a _Toki Pona Szótárnak_ megfelelően
+`m`&shy;` ` a _Toki Pona Szótárnak_ szerint
 
 __kule__ ![kule](pics/kule.png)  
 `f`&shy;` ` szín  
@@ -512,7 +512,7 @@ __ona__ ![ona](pics/ona.png)
 `m`&shy;` ` övék
 
 __open__ ![open](pics/open.png)  
-`f`&shy;` ` kezdet, valaminek az eleje  
+`f`&shy;` ` kezdet, az eleje (valaminek)  
 `i`&shy;` ` nyit, aktivál, bekapcsol  
 `s`&shy;` ` kezd (ige)-ni  
 `m`&shy;`1` nyitott, aktivált  
@@ -521,322 +521,322 @@ __open__ ![open](pics/open.png)
 ### P
 
 __pakala__ ![pakala](pics/pakala.png)  
-`f`&shy;`1` damage, injury  
-`f`&shy;`2` error, bug, accident, mistake  
-`i`&shy;` ` brake, damage  
-`m`&shy;` ` broken, damaged, non-funcional  
-`!`&shy;` ` dammit! shoot!
+`f`&shy;`1` sérülés, seb  
+`f`&shy;`2` hiba, baleset  
+`i`&shy;` ` eltör, tönkretesz, kárt okoz  
+`m`&shy;` ` sérült, eltört, hibás, nem működő  
+`!`&shy;` ` basszus! fenébe!
 
 __pake__ ![pake](pics/pake.png)  
-`i`&shy;` ` prevent, block, obstruct  
-Suggested by jan Sonja, never officially added (before *ku*).
+`i`&shy;` ` elhárít, megelőz, (meg)akadályoz  
+jan Sonja által javasolt szó, de nem lett hozzáadva szótárhoz (a *ku* előtt).
 
 __pali__ ![pali](pics/pali.png)  
-`f`&shy;` ` work, job, process  
-`i`&shy;` ` do, make, build, work (on)
+`f`&shy;` ` munka, folyamat  
+`i`&shy;` ` csinál, épít, dolgozik (valamin)
 
 __palisa__ ![palisa](pics/palisa.png)  
-`f`&shy;` ` rot, stick; long and solid object  
-`m`&shy;` ` long and solid
+`f`&shy;` ` rúd, bot, pálca; hosszú és kemény tárgy  
+`m`&shy;` ` hosszú és szilárd
 
 __pan__ ![pan](pics/pan.png)  
-`f`&shy;`1` bread  
-`f`&shy;`2` cereal, corn, rice, grain
+`f`&shy;`1` kenyér  
+`f`&shy;`2` gabona, kukorica, rizs, mag
 
 __pana__ ![pana](pics/pana.png)  
-`i`&shy;`1` give, send  
-`i`&shy;`2` share, publish, release
+`i`&shy;`1` (oda)ad, küld  
+`i`&shy;`2` megoszt, kiad, publikál
 
 __\*pasila/pasi__
 `ld`&shy;` ` pona  
-_pasila_ was replaced before the first public draft; _pasi_ was a typo later in a collection of "deprecated words".
+Az első publikálás előtt le lett cserélve; a *pasi* forma az egy elírásból eredhet.
 { .hidden }
 
 __\*pata__  
-`n`&shy;` ` sibling  
+`n`&shy;` ` testvér  
 `pu`&shy;` ` jan sama  
-It was removed in 2004.
+2004-ben kikerült a szótárból.
 { .hidden }
 
 __pi__ ![pi](pics/pi.png)  
-`n`&shy;`1` separates modifier groups after the noun  
-`n`&shy;`2` *(archaic)* of
+`n`&shy;`1` egymást követő módosító csoportokat választ el  
+`n`&shy;`2` *(régies)* birtokos prepozíció (angol 'of')
 
 __pilin__ ![pilin](pics/pilin.png)  
-`f`&shy;`1` feeling, emotion, instinct  
-`f`&shy;`2` heart (often after _insa_)  
-`i`&shy;`1` feel, smell, sense  
-`i`&shy;`2` guess, think (emotionally or subjectively)
+`f`&shy;`1` érzés, érzelem, ösztön  
+`f`&shy;`2` szív (gyakran _insa_ után)  
+`i`&shy;`1` érez, érzékel, szagol  
+`i`&shy;`2` találgat, gondol (érzelmileg vagy szubjektíven)
 
 __pimeja__ ![pimeja](pics/pimeja.png)  
-`f`&shy;` ` darkness  
-`i`&shy;` ` darken  
-`m`&shy;`1` black  
-`m`&shy;`2` dark, unlit
+`f`&shy;` ` sötétség  
+`i`&shy;` ` sötétít  
+`m`&shy;`1` fekete  
+`m`&shy;`2` sötét, fénytelen, megvilágítatlan
 
 __pini__ ![pini](pics/pini.png)  
-`f`&shy;`1` end, finish  
-`f`&shy;`2` past  
-`i`&shy;`1` finish, end, stop, complete  
-`i`&shy;`2` deactivate  
-`s`&shy;` ` finish, stop, :past tense"  
-`m`&shy;` ` finished, past, former, ex-
+`f`&shy;`1` vég, befejezés  
+`f`&shy;`2` múlt  
+`i`&shy;`1` befejez, végez, abbahagy  
+`i`&shy;`2` deaktivál  
+`s`&shy;` ` már nem (ige), "múltidő"  
+`m`&shy;` ` befejezett, múltbeli, korábbi
 
 __pipi__ ![pipi](pics/pipi.png)  
-`f`&shy;` ` insect, bug, spider
-
-__poka__ ![poka](pics/poka.png)  
-`f`&shy;`1` side (of something)  
-`f`&shy;`2` hip  
-`m`&shy;`1` near, by, next to  
-`m`&shy;`2` along with, together with  
-`e`&shy;` ` *(archaic)* along with, at the side of, close to  
-While it is no longer used as a preposition, it used to contrast *kepeken* by *poka* meaning physical (or ideological) closeness, and *kepeken* meaning using/with an instrument or (as) a tool.
-
-__poki__ ![poki](pics/poki.png)  
-`f`&shy;` ` box, container, bag, bowl  
-`i`&shy;` ` contain
-
-__pona__ ![pona](pics/pona.png)  
-`i`&shy;` ` help, repair, fix  
-`i`&shy;` ` improve, upgrade  
-`m`&shy;` ` good, nice, positive, friendly, useful, simple  
-`!`&shy;` ` great! thanks!
+`f`&shy;` ` rovar, bogár, pók
 
 __\*po__
-`#`&shy;` ` four  
+`#`&shy;` ` 4  
 `pu`&shy;` ` tu tu  
-Removed before toki pona became well-known.
+Eltávolításra került mielőtt a nyelv szélesebb körben ismertté vált.
 { .hidden }
 
+__poka__ ![poka](pics/poka.png)  
+`f`&shy;`1` oldal  
+`f`&shy;`2` csípő  
+`m`&shy;`1` közel, mellett  
+`m`&shy;`2` valaki oldalán  
+`e`&shy;` ` *(régies)* -val/vel, (valaki vagy valami) oldalán, közel  
+Manapság már nem használatos előljáróként. Korábban a *kepeken*-nel szemben *poka* fizikai vagy ideológiai közelséget jelölt, míg a *kepeken* első sorban eszközhasználatot.
+
+__poki__ ![poki](pics/poki.png)  
+`f`&shy;` ` doboz, konténer, zsák, tál  
+`i`&shy;` ` tartalmaz, magába foglal (fizikailag)
+
+__pona__ ![pona](pics/pona.png)  
+`i`&shy;` ` segít, (meg)javít  
+`i`&shy;` ` javít (jobbá tesz), megújít, feljavít  
+`m`&shy;` ` jó, szép, pozitív, barátságos, hasznos, egyszerű  
+`!`&shy;` ` kitűnő! kösz!
+
 __powe__ ![powe](pics/powe.png)  
-`i`&shy;` ` deceive, pretend, cheat, trick  
-`m`&shy;` ` false, untrue  
+`i`&shy;` ` megtéveszt, tettet, csal, trükköz  
+`m`&shy;` ` hamis, igaztalan  
 `pu`&shy;` ` lon ala, toki ike, ike  
-It was never added to any official dictionary (before *ku*).
+Hivatalosan soha nem volt része a szótárnak (a *ku* előtt).
 
 __pu__ ![pu](pics/pu.png)  
-`f`&shy;` ` the _Toki Pona Book_  
-`i`&shy;` ` interacting with the _Toki Pona Book_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Book_
+`f`&shy;` ` a _hivatalos Toki Pona könyv_  
+`i`&shy;` ` interació a _hivatalos Toki Pona könyvvel_  
+`m`&shy;` ` a _hivatalos Toki Pona könyv_ szerint
 
 ### S
 
 __sama__ ![sama](pics/sama.png)  
-`m`&shy;` ` same, similar  
-`n`&shy;` ` same as, equal to, like, akin to  
-`l`&shy;`a ` similarly, like
+`m`&shy;` ` ugyan olyan, hasonló  
+`n`&shy;` ` ugyan az mint, egyenlő (valamivel)), hasonló (valamihez), olyan mint  
+`l`&shy;`a ` hasonlósan
 
 __seli__ ![seli](pics/seli.png)  
-`f`&shy;` ` fire, heat, chemical reaction  
-`i`&shy;` ` cook, bake, heat  
-`m`&shy;` ` hot, warm, cooked
+`f`&shy;` ` tűz, hő, kémiai reakció  
+`i`&shy;` ` főz, süt, (fel)melegít  
+`m`&shy;` ` forró, meleg, (meg)főtt
 
 __selo__ ![selo](pics/selo.png)  
-`f`&shy;` ` outer layer, shell, skin, wall, separator  
-`i`&shy;` ` separate
+`f`&shy;` ` külső réteg, hély, bőr, fal, elválasztó  
+`i`&shy;` ` elválaszt
 
 __seme__ ![seme](pics/seme.png)  
-`f`&shy;` ` what? who?  
-`m`&shy;`1` which? what kind?  
-`m`&shy;`2` how?
+`f`&shy;` ` ki? mi?
+`i`&shy;` ` mit csinál?  
+`m`&shy;`1` melyik? milyen?  
+`m`&shy;`2` hogyan?
 
 __sewi__ ![sewi](pics/sewi.png)  
-`i`&shy;` ` get up, arise, lift, raise up, win  
-`m`&shy;`1` above, upwards, elevated, superior  
-`m`&shy;`2` divine, sacred, holy, religious, supernatural
+`i`&shy;` ` felkel, felemel, megemel, győz  
+`i`&shy;`2` felemelkedik  
+`m`&shy;`1` fent, felül, felfelé, felső, megemelt, felsőbbrendű  
+`m`&shy;`2` isteni, szent, vallásos, természetfeletti
 
 __sijelo__ ![sijelo](pics/sijelo.png)  
-`f`&shy;`1` body, main structure, main section  
-`f`&shy;`2` torso
+`f`&shy;`1` test, fő szerkezet, fő rész  
+`f`&shy;`2` törzs
 
 __sike__ ![sike](pics/sike.png)  
-`f`&shy;` ` round or circular object  
-`i`&shy;` ` repeat, rotate  
-`i`&shy;` ` form into a circle  
-`m`&shy;` ` round, circular, spherical  
-`m`&shy;` ` repeated(ly), again and again
+`f`&shy;` ` kerek vagy gömb alakú tárgy  
+`i`&shy;` ` ismétel, forgat  
+`i`&shy;` ` körkörösít  
+`m`&shy;` ` kerek, gömbölyű  
+`m`&shy;` ` ismételt(en), újra meg újra
 
 __sin__ ![sin](pics/sin.png)  
-`i`&shy;` ` renew, freshen, update  
-`m`&shy;` ` new, fresh  
+`i`&shy;` ` (fel)frissít, megújít, felújít  
+`m`&shy;` ` új, friss  
 `ld`&shy;` ` namako  
-This word was merged with *namako* in *pu*, although their uses remained largely separate.
+A *pu*-ban összevonásra került a *namako*-val és egymással felcserélhetőek voltak.
 
 __sina__ ![sina](pics/sina.png)  
-`f`&shy;` ` 2nd person (thou, you)  
-`m`&shy;` ` thy, thine; your, yours
+`f`&shy;` ` te, it  
+`m`&shy;` ` tied, tieitek
 
 __sinpin__ ![sinpin](pics/sinpin.png)  
-`f`&shy;` ` face, front facing surface  
-`m`&shy;`1` front, frontal  
-`m`&shy;`2` facial
+`f`&shy;` ` arc, előre néző felület  
+`m`&shy;` ` elülső, előre néző
+{ .intentional-alteration }
 
 __sitelen__ ![sitelen](pics/sitelen.png)  
-`f`&shy;` ` drawing, writing, picture, image, symbol, visual representation of something  
-`i`&shy;` ` draw, write, paint  
-`m`&shy;` ` written, drawn
+`f`&shy;` ` rajz, írás, kép, szimbólum, vízuális reprezentáció  
+`i`&shy;` ` rajzol, ír, fest  
+`m`&shy;` ` írott, rajzolt
 
 __soko__ ![soko](pics/soko.png)  
-`n`&shy;` ` mushroom, fungus  
+`n`&shy;` ` gomba  
 `pu`&shy;` ` kili
 
 __sona__ ![sona](pics/sona.png)  
-`f`&shy;`1` knowledge, data and information  
-`f`&shy;`2` intelligence, wisdom  
-`i`&shy;` ` know, skilled in  
-`m`&shy;` ` known  
-While *factuality* is usually implied with *sona*, it does not necessarily mean that the knowledge is reliable (use *lon* to mark factuality if needed).
+`f`&shy;`1` tudás, adat vagy információ  
+`f`&shy;`2` intelligencia, bölcsesség  
+`i`&shy;` ` tud, képzett (valamiben)  
+`m`&shy;` ` ismert, tudott  
+Habár a *sona* jelentése *igazságtartamot* is sugall, ez nem feltételenül jelenti azt, hogy a tudás az megbízható (a *lon* használata javasolt igazságtartam jelölésére).
 
 __soweli__ ![soweli](pics/soweli.png)  
-`f`&shy;`1` land animal  
-`f`&shy;`2` mammal  
-`m`&shy;` ` wild, animalistic
+`f`&shy;`1` szárazföldi állat  
+`f`&shy;`2` emlős  
+`m`&shy;` ` vad, állatias
 
 __su__ ![pu](pics/su.png)  
-`f`&shy;` ` _The Wonderful Wizard of Oz (Toki Pona edition)_  
-`i`&shy;` ` interacting with the _The Wonderful Wizard of Oz (Toki Pona edition)_  
-`m`&shy;` ` according to/as in/by the _The Wonderful Wizard of Oz (Toki Pona edition)_
+`f`&shy;` ` _Oz, a nagy varázsló (Toki Pona kiadás)_  
+`i`&shy;` ` interakció a _Oz, a nagy varázsló (Toki Pona kiadásával)_  
+`m`&shy;` ` a _Oz, a nagy varázsló (Toki Pona kiadás)_ szerint
 
 __suli__ ![suli](pics/suli.png)  
-`m`&shy;`1` big, large, heavy  
-`m`&shy;`2` adult  
-`m`&shy;`3` important
+`m`&shy;`1` nagy, nehéz  
+`m`&shy;`2` felnőtt  
+`m`&shy;`3` fontos
 
 __suno__ ![suno](pics/suno.png)  
-`f`&shy;`1` Sun (celestial body)  
-`f`&shy;`2` light source  
-`m`&shy;`1` bright, lit, shining  
-`m`&shy;`2` gold (color, after *kule*)
+`f`&shy;`1` nap (égitest)  
+`f`&shy;`2` fényforrás  
+`m`&shy;`1` fényes, megvilágított  
+`m`&shy;`2` arany (szín, *kule* után)
 
 __supa__ ![supa](pics/supa.png)  
-`f`&shy;`1` horizontal surface  
-`f`&shy;`2` thing to put or rest something on  
-`m`&shy;`1` resting  
-`m`&shy;`2` can be rested on (object)
+`f`&shy;`1` vízszintes felület  
+`f`&shy;`2` tárgy amire fel lehet tenni valamit vagy pihenni lehet rajta (pl. asztal, polc, ágy)  
+`m`&shy;`1` pihenő  
+`m`&shy;`2` pihenésre vagy fekvésre alkalmas felület  
 
 __suwi__ ![suwi](pics/suwi.png)  
-`f`&shy;` ` sweets  
-`m`&shy;`1` sweet  
-`m`&shy;`2` cute, adorable  
-`m`&shy;`3` innocent
+`f`&shy;` ` édesség  
+`m`&shy;`1` édes  
+`m`&shy;`2` cuki, aranyos  
+`m`&shy;`3` ártatlan
 
 ### T
 
 __tan__ ![tan](pics/tan.png)  
-`f`&shy;` ` reason, origin point  
-`i`&shy;` ` cause  
-`e`&shy;`1` from, by  
-`e`&shy;`2` because (of), since
+`f`&shy;` ` ok, kiinduló pont  
+`i`&shy;` ` okoz  
+`e`&shy;`1` -tól/től, által  
+`e`&shy;`2` mert, azért mert
 
 __taso__ ![taso](pics/taso.png)  
-`m`&shy;` ` only  
-`k`&shy;` ` but
+`m`&shy;` ` csak  
+`k`&shy;` ` de
 
 __tawa__ ![tawa](pics/tawa.png)  
-`i`&shy;` ` move (something)  
-`m`&shy;` ` moving  
-`e`&shy;`1` going to  
-`e`&shy;`2` for, to
+`i`&shy;` ` mozgat (valamit)  
+`m`&shy;` ` mozgó  
+`e`&shy;`1` megy (valahova)  
+`e`&shy;`2` -nak/nek, -ba/be
 
 __telo__ ![telo](pics/telo.png)  
-`f`&shy;`1` water  
-`f`&shy;`2` liquid  
-`i`&shy;` ` water, wash  
-`m`&shy;`1` wet  
-`m`&shy;`2` liquid
+`f`&shy;`1` víz  
+`f`&shy;`2` folyadék  
+`i`&shy;` ` vizez, mos  
+`m`&shy;`1` nedves  
+`m`&shy;`2` folyékony
 
 __tenpo__ ![tenpo](pics/tenpo.png)  
-`f`&shy;`1` time, period
+`f`&shy;`1` idő, időtartam, periódus
 
 __toki__ ![toki](pics/toki.png)  
-`f`&shy;`1` speaking, verbal communication  
-`f`&shy;`2` language  
-`i`&shy;`1` say, talk, tell, communicate  
-`i`&shy;`2` think (rationally or objectively)  
-`!`&shy;` ` hello!
+`f`&shy;`1` beszéd, verbális kommunikáció  
+`f`&shy;`2` nyelv  
+`i`&shy;`1` mond, beszél, kommunikál  
+`i`&shy;`2` gondol (ésszerűen vagy objektíven)  
+`!`&shy;` ` szia!
 
 __tomo__ ![tomo](pics/tomo.png)  
-`f`&shy;` ` house, room, indoor or enclosed space  
-`f`&shy;`2` home
+`f`&shy;` ` ház, szoba; beltéri vagy zárt terület  
+`f`&shy;`2` otthon
 
 __tonsi__ ![tonsi](pics/tonsi.png)  
-`f`&shy;` ` non-binary, genderqueer, transgender  
-`m`&shy;` ` gender-nonconforming  
-`pu`&shy;` ` jan kule  
-This word was coined by the community shortly after *pu* was released.
-"jan kule" is not a true alternative, but a broader term meaning "queer" (LGBTQ+).
+`f`&shy;` ` nembináris  
+Közösség alkotta szó, nem sokkal *pu* megjelenése után létrehozva.
 
 __tu__ ![tu](pics/tu.png)  
-`i`&shy;` ` cut  
-`#`&shy;` ` two
+`i`&shy;` ` vág  
+`#`&shy;` ` 2  
+`see`&shy;` ` kipisi  
+Csak azután kapta meg a "vág" jelentést, hogy a *kipisi* nem került bele a *pu*-ba.
 
-__\*tuli__
-`#`&shy;` ` three  
+__\*tuli__  
+`#`&shy;` ` 3  
 `pu`&shy;` ` tu wan  
-Removed before toki pona became well-known.
+Eltávolításra került mielőtt a nyelv szélesebb körben ismertté vált.
 { .hidden }
 
 ### U
 
 __unpa__ ![unpa](pics/unpa.png)  
-`f`&shy;` ` sex, intercourse  
-`i`&shy;`1` have sex (with)  
-`i`&shy;`2` have marital relation with  
-`m`&shy;` ` sexual, sexually  
-More generally could be defined as "performing the action necessary for reproduction, with or without the intent of reproducing".
-Opinions vary about whether this word is purely used in sexual contexts or could be applied to other, non-sexual relationships.
+`f`&shy;` ` közösülés, szex  
+`i`&shy;`1` közösül (valakivel)  
+`i`&shy;`2` házastársi kapcsolatot létesít (valakivel)  
+`m`&shy;` ` szexuális, szexuálisan
+{ .intentional-alteration }
 
 __uta__ ![uta](pics/uta.png)  
-`f`&shy;` ` mouth, lips  
-`i`&shy;` ` kiss, lick  
-`m`&shy;` ` oral
+`f`&shy;` ` száj, ajak  
+`i`&shy;` ` (meg)nyal, puszil, csókol  
+`m`&shy;` ` orális
 
 __utala__ ![utala](pics/utala.png)  
-`f`&shy;` ` fight, battle, war  
-`i`&shy;` ` battle, challenge, fight  
-`m`&shy;` ` violent, aggressive, fighting
+`f`&shy;` ` harc, csata, háború  
+`i`&shy;` ` harcol,   
+`m`&shy;` ` erőszakos, agresszív, harcias
 
 ### W
 
 __walo__ ![walo](pics/walo.png)  
-`m`&shy;`1` white  
-`m`&shy;`2` light, pale  
-`m`&shy;`3` innocent, virgin
+`m`&shy;`1` fehér  
+`m`&shy;`2` világos, sápadt  
+`m`&shy;`3` ártatlan, szűz
 
 __wan__ ![wan](pics/wan.png)  
-`m`&shy;` ` unique  
-`#`&shy;` ` one
+`m`&shy;` ` egyedi  
+`#`&shy;` ` 1
 
 __waso__ ![waso](pics/waso.png)  
-`f`&shy;`1` volant animal (able to travel in the air by flying, gliding, etc.)  
-`f`&shy;`2` bird  
-`m`&shy;` ` winged (animal), flying (creature)
+`f`&shy;`1` repülésre (vagy egyéb, légi mozgásra) képes élőlény  
+`f`&shy;`2` madár  
+`m`&shy;` ` szárnyas, repülő (állat)
 
 __wawa__ ![wawa](pics/wawa.png)  
-`f`&shy;`1` power, energy  
-`f`&shy;`2` magic  
-`m`&shy;`1` strong, powerful  
-`m`&shy;`2` energetic, intense  
-`m`&shy;`3` confident, sure
+`f`&shy;`1` erő, energia  
+`f`&shy;`2` varázslat, mágia  
+`m`&shy;`1` erős  
+`m`&shy;`2` energikus, intenzív  
+`m`&shy;`3` magabiztos
 
 __weka__ ![weka](pics/weka.png)  
-`i`&shy;`1` make distance (from object); get away from, throw away, remove  
-`i`&shy;`2` ignore  
-`m`&shy;`1` away  
-`m`&shy;`2` ignored
+`i`&shy;`1` eltávolodik; elmegy, kidob, eltávolít  
+`i`&shy;`2` figyelmen kívül hagy  
+`m`&shy;`1` távoli  
+`m`&shy;`2` figyelmen kívül hagyott
 
 __wile__ ![wile](pics/wile.png)  
-`f`&shy;` ` will, hope  
-`f`&shy;`2` urge, need  
-`i`&shy;` ` want, need  
-`s`&shy;` ` want, should, have to, must, need  
-`m`&shy;`1` wanted, desired  
-`m`&shy;`2` necessary, required
+`f`&shy;`1` akarat, remény  
+`f`&shy;`2` szükség, kényszer  
+`i`&shy;` ` akar, kell (valami)  
+`s`&shy;` ` akar, szeretne, muszály, kell  
+`m`&shy;`1` akart, kívánt  
+`m`&shy;`2` szükséges, kötelező
 
 ### Y
 
 __yupekosi__ ![yupekosi](pics/yupekosi.png)  
-`i`&shy;` ` to behave like George Lucas and revise your old creative works and actually make them worse  
+`i`&shy;` ` George Lucas-hoz hasonlóan módosítani a korábbi kreatív munkákon és rontani rajtuk  
 `pu`&shy;` ` wile ike  
-*"Nobody knows how to pronounce the y."*\[sic\] -- jan Sonja
+*"Senki se tudja hogyan kell kiejteni az ipszilont"*\[sic\] -- jan Sonja
