@@ -4,6 +4,17 @@ jaki pona (the "good sh\*t") is a toki pona grammar booklet and dictionary, in t
 
 You can read it on [github pages](https://ae-dschorsaanjo.github.io/jaki-pona/), or read the [English version](./jaki_pona-en.md) and the future [Hungarian version](./jaki_pona-hu.md) directly; the latter options are not recommended since the web version is created using a [Python script](./render.py), and the markdown files are using extended markdown syntax which is not fully compatible with [GFM](https://github.github.com/gfm/).
 
+## sitelen pona leko
+
+It is a pixel variant of sitelen pona that's been drawn specifically for this project. However, it can also be used by itself.
+The following variants are available:
+- [main (black and white)](./docs/pics/sitelen_pona_leko/sitelen-pona-leko.png)
+- [standalone](./docs/pics/sitelen_pona_leko/sitelen-pona-leko-standalone.png)
+- [transparent](./docs/pics/sitelen_pona_leko/sitelen-pona-leko-trans.png)
+- [practice sheet](./docs/pics/sitelen_pona_leko/sitelen-pona-leko-practice-sheet.png)
+
+The font used on these is [Zont 4x5](https://fontstruct.com/fontstructions/show/2419509/zont-4x5), also under CC0.
+
 ## Requirements
 
 Python3 to render the output from the raw files.
