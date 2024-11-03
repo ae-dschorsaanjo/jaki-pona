@@ -10,6 +10,9 @@
         --link-click-fg: var(--color-fg);
         --heading-fg: var(--color-fg);
     }
+    html, body {
+        height: 99%;
+    }
     body {
         line-height: 110%;
         font-size: 11pt;
@@ -110,9 +113,9 @@
     .grammar table {
         break-inside: avoid;
     }
-    .break-me {
+    /* .break-me:not(:last-of-type) {
         page-break-after: always;
-    }
+    } */
     .grammar {
         break-after: always;
     }
