@@ -53,7 +53,7 @@ Although there are no explicit rules against the *'nn'* and *'nm'* clusters (whe
 
 ## Sentence Types and Punctuation
 
-Technically all punctuation marks are optional variants of the *full stop* (`.`) with the exception of the *colon* (`:`) and the *comma* (`,`). Using [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png), no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although *colons* are still used.
+Technically all punctuation marks are optional variants of the *full stop* (`.`) with the exception of the *colon* (`:`) and the *comma* (`,`). Using [sitelen pona](https://github.com/ae-dschorsaanjo/jaki-pona?tab=readme-ov-file#sitelen-pona-leko), no punctuation is used and each sentence is written on its own line. This is also done in chats and other informal settings, although *colons* are still used.
 
 Declarative sentences are the default and should not need further explanation.  
 

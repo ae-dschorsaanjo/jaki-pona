@@ -53,7 +53,7 @@ Bár nincs kimondottan szabály az *'nn'* és *'nm'* ellen (amikor egy szótag `
 
 ## Mondatfajták és Írásjelek
 
-A kettőspont (`:`) és vessző (`,`) kivételevél minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](pics/sitelen_pona_leko/sitelen-pona-leko.png) esetén általában nem használunk írásjeleket, minden egyes mondat egy új sorra kerül. Chaten és egyéb informális környezetben ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk, habár a kettőspontot továbbra is használni szoktuk.
+A kettőspont (`:`) és vessző (`,`) kivételevél minden mondatvégi írásjel egy opcionális variánsa a pontnak (`.`). [sitelen pona](https://github.com/ae-dschorsaanjo/jaki-pona?tab=readme-ov-file#sitelen-pona-leko) esetén általában nem használunk írásjeleket, minden egyes mondat egy új sorra kerül. Chaten és egyéb informális környezetben ezek gyakran kimaradnak és sitelen ponához hasonlóan írunk, habár a kettőspontot továbbra is használni szoktuk.
 
 Kijelentő mondatok a leggyakoribbak és ezeknek nincs különleges tulajdonsága.
 
