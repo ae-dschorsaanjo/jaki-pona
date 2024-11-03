@@ -7,11 +7,13 @@ You can read it on [github pages](https://ae-dschorsaanjo.github.io/jaki-pona/),
 ## sitelen pona leko
 
 It is a pixel variant of sitelen pona that's been drawn specifically for this project. However, it can also be used by itself.
-The following variants are available (these can also be found in the [docs/pics/sitelen_pona_leko/](docs/pics/sitelen_pona_leko/) folder):
+The following variants are available:
 - [main (black and white)](https://raw.githubusercontent.com/ae-dschorsaanjo/jaki-pona/refs/heads/main/docs/pics/sitelen_pona_leko/sitelen-pona-leko.png)
 - [standalone](https://raw.githubusercontent.com/ae-dschorsaanjo/jaki-pona/refs/heads/main/docs/pics/sitelen_pona_leko/sitelen-pona-leko-standalone.png)
 - [transparent](https://raw.githubusercontent.com/ae-dschorsaanjo/jaki-pona/refs/heads/main/docs/pics/sitelen_pona_leko/sitelen-pona-leko-trans.png)
 - [practice sheet](https://raw.githubusercontent.com/ae-dschorsaanjo/jaki-pona/refs/heads/main/docs/pics/sitelen_pona_leko/sitelen-pona-leko-practice-sheet.png)
+
+These can also be found in the [docs/pics/sitelen_pona_leko/](docs/pics/sitelen_pona_leko/) folder, and the [raw aseprite file](res/pics_raw/sitelen-pona-leko.aseprite) is in [res/pics_raw/](res/pics_raw/).
 
 The font used on these is [Zont 4x5](https://fontstruct.com/fontstructions/show/2419509/zont-4x5), also under CC0.
 
