@@ -585,13 +585,19 @@ __pini__ ![pini](pics/pini.png)
 __pipi__ ![pipi](pics/pipi.png)  
 `n`&shy;` ` insect, bug, spider
 
+__\*po__  
+`#`&shy;` ` 4  
+`pu`&shy;` ` tu tu  
+Removed before toki pona became well-known.
+{ .hidden }
+
 __poka__ ![poka](pics/poka.png)  
 `n`&shy;`1` side (of something)  
 `n`&shy;`2` hip  
 `m`&shy;`1` near, by, next to  
 `m`&shy;`2` along with, together with  
 `p`&shy;` ` *(archaic)* along with, at the side of, close to  
-While it is no longer used as a preposition, it used to contrast *kepeken* by *poka* meaning physical (or ideological) closeness, and *kepeken* meaning using/with an instrument or (as) a tool.
+While it is no longer used as a preposition, it used to contrast *kepeken* by *poka* meaning physical or ideological closeness, and *kepeken* meaning using/with an instrument or (as) a tool.
 
 __poki__ ![poki](pics/poki.png)  
 `n`&shy;` ` box, container, bag, bowl  
@@ -603,12 +609,6 @@ __pona__ ![pona](pics/pona.png)
 `m`&shy;` ` good, nice, positive, friendly, useful, simple  
 `i`&shy;` ` great! thanks!
 
-__\*po__  
-`#`&shy;` ` four  
-`pu`&shy;` ` tu tu  
-Removed before toki pona became well-known.
-{ .hidden }
-
 __powe__ ![powe](pics/powe.png)  
 `v`&shy;` ` deceive, pretend, cheat, trick  
 `m`&shy;` ` false, untrue  
@@ -616,9 +616,9 @@ __powe__ ![powe](pics/powe.png)
 It was never added to any official dictionary (before *ku*).
 
 __pu__ ![pu](pics/pu.png)  
-`n`&shy;` ` the _Toki Pona Book_  
-`v`&shy;` ` interacting with the _Toki Pona Book_  
-`m`&shy;` ` according to/as in/by the _Toki Pona Book_
+`n`&shy;` ` the _official Toki Pona book_  
+`v`&shy;` ` interacting with the _official Toki Pona book_  
+`m`&shy;` ` according to/as in/by the _official Toki Pona book_
 
 ### S
 
@@ -638,11 +638,13 @@ __selo__ ![selo](pics/selo.png)
 
 __seme__ ![seme](pics/seme.png)  
 `n`&shy;` ` what? who?  
+`v`&shy;` ` does what?  
 `m`&shy;`1` which? what kind?  
 `m`&shy;`2` how?
 
 __sewi__ ![sewi](pics/sewi.png)  
-`v`&shy;` ` get up, arise, lift, raise up, win  
+`v`&shy;`1` get up, arise, lift, raise up, win  
+`v`&shy;`2` ascend  
 `m`&shy;`1` above, upwards, elevated, superior  
 `m`&shy;`2` divine, sacred, holy, religious, supernatural
 
@@ -713,7 +715,7 @@ __supa__ ![supa](pics/supa.png)
 `n`&shy;`1` horizontal surface  
 `n`&shy;`2` thing to put or rest something on  
 `m`&shy;`1` resting  
-`m`&shy;`2` can be rested on (object)
+`m`&shy;`2` can be rested on
 
 __suwi__ ![suwi](pics/suwi.png)  
 `n`&shy;` ` sweets  
@@ -769,10 +771,12 @@ This word was coined by the community shortly after *pu* was released.
 
 __tu__ ![tu](pics/tu.png)  
 `v`&shy;` ` cut  
-`#`&shy;` ` 2
+`#`&shy;` ` 2  
+`see`&shy;` ` kipisi  
+Only received it's "cut" meaning after *kipisi*'s removal in *pu*.
 
 __\*tuli__  
-`#`&shy;` ` three  
+`#`&shy;` ` 3  
 `pu`&shy;` ` tu wan  
 Removed before toki pona became well-known.
 { .hidden }
@@ -785,7 +789,7 @@ __unpa__ ![unpa](pics/unpa.png)
 `v`&shy;`2` have marital relation with  
 `m`&shy;` ` sexual, sexually  
 More generally could be defined as "performing the action necessary for reproduction, with or without the intent of reproducing".  
-Opinions vary about whether this word is purely used in sexual contexts or could be applied to other, non-sexual relationships.
+Opinions vary about whether this word is purely used for its strictly sexual meaning, or could be applied to other, non-sexual activities and relationships.
 
 __uta__ ![uta](pics/uta.png)  
 `n`&shy;` ` mouth, lips  
@@ -827,7 +831,7 @@ __weka__ ![weka](pics/weka.png)
 `m`&shy;`2` ignored
 
 __wile__ ![wile](pics/wile.png)  
-`n`&shy;` ` will, hope  
+`n`&shy;`1` will, hope  
 `n`&shy;`2` urge, need  
 `v`&shy;` ` want, need  
 `a`&shy;` ` want, should, have to, must, need  
