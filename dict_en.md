@@ -239,7 +239,7 @@ __kili__ ![kili](pics/kili.png)
 `n`&shy;` ` fruit, vegetable, mushroom
 
 __kin__ ![kin](pics/kin.png)  
-`m`&shy;`1` also, too  
+`m`&shy;`1` also, too, again  
 `m`&shy;`2` confirmation, emphasis (not as strong as _a_)  
 `l`&shy;`a` also, and  
 `see`&shy;` ` a

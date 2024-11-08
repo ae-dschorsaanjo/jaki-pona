@@ -239,7 +239,7 @@ __kili__ ![kili](pics/kili.png)
 `f`&shy;` ` gyümölcs, zöldség, gomba
 
 __kin__ ![kin](pics/kin.png)  
-`m`&shy;`1` is  
+`m`&shy;`1` is, megint  
 `m`&shy;`2` megerősítés, hangsúlyozás (gyengébb mint az _a_)  
 `l`&shy;`a` és, továbbá  
 `ld`&shy;` ` a
