@@ -82,7 +82,7 @@ To answer yes-no question, either the *predicate* (with or without subject) is r
 
 The exclamation mark (`!`) is used in *three different ways:*
 
-1. To form imperative ("command") sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` *replaces* `li`.
+1. To form imperative ("command") sentences, in which case, `o` is used in front of the verb and the subject may be ommitted; if it is not, then `o` *replaces* `li` and the sentence may express a wish or desire.
 2. To form interjections, like *"moku pona!"* (good appetite!).
 3. To emphasize a declarative sentence; this way it visually shows verbal emphasis.
 

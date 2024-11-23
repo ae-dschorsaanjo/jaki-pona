@@ -82,7 +82,7 @@ Eldöntendő kérdések esetén az *állítmányt* mondjuk vissza (amit megelőz
 
 A felkiáltójel (`!`) három különböző helyzetben használt:
 
-1. Felszólító mondanok formálására, amikor az `o` szavat használjuk az állítmány előtt és az alany elhagyható; ha az alany jelen van, akkor az `o`-t használjuk a `li` *helyett*;
+1. Felszólító mondatok formálására, amikor az `o` szavat használjuk az állítmány előtt és az alany elhagyható; ha az alany jelen van akkor az `o`-t a `li` *helyett* használjuk, s ekkor a mondat lehet óhajtó is;
 2. Felkiáltó mondatokhoz, például *"moku pona!"* (jó étvágyat);
 3. Kijelentő mondatok (vízuális) hangsúlyozására.
 
