@@ -373,7 +373,7 @@ __lupa__ ![lupa](pics/lupa.png)
 __ma__ ![ma](pics/ma.png)  
 `n`&shy;`1` land, country, place  
 `n`&shy;`2` earth, dry land, outdoor area  
-`m`&shy;`1` terrestial  
+`m`&shy;`1` terrestrial  
 `m`&shy;`2` outside
 
 __\*majuna__ ![majuna](pics/majuna.png)  
