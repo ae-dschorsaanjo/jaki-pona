@@ -594,6 +594,7 @@ Removed before toki pona became well-known.
 __poka__ ![poka](pics/poka.png)  
 `n`&shy;`1` side (of something)  
 `n`&shy;`2` hip  
+`v`&shy;` ` approach, come near  
 `m`&shy;`1` near, by, next to  
 `m`&shy;`2` along with, together with  
 `p`&shy;` ` *(archaic)* along with, at the side of, close to  

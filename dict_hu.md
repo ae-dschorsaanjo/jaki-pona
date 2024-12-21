@@ -594,6 +594,7 @@ Eltávolításra került mielőtt a nyelv szélesebb körben ismertté vált.
 __poka__ ![poka](pics/poka.png)  
 `f`&shy;`1` oldal  
 `f`&shy;`2` csípő  
+`i`&shy;` ` megközelít, közeledik  
 `m`&shy;`1` közel, mellett  
 `m`&shy;`2` valaki oldalán  
 `e`&shy;` ` *(régies)* -val/vel, (valaki vagy valami) oldalán, közel  
