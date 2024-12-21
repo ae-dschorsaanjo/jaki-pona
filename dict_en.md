@@ -715,6 +715,7 @@ __suno__ ![suno](pics/suno.png)
 __supa__ ![supa](pics/supa.png)  
 `n`&shy;`1` horizontal surface  
 `n`&shy;`2` thing to put or rest something on  
+`v`&shy;` ` lie (down), lay (down)  
 `m`&shy;`1` resting  
 `m`&shy;`2` can be rested on
 

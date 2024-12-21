@@ -715,6 +715,7 @@ __suno__ ![suno](pics/suno.png)
 __supa__ ![supa](pics/supa.png)  
 `f`&shy;`1` vízszintes felület  
 `f`&shy;`2` tárgy amire fel lehet tenni valamit vagy pihenni lehet rajta (pl. asztal, polc, ágy)  
+`v`&shy;` ` lefekszik, lefektet  
 `m`&shy;`1` pihenő  
 `m`&shy;`2` pihenésre vagy fekvésre alkalmas felület  
 
