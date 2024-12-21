@@ -814,7 +814,7 @@ __wan__ ![wan](pics/wan.png)
 `#`&shy;` ` 1
 
 __waso__ ![waso](pics/waso.png)  
-`n`&shy;`1` volant animal (able to travel in the air by flying, gliding, etc.)  
+`n`&shy;`1` aerial animal (able to travel in the air by flying, gliding, etc.)  
 `n`&shy;`2` bird  
 `m`&shy;` ` winged (animal), flying (creature)
 
