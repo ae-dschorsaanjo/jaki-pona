@@ -638,7 +638,7 @@ __selo__ ![selo](pics/selo.png)
 `i`&shy;` ` elválaszt
 
 __seme__ ![seme](pics/seme.png)  
-`f`&shy;` ` ki? mi?
+`f`&shy;` ` ki? mi?  
 `i`&shy;` ` mit csinál?  
 `m`&shy;`1` melyik? milyen?  
 `m`&shy;`2` hogyan?
