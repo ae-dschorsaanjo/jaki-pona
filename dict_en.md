@@ -49,10 +49,10 @@ This dictionary contains 146 words (136 common + 10 archaic ones), including the
 
 Numbers following any of these letters mark *alternative* definitions.
 
-**Index:** [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w) [Y](#y)
+**Index:** [A](#en-A) [E](#en-E) [I](#en-I) [J](#en-J) [K](#en-K) [L](#en-L) [M](#en-M) [N](#en-N) [O](#en-O) [P](#en-P) [S](#en-S) [T](#en-T) [U](#en-U) [W](#en-W) [Y](#en-Y)
 { .hidden }
 
-### A
+### A {: #en-A }
 
 __a__ ![a](pics/a.png)  
 `m`&shy;`1` (emotional) emphasis  
@@ -118,7 +118,7 @@ __awen__ ![awen](pics/awen.png)
 `m`&shy;` ` kept, protected (from change), remaining  
 `l`&shy;`a` still
 
-### E
+### E {: #en-E }
 
 __e__ ![e](pics/e.png)   
 `f`&shy;`1` separates the predicate and the object  
@@ -133,7 +133,7 @@ __esun__ ![esun](pics/esun.png)
 `v`&shy;` ` buy, do business  
 `m`&shy;` ` financial, for sale
 
-### I
+### I {: #en-I }
 
 __ijo__ ![ijo](pics/ijo.png)  
 `n`&shy;` ` something, thing, object
@@ -159,7 +159,7 @@ __insa__ ![insa](pics/insa.png)
 `m`&shy;`1` internal  
 `m`&shy;`2` inner, inside, center, between
 
-### J
+### J {: #en-J }
 
 __jaki__ ![jaki](pics/jaki.png)  
 `n`&shy;`1` dirt, filth  
@@ -182,7 +182,7 @@ __jelo__ ![jelo](pics/jelo.png)
 __jo__ ![jo](pics/jo.png)  
 `v`&shy;` ` have, own, carry, contain
 
-### K
+### K {: #en-K }
 
 __kala__ ![kala](pics/kala.png)  
 `n`&shy;`1` aquatic animal  
@@ -282,7 +282,7 @@ __kute__ ![kute](pics/kute.png)
 `n`&shy;` ` ear  
 `v`&shy;` ` hear, listen to
 
-### L
+### L {: #en-L }
 
 __la__ ![la](pics/la.png)  
 `p`&shy;` ` separates the context and the main sentence
@@ -368,7 +368,7 @@ __lupa__ ![lupa](pics/lupa.png)
 `v`&shy;` ` pierce, stab, dig  
 `m`&shy;` ` full of holes, hollow
 
-### M
+### M {: #en-M }
 
 __ma__ ![ma](pics/ma.png)  
 `n`&shy;`1` land, country, place  
@@ -450,7 +450,7 @@ __mute__ ![mute](pics/mute.png)
 `#`&shy;`1` many  
 `#`&shy;`2` 20
 
-### N
+### N {: #en-N }
 
 __namako__ ![namako](pics/namako.png)  
 `n`&shy;` ` addition, bonus, spice (for food)  
@@ -492,7 +492,7 @@ __noka__ ![noka](pics/noka.png)
 `m`&shy;`1` on foot, by foot  
 `m`&shy;`2` lower (part)
 
-### O
+### O {: #en-O }
 
 __o__ ![o](pics/o.png)  
 `f`&shy;` ` marks imperative and vocative
@@ -518,7 +518,7 @@ __open__ ![open](pics/open.png)
 `m`&shy;`1` open, activated  
 `m`&shy;`2` available, ready
 
-### P
+### P {: #en-P }
 
 __pakala__ ![pakala](pics/pakala.png)  
 `n`&shy;`1` damage, injury  
@@ -621,7 +621,7 @@ __pu__ ![pu](pics/pu.png)
 `v`&shy;` ` interacting with the _official Toki Pona book_  
 `m`&shy;` ` according to/as in/by the _official Toki Pona book_
 
-### S
+### S {: #en-S }
 
 __sama__ ![sama](pics/sama.png)  
 `m`&shy;` ` same, similar  
@@ -725,7 +725,7 @@ __suwi__ ![suwi](pics/suwi.png)
 `m`&shy;`2` cute, adorable  
 `m`&shy;`3` innocent
 
-### T
+### T {: #en-T }
 
 __tan__ ![tan](pics/tan.png)  
 `n`&shy;` ` reason, origin point  
@@ -783,7 +783,7 @@ __\*tuli__
 Removed before toki pona became well-known.
 { .hidden }
 
-### U
+### U {: #en-U }
 
 __unpa__ ![unpa](pics/unpa.png)  
 `n`&shy;` ` sex, intercourse  
@@ -803,7 +803,7 @@ __utala__ ![utala](pics/utala.png)
 `v`&shy;` ` battle, challenge, fight  
 `m`&shy;` ` violent, aggressive, fighting
 
-### W
+### W {: #en-W }
 
 __walo__ ![walo](pics/walo.png)  
 `m`&shy;`1` white  
@@ -840,7 +840,7 @@ __wile__ ![wile](pics/wile.png)
 `m`&shy;`1` wanted, desired  
 `m`&shy;`2` necessary, required
 
-### Y
+### Y {: #en-Y }
 
 __yupekosi__ ![yupekosi](pics/yupekosi.png)  
 `v`&shy;` ` to behave like George Lucas and revise your old creative works and actually make them worse  

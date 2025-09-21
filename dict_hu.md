@@ -47,12 +47,12 @@ Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu*
 
 Az ezeket követő számok alternatív (de egyenrangú) definíciókat mutatnak.
 
-**Index:** [A](#a) [E](#e) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [S](#s) [T](#t) [U](#u) [W](#w) [Y](#y)
+**Index:** [A](#hu-A) [E](#hu-E) [I](#hu-I) [J](#hu-J) [K](#hu-K) [L](#hu-L) [M](#hu-M) [N](#hu-N) [O](#hu-O) [P](#hu-P) [S](#hu-S) [T](#hu-T) [U](#hu-U) [W](#hu-W) [Y](#hu-Y)
 { .hidden }
 
 **A szótár még csak részlegesen került lefordításra.**
 
-### A
+### A {: #hu-A }
 
 __a__ ![a](pics/a.png)  
 `m`&shy;`1` hangsúlyozás (érzelmi)  
@@ -118,7 +118,7 @@ __awen__ ![awen](pics/awen.png)
 `m`&shy;` ` megtartott, (változástól) védett, fennmaradt  
 `l`&shy;`a` még mindig, változatlanul
 
-### E
+### E {: #hu-E }
 
 __e__ ![e](pics/e.png)  
 `n`&shy;`1` elválasztja az állítmányt és a tárgyat  
@@ -133,7 +133,7 @@ __esun__ ![esun](pics/esun.png)
 `i`&shy;` ` vesz, üzletel  
 `m`&shy;` ` pénzügyi, eladó
 
-### I
+### I {: #hu-I }
 
 __ijo__ ![ijo](pics/ijo.png)  
 `f`&shy;` ` valami, dolog, tárgy
@@ -159,7 +159,7 @@ __insa__ ![insa](pics/insa.png)
 `m`&shy;`1` belső, belsőleg  
 `m`&shy;`2` belső, benne, közép, között
 
-### J
+### J {: #hu-J }
 
 __jaki__ ![jaki](pics/jaki.png)  
 `f`&shy;` ` mocsok, sár  
@@ -182,7 +182,7 @@ __jelo__ ![jelo](pics/jelo.png)
 __jo__ ![jo](pics/jo.png)  
 `i`&shy;` ` van neki, birtokol, hordoz, tartalmaz
 
-### K
+### K {: #hu-K }
 
 __kala__ ![kala](pics/kala.png)  
 `f`&shy;`1` vízi állat  
@@ -282,7 +282,7 @@ __kute__ ![kute](pics/kute.png)
 `f`&shy;` ` fül  
 `i`&shy;` ` hall, figyel
 
-### L
+### L {: #hu-L }
 
 __la__ ![la](pics/la.png)  
 `e`&shy;` ` elválasztja a kontextust a főmondattól
@@ -368,7 +368,7 @@ __lupa__ ![lupa](pics/lupa.png)
 `i`&shy;` ` átszúr, lyukaszt, ás  
 `m`&shy;` ` lyukas, üreges
 
-### M
+### M {: #hu-M }
 
 __ma__ ![ma](pics/ma.png)  
 `f`&shy;`1` hely, táj, ország  
@@ -450,7 +450,7 @@ __mute__ ![mute](pics/mute.png)
 `#`&shy;`1` (megszámlálhatóan) sok  
 `#`&shy;`2` 20
 
-### N
+### N {: #hu-N }
 
 __namako__ ![namako](pics/namako.png)  
 `f`&shy;` ` kiegészítés, bónusz, fűszer (ételek esetén)  
@@ -492,7 +492,7 @@ __noka__ ![noka](pics/noka.png)
 `m`&shy;`1` lábon, gyalog  
 `m`&shy;`2` alsó rész
 
-### O
+### O {: #hu-O }
 
 __o__ ![o](pics/o.png)  
 `n`&shy;` ` jelöli a felszólító és megszólító módokat
@@ -518,7 +518,7 @@ __open__ ![open](pics/open.png)
 `m`&shy;`1` nyitott, aktivált  
 `m`&shy;`2` elérhető, kész(en álló)
 
-### P
+### P {: #hu-P }
 
 __pakala__ ![pakala](pics/pakala.png)  
 `f`&shy;`1` sérülés, seb  
@@ -621,7 +621,7 @@ __pu__ ![pu](pics/pu.png)
 `i`&shy;` ` interació a _hivatalos Toki Pona könyvvel_  
 `m`&shy;` ` a _hivatalos Toki Pona könyv_ szerint
 
-### S
+### S {: #hu-S }
 
 __sama__ ![sama](pics/sama.png)  
 `m`&shy;` ` ugyan olyan, hasonló  
@@ -725,7 +725,7 @@ __suwi__ ![suwi](pics/suwi.png)
 `m`&shy;`2` cuki, aranyos  
 `m`&shy;`3` ártatlan
 
-### T
+### T {: #hu-T }
 
 __tan__ ![tan](pics/tan.png)  
 `f`&shy;` ` ok, kiinduló pont  
@@ -780,7 +780,7 @@ __\*tuli__
 Eltávolításra került mielőtt a nyelv szélesebb körben ismertté vált.
 { .hidden }
 
-### U
+### U {: #hu-U }
 
 __unpa__ ![unpa](pics/unpa.png)  
 `f`&shy;` ` közösülés, szex  
@@ -799,7 +799,7 @@ __utala__ ![utala](pics/utala.png)
 `i`&shy;` ` harcol,   
 `m`&shy;` ` erőszakos, agresszív, harcias
 
-### W
+### W {: #hu-W }
 
 __walo__ ![walo](pics/walo.png)  
 `m`&shy;`1` fehér  
@@ -836,7 +836,7 @@ __wile__ ![wile](pics/wile.png)
 `m`&shy;`1` akart, kívánt  
 `m`&shy;`2` szükséges, kötelező
 
-### Y
+### Y {: #hu-Y }
 
 __yupekosi__ ![yupekosi](pics/yupekosi.png)  
 `i`&shy;` ` George Lucas-hoz hasonlóan módosítani a korábbi kreatív munkákon és rontani rajtuk  
