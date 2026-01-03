@@ -197,7 +197,7 @@ monsi
 Numbers are used less frequently than in most languages as there are only limited ways to express numbers over 10 and neither pronouns nor nouns are inherently *singular* or *plural*. There are 2 major systems of using numbers, that we will refer to as "short range" and "extended range", as well as a "mid range" which is commonly used (though mostly unrecognized):
 
 | Number  | Short range     | Mid range    | Extended range | Note                                                  |
-| ------- | --------------- | ------------ | -------------- | ----------------------------------------------------- |
+|---------|-----------------|--------------|----------------|-------------------------------------------------------|
 | ala     | 0,&nbsp;none    | 0,&nbsp;none | 0              |                                                       |
 | wan     | 1               | 1            | 1              |                                                       |
 | tu      | 2               | 2            | 2              |                                                       |

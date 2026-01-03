@@ -198,16 +198,16 @@ Megjegyzés: a fentebb adott definíciók más ragozásokkal is érvényesek!
 
 Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a főneveknek nincs számossága (egyes és többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb renszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint van egy egy "középskála" ami gyakran használt, de nem szoktak nevesíteni:
 
-| Szám    | Rövid skála         | Középskála    | Hosszú skála            | Megjegyzés                                                   |
-| ------- | ------------------- | ------------- | ----------------------- | ------------------------------------------------------------ |
-| ala     | 0                   | 0             | 0                       |                                                              |
-| wan     | 1                   | 1             | 1                       |                                                              |
-| tu      | 2                   | 2             | 2                       |                                                              |
-| tuli    |                     |               | 3                       | Régies, a szótárból korán eltávolításra került.              |
-| po      |                     |               | 4                       | Régies, a szótárból korán eltávolításra került.              |
-| luka    |                     | 5             | 5                       |                                                              |
-| mute    | 2+,&nbsp;többesszám | 11+           | 20                      |                                                              |
-| ale/ali | összes       | összes | 100,&nbsp;összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
+| Szám    | Rövid skála         | Középskála | Hosszú skála     | Megjegyzés                                                   |
+|---------|---------------------|------------|------------------|--------------------------------------------------------------|
+| ala     | 0                   | 0          | 0                |                                                              |
+| wan     | 1                   | 1          | 1                |                                                              |
+| tu      | 2                   | 2          | 2                |                                                              |
+| tuli    |                     |            | 3                | Régies, a szótárból korán eltávolításra került.              |
+| po      |                     |            | 4                | Régies, a szótárból korán eltávolításra került.              |
+| luka    |                     | 5          | 5                |                                                              |
+| mute    | 2+,&nbsp;többesszám | 11+        | 20               |                                                              |
+| ale/ali | összes              | összes     | 100,&nbsp;összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
 
 A számok nyelvtanilag *módosítószavak* amik az *utolsó módosító után állanak,* de lehetnek az *első "pi" előtt* is (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)). A többi módosító csoporttal ellentétben ezek előtt sohasem áll *pi*. A rövid skála kivételével azokat a számokat amelyekre nincsenek szavak a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például *luka tu wan* az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és *tu tu* az 4 (2&nbsp;+&nbsp;2).  
 Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`.
