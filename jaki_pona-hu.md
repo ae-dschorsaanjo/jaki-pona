@@ -42,7 +42,7 @@ Az előljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt á
 A tulajdonneveknek követik a toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következőket szokás továbbá betartani, de ezek nem törvényszerűek:
 
 1. A szótagok száma nem változik;
-2. Az *'r'* betű kiejtéstől függően `l`, `w` or `k` lesz (magyar nevek esetén `l`);
+2. Az *'r'* betű kiejtéstől függően `l`, `w` vagy `k` lesz (magyar nevek esetén `l`);
 3. Dentális réshangok (angol *'th'*) `s` vagy `t` lesz;
 4. Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;
 5. Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;
