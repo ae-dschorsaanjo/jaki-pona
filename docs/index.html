@@ -1486,7 +1486,7 @@ Az előljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt á
 <p>A tulajdonneveknek követik a toki pona nyelvtani szabályokat és ezeket <em>módosítószavakként</em> kezeljük. A következőket szokás továbbá betartani, de ezek nem törvényszerűek:</p>
 <ol>
 <li>A szótagok száma nem változik;</li>
-<li>Az <em>'r'</em> betű kiejtéstől függően <code>l</code>, <code>w</code> or <code>k</code> lesz (magyar nevek esetén <code>l</code>);</li>
+<li>Az <em>'r'</em> betű kiejtéstől függően <code>l</code>, <code>w</code> vagy <code>k</code> lesz (magyar nevek esetén <code>l</code>);</li>
 <li>Dentális réshangok (angol <em>'th'</em>) <code>s</code> vagy <code>t</code> lesz;</li>
 <li>Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;</li>
 <li>Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;</li>
@@ -2389,49 +2389,85 @@ Eltávolításra került mielőtt a nyelv szélesebb körben ismertté vált.</p
 </footer>
 
 <script>
-const EN_SEL = document.getElementById("en");
-const HU_SEL = document.getElementById("hu");
-const EN_ID = EN_SEL.id;
-const HU_ID = HU_SEL.id;
-const sel = id => { if (id == HU_ID) return HU_SEL; else return EN_SEL; };
+const EN_ID = "en";
+const HU_ID = "hu";
 const SEL_CLS = "sel";
 const MAIN_PREFIX = "main-";
 const LANG = "lang";
 const SBS_CLS = "sbs";
+const BLOCK = "block";
+const NONE = "none";
+
+class LangSel {
+    #selector;
+    static all = {};
+    get elem() {
+        return this.#selector;
+    }
+    get id() {
+        return this.#selector.id;
+    }
+    constructor(selectorId) {
+        this.#selector = document.getElementById(selectorId);
+        LangSel.all[selectorId] = this;
+    }
+    static elemFromId(id) {
+        return Object.values(LangSel.all).find(sel => sel.id === id).elem;
+    }
+}
+
+const EN = new LangSel(EN_ID);
+const HU = new LangSel(HU_ID);
+
+const PARAMS = new URLSearchParams(window.location.search);
+const URL_LANG = PARAMS.get(LANG);
 
 function setDisplay(target, value) {
     document.getElementById(MAIN_PREFIX + target).style.display = value;
 }
 
 function hideMain(lang) {
-    let [on, off] = lang == EN_ID ? [EN_ID, HU_ID] : [HU_ID, EN_ID];
-    setDisplay(on, 'block');
-    setDisplay(off, 'none');
-    sel(on).classList.add(SEL_CLS);
-    sel(off).classList.remove(SEL_CLS);
+    let [on, off] = lang == EN.id ? [EN.id, HU.id] : [HU.id, EN.id];
+    setDisplay(on, BLOCK);
+    setDisplay(off, NONE);
+    LangSel.elemFromId(on).classList.add(SEL_CLS);
+    LangSel.elemFromId(off).classList.remove(SEL_CLS);
 }
 
-function chooseLanguage(lang, first_call = false) {
+function getCurrentLang() {
+    return localStorage.getItem(LANG) || EN.id;
+}
+
+function setParamLang(lang) {
+    localStorage.setItem(LANG, lang);
+    PARAMS.set(LANG, lang);
+    window.history.replaceState({}, '', `${location.pathname}?${PARAMS}`);
+}
+
+function delParamLang() {
+    PARAMS.delete(LANG);
+    window.history.replaceState({}, '', `${location.pathname}?${PARAMS}`);
+}
+
+function chooseLanguage(lang, firstCall = false) {
     document.body.classList.remove(SBS_CLS);
-    
-    if (first_call) {
-        let storedLang = localStorage.getItem(LANG);
-        if (storedLang) lang = storedLang;
+    if (firstCall) {
+        lang = URL_LANG || getCurrentLang();
     }
     else {
-        if (localStorage.getItem(LANG) == lang) return false;
-        localStorage.setItem(LANG, lang);
+        if (getCurrentLang() == lang) return false;
     }
+    setParamLang(lang);
     hideMain(lang);
     return true;
 }
 
-EN_SEL.addEventListener("click", e => {
-    chooseLanguage(EN_ID);
+EN.elem.addEventListener("click", e => {
+    chooseLanguage(EN.id);
 });
 
-HU_SEL.addEventListener("click", e => {
-    chooseLanguage(HU_ID);
+HU.elem.addEventListener("click", e => {
+    chooseLanguage(HU.id);
 })
 
 document.addEventListener("keydown", (event) => {
@@ -2440,33 +2476,31 @@ document.addEventListener("keydown", (event) => {
             case "a":
             case "e":
                 event.preventDefault();
-                chooseLanguage(EN_ID);
+                chooseLanguage(EN.id);
                 break;
             case "h":
             case "m":
                 event.preventDefault();
-                chooseLanguage(HU_ID);
+                chooseLanguage(HU.id);
                 break;
             case "s":
                 event.preventDefault();
                 const cl = document.body.classList;
                 if (cl.contains(SBS_CLS)) {
-                    chooseLanguage(EN_ID, true);
+                    chooseLanguage(EN.id, true);
                 }
                 else {
                     cl.add(SBS_CLS);
-                    setDisplay(EN_ID, "block");
-                    setDisplay(HU_ID, "block");
+                    setDisplay(EN.id, BLOCK);
+                    setDisplay(HU.id, BLOCK);
                 }
                 break;
         }
     }
 });
 
-chooseLanguage(EN_ID, true);
+chooseLanguage(EN.id, true);
 
-// TODO: update URL based on language selection and be able to
-//       read selected language from URL
 </script>
 
 </body>
