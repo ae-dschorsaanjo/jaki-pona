@@ -4,6 +4,8 @@ const SEL_CLS = "sel";
 const MAIN_PREFIX = "main-";
 const LANG = "lang";
 const SBS_CLS = "sbs";
+const BLOCK = "block";
+const NONE = "none";
 
 class LangSel {
     #selector;
@@ -19,18 +21,15 @@ class LangSel {
         LangSel.all[selectorId] = this;
     }
     static elemFromId(id) {
-        return LangSel.selFromId(id).elem;
-    }
-    static idFromId(id) {
-        return LangSel.selFromId(id).id;
-    }
-    static selFromId(id) {
-        return Object.values(LangSel.all).find(sel => sel.id == id);
+        return Object.values(LangSel.all).find(sel => sel.id === id).elem;
     }
 }
 
 const EN = new LangSel(EN_ID);
 const HU = new LangSel(HU_ID);
+
+const PARAMS = new URLSearchParams(window.location.search);
+const URL_LANG = PARAMS.get(LANG);
 
 function setDisplay(target, value) {
     document.getElementById(MAIN_PREFIX + target).style.display = value;
@@ -38,8 +37,8 @@ function setDisplay(target, value) {
 
 function hideMain(lang) {
     let [on, off] = lang == EN.id ? [EN.id, HU.id] : [HU.id, EN.id];
-    setDisplay(on, 'block');
-    setDisplay(off, 'none');
+    setDisplay(on, BLOCK);
+    setDisplay(off, NONE);
     LangSel.elemFromId(on).classList.add(SEL_CLS);
     LangSel.elemFromId(off).classList.remove(SEL_CLS);
 }
@@ -48,17 +47,26 @@ function getCurrentLang() {
     return localStorage.getItem(LANG) || EN.id;
 }
 
-function chooseLanguage(lang, first_call = false) {
+function setParamLang(lang) {
+    localStorage.setItem(LANG, lang);
+    PARAMS.set(LANG, lang);
+    window.history.replaceState({}, '', `${location.pathname}?${PARAMS}`);
+}
+
+function delParamLang() {
+    PARAMS.delete(LANG);
+    window.history.replaceState({}, '', `${location.pathname}?${PARAMS}`);
+}
+
+function chooseLanguage(lang, firstCall = false) {
     document.body.classList.remove(SBS_CLS);
-    
-    if (first_call) {
-        let storedLang = localStorage.getItem(LANG);
-        if (storedLang) lang = storedLang;
+    if (firstCall) {
+        lang = URL_LANG || getCurrentLang();
     }
     else {
-        if (localStorage.getItem(LANG) == lang) return false;
-        localStorage.setItem(LANG, lang);
+        if (getCurrentLang() == lang) return false;
     }
+    setParamLang(lang);
     hideMain(lang);
     return true;
 }
@@ -92,8 +100,8 @@ document.addEventListener("keydown", (event) => {
                 }
                 else {
                     cl.add(SBS_CLS);
-                    setDisplay(EN.id, "block");
-                    setDisplay(HU.id, "block");
+                    setDisplay(EN.id, BLOCK);
+                    setDisplay(HU.id, BLOCK);
                 }
                 break;
         }
@@ -101,6 +109,3 @@ document.addEventListener("keydown", (event) => {
 });
 
 chooseLanguage(EN.id, true);
-
-// TODO: update URL based on language selection and be able to
-//       read selected language from URL
