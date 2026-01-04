@@ -1,11 +1,11 @@
 ## Szótár
 
-Gyakran csak körülbelüli definíciói vannak, mivel a pontos jelentés az minden esetben a kontextusra (szövegkörnyezetre) épül. Ezen felül a jelentések rugalmasak és a mondaton belüli pozíciójuk határozza meg szófajukat és ezáltal pontosabb jelentésüket. Például *"kipisi"* az eredetileg csak igeként volt meghatározva "vág" jelentéssel, ebből pedig le tudunk származtatni "vágott" (módosítóként), "vágás" (főnévként) jelentéseket is. Ebben a szótárban a legtöbb szóhoz több definíció is fel van sorolva, de ez *nem* jelenti azt, például egy szó főnévi jelentés nélkül ne lehetne használható főnévként a megfelelő szövegkörnyezetben. Kivételt képeznek a *nyelvtani* szavak, melyeknek nincs önálló jelentésük, hanem nyelvtani viszonyokat fejeznek ki.
+Gyakran csak körülbelüli definíciói vannak, mivel a pontos jelentés az minden esetben a kontextusra (szövegkörnyezetre) épül. Ezenfelül a jelentések rugalmasak: a mondaton belüli pozíciójuk határozza meg a szófajukat, s ezáltal a pontosabb jelentésüket. Például a *"kipisi"* az eredetileg csak igeként volt meghatározva "vág" jelentéssel, ebből pedig le tudunk származtatni "vágott" (módosítóként), "vágás" (főnévként) jelentéseket is. Ebben a szótárban a legtöbb szóhoz több definíció is fel van sorolva, de ez *nem* jelenti azt, hogy például egy szó főnévi jelentés nélkül ne lehetne használható főnévként a megfelelő szövegkörnyezetben. Kivételt képeznek a *nyelvtani* szavak, melyeknek nincs önálló jelentésük, hanem nyelvtani viszonyokat fejeznek ki.
 
-Több különböző szótár létezik amelyek körülbelül 118--150 szót tartalmaznak. jan Sonja "hivatalos Toki Pona könyve" (*pu*, 2014) 120/123 szót tartalmazott -- ebből 6 szó páronként össze lett vonva. A "Toki Pona Szótár" (*ku*, 2021, szintén jan Sonjától) két részre volt bontható, egy fő listára ("ku suli") 137 szóval, valamint egy kisebb listára ("ku lili") amely az egyéb, ritkább szavakat tartalmazta amit csak bizonyos kisebb társaságokban használtak és nem mindenhol elfogadottak; a két lista együtt nagyjából 190 szóból áll. Azokat a szavakat amelyeket nem jan Sonja hozott létre *"nimi sin"*-nek (új szónak) nevezzük.
+Több különböző szótár létezik amelyek körülbelül 118--150 szót tartalmaznak. jan Sonja "hivatalos Toki Pona könyve" (*pu*, 2014) 120/123 szót tartalmazott -- ebből hat szó páronként össze lett vonva. A "Toki Pona Szótár" (*ku*, 2021, szintén jan Sonjától, ~190 szó) két részre volt osztható, egy fő listára ("ku suli") 137 szóval, valamint egy kisebb listára ("ku lili") amely az egyéb, ritkább szavakat tartalmazta, amit csak bizonyos kisebb társaságokban használtak és nem mindenhol elfogadottak. Azokat a szavakat amelyeket a közösség hozott létre *"nimi sin"*-nek (új szónak) nevezzük.
 { .hidden }
 
-Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu* szótárának teljes tartalmát, bizonyos pu-t megelőző szavakat (amelyek lecserélésre vagy eltávolításra kerültek), valamint néhány pu után alkotott szót -- ezek mint megtalálhatók a *ku*-ban. Társaságonként és dialektusonként eltérő, hogy pontosan mely szavakat használják aktívan, de általában a legjobb gyakorlat az, ha elsősorban a *pu* szótárában megtalálható szavakat használjuk; a pu-n kívüli szavaknál megtalálható egy `p`&shy;`u`-beli változat is, valamint régi alig használt szavak meg vannak jelölve egy csillaggal (`*`).
+Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu* szótárának teljes tartalmát, bizonyos pu-t megelőző szavakat (amelyek lecserélésre vagy eltávolításra kerültek), valamint néhány pu után alkotott szót -- ezek mind megtalálhatók a *ku*-ban. Társaságonként és dialektusonként eltérő, hogy pontosan mely szavakat használják aktívan, de általában a legjobb gyakorlat az, ha elsősorban a *pu* szótárában megtalálható szavakat használjuk. A pu-n kívüli szavaknál megtalálható egy `p`&shy;`u`-beli változat is, valamint a régi, alig használt szavak meg vannak jelölve egy csillaggal (`*`).
 { .hidden .keep }
 
 ### Rövidítések
@@ -19,7 +19,7 @@ Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu*
 : segédige
 
 `e`
-: előljáró
+: elöljáráró
 
 `m`
 : módosítószó
@@ -481,7 +481,7 @@ __ni__ ![ni](pics/ni.png)
 `f`&shy;` ` ez, az  
 `i`&shy;` ` mutat, utál (valamire)  
 `m`&shy;` ` ez, az  
-`n`&shy;` ` amelyik, hogy (mint egy kötőszó, kizárólag _e_ vagy egy _előljáró_ után)
+`n`&shy;` ` amelyik, hogy (mint egy kötőszó, kizárólag _e_ vagy egy _elöljáráró_ után)
 
 __nimi__ ![nimi](pics/nimi.png)  
 `f`&shy;` ` név, szó
@@ -598,7 +598,7 @@ __poka__ ![poka](pics/poka.png)
 `m`&shy;`1` közel, mellett  
 `m`&shy;`2` valaki oldalán  
 `e`&shy;` ` *(régies)* -val/vel, (valaki vagy valami) oldalán, közel  
-Manapság már nem használatos előljáróként. Korábban a *kepeken*-nel szemben *poka* fizikai vagy ideológiai közelséget jelölt, míg a *kepeken* első sorban eszközhasználatot.
+Manapság már nem használatos elöljáráróként. Korábban a *kepeken*-nel szemben *poka* fizikai vagy ideológiai közelséget jelölt, míg a *kepeken* első sorban eszközhasználatot.
 
 __poki__ ![poki](pics/poki.png)  
 `f`&shy;` ` doboz, konténer, zsák, tál  

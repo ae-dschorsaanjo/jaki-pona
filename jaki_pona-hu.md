@@ -9,7 +9,7 @@ A *jaki pona* ("a jó cucc") egy rövid összefoglalója és szótára a nyelvne
 - [Tulajdonnevek átírása](#tulajdonnevek-atirasa)
 - [Mondatfajták és írásjelek](#mondatfajtak-es-irasjelek)
 - [Tagadás és Módosítószavak](#tagadas-es-modositoszavak)
-- [Előljáró- és Kötőszavak](#eloljaro-es-kotoszavak)
+- [Elöljáró- és Kötőszavak](#eloljaro-es-kotoszavak)
 - [Tér és Idő](#ter-es-ido)
 - [Számok](#szamok)
 - [Emelt Szintű Nyelvtan](#emelt-szintu-nyelvtan)
@@ -22,7 +22,7 @@ A toki pona ábécéje 14 betűből áll (`a`, `e`, `i`, `j`, `k`, `l`, `m`, `n`
 A betűk nagyjából megfelelnek azoknak a hangoknak, amiket azok az [IPA](https://www.ipachart.com)-ban is jelölnek, de némi variancia megengedett.
 
 A mondatokban a szórend SVO (alany-állítmány-tárgy). Az alanyt és állítmányt a `li` szó választja el, kivéve, ha az alany *"mi"* vagy *"sina"* önmagában. Az igéknek nincs ragozása sem ideje. Az állítmányt és tárgyat az `e` választja el. Melléknevek és határozószavak (együttesen *módosítószavak*) a főnevek és igék után állnak.  
-Az előljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt állnak. Ezek közül a leggyakoribbak a `kama` (fog; "jövő idő") és a `wile` (akar, kell).
+Az elöljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt állnak. Ezek közül a leggyakoribbak a `kama` (fog; "jövő idő") és a `wile` (akar, kell).
 
 > mi loje. | Piros vagyok.  
 > ona li loje. | \[Ő] piros.  
@@ -33,18 +33,18 @@ Az előljárókhoz hasonlóan a segéd- vagy előigék az állítmány előtt á
 > ona li wile e tomo tawa. | Szeretne egy autót.  
 > ona li tomo tawa. | Ő egy autó.  
 > ona li tawa tomo tawa. | Az autóhoz mennek.  
-> ona li tawa e tomo tawa. | Mozgatja az autót.  
+> ona li tawa e tomo tawa. | Megtolja (elmozgatja) az autót.  
 > tomo tawa li tawa tomo. | Az autó hazamegy.  
 > mi tomo tawa wile li wile tawa tomo mi. | Egy autó akarok lenni és hazamenni (~haza akarok menni).  
 
 ## Tulajdonnevek Átírása
 
-A tulajdonneveknek követik a toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következőket szokás továbbá betartani, de ezek nem törvényszerűek:
+A tulajdonnevek követik a toki pona nyelvtani szabályokat és ezeket *módosítószavakként* kezeljük. A következőket szokás továbbá betartani, de ezek nem törvényszerűek:
 
 1. A szótagok száma nem változik;
 2. Az *'r'* betű kiejtéstől függően `l`, `w` vagy `k` lesz (magyar nevek esetén `l`);
 3. Dentális réshangok (angol *'th'*) `s` vagy `t` lesz;
-4. Egymás melletti mássalhangzók vagy több szótagra lesznek montva, vagy csak az egyiket tartuk meg;
+4. Egymás melletti mássalhangzók vagy több szótagra lesznek bontva, vagy csak az egyiket tartjuk meg;
 5. Egymás melletti magánhangzók több szótagra bontódnak plusz mássalhangzók hozzáadásával;
 6. Az átírt nevek ideális esetben nem egyeznek meg létező toki pona szavakkal.
 
@@ -95,14 +95,14 @@ A felkiáltójel (`!`) három különböző helyzetben használt:
 > lape pona! | Jó alvást ~ Szép álmokat!
 > moku pona! | Jó étvágyat!
 
-A kettőspont (`:`) akkor használt, amikor egy előljárőszó vagy `e` után `ni` áll, azaz a mondatunk egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt előljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
+A kettőspont (`:`) akkor használt, amikor egy elöljárószó vagy `e` után `ni` áll, azaz a mondatunk egy *összetett mondat*, vagy a mondat *tárgya* az egy teljes, önálló mondat. A leggyakrabban használt elöljárók ilyenkor a `tan` (azért, mert) és `sama` (úgy mint, hasonlóan).
 
 > mi pilin pona tan ni: soweli suwi mi li mu. | Jó kedvem van, mert dorombol a macskám.  
 > jan Se li wile e ni: musi ona li pona tawa jan. | Zé szeretné, ha az embereknek tetszene a zenéje.  
 > ona li sona e tenpo ni: jan ale li tawa kon. | Emlékszik azokra az időkre, amikor mindenki repült.  
 > sina tawa sama ni: jan li wile pakala e sina. | Úgy rohansz, mintha meg akarnának verni.  
 
-A vesszők (`,`) szabadon használhatók az egyes mondatrészeket elkülönítésére; ezek nem befolyásolják a mondat jelentését. Hagyományosan az *előljárók* előtt szokás ezeket használni, esetleg a `la` előtt vagy után.
+A vesszők (`,`) szabadon használhatók az egyes mondatrészek elkülönítésére; ezek nem befolyásolják a mondat jelentését. Hagyományosan az *elöljárók* előtt szokás ezeket használni, esetleg a `la` előtt vagy után.
 
 ## Tagadás és Módosítószavak
 
@@ -126,11 +126,11 @@ Tekintettel a nyelv minimalista létére, a módosítószavak sorrendje közvetl
 > mi lon ala ma Amelica. | Nem vagyok Amerikában \[az Amerika szuperkontinensen].  
 > mi lon ma Mewika ala. | Nem vagyok Amerikában \[az USA-ban].  
 
-## Előljáró- és Kötőszavak
+## Elöljáró- és Kötőszavak
 
-Az előljárókat esetben egy főnévi csoport (ami a főnév és módosítószavak összessége; előljáróval együtt ezeket *előljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 előljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az előljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
+Az elöljárókat esetben egy főnévi csoport (ami a főnév és módosítószavak összessége; elöljáróval együtt ezeket *elöljárói csoportoknak* hívjuk) követi és gyakorlatilag bármely főnévi csoport után állhatnak (pl.&shy;alany,&shy;állítmány) hogy azok jelentését pontosítsa vagy kiegészítse. Összesen 5 elöljáró van a nyelvben, ezek a `kepeken` (-val/vel), `lon` (-ban/ben, -ba/be, -kor), `sama` (mint), `tan` (-ból/ből, -tól/től, mert) és `tawa` (-nak/nek, megy valahova). Amikor ezek a mondat végén állnak, akkor az elöljárői csoport jelentése a teljes mondatra is vonatkozhat, nem csak az (utolsó) tárgyra; ez általában egy *'lon'* kifejezés időbeliség vagy fizikális hely meghatározására.
 
-A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy specifikus szórendet használnak. A következők használhatóak állnak rendelkezésre:
+A kötőszavakat -- a `taso` kivételével --  mindig egy `la` szerkezet részeként használjuk (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)), vagy specifikus szórendet igényelnek. A következők állnak rendelkezésre:
 
 - És
     - Alanyok között `en`;
@@ -155,7 +155,7 @@ A kötőszavak -- a `taso` kivételével --  mindig egy `la` szerkezet részeké
 
 ## Tér és Idő
 
-Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a `lon` előljárót használja és mindkettő használható *kontextusként* `la` szerkezetekben (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)).
+Az idő- és helybeliség kifejezése közel azonos módon történik: első sorban mindkettő a `lon` elöljárót használja és mindkettő használható *kontextusként* `la` szerkezetekben (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)).
 
 Az *idő* kifejezése `tenpo` és azt követő módosítószavakból álló főnévi csoport segítségével történik. A leggyakoribb módosítószavak a `kama` (jövő), `pini` (múlt), `ni` (jelen), `suno` (nap, nappal) és `pimeja` (éjjel); ezek gyakran együtt használtak.
 
@@ -165,7 +165,7 @@ Az *idő* kifejezése `tenpo` és azt követő módosítószavakból álló főn
 > tenpo pini la ona li pali ala. | Eddig \[még] nem dolgozott.  
 > taso tenpo ni la ona li moku. | De most még \[csak] eszik.  
 
-*Helybeliség* kifejezése az időhoz hasonlóan történik, de nem csak egy szó köré épül; gyakokran használt főnevek a `ma` (általános "hely" vagy "kint/külvilág") és a `tomo` (ház, épület vagy "beltér"). Ezen felül a `lon`-on (-ban/ben) kívűl a `tawa` (-ba/be, -hoz/hez/höz) előljáró is gyakran használt. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:
+*Helybeliség* kifejezése az időhöz hasonlóan történik, de nem csak egy szó köré épül; gyakran használt főnevek a `ma` (általános "hely" vagy "kint/külvilág") és a `tomo` (ház, épület vagy "beltér"). Ezen felül a `lon`-on (-ban/ben) kívül a `tawa` (-ba/be, -hoz/hez/höz) elöljáró is gyakran használt. A térbeliséget kifejező szavak (amelyek ez esetben főneveknek minősülnek) a következők lehetnek:
 
 insa
 : belül, belsejében, között
@@ -196,7 +196,7 @@ Megjegyzés: a fentebb adott definíciók más ragozásokkal is érvényesek!
 
 ## Számok
 
-Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a főneveknek nincs számossága (egyes és többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb renszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint van egy egy "középskála" ami gyakran használt, de nem szoktak nevesíteni:
+Számokat ritkábban használunk mint más nyelvekben, mivel a tíznél nagyobb számok kifejezésére korlátozott lehetőségeink vannak és a főneveknek nincs számossága (az egyes és a többes szám nincs megkülönböztetve). Számok kifejezésére két nagyobb rendszer van amiket "rövid" és "hosszú" skálának fogunk nevezni, valamint létezik egy "középskála" amit gyakran használnak, de nem szokás nevesíteni:
 
 | Szám    | Rövid skála         | Középskála | Hosszú skála     | Megjegyzés                                                   |
 |---------|---------------------|------------|------------------|--------------------------------------------------------------|
@@ -209,8 +209,8 @@ Számokat ritkábban használunk mint más nyelvekben, mivel 10-nél nagyobb sz�
 | mute    | 2+,&nbsp;többesszám | 11+        | 20               |                                                              |
 | ale/ali | összes              | összes     | 100,&nbsp;összes | Továbbá "mindegyik", "megszámlálhatatlan", "kivétel nélkül". |
 
-A számok nyelvtanilag *módosítószavak* amik az *utolsó módosító után állanak,* de lehetnek az *első "pi" előtt* is (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)). A többi módosító csoporttal ellentétben ezek előtt sohasem áll *pi*. A rövid skála kivételével azokat a számokat amelyekre nincsenek szavak a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például *luka tu wan* az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és *tu tu* az 4 (2&nbsp;+&nbsp;2).  
-Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`.
+A számok nyelvtanilag *módosítószavak*, amik az *utolsó módosító után állnak,* de lehetnek az *első "pi" előtt* is (lásd [Emelt Szintű Nyelvtan](#emelt-szintű-nyelvtan)). A többi módosító csoporttal ellentétben ezek előtt sohasem áll *pi*. A rövid skála kivételével azokat a számokat, amelyekre nincsenek szavak, a meglévők összeadásával fejezzük ki, csökkenő sorrendben. Például *luka tu wan* az 8 (5&nbsp;+&nbsp;2&nbsp;+&nbsp;1) és *tu tu* az 4 (2&nbsp;+&nbsp;2).  
+Sorszámnevek ugyanúgy működnek mint a számok, de azokat megelőzi egy `nanpa`.
 
 > soweli suwi tu wan | Három macska  
 > soweli suwi tuli | Három macska  
@@ -218,9 +218,9 @@ Sorszámnevek ugyan úgy működnek mint a számok, de azt megelőzi egy `nanpa`
 
 ## Emelt Szintű Nyelvtan
 
-Módosítószavakat a `pi` segítségével tudunk csoportosítani és módosítószó csoportokat formálni (ezeknél a módosítói csoport első szavát módosítják az azt követők). Például *"jan pona suli mute"* az "nagy barátok", de *"jan pona pi suli mute"* az "nagyon nagy barát".  
-Amikor *Térbeliséget kifejező szavakat* használunk *előljárói csoportokban,* akkor egy *"pi"*-t szokás használni a térbeliséget kifejező szó után ha azt több mint egy szó követi.  
-A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden egyéb módosító után állnak.* Ha a birtokos az több mint egy szóval van kifejezve vagy nem egyértelmű, hogy az egy birtokos (és nem egy módosító), akkor *pi*-t rakunk a birtokos elé -- az utóbbi eset régies szóhasználatnak minősül.
+Módosítószavakat a `pi` segítségével tudunk csoportosítani és módosítócsoportokat formálni (ezeknél a módosítói csoport első szavát módosítják az azt követők). Például *"jan pona suli mute"* az "nagy barátok" vagy "sok nagy barát", de *"jan pona pi suli mute"* az "nagyon nagy barát".  
+Amikor *térbeliséget kifejező szavakat* használunk *elöljárói csoportokban,* akkor egy *"pi"*-t szokás használni a térbeliséget kifejező szó után, ha azt több mint egy szó követi.  
+A *birtokosok* kifejezésére főnévi csoportokat használunk, amelyek *minden egyéb módosító után állnak.* Ha a birtokos több mint egy szóval van kifejezve, vagy az nem egyértelmű, hogy az egy birtokos (és nem egy módosító), akkor *pi*-t rakunk a birtokos elé -- az utóbbi eset régies szóhasználatnak minősül.
 
 > soweli suwi mi | a\[z én] macskám  
 > soweli suwi tu wan mi | a három macskám  
@@ -228,8 +228,8 @@ A *birtokosok* kifejezésére főnévi csoportokat használunk amelyek *minden e
 > soweli suwi jan | humanoid macska VAGY az ember macskája  
 > soweli suwi pi jan | az ember macskája  
 
-A `la` szó arra használt, hogy az egész mondatra ható kontextust (vagy *feltételt*) elkülönítse a *fő mondattól*. Az utóbbi az egy hétköznapi mondat, a kontextus pedig gyakorlatilag bármilyen (általában főnévi) csoport lehet, de akár egy teljes mondat is; leggyakrabban ez egy mondat feltétel kifejezésére (ha, amikor), vagy egy főnévi, esetleg előljárói csoport tér- vagy időbeliség kifejezésére.  
-Előljárói csoportokat *"la"* szerkezetben kontextusként is használhatunk, ilyenkor annak a jelentése egyértelműen a teljes mondatra vonatkozik. Ebben az esetben maga az előljáró akár el is hagyható.
+A `la` szó azt a célt szolgálja, hogy az egész mondatra ható kontextust (vagy *feltételt*) elkülönítse a *főmondattól*. Az utóbbi egy hétköznapi mondat, a kontextus pedig gyakorlatilag bármilyen (általában főnévi) csoport lehet, de akár egy teljes mondat is; leggyakrabban ez egy mondat a feltétel kifejezésére (*ha*, *amikor*), vagy egy főnévi, esetleg elöljárói csoport tér- vagy időbeliség kifejezésére.  
+Elöljárói csoportokat a *"la"* szerkezetben kontextusként is használhatunk, ilyenkor annak a jelentése egyértelműen a teljes mondatra vonatkozik. Ebben az esetben maga az elöljáró akár el is hagyható.
 
 > tenpo kama la mi pali mute. | Többet fogok dolgozni.  
 > sina lon tomo la suno sewi li ken ala lukin e sina. | A Nap-isten nem tud megfigyelni mikor négy fal között vagy.  
