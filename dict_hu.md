@@ -36,7 +36,7 @@ Ez a szótár 146 (136 gyakori és 10 régi) szavat tartalmaz, beleértve a *pu*
 `k`
 : kötőszó
 
-`l`&shy;`a`
+`la`
 : *la* előtti jelentés
 
 `pu`
@@ -82,7 +82,7 @@ __ale/ali__ ![ale/ali](pics/ale.png)
 `m`&shy;` ` minden, mindegyik, megszámlálhatatlan  
 `#`&shy;`1` minden, megszámlálhatatlanul sok  
 `#`&shy;`2` 100  
-`l`&shy;`a` ennek ellenére, ígyis-úgyis, minden esetben  
+`la`&shy;` `ennek ellenére, ígyis-úgyis, minden esetben  
 A nyelv megalkotásakor csak az _ale_ létezett, az _ali_ alak 2002-ben lett hozzáadva, mert az _ale_ túlságosan hasonló volt az _ala_-hoz beszéd közben.
 
 __anpa__ ![anpa](pics/anpa.png)  
@@ -97,11 +97,11 @@ __ante__ ![ante](pics/ante.png)
 `i`&shy;` ` megváltoztat, változik, átalakít, átalakul  
 `m`&shy;`1` más milyen, megváltozott, átalakult  
 `m`&shy;`2` egyéb  
-`l`&shy;`a` vagy, különben
+`la`&shy;` `vagy, különben
 
 __anu__ ![anu](pics/anu.png)  
 `n`&shy;` ` vagy  
-`l`&shy;`a` vagy
+`la`&shy;` `vagy
 
 __apeja__ ![apeja](pics/apeja.png)  
 `f`&shy;` ` depresszió, (érzelmi) erőszak, szánalom, szégyen, becstelenség  
@@ -116,7 +116,7 @@ __awen__ ![awen](pics/awen.png)
 `i`&shy;`2` változatlanul hagy  
 `s`&shy;` ` még (ige)-ik  
 `m`&shy;` ` megtartott, (változástól) védett, fennmaradt  
-`l`&shy;`a` még mindig, változatlanul
+`la`&shy;` `még mindig, változatlanul
 
 ### E {: #hu-E }
 
@@ -126,7 +126,7 @@ __e__ ![e](pics/e.png)
 
 __en__ ![en](pics/en.png)  
 `n`&shy;` ` és (alanyok között)  
-`l`&shy;`a` és, továbbá
+`la`&shy;` `és, továbbá
 
 __esun__ ![esun](pics/esun.png)  
 `f`&shy;` ` üzlet  
@@ -143,7 +143,7 @@ __ike__ ![ike](pics/ike.png)
 `i`&shy;` ` tönkretesz, elront  
 `m`&shy;`1` rossz, negatív, hibás, korrupt, gonosz  
 `m`&shy;`2` összetett, komplex  
-`l`&shy;`a` sajnos
+`la`&shy;` `sajnos
 
 __\*iki/ipi__
 `pu`&shy;` ` ona  
@@ -241,7 +241,7 @@ __kili__ ![kili](pics/kili.png)
 __kin__ ![kin](pics/kin.png)  
 `m`&shy;`1` is, megint  
 `m`&shy;`2` megerősítés, hangsúlyozás (gyengébb mint az _a_)  
-`l`&shy;`a` és, továbbá  
+`la`&shy;` `és, továbbá  
 `ld`&shy;` ` a
 
 __kipisi__ ![kipisi](pics/kipisi.png)  
@@ -347,7 +347,7 @@ __lon__ ![lon](pics/lon.png)
 `m`&shy;` ` létező, valódi, tényleges, igaz  
 `e`&shy;` ` -ban/ben, -on/en/ön, -kor  
 `!`&shy;` ` valóban, így igaz  
-`l`&shy;`a ` valóban, igazából
+`la`&shy;` ` valóban, igazából
 
 __luka__ ![luka](pics/luka.png)  
 `f`&shy;` ` felső vagy elülső végtag (kéz, kar)  
@@ -455,7 +455,7 @@ __mute__ ![mute](pics/mute.png)
 __namako__ ![namako](pics/namako.png)  
 `f`&shy;` ` kiegészítés, bónusz, fűszer (ételek esetén)  
 `m`&shy;` ` extra, további  
-`l`&shy;`a` továbbá  
+`la`&shy;` `továbbá  
 `ld`&shy;` ` sin  
 A *kipisi*-vel és *monsutával* együtt lett megalkotva 2010-ben. A *pu*-ban összevonásra került a *sin*-nel.
 
@@ -626,7 +626,7 @@ __pu__ ![pu](pics/pu.png)
 __sama__ ![sama](pics/sama.png)  
 `m`&shy;` ` ugyan olyan, hasonló  
 `n`&shy;` ` ugyan az mint, egyenlő (valamivel)), hasonló (valamihez), olyan mint  
-`l`&shy;`a ` hasonlósan
+`la ` hasonlósan
 
 __seli__ ![seli](pics/seli.png)  
 `f`&shy;` ` tűz, hő, kémiai reakció  

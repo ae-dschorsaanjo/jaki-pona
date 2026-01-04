@@ -38,7 +38,7 @@ This dictionary contains 146 words (136 common + 10 archaic ones), including the
 `c`
 : conjunction
 
-`l`&shy;`a`
+`la`
 : meanings of the word if it stands alone before _la_
 
 `pu`
@@ -82,7 +82,7 @@ __ale/ali__ ![ale/ali](pics/ale.png)
 `m`&shy;` ` all, each, every, countless  
 `#`&shy;`1` all, countless amount  
 `#`&shy;`2` 100  
-`l`&shy;`a` all told, nevertheless, despite everything, either way  
+`la`&shy;` `all told, nevertheless, despite everything, either way  
 _ale_ was the original, while _ali_ was added in 2002 to avoid ambiguity with _ala_ in speech.
 
 __anpa__ ![anpa](pics/anpa.png)  
@@ -97,11 +97,11 @@ __ante__ ![ante](pics/ante.png)
 `v`&shy;` ` alter, change, convert, transform  
 `m`&shy;`1` different, altered, changed  
 `m`&shy;`2` other  
-`l`&shy;`a` or, otherwise
+`la`&shy;` `or, otherwise
 
 __anu__ ![anu](pics/anu.png)  
 `f`&shy;` ` or  
-`l`&shy;`a`  or
+`la`&shy;` ` or
 
 __apeja__ ![apeja](pics/apeja.png)  
 `n`&shy;` ` depression, abuse, shame, dishonor  
@@ -116,7 +116,7 @@ __awen__ ![awen](pics/awen.png)
 `v`&shy;`2` keep something unchanged  
 `a`&shy;` ` keep  
 `m`&shy;` ` kept, protected (from change), remaining  
-`l`&shy;`a` still
+`la`&shy;` `still
 
 ### E {: #en-E }
 
@@ -126,7 +126,7 @@ __e__ ![e](pics/e.png)
 
 __en__ ![en](pics/en.png)  
 `f`&shy;` ` and (between subject)  
-`l`&shy;`a` and, moreover
+`la`&shy;` `and, moreover
 
 __esun__ ![esun](pics/esun.png)  
 `n`&shy;` ` business  
@@ -143,7 +143,7 @@ __ike__ ![ike](pics/ike.png)
 `v`&shy;` ` ruin, spoil  
 `m`&shy;` ` bad, negative, wrong, corrupted, evil  
 `m`&shy;` ` non-trivial, complex  
-`l`&shy;`a` sadly
+`la`&shy;` `sadly
 
 __\*iki/ipi__  
 `pu`&shy;` ` ona  
@@ -241,7 +241,7 @@ __kili__ ![kili](pics/kili.png)
 __kin__ ![kin](pics/kin.png)  
 `m`&shy;`1` also, too, again  
 `m`&shy;`2` confirmation, emphasis (not as strong as _a_)  
-`l`&shy;`a` also, and  
+`la`&shy;` `also, and  
 `see`&shy;` ` a
 
 __kipisi__ ![kipisi](pics/kipisi.png)  
@@ -347,7 +347,7 @@ __lon__ ![lon](pics/lon.png)
 `m`&shy;` ` existing, real, factual, true  
 `p`&shy;` ` located at, at the time of  
 `i`&shy;` ` indeed, that's right  
-`l`&shy;`a ` actually, truly, in reality
+`la`&shy;` ` actually, truly, in reality
 
 __luka__ ![luka](pics/luka.png)  
 `n`&shy;` ` upper or front limb (hand, arm)  
@@ -455,7 +455,7 @@ __mute__ ![mute](pics/mute.png)
 __namako__ ![namako](pics/namako.png)  
 `n`&shy;` ` addition, bonus, spice (for food)  
 `m`&shy;` ` extra, additional  
-`l`&shy;`a` additionally, furthermore  
+`la`&shy;` `additionally, furthermore  
 `see`&shy;` ` sin  
 Added along with _kipisi_ and _monsuta_ in 2010. In _pu_, it was merged with _sin_.
 
@@ -626,7 +626,7 @@ __pu__ ![pu](pics/pu.png)
 __sama__ ![sama](pics/sama.png)  
 `m`&shy;` ` same, similar  
 `f`&shy;` ` same as, equal to, like, akin to  
-`l`&shy;`a ` similarly, like
+`la ` similarly, like
 
 __seli__ ![seli](pics/seli.png)  
 `n`&shy;` ` fire, heat, chemical reaction  
